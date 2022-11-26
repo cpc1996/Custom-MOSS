@@ -1,0 +1,68 @@
+Alyssa		TTGiang
+Brandon		Cong673
+David		VietAnh
+James		Cong672
+Kelly		DucAnh
+Michael		HongAnh
+Nancy		VanMinh
+Robert		PTGiang
+Ronald		Doanh
+Russell		DHiep
+Wayne		DucMinh
+William		Nghia
+
+
+Pair: William and Robert
+the data of customtest 7 checked by run2: url not found
+similarity score: 58.11
+number of common lines: 38
+
+
+Pair: Michael and Ronald
+the data of customtest 7 checked by run2: url not found
+similarity score: 66.84
+number of common lines: 31
+
+
+Pair: Brandon and Ronald
+the data of customtest 7 checked by run2: url not found
+similarity score: 87.39
+number of common lines: 20
+
+
+Pair: Brandon and Russell
+the data of customtest 7 checked by run2: url not found
+similarity score: 66.54
+number of common lines: 46
+
+
+Pair: Brandon and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 92.88
+number of common lines: 23
+
+
+Pair: Ronald and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 90.21
+number of common lines: 19
+
+
+Pair: Wayne and Nancy
+the data of customtest 7 checked by run2: url not found
+similarity score: 60.16
+number of common lines: 13
+
+
+Pair: David and Kelly
+the data of customtest 7 checked by run2: url not found
+similarity score: 76.14
+number of common lines: 18
+
+
+Pair: Alyssa and Robert
+the data of customtest 7 checked by run2: url not found
+similarity score: 52.87
+number of common lines: 27
+
+

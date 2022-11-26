@@ -1,0 +1,243 @@
+Dũng		Nguyễn Công Dũng - 20002111
+Hau		Phung_Phuc_Hau_20002123
+Hiếu		Hoàng Hữu Hiếu_20002125
+Huy		Nguyễn Quang Huy-20002133
+HảiPhong		Hồ Hải Phong 20002149
+Khang		Trần Quốc Khang 20002138
+Kiên		Nguyễn Đình Trung Kiên-20002141
+Minh		Tran ANh Minh 20002144
+MinhTuan		Do_Minh_Tuan_20002175
+Nam		Đỗ Phương Nam-20002145
+Quang		Nguyễn Đình Quang - 20002155
+Sơn		Khuất Đăng Sơn - 20002159
+Thành		Bùi Ngọc Thành - 20002165
+ThếPhong		Nguyễn Thế Phong 20002150
+TiếnAnh		Phạm Tiến Anh-20002106
+Trung		Nguyễn Mạnh Trung - 20002171
+Trưởng		Nguyễn Trọng Trưởng - 20002172
+Tuấn		Nguyễn ANh Tuấn_20002176
+TuấnAnh		Nguyễn Xuân Tuấn Anh - 20002105
+Tài		Phạm Xuân Tài - 20002161
+Vương		Nguyễn Triệu Vương - 20002182
+danh		nguyen truong danh 20002110
+hai		nguyen dinh hai 20002122
+hùng		Nguyễn văn hùng - 20002130
+đức		trần quốc đức 20002117
+
+
+Pair: Vương and Tài
+data: url not found
+similarity score: 50.2
+number of common lines: 10
+
+
+Pair: Vương and Tuấn
+data: url not found
+similarity score: 88.76
+number of common lines: 46
+
+
+Pair: Vương and Hau
+data: url not found
+similarity score: 71.31
+number of common lines: 9
+
+
+Pair: HảiPhong and hai
+data: url not found
+similarity score: 86.09
+number of common lines: 22
+
+
+Pair: HảiPhong and Dũng
+data: url not found
+similarity score: 52.54
+number of common lines: 6
+
+
+Pair: TuấnAnh and Tài
+data: url not found
+similarity score: 50.8
+number of common lines: 8
+
+
+Pair: TuấnAnh and Minh
+data: url not found
+similarity score: 55.83
+number of common lines: 20
+
+
+Pair: TuấnAnh and Hau
+data: url not found
+similarity score: 51.11
+number of common lines: 12
+
+
+Pair: TuấnAnh and MinhTuan
+data: url not found
+similarity score: 55.28
+number of common lines: 33
+
+
+Pair: Huy and đức
+data: url not found
+similarity score: 75.0
+number of common lines: 16
+
+
+Pair: hùng and Trung
+data: url not found
+similarity score: 50.27
+number of common lines: 8
+
+
+Pair: Quang and danh
+data: url not found
+similarity score: 72.06
+number of common lines: 6
+
+
+Pair: Quang and Trung
+data: url not found
+similarity score: 63.28
+number of common lines: 5
+
+
+Pair: Quang and Minh
+data: url not found
+similarity score: 50.27
+number of common lines: 7
+
+
+Pair: Tài and Thành
+data: url not found
+similarity score: 57.55
+number of common lines: 4
+
+
+Pair: Tài and Minh
+data: url not found
+similarity score: 53.81
+number of common lines: 9
+
+
+Pair: Tài and Hau
+data: url not found
+similarity score: 55.52
+number of common lines: 11
+
+
+Pair: Trưởng and Khang
+data: url not found
+similarity score: 73.46
+number of common lines: 11
+
+
+Pair: Trưởng and Sơn
+data: url not found
+similarity score: 66.53
+number of common lines: 17
+
+
+Pair: Trưởng and TiếnAnh
+data: url not found
+similarity score: 58.54
+number of common lines: 6
+
+
+Pair: Khang and Sơn
+data: url not found
+similarity score: 92.74
+number of common lines: 7
+
+
+Pair: Kiên and Thành
+data: url not found
+similarity score: 94.7
+number of common lines: 8
+
+
+Pair: Kiên and MinhTuan
+data: url not found
+similarity score: 57.74
+number of common lines: 22
+
+
+Pair: Thành and Minh
+data: url not found
+similarity score: 54.45
+number of common lines: 11
+
+
+Pair: Thành and ThếPhong
+data: url not found
+similarity score: 54.28
+number of common lines: 3
+
+
+Pair: Thành and MinhTuan
+data: url not found
+similarity score: 67.9
+number of common lines: 17
+
+
+Pair: TiếnAnh and ThếPhong
+data: url not found
+similarity score: 51.86
+number of common lines: 9
+
+
+Pair: TiếnAnh and Nam
+data: url not found
+similarity score: 58.04
+number of common lines: 8
+
+
+Pair: danh and Trung
+data: url not found
+similarity score: 53.37
+number of common lines: 11
+
+
+Pair: Tuấn and Hau
+data: url not found
+similarity score: 55.37
+number of common lines: 11
+
+
+Pair: Minh and ThếPhong
+data: url not found
+similarity score: 67.2
+number of common lines: 6
+
+
+Pair: Minh and Hau
+data: url not found
+similarity score: 54.38
+number of common lines: 9
+
+
+Pair: Minh and MinhTuan
+data: url not found
+similarity score: 66.34
+number of common lines: 24
+
+
+Pair: Hiếu and ThếPhong
+data: url not found
+similarity score: 75.06
+number of common lines: 6
+
+
+Pair: ThếPhong and Hau
+data: url not found
+similarity score: 50.84
+number of common lines: 9
+
+
+Pair: Hau and MinhTuan
+data: url not found
+similarity score: 64.96
+number of common lines: 13
+
+

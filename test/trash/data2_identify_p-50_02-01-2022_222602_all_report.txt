@@ -1,0 +1,344 @@
+AnhTuấn		Nguyễn ANh Tuấn_20002176
+Cuong		Tran Thien Cuong
+DinhTu		Chu Pham Dinh Tu
+Duong		Dao Anh Duong
+Hau		Phung_Phuc_Hau_20002123
+HoangAn		Pham Hoang An
+Huy		Nguyễn Quang Huy-20002133
+HảiPhong		Hồ Hải Phong 20002149
+HữuHiếu		Hoàng Hữu Hiếu_20002125
+KhaVy		Dinh Kha Vy
+Khang		Trần Quốc Khang 20002138
+KimPhuong		Tran Kim Phuong
+Long		Nguyen Thanh Long
+MTuan		Do_Minh_Tuan_20002175
+Minh		Tran ANh Minh 20002144
+MạnhTrung		Nguyễn Mạnh Trung - 20002171
+Quang		Nguyễn Đình Quang - 20002155
+Quyen		Luyen Thi Quyen
+Son		Nguyen Trong Son
+Sơn		Khuất Đăng Sơn - 20002159
+Thach		Le Hong Thach
+ThanhPhong		Tran Thanh Phong
+Thành		Bùi Ngọc Thành - 20002165
+ThếPhong		Nguyễn Thế Phong 20002150
+TiếnAnh		Phạm Tiến Anh-20002106
+TrungKiên		Nguyễn Đình Trung Kiên-20002141
+Trưởng		Nguyễn Trọng Trưởng - 20002172
+Tung		Nguyen Nhat Tung
+TuấnAnh		Nguyễn Xuân Tuấn Anh - 20002105
+Tài		Phạm Xuân Tài - 20002161
+Vu		Dam Van Vu
+Vương		Nguyễn Triệu Vương - 20002182
+danh		nguyen truong danh 20002110
+dinhhai		nguyen dinh hai 20002122
+hùng		Nguyễn văn hùng - 20002130
+đức		trần quốc đức 20002117
+
+
+Pair: Vương and Thach
+the data of customtest 6 checked by run2: url not found
+similarity score: 65.64
+number of common lines: 20
+
+
+Pair: Vương and AnhTuấn
+the data of customtest 6 checked by run2: url not found
+similarity score: 88.76
+number of common lines: 61
+
+
+Pair: Vương and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.31
+number of common lines: 25
+
+
+Pair: HảiPhong and dinhhai
+the data of customtest 6 checked by run2: url not found
+similarity score: 86.09
+number of common lines: 27
+
+
+Pair: HảiPhong and DinhTu
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.52
+number of common lines: 17
+
+
+Pair: HảiPhong and HoangAn
+the data of customtest 6 checked by run2: url not found
+similarity score: 87.1
+number of common lines: 18
+
+
+Pair: TuấnAnh and Tung
+the data of customtest 6 checked by run2: url not found
+similarity score: 37.86
+number of common lines: 48
+
+
+Pair: TuấnAnh and Tài
+the data of customtest 6 checked by run2: url not found
+similarity score: 35.7
+number of common lines: 44
+
+
+Pair: Huy and đức
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.0
+number of common lines: 17
+
+
+Pair: Huy and KhaVy
+the data of customtest 6 checked by run2: url not found
+similarity score: 85.71
+number of common lines: 17
+
+
+Pair: Huy and Long
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.43
+number of common lines: 10
+
+
+Pair: Huy and Quyen
+the data of customtest 6 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 17
+
+
+Pair: đức and KhaVy
+the data of customtest 6 checked by run2: url not found
+similarity score: 83.33
+number of common lines: 17
+
+
+Pair: đức and Long
+the data of customtest 6 checked by run2: url not found
+similarity score: 66.07
+number of common lines: 8
+
+
+Pair: đức and Quyen
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.0
+number of common lines: 17
+
+
+Pair: hùng and KimPhuong
+the data of customtest 6 checked by run2: url not found
+similarity score: 43.47
+number of common lines: 43
+
+
+Pair: hùng and DinhTu
+the data of customtest 6 checked by run2: url not found
+similarity score: 45.09
+number of common lines: 41
+
+
+Pair: hùng and Duong
+the data of customtest 6 checked by run2: url not found
+similarity score: 84.66
+number of common lines: 47
+
+
+Pair: Quang and danh
+the data of customtest 6 checked by run2: url not found
+similarity score: 57.88
+number of common lines: 26
+
+
+Pair: Quang and MạnhTrung
+the data of customtest 6 checked by run2: url not found
+similarity score: 55.97
+number of common lines: 21
+
+
+Pair: Tung and Tài
+the data of customtest 6 checked by run2: url not found
+similarity score: 39.52
+number of common lines: 49
+
+
+Pair: Tung and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 44.95
+number of common lines: 44
+
+
+Pair: Tài and Thành
+the data of customtest 6 checked by run2: url not found
+similarity score: 57.55
+number of common lines: 17
+
+
+Pair: Tài and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 46.01
+number of common lines: 49
+
+
+Pair: ThanhPhong and Long
+the data of customtest 6 checked by run2: url not found
+similarity score: 61.84
+number of common lines: 7
+
+
+Pair: KimPhuong and Duong
+the data of customtest 6 checked by run2: url not found
+similarity score: 40.87
+number of common lines: 40
+
+
+Pair: Trưởng and Khang
+the data of customtest 6 checked by run2: url not found
+similarity score: 73.46
+number of common lines: 17
+
+
+Pair: Trưởng and Sơn
+the data of customtest 6 checked by run2: url not found
+similarity score: 66.53
+number of common lines: 20
+
+
+Pair: KhaVy and Long
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.43
+number of common lines: 10
+
+
+Pair: KhaVy and Quyen
+the data of customtest 6 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 52
+
+
+Pair: Khang and Sơn
+the data of customtest 6 checked by run2: url not found
+similarity score: 92.74
+number of common lines: 22
+
+
+Pair: Vu and TrungKiên
+the data of customtest 6 checked by run2: url not found
+similarity score: 81.44
+number of common lines: 13
+
+
+Pair: TrungKiên and Thành
+the data of customtest 6 checked by run2: url not found
+similarity score: 94.7
+number of common lines: 41
+
+
+Pair: TrungKiên and MTuan
+the data of customtest 6 checked by run2: url not found
+similarity score: 57.74
+number of common lines: 18
+
+
+Pair: Thành and Minh
+the data of customtest 6 checked by run2: url not found
+similarity score: 54.45
+number of common lines: 16
+
+
+Pair: Thành and MTuan
+the data of customtest 6 checked by run2: url not found
+similarity score: 58.72
+number of common lines: 22
+
+
+Pair: Thach and HoangAn
+the data of customtest 6 checked by run2: url not found
+similarity score: 40.04
+number of common lines: 37
+
+
+Pair: Thach and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 78.27
+number of common lines: 25
+
+
+Pair: Cuong and Duong
+the data of customtest 6 checked by run2: url not found
+similarity score: 46.41
+number of common lines: 30
+
+
+Pair: DinhTu and HoangAn
+the data of customtest 6 checked by run2: url not found
+similarity score: 65.89
+number of common lines: 16
+
+
+Pair: DinhTu and HữuHiếu
+the data of customtest 6 checked by run2: url not found
+similarity score: 90.86
+number of common lines: 38
+
+
+Pair: Son and TiếnAnh
+the data of customtest 6 checked by run2: url not found
+similarity score: 56.07
+number of common lines: 23
+
+
+Pair: TiếnAnh and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 43.06
+number of common lines: 30
+
+
+Pair: danh and MạnhTrung
+the data of customtest 6 checked by run2: url not found
+similarity score: 53.37
+number of common lines: 25
+
+
+Pair: Long and Quyen
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.43
+number of common lines: 10
+
+
+Pair: Minh and ThếPhong
+the data of customtest 6 checked by run2: url not found
+similarity score: 61.52
+number of common lines: 29
+
+
+Pair: Minh and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 42.79
+number of common lines: 33
+
+
+Pair: Minh and MTuan
+the data of customtest 6 checked by run2: url not found
+similarity score: 60.3
+number of common lines: 25
+
+
+Pair: HữuHiếu and ThếPhong
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.06
+number of common lines: 9
+
+
+Pair: ThếPhong and Hau
+the data of customtest 6 checked by run2: url not found
+similarity score: 46.0
+number of common lines: 41
+
+
+Pair: Hau and MTuan
+the data of customtest 6 checked by run2: url not found
+similarity score: 59.55
+number of common lines: 61
+
+

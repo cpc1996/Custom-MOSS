@@ -1,0 +1,32 @@
+--------------------------------------------------------------------
+Hoang (A0)           MTuan (A1)          DucMinh (A2)
+Hong (A0)            Trang (A1)          Luan (A2)
+VThanh (A0)                              Thao (A2)
+HTuan (A0)                               TTuan (A2)
+QHuy (A0)                                TThuy (A2)
+                                         Muoi (A2)
+                                         DTan (A2)
+--------------------------------------------------------------------
+Nghia (A3)           MTan (A4)           Thinh (A5)
+Nga (A3)             DoMinh (A4)
+NTan (A3)            DThanh (A4)
+Nam (A3)             BCCong (A4)
+MQuan (A3)           Phi (A4)
+                     TNgoc (A4)
+                     LCCong (A4)
+--------------------------------------------------------------------
+Thom (A6)            Duong (A7)          Dung (A8)
+VietAnh (A6)         HongAnh (A7)        Thang (A8)
+DucAnh (A6)          Cong673 (A7)        Dong (A8)
+                     Doanh (A7)          SHiep (A8)
+                     Bang (A7)           TTGiang (A8)
+                     Cong672 (A7)        BThuy (A8)
+                     Quat (A7)           PTGiang (A8)
+                     NNgoc (A7)
+--------------------------------------------------------------------
+THuy (A9)
+DHiep (A9)
+Hao (A9)
+DuyAnh (A9)
+Nhuan (A9)
+--------------------------------------------------------------------

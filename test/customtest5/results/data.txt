@@ -1,0 +1,466 @@
+data
+Nguyễn Triệu Vương - 20002182	22.44	Hồ Hải Phong 20002149	22.44	14
+Nguyễn Triệu Vương - 20002182	42.77	Nguyễn Xuân Tuấn Anh - 20002105	42.77	26
+Nguyễn Triệu Vương - 20002182	29.51	Nguyễn Quang Huy-20002133	29.51	9
+Nguyễn Triệu Vương - 20002182	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyễn Triệu Vương - 20002182	16.46	nguyen dinh hai 20002122	16.46	13
+Nguyễn Triệu Vương - 20002182	33.55	trần quốc đức 20002117	33.55	9
+Nguyễn Triệu Vương - 20002182	22.69	Nguyễn Công Dũng - 20002111	22.69	14
+Nguyễn Triệu Vương - 20002182	31.36	Nguyễn văn hùng - 20002130	31.36	6
+Nguyễn Triệu Vương - 20002182	21.58	Nguyễn Đình Quang - 20002155	21.58	7
+Nguyễn Triệu Vương - 20002182	50.20	Phạm Xuân Tài - 20002161	50.20	10
+Nguyễn Triệu Vương - 20002182	29.25	Nguyễn Trọng Trưởng - 20002172	29.25	13
+Nguyễn Triệu Vương - 20002182	24.45	Trần Quốc Khang 20002138	24.45	11
+Nguyễn Triệu Vương - 20002182	28.44	Nguyễn Đình Trung Kiên-20002141	28.44	10
+Nguyễn Triệu Vương - 20002182	29.45	Bùi Ngọc Thành - 20002165	29.45	8
+Nguyễn Triệu Vương - 20002182	22.97	Khuất Đăng Sơn - 20002159	22.97	12
+Nguyễn Triệu Vương - 20002182	35.12	Nguyễn Bá Kiên 20002140	35.12	8
+Nguyễn Triệu Vương - 20002182	33.24	Phạm Tiến Anh-20002106	33.24	7
+Nguyễn Triệu Vương - 20002182	22.99	nguyen truong danh 20002110	22.99	12
+Nguyễn Triệu Vương - 20002182	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Triệu Vương - 20002182	19.92	Nguyễn Mạnh Trung - 20002171	19.92	12
+Nguyễn Triệu Vương - 20002182	88.76	Nguyễn ANh Tuấn_20002176	88.76	46
+Nguyễn Triệu Vương - 20002182	43.21	Tran ANh Minh 20002144	43.21	20
+Nguyễn Triệu Vương - 20002182	21.39	Hoàng Hữu Hiếu_20002125	21.39	8
+Nguyễn Triệu Vương - 20002182	21.92	Nguyễn Thế Phong 20002150	21.92	8
+Nguyễn Triệu Vương - 20002182	71.31	Phung_Phuc_Hau_20002123	71.31	9
+Nguyễn Triệu Vương - 20002182	27.85	Đỗ Phương Nam-20002145	27.85	6
+Nguyễn Triệu Vương - 20002182	41.19	Do_Minh_Tuan_20002175	41.19	20
+Nguyễn Triệu Vương - 20002182	26.85	Dương Đức Thịnh-20002166	26.85	9
+Nguyễn Triệu Vương - 20002182	22.97	Le_Sy_Van_20002178	22.97	9
+Nguyễn Triệu Vương - 20002182	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Hồ Hải Phong 20002149	30.73	Nguyễn Xuân Tuấn Anh - 20002105	30.73	15
+Hồ Hải Phong 20002149	20.05	Nguyễn Quang Huy-20002133	20.05	10
+Hồ Hải Phong 20002149	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Hồ Hải Phong 20002149	86.09	nguyen dinh hai 20002122	86.09	22
+Hồ Hải Phong 20002149	27.63	trần quốc đức 20002117	27.63	8
+Hồ Hải Phong 20002149	52.54	Nguyễn Công Dũng - 20002111	52.54	6
+Hồ Hải Phong 20002149	43.80	Nguyễn văn hùng - 20002130	43.80	7
+Hồ Hải Phong 20002149	23.13	Nguyễn Đình Quang - 20002155	23.13	10
+Hồ Hải Phong 20002149	27.66	Phạm Xuân Tài - 20002161	27.66	13
+Hồ Hải Phong 20002149	32.04	Nguyễn Trọng Trưởng - 20002172	32.04	7
+Hồ Hải Phong 20002149	26.74	Trần Quốc Khang 20002138	26.74	7
+Hồ Hải Phong 20002149	29.37	Nguyễn Đình Trung Kiên-20002141	29.37	6
+Hồ Hải Phong 20002149	26.19	Bùi Ngọc Thành - 20002165	26.19	7
+Hồ Hải Phong 20002149	27.18	Khuất Đăng Sơn - 20002159	27.18	9
+Hồ Hải Phong 20002149	43.02	Nguyễn Bá Kiên 20002140	43.02	7
+Hồ Hải Phong 20002149	40.11	Phạm Tiến Anh-20002106	40.11	7
+Hồ Hải Phong 20002149	30.37	nguyen truong danh 20002110	30.37	6
+Hồ Hải Phong 20002149	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Hồ Hải Phong 20002149	24.67	Nguyễn Mạnh Trung - 20002171	24.67	9
+Hồ Hải Phong 20002149	40.32	Nguyễn ANh Tuấn_20002176	40.32	18
+Hồ Hải Phong 20002149	27.13	Tran ANh Minh 20002144	27.13	10
+Hồ Hải Phong 20002149	14.34	Hoàng Hữu Hiếu_20002125	14.34	6
+Hồ Hải Phong 20002149	25.44	Nguyễn Thế Phong 20002150	25.44	6
+Hồ Hải Phong 20002149	26.19	Phung_Phuc_Hau_20002123	26.19	11
+Hồ Hải Phong 20002149	18.27	Đỗ Phương Nam-20002145	18.27	6
+Hồ Hải Phong 20002149	26.42	Do_Minh_Tuan_20002175	26.42	15
+Hồ Hải Phong 20002149	26.94	Dương Đức Thịnh-20002166	26.94	6
+Hồ Hải Phong 20002149	28.75	Le_Sy_Van_20002178	28.75	6
+Hồ Hải Phong 20002149	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Xuân Tuấn Anh - 20002105	36.76	Nguyễn Quang Huy-20002133	36.76	8
+Nguyễn Xuân Tuấn Anh - 20002105	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyễn Xuân Tuấn Anh - 20002105	25.68	nguyen dinh hai 20002122	25.68	14
+Nguyễn Xuân Tuấn Anh - 20002105	33.26	trần quốc đức 20002117	33.26	8
+Nguyễn Xuân Tuấn Anh - 20002105	21.42	Nguyễn Công Dũng - 20002111	21.42	15
+Nguyễn Xuân Tuấn Anh - 20002105	33.23	Nguyễn văn hùng - 20002130	33.23	8
+Nguyễn Xuân Tuấn Anh - 20002105	19.51	Nguyễn Đình Quang - 20002155	19.51	7
+Nguyễn Xuân Tuấn Anh - 20002105	50.80	Phạm Xuân Tài - 20002161	50.80	8
+Nguyễn Xuân Tuấn Anh - 20002105	28.20	Nguyễn Trọng Trưởng - 20002172	28.20	9
+Nguyễn Xuân Tuấn Anh - 20002105	25.37	Trần Quốc Khang 20002138	25.37	13
+Nguyễn Xuân Tuấn Anh - 20002105	48.91	Nguyễn Đình Trung Kiên-20002141	48.91	23
+Nguyễn Xuân Tuấn Anh - 20002105	41.92	Bùi Ngọc Thành - 20002165	41.92	19
+Nguyễn Xuân Tuấn Anh - 20002105	21.76	Khuất Đăng Sơn - 20002159	21.76	11
+Nguyễn Xuân Tuấn Anh - 20002105	41.92	Nguyễn Bá Kiên 20002140	41.92	7
+Nguyễn Xuân Tuấn Anh - 20002105	41.61	Phạm Tiến Anh-20002106	41.61	6
+Nguyễn Xuân Tuấn Anh - 20002105	26.17	nguyen truong danh 20002110	26.17	11
+Nguyễn Xuân Tuấn Anh - 20002105	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Xuân Tuấn Anh - 20002105	24.38	Nguyễn Mạnh Trung - 20002171	24.38	12
+Nguyễn Xuân Tuấn Anh - 20002105	38.33	Nguyễn ANh Tuấn_20002176	38.33	31
+Nguyễn Xuân Tuấn Anh - 20002105	55.83	Tran ANh Minh 20002144	55.83	20
+Nguyễn Xuân Tuấn Anh - 20002105	19.44	Hoàng Hữu Hiếu_20002125	19.44	10
+Nguyễn Xuân Tuấn Anh - 20002105	29.26	Nguyễn Thế Phong 20002150	29.26	6
+Nguyễn Xuân Tuấn Anh - 20002105	51.11	Phung_Phuc_Hau_20002123	51.11	12
+Nguyễn Xuân Tuấn Anh - 20002105	23.04	Đỗ Phương Nam-20002145	23.04	6
+Nguyễn Xuân Tuấn Anh - 20002105	55.28	Do_Minh_Tuan_20002175	55.28	33
+Nguyễn Xuân Tuấn Anh - 20002105	26.38	Dương Đức Thịnh-20002166	26.38	8
+Nguyễn Xuân Tuấn Anh - 20002105	25.71	Le_Sy_Van_20002178	25.71	10
+Nguyễn Xuân Tuấn Anh - 20002105	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Quang Huy-20002133	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyễn Quang Huy-20002133	18.04	nguyen dinh hai 20002122	18.04	9
+Nguyễn Quang Huy-20002133	75.00	trần quốc đức 20002117	75.00	16
+Nguyễn Quang Huy-20002133	37.65	Nguyễn Công Dũng - 20002111	37.65	12
+Nguyễn Quang Huy-20002133	26.29	Nguyễn văn hùng - 20002130	26.29	7
+Nguyễn Quang Huy-20002133	37.32	Nguyễn Đình Quang - 20002155	37.32	8
+Nguyễn Quang Huy-20002133	36.40	Phạm Xuân Tài - 20002161	36.40	8
+Nguyễn Quang Huy-20002133	42.58	Nguyễn Trọng Trưởng - 20002172	42.58	9
+Nguyễn Quang Huy-20002133	36.31	Trần Quốc Khang 20002138	36.31	7
+Nguyễn Quang Huy-20002133	25.09	Nguyễn Đình Trung Kiên-20002141	25.09	10
+Nguyễn Quang Huy-20002133	24.19	Bùi Ngọc Thành - 20002165	24.19	2
+Nguyễn Quang Huy-20002133	35.71	Khuất Đăng Sơn - 20002159	35.71	10
+Nguyễn Quang Huy-20002133	32.65	Nguyễn Bá Kiên 20002140	32.65	5
+Nguyễn Quang Huy-20002133	38.74	Phạm Tiến Anh-20002106	38.74	7
+Nguyễn Quang Huy-20002133	33.07	nguyen truong danh 20002110	33.07	12
+Nguyễn Quang Huy-20002133	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Quang Huy-20002133	41.06	Nguyễn Mạnh Trung - 20002171	41.06	10
+Nguyễn Quang Huy-20002133	31.67	Nguyễn ANh Tuấn_20002176	31.67	12
+Nguyễn Quang Huy-20002133	46.94	Tran ANh Minh 20002144	46.94	11
+Nguyễn Quang Huy-20002133	29.98	Hoàng Hữu Hiếu_20002125	29.98	10
+Nguyễn Quang Huy-20002133	33.15	Nguyễn Thế Phong 20002150	33.15	7
+Nguyễn Quang Huy-20002133	39.77	Phung_Phuc_Hau_20002123	39.77	8
+Nguyễn Quang Huy-20002133	23.63	Đỗ Phương Nam-20002145	23.63	6
+Nguyễn Quang Huy-20002133	46.59	Do_Minh_Tuan_20002175	46.59	12
+Nguyễn Quang Huy-20002133	23.01	Dương Đức Thịnh-20002166	23.01	6
+Nguyễn Quang Huy-20002133	24.05	Le_Sy_Van_20002178	24.05	8
+Nguyễn Quang Huy-20002133	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	nguyen dinh hai 20002122	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	trần quốc đức 20002117	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Công Dũng - 20002111	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn văn hùng - 20002130	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Đình Quang - 20002155	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Phạm Xuân Tài - 20002161	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Trọng Trưởng - 20002172	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Trần Quốc Khang 20002138	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Đình Trung Kiên-20002141	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Bùi Ngọc Thành - 20002165	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Khuất Đăng Sơn - 20002159	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Bá Kiên 20002140	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Phạm Tiến Anh-20002106	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	nguyen truong danh 20002110	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Mạnh Trung - 20002171	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn ANh Tuấn_20002176	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Tran ANh Minh 20002144	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Hoàng Hữu Hiếu_20002125	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Thế Phong 20002150	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Phung_Phuc_Hau_20002123	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Đỗ Phương Nam-20002145	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Do_Minh_Tuan_20002175	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Dương Đức Thịnh-20002166	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Le_Sy_Van_20002178	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+nguyen dinh hai 20002122	18.80	trần quốc đức 20002117	18.80	8
+nguyen dinh hai 20002122	24.11	Nguyễn Công Dũng - 20002111	24.11	11
+nguyen dinh hai 20002122	40.10	Nguyễn văn hùng - 20002130	40.10	7
+nguyen dinh hai 20002122	19.76	Nguyễn Đình Quang - 20002155	19.76	5
+nguyen dinh hai 20002122	35.37	Phạm Xuân Tài - 20002161	35.37	10
+nguyen dinh hai 20002122	24.96	Nguyễn Trọng Trưởng - 20002172	24.96	5
+nguyen dinh hai 20002122	15.85	Trần Quốc Khang 20002138	15.85	5
+nguyen dinh hai 20002122	26.42	Nguyễn Đình Trung Kiên-20002141	26.42	5
+nguyen dinh hai 20002122	24.55	Bùi Ngọc Thành - 20002165	24.55	8
+nguyen dinh hai 20002122	17.41	Khuất Đăng Sơn - 20002159	17.41	6
+nguyen dinh hai 20002122	36.82	Nguyễn Bá Kiên 20002140	36.82	8
+nguyen dinh hai 20002122	36.07	Phạm Tiến Anh-20002106	36.07	7
+nguyen dinh hai 20002122	21.44	nguyen truong danh 20002110	21.44	6
+nguyen dinh hai 20002122	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+nguyen dinh hai 20002122	35.57	Nguyễn Mạnh Trung - 20002171	35.57	8
+nguyen dinh hai 20002122	25.36	Nguyễn ANh Tuấn_20002176	25.36	16
+nguyen dinh hai 20002122	23.56	Tran ANh Minh 20002144	23.56	11
+nguyen dinh hai 20002122	16.43	Hoàng Hữu Hiếu_20002125	16.43	7
+nguyen dinh hai 20002122	25.69	Nguyễn Thế Phong 20002150	25.69	7
+nguyen dinh hai 20002122	24.55	Phung_Phuc_Hau_20002123	24.55	11
+nguyen dinh hai 20002122	18.96	Đỗ Phương Nam-20002145	18.96	6
+nguyen dinh hai 20002122	26.37	Do_Minh_Tuan_20002175	26.37	13
+nguyen dinh hai 20002122	22.57	Dương Đức Thịnh-20002166	22.57	6
+nguyen dinh hai 20002122	22.75	Le_Sy_Van_20002178	22.75	3
+nguyen dinh hai 20002122	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+trần quốc đức 20002117	29.77	Nguyễn Công Dũng - 20002111	29.77	11
+trần quốc đức 20002117	22.71	Nguyễn văn hùng - 20002130	22.71	7
+trần quốc đức 20002117	32.12	Nguyễn Đình Quang - 20002155	32.12	7
+trần quốc đức 20002117	32.74	Phạm Xuân Tài - 20002161	32.74	8
+trần quốc đức 20002117	37.82	Nguyễn Trọng Trưởng - 20002172	37.82	9
+trần quốc đức 20002117	30.36	Trần Quốc Khang 20002138	30.36	7
+trần quốc đức 20002117	30.74	Nguyễn Đình Trung Kiên-20002141	30.74	9
+trần quốc đức 20002117	30.85	Bùi Ngọc Thành - 20002165	30.85	2
+trần quốc đức 20002117	29.76	Khuất Đăng Sơn - 20002159	29.76	10
+trần quốc đức 20002117	40.01	Nguyễn Bá Kiên 20002140	40.01	5
+trần quốc đức 20002117	33.38	Phạm Tiến Anh-20002106	33.38	7
+trần quốc đức 20002117	33.63	nguyen truong danh 20002110	33.63	11
+trần quốc đức 20002117	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+trần quốc đức 20002117	37.01	Nguyễn Mạnh Trung - 20002171	37.01	8
+trần quốc đức 20002117	31.99	Nguyễn ANh Tuấn_20002176	31.99	11
+trần quốc đức 20002117	44.17	Tran ANh Minh 20002144	44.17	11
+trần quốc đức 20002117	26.20	Hoàng Hữu Hiếu_20002125	26.20	10
+trần quốc đức 20002117	36.11	Nguyễn Thế Phong 20002150	36.11	6
+trần quốc đức 20002117	37.30	Phung_Phuc_Hau_20002123	37.30	8
+trần quốc đức 20002117	32.04	Đỗ Phương Nam-20002145	32.04	6
+trần quốc đức 20002117	40.14	Do_Minh_Tuan_20002175	40.14	10
+trần quốc đức 20002117	25.75	Dương Đức Thịnh-20002166	25.75	6
+trần quốc đức 20002117	26.39	Le_Sy_Van_20002178	26.39	8
+trần quốc đức 20002117	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Công Dũng - 20002111	21.28	Nguyễn văn hùng - 20002130	21.28	7
+Nguyễn Công Dũng - 20002111	31.11	Nguyễn Đình Quang - 20002155	31.11	6
+Nguyễn Công Dũng - 20002111	25.83	Phạm Xuân Tài - 20002161	25.83	6
+Nguyễn Công Dũng - 20002111	35.48	Nguyễn Trọng Trưởng - 20002172	35.48	12
+Nguyễn Công Dũng - 20002111	27.13	Trần Quốc Khang 20002138	27.13	10
+Nguyễn Công Dũng - 20002111	23.17	Nguyễn Đình Trung Kiên-20002141	23.17	10
+Nguyễn Công Dũng - 20002111	23.22	Bùi Ngọc Thành - 20002165	23.22	7
+Nguyễn Công Dũng - 20002111	36.89	Khuất Đăng Sơn - 20002159	36.89	14
+Nguyễn Công Dũng - 20002111	34.74	Nguyễn Bá Kiên 20002140	34.74	6
+Nguyễn Công Dũng - 20002111	26.68	Phạm Tiến Anh-20002106	26.68	6
+Nguyễn Công Dũng - 20002111	38.01	nguyen truong danh 20002110	38.01	12
+Nguyễn Công Dũng - 20002111	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Công Dũng - 20002111	28.72	Nguyễn Mạnh Trung - 20002171	28.72	12
+Nguyễn Công Dũng - 20002111	30.68	Nguyễn ANh Tuấn_20002176	30.68	19
+Nguyễn Công Dũng - 20002111	36.44	Tran ANh Minh 20002144	36.44	16
+Nguyễn Công Dũng - 20002111	18.25	Hoàng Hữu Hiếu_20002125	18.25	9
+Nguyễn Công Dũng - 20002111	21.87	Nguyễn Thế Phong 20002150	21.87	6
+Nguyễn Công Dũng - 20002111	21.73	Phung_Phuc_Hau_20002123	21.73	6
+Nguyễn Công Dũng - 20002111	28.22	Đỗ Phương Nam-20002145	28.22	6
+Nguyễn Công Dũng - 20002111	26.41	Do_Minh_Tuan_20002175	26.41	20
+Nguyễn Công Dũng - 20002111	22.10	Dương Đức Thịnh-20002166	22.10	5
+Nguyễn Công Dũng - 20002111	20.42	Le_Sy_Van_20002178	20.42	8
+Nguyễn Công Dũng - 20002111	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn văn hùng - 20002130	23.46	Nguyễn Đình Quang - 20002155	23.46	5
+Nguyễn văn hùng - 20002130	33.55	Phạm Xuân Tài - 20002161	33.55	8
+Nguyễn văn hùng - 20002130	39.53	Nguyễn Trọng Trưởng - 20002172	39.53	6
+Nguyễn văn hùng - 20002130	25.76	Trần Quốc Khang 20002138	25.76	8
+Nguyễn văn hùng - 20002130	23.28	Nguyễn Đình Trung Kiên-20002141	23.28	4
+Nguyễn văn hùng - 20002130	28.34	Bùi Ngọc Thành - 20002165	28.34	2
+Nguyễn văn hùng - 20002130	27.00	Khuất Đăng Sơn - 20002159	27.00	6
+Nguyễn văn hùng - 20002130	26.45	Nguyễn Bá Kiên 20002140	26.45	6
+Nguyễn văn hùng - 20002130	48.19	Phạm Tiến Anh-20002106	48.19	9
+Nguyễn văn hùng - 20002130	30.50	nguyen truong danh 20002110	30.50	10
+Nguyễn văn hùng - 20002130	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn văn hùng - 20002130	50.27	Nguyễn Mạnh Trung - 20002171	50.27	8
+Nguyễn văn hùng - 20002130	29.00	Nguyễn ANh Tuấn_20002176	29.00	6
+Nguyễn văn hùng - 20002130	25.59	Tran ANh Minh 20002144	25.59	6
+Nguyễn văn hùng - 20002130	27.43	Hoàng Hữu Hiếu_20002125	27.43	6
+Nguyễn văn hùng - 20002130	23.46	Nguyễn Thế Phong 20002150	23.46	8
+Nguyễn văn hùng - 20002130	36.51	Phung_Phuc_Hau_20002123	36.51	7
+Nguyễn văn hùng - 20002130	36.75	Đỗ Phương Nam-20002145	36.75	8
+Nguyễn văn hùng - 20002130	40.82	Do_Minh_Tuan_20002175	40.82	8
+Nguyễn văn hùng - 20002130	28.00	Dương Đức Thịnh-20002166	28.00	9
+Nguyễn văn hùng - 20002130	23.76	Le_Sy_Van_20002178	23.76	5
+Nguyễn văn hùng - 20002130	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Đình Quang - 20002155	27.88	Phạm Xuân Tài - 20002161	27.88	5
+Nguyễn Đình Quang - 20002155	38.63	Nguyễn Trọng Trưởng - 20002172	38.63	8
+Nguyễn Đình Quang - 20002155	38.56	Trần Quốc Khang 20002138	38.56	7
+Nguyễn Đình Quang - 20002155	27.36	Nguyễn Đình Trung Kiên-20002141	27.36	9
+Nguyễn Đình Quang - 20002155	23.54	Bùi Ngọc Thành - 20002165	23.54	6
+Nguyễn Đình Quang - 20002155	25.42	Khuất Đăng Sơn - 20002159	25.42	8
+Nguyễn Đình Quang - 20002155	37.64	Nguyễn Bá Kiên 20002140	37.64	6
+Nguyễn Đình Quang - 20002155	42.53	Phạm Tiến Anh-20002106	42.53	5
+Nguyễn Đình Quang - 20002155	72.06	nguyen truong danh 20002110	72.06	6
+Nguyễn Đình Quang - 20002155	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Đình Quang - 20002155	63.28	Nguyễn Mạnh Trung - 20002171	63.28	5
+Nguyễn Đình Quang - 20002155	20.68	Nguyễn ANh Tuấn_20002176	20.68	7
+Nguyễn Đình Quang - 20002155	50.27	Tran ANh Minh 20002144	50.27	7
+Nguyễn Đình Quang - 20002155	36.35	Hoàng Hữu Hiếu_20002125	36.35	6
+Nguyễn Đình Quang - 20002155	38.52	Nguyễn Thế Phong 20002150	38.52	5
+Nguyễn Đình Quang - 20002155	34.50	Phung_Phuc_Hau_20002123	34.50	5
+Nguyễn Đình Quang - 20002155	38.28	Đỗ Phương Nam-20002145	38.28	5
+Nguyễn Đình Quang - 20002155	21.28	Do_Minh_Tuan_20002175	21.28	10
+Nguyễn Đình Quang - 20002155	31.01	Dương Đức Thịnh-20002166	31.01	7
+Nguyễn Đình Quang - 20002155	36.56	Le_Sy_Van_20002178	36.56	6
+Nguyễn Đình Quang - 20002155	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Phạm Xuân Tài - 20002161	29.41	Nguyễn Trọng Trưởng - 20002172	29.41	6
+Phạm Xuân Tài - 20002161	20.10	Trần Quốc Khang 20002138	20.10	8
+Phạm Xuân Tài - 20002161	44.92	Nguyễn Đình Trung Kiên-20002141	44.92	8
+Phạm Xuân Tài - 20002161	57.55	Bùi Ngọc Thành - 20002165	57.55	4
+Phạm Xuân Tài - 20002161	27.76	Khuất Đăng Sơn - 20002159	27.76	6
+Phạm Xuân Tài - 20002161	34.48	Nguyễn Bá Kiên 20002140	34.48	11
+Phạm Xuân Tài - 20002161	37.39	Phạm Tiến Anh-20002106	37.39	8
+Phạm Xuân Tài - 20002161	31.85	nguyen truong danh 20002110	31.85	11
+Phạm Xuân Tài - 20002161	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Phạm Xuân Tài - 20002161	21.25	Nguyễn Mạnh Trung - 20002171	21.25	9
+Phạm Xuân Tài - 20002161	49.81	Nguyễn ANh Tuấn_20002176	49.81	11
+Phạm Xuân Tài - 20002161	53.81	Tran ANh Minh 20002144	53.81	9
+Phạm Xuân Tài - 20002161	27.27	Hoàng Hữu Hiếu_20002125	27.27	8
+Phạm Xuân Tài - 20002161	31.02	Nguyễn Thế Phong 20002150	31.02	11
+Phạm Xuân Tài - 20002161	55.52	Phung_Phuc_Hau_20002123	55.52	11
+Phạm Xuân Tài - 20002161	40.35	Đỗ Phương Nam-20002145	40.35	9
+Phạm Xuân Tài - 20002161	49.84	Do_Minh_Tuan_20002175	49.84	11
+Phạm Xuân Tài - 20002161	31.28	Dương Đức Thịnh-20002166	31.28	7
+Phạm Xuân Tài - 20002161	27.35	Le_Sy_Van_20002178	27.35	8
+Phạm Xuân Tài - 20002161	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Trọng Trưởng - 20002172	73.46	Trần Quốc Khang 20002138	73.46	11
+Nguyễn Trọng Trưởng - 20002172	32.62	Nguyễn Đình Trung Kiên-20002141	32.62	9
+Nguyễn Trọng Trưởng - 20002172	30.80	Bùi Ngọc Thành - 20002165	30.80	5
+Nguyễn Trọng Trưởng - 20002172	66.53	Khuất Đăng Sơn - 20002159	66.53	17
+Nguyễn Trọng Trưởng - 20002172	30.43	Nguyễn Bá Kiên 20002140	30.43	4
+Nguyễn Trọng Trưởng - 20002172	58.54	Phạm Tiến Anh-20002106	58.54	6
+Nguyễn Trọng Trưởng - 20002172	42.54	nguyen truong danh 20002110	42.54	11
+Nguyễn Trọng Trưởng - 20002172	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Trọng Trưởng - 20002172	42.93	Nguyễn Mạnh Trung - 20002171	42.93	7
+Nguyễn Trọng Trưởng - 20002172	28.62	Nguyễn ANh Tuấn_20002176	28.62	13
+Nguyễn Trọng Trưởng - 20002172	30.31	Tran ANh Minh 20002144	30.31	14
+Nguyễn Trọng Trưởng - 20002172	26.22	Hoàng Hữu Hiếu_20002125	26.22	7
+Nguyễn Trọng Trưởng - 20002172	21.46	Nguyễn Thế Phong 20002150	21.46	6
+Nguyễn Trọng Trưởng - 20002172	29.80	Phung_Phuc_Hau_20002123	29.80	5
+Nguyễn Trọng Trưởng - 20002172	35.17	Đỗ Phương Nam-20002145	35.17	5
+Nguyễn Trọng Trưởng - 20002172	27.07	Do_Minh_Tuan_20002175	27.07	11
+Nguyễn Trọng Trưởng - 20002172	24.31	Dương Đức Thịnh-20002166	24.31	6
+Nguyễn Trọng Trưởng - 20002172	20.96	Le_Sy_Van_20002178	20.96	7
+Nguyễn Trọng Trưởng - 20002172	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Trần Quốc Khang 20002138	25.91	Nguyễn Đình Trung Kiên-20002141	25.91	10
+Trần Quốc Khang 20002138	27.67	Bùi Ngọc Thành - 20002165	27.67	4
+Trần Quốc Khang 20002138	92.74	Khuất Đăng Sơn - 20002159	92.74	7
+Trần Quốc Khang 20002138	26.36	Nguyễn Bá Kiên 20002140	26.36	6
+Trần Quốc Khang 20002138	28.80	Phạm Tiến Anh-20002106	28.80	6
+Trần Quốc Khang 20002138	32.64	nguyen truong danh 20002110	32.64	9
+Trần Quốc Khang 20002138	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Trần Quốc Khang 20002138	35.99	Nguyễn Mạnh Trung - 20002171	35.99	11
+Trần Quốc Khang 20002138	23.34	Nguyễn ANh Tuấn_20002176	23.34	11
+Trần Quốc Khang 20002138	27.76	Tran ANh Minh 20002144	27.76	19
+Trần Quốc Khang 20002138	22.41	Hoàng Hữu Hiếu_20002125	22.41	7
+Trần Quốc Khang 20002138	23.53	Nguyễn Thế Phong 20002150	23.53	6
+Trần Quốc Khang 20002138	22.34	Phung_Phuc_Hau_20002123	22.34	8
+Trần Quốc Khang 20002138	19.79	Đỗ Phương Nam-20002145	19.79	6
+Trần Quốc Khang 20002138	24.52	Do_Minh_Tuan_20002175	24.52	13
+Trần Quốc Khang 20002138	23.31	Dương Đức Thịnh-20002166	23.31	7
+Trần Quốc Khang 20002138	22.23	Le_Sy_Van_20002178	22.23	9
+Trần Quốc Khang 20002138	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Đình Trung Kiên-20002141	94.70	Bùi Ngọc Thành - 20002165	94.70	8
+Nguyễn Đình Trung Kiên-20002141	21.36	Khuất Đăng Sơn - 20002159	21.36	8
+Nguyễn Đình Trung Kiên-20002141	27.91	Nguyễn Bá Kiên 20002140	27.91	5
+Nguyễn Đình Trung Kiên-20002141	42.21	Phạm Tiến Anh-20002106	42.21	4
+Nguyễn Đình Trung Kiên-20002141	26.81	nguyen truong danh 20002110	26.81	15
+Nguyễn Đình Trung Kiên-20002141	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Đình Trung Kiên-20002141	24.88	Nguyễn Mạnh Trung - 20002171	24.88	11
+Nguyễn Đình Trung Kiên-20002141	32.30	Nguyễn ANh Tuấn_20002176	32.30	12
+Nguyễn Đình Trung Kiên-20002141	45.63	Tran ANh Minh 20002144	45.63	21
+Nguyễn Đình Trung Kiên-20002141	21.42	Hoàng Hữu Hiếu_20002125	21.42	10
+Nguyễn Đình Trung Kiên-20002141	27.36	Nguyễn Thế Phong 20002150	27.36	3
+Nguyễn Đình Trung Kiên-20002141	42.95	Phung_Phuc_Hau_20002123	42.95	7
+Nguyễn Đình Trung Kiên-20002141	23.90	Đỗ Phương Nam-20002145	23.90	2
+Nguyễn Đình Trung Kiên-20002141	57.74	Do_Minh_Tuan_20002175	57.74	22
+Nguyễn Đình Trung Kiên-20002141	24.72	Dương Đức Thịnh-20002166	24.72	4
+Nguyễn Đình Trung Kiên-20002141	23.86	Le_Sy_Van_20002178	23.86	9
+Nguyễn Đình Trung Kiên-20002141	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Bùi Ngọc Thành - 20002165	25.04	Khuất Đăng Sơn - 20002159	25.04	5
+Bùi Ngọc Thành - 20002165	35.76	Nguyễn Bá Kiên 20002140	35.76	5
+Bùi Ngọc Thành - 20002165	39.48	Phạm Tiến Anh-20002106	39.48	3
+Bùi Ngọc Thành - 20002165	31.20	nguyen truong danh 20002110	31.20	7
+Bùi Ngọc Thành - 20002165	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Bùi Ngọc Thành - 20002165	27.38	Nguyễn Mạnh Trung - 20002171	27.38	4
+Bùi Ngọc Thành - 20002165	37.61	Nguyễn ANh Tuấn_20002176	37.61	9
+Bùi Ngọc Thành - 20002165	54.45	Tran ANh Minh 20002144	54.45	11
+Bùi Ngọc Thành - 20002165	39.91	Hoàng Hữu Hiếu_20002125	39.91	2
+Bùi Ngọc Thành - 20002165	54.28	Nguyễn Thế Phong 20002150	54.28	3
+Bùi Ngọc Thành - 20002165	49.09	Phung_Phuc_Hau_20002123	49.09	6
+Bùi Ngọc Thành - 20002165	37.19	Đỗ Phương Nam-20002145	37.19	2
+Bùi Ngọc Thành - 20002165	67.90	Do_Minh_Tuan_20002175	67.90	17
+Bùi Ngọc Thành - 20002165	44.36	Dương Đức Thịnh-20002166	44.36	4
+Bùi Ngọc Thành - 20002165	26.96	Le_Sy_Van_20002178	26.96	8
+Bùi Ngọc Thành - 20002165	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Khuất Đăng Sơn - 20002159	40.97	Nguyễn Bá Kiên 20002140	40.97	7
+Khuất Đăng Sơn - 20002159	30.43	Phạm Tiến Anh-20002106	30.43	7
+Khuất Đăng Sơn - 20002159	38.52	nguyen truong danh 20002110	38.52	12
+Khuất Đăng Sơn - 20002159	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Khuất Đăng Sơn - 20002159	30.57	Nguyễn Mạnh Trung - 20002171	30.57	7
+Khuất Đăng Sơn - 20002159	22.10	Nguyễn ANh Tuấn_20002176	22.10	15
+Khuất Đăng Sơn - 20002159	31.82	Tran ANh Minh 20002144	31.82	13
+Khuất Đăng Sơn - 20002159	21.69	Hoàng Hữu Hiếu_20002125	21.69	9
+Khuất Đăng Sơn - 20002159	21.47	Nguyễn Thế Phong 20002150	21.47	7
+Khuất Đăng Sơn - 20002159	22.91	Phung_Phuc_Hau_20002123	22.91	5
+Khuất Đăng Sơn - 20002159	19.14	Đỗ Phương Nam-20002145	19.14	5
+Khuất Đăng Sơn - 20002159	23.52	Do_Minh_Tuan_20002175	23.52	15
+Khuất Đăng Sơn - 20002159	27.44	Dương Đức Thịnh-20002166	27.44	8
+Khuất Đăng Sơn - 20002159	24.70	Le_Sy_Van_20002178	24.70	8
+Khuất Đăng Sơn - 20002159	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Bá Kiên 20002140	43.83	Phạm Tiến Anh-20002106	43.83	7
+Nguyễn Bá Kiên 20002140	37.79	nguyen truong danh 20002110	37.79	7
+Nguyễn Bá Kiên 20002140	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Bá Kiên 20002140	34.03	Nguyễn Mạnh Trung - 20002171	34.03	6
+Nguyễn Bá Kiên 20002140	37.44	Nguyễn ANh Tuấn_20002176	37.44	8
+Nguyễn Bá Kiên 20002140	42.70	Tran ANh Minh 20002144	42.70	7
+Nguyễn Bá Kiên 20002140	39.38	Hoàng Hữu Hiếu_20002125	39.38	8
+Nguyễn Bá Kiên 20002140	34.91	Nguyễn Thế Phong 20002150	34.91	7
+Nguyễn Bá Kiên 20002140	35.90	Phung_Phuc_Hau_20002123	35.90	11
+Nguyễn Bá Kiên 20002140	41.29	Đỗ Phương Nam-20002145	41.29	6
+Nguyễn Bá Kiên 20002140	37.64	Do_Minh_Tuan_20002175	37.64	5
+Nguyễn Bá Kiên 20002140	42.38	Dương Đức Thịnh-20002166	42.38	6
+Nguyễn Bá Kiên 20002140	36.54	Le_Sy_Van_20002178	36.54	6
+Nguyễn Bá Kiên 20002140	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Phạm Tiến Anh-20002106	42.99	nguyen truong danh 20002110	42.99	9
+Phạm Tiến Anh-20002106	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Phạm Tiến Anh-20002106	45.37	Nguyễn Mạnh Trung - 20002171	45.37	8
+Phạm Tiến Anh-20002106	30.39	Nguyễn ANh Tuấn_20002176	30.39	7
+Phạm Tiến Anh-20002106	45.43	Tran ANh Minh 20002144	45.43	7
+Phạm Tiến Anh-20002106	41.90	Hoàng Hữu Hiếu_20002125	41.90	6
+Phạm Tiến Anh-20002106	51.86	Nguyễn Thế Phong 20002150	51.86	9
+Phạm Tiến Anh-20002106	49.21	Phung_Phuc_Hau_20002123	49.21	8
+Phạm Tiến Anh-20002106	58.04	Đỗ Phương Nam-20002145	58.04	8
+Phạm Tiến Anh-20002106	39.68	Do_Minh_Tuan_20002175	39.68	5
+Phạm Tiến Anh-20002106	41.90	Dương Đức Thịnh-20002166	41.90	9
+Phạm Tiến Anh-20002106	40.56	Le_Sy_Van_20002178	40.56	6
+Phạm Tiến Anh-20002106	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+nguyen truong danh 20002110	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+nguyen truong danh 20002110	53.37	Nguyễn Mạnh Trung - 20002171	53.37	11
+nguyen truong danh 20002110	30.24	Nguyễn ANh Tuấn_20002176	30.24	15
+nguyen truong danh 20002110	45.43	Tran ANh Minh 20002144	45.43	15
+nguyen truong danh 20002110	43.99	Hoàng Hữu Hiếu_20002125	43.99	10
+nguyen truong danh 20002110	37.81	Nguyễn Thế Phong 20002150	37.81	8
+nguyen truong danh 20002110	37.94	Phung_Phuc_Hau_20002123	37.94	8
+nguyen truong danh 20002110	35.12	Đỗ Phương Nam-20002145	35.12	8
+nguyen truong danh 20002110	25.99	Do_Minh_Tuan_20002175	25.99	17
+nguyen truong danh 20002110	30.56	Dương Đức Thịnh-20002166	30.56	13
+nguyen truong danh 20002110	40.56	Le_Sy_Van_20002178	40.56	9
+nguyen truong danh 20002110	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn Mạnh Trung - 20002171	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn ANh Tuấn_20002176	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Tran ANh Minh 20002144	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Hoàng Hữu Hiếu_20002125	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn Thế Phong 20002150	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Phung_Phuc_Hau_20002123	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Đỗ Phương Nam-20002145	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Do_Minh_Tuan_20002175	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Dương Đức Thịnh-20002166	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Le_Sy_Van_20002178	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Mạnh Trung - 20002171	19.41	Nguyễn ANh Tuấn_20002176	19.41	12
+Nguyễn Mạnh Trung - 20002171	36.01	Tran ANh Minh 20002144	36.01	12
+Nguyễn Mạnh Trung - 20002171	32.93	Hoàng Hữu Hiếu_20002125	32.93	9
+Nguyễn Mạnh Trung - 20002171	32.36	Nguyễn Thế Phong 20002150	32.36	7
+Nguyễn Mạnh Trung - 20002171	41.37	Phung_Phuc_Hau_20002123	41.37	11
+Nguyễn Mạnh Trung - 20002171	32.41	Đỗ Phương Nam-20002145	32.41	8
+Nguyễn Mạnh Trung - 20002171	22.77	Do_Minh_Tuan_20002175	22.77	12
+Nguyễn Mạnh Trung - 20002171	24.99	Dương Đức Thịnh-20002166	24.99	8
+Nguyễn Mạnh Trung - 20002171	41.77	Le_Sy_Van_20002178	41.77	8
+Nguyễn Mạnh Trung - 20002171	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn ANh Tuấn_20002176	39.74	Tran ANh Minh 20002144	39.74	22
+Nguyễn ANh Tuấn_20002176	20.00	Hoàng Hữu Hiếu_20002125	20.00	8
+Nguyễn ANh Tuấn_20002176	22.27	Nguyễn Thế Phong 20002150	22.27	8
+Nguyễn ANh Tuấn_20002176	55.37	Phung_Phuc_Hau_20002123	55.37	11
+Nguyễn ANh Tuấn_20002176	27.24	Đỗ Phương Nam-20002145	27.24	6
+Nguyễn ANh Tuấn_20002176	37.79	Do_Minh_Tuan_20002175	37.79	24
+Nguyễn ANh Tuấn_20002176	26.05	Dương Đức Thịnh-20002166	26.05	9
+Nguyễn ANh Tuấn_20002176	21.55	Le_Sy_Van_20002178	21.55	12
+Nguyễn ANh Tuấn_20002176	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Tran ANh Minh 20002144	36.70	Hoàng Hữu Hiếu_20002125	36.70	10
+Tran ANh Minh 20002144	67.20	Nguyễn Thế Phong 20002150	67.20	6
+Tran ANh Minh 20002144	54.38	Phung_Phuc_Hau_20002123	54.38	9
+Tran ANh Minh 20002144	44.17	Đỗ Phương Nam-20002145	44.17	5
+Tran ANh Minh 20002144	66.34	Do_Minh_Tuan_20002175	66.34	24
+Tran ANh Minh 20002144	34.70	Dương Đức Thịnh-20002166	34.70	5
+Tran ANh Minh 20002144	32.83	Le_Sy_Van_20002178	32.83	11
+Tran ANh Minh 20002144	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Hoàng Hữu Hiếu_20002125	75.06	Nguyễn Thế Phong 20002150	75.06	6
+Hoàng Hữu Hiếu_20002125	42.15	Phung_Phuc_Hau_20002123	42.15	14
+Hoàng Hữu Hiếu_20002125	35.43	Đỗ Phương Nam-20002145	35.43	6
+Hoàng Hữu Hiếu_20002125	24.89	Do_Minh_Tuan_20002175	24.89	9
+Hoàng Hữu Hiếu_20002125	35.56	Dương Đức Thịnh-20002166	35.56	6
+Hoàng Hữu Hiếu_20002125	37.77	Le_Sy_Van_20002178	37.77	10
+Hoàng Hữu Hiếu_20002125	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Thế Phong 20002150	50.84	Phung_Phuc_Hau_20002123	50.84	9
+Nguyễn Thế Phong 20002150	48.65	Đỗ Phương Nam-20002145	48.65	10
+Nguyễn Thế Phong 20002150	36.59	Do_Minh_Tuan_20002175	36.59	5
+Nguyễn Thế Phong 20002150	44.00	Dương Đức Thịnh-20002166	44.00	10
+Nguyễn Thế Phong 20002150	34.29	Le_Sy_Van_20002178	34.29	6
+Nguyễn Thế Phong 20002150	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Phung_Phuc_Hau_20002123	39.38	Đỗ Phương Nam-20002145	39.38	8
+Phung_Phuc_Hau_20002123	64.96	Do_Minh_Tuan_20002175	64.96	13
+Phung_Phuc_Hau_20002123	31.72	Dương Đức Thịnh-20002166	31.72	7
+Phung_Phuc_Hau_20002123	35.86	Le_Sy_Van_20002178	35.86	7
+Phung_Phuc_Hau_20002123	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Đỗ Phương Nam-20002145	40.23	Do_Minh_Tuan_20002175	40.23	5
+Đỗ Phương Nam-20002145	46.94	Dương Đức Thịnh-20002166	46.94	8
+Đỗ Phương Nam-20002145	34.09	Le_Sy_Van_20002178	34.09	5
+Đỗ Phương Nam-20002145	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Do_Minh_Tuan_20002175	40.91	Dương Đức Thịnh-20002166	40.91	10
+Do_Minh_Tuan_20002175	39.20	Le_Sy_Van_20002178	39.20	14
+Do_Minh_Tuan_20002175	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Dương Đức Thịnh-20002166	35.42	Le_Sy_Van_20002178	35.42	8
+Dương Đức Thịnh-20002166	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Le_Sy_Van_20002178	0.00	Nguyễn Thanh Phong 20002151	0.00	0

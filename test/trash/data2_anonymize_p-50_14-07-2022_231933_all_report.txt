@@ -1,0 +1,344 @@
+Amanda		Nguyễn Đình Quang - 20002155
+Andrew		Tran Thanh Phong
+Barbara		Bùi Ngọc Thành - 20002165
+Catherine		nguyen dinh hai 20002122
+Christine		Nguyễn Xuân Tuấn Anh - 20002105
+Christopher		Hoàng Hữu Hiếu_20002125
+Daniel		Nguyễn ANh Tuấn_20002176
+Deborah		Dao Anh Duong
+Edward		Nguyễn Quang Huy-20002133
+Erin		Le Hong Thach
+Gerald		Nguyễn Mạnh Trung - 20002171
+Harry		Do_Minh_Tuan_20002175
+Howard		Khuất Đăng Sơn - 20002159
+John		Trần Quốc Khang 20002138
+Karen		Nguyễn Đình Trung Kiên-20002141
+Katie		Tran Thien Cuong
+Latoya		Chu Pham Dinh Tu
+Lauren		Nguyen Trong Son
+Margaret		Tran ANh Minh 20002144
+Mark		Tran Kim Phuong
+Mary		Nguyễn văn hùng - 20002130
+Matthew		Nguyễn Triệu Vương - 20002182
+Melanie		Dinh Kha Vy
+Michael		Nguyen Nhat Tung
+Nicholas		Phạm Tiến Anh-20002106
+Rebecca		nguyen truong danh 20002110
+Ryan		Pham Hoang An
+Sandra		Phạm Xuân Tài - 20002161
+Sarah		Dam Van Vu
+Sheryl		Hồ Hải Phong 20002149
+Stephanie		Phung_Phuc_Hau_20002123
+Susan		Luyen Thi Quyen
+Teresa		trần quốc đức 20002117
+Valerie		Nguyễn Trọng Trưởng - 20002172
+Veronica		Nguyen Thanh Long
+Victoria		Nguyễn Thế Phong 20002150
+
+
+Pair: Matthew and Erin
+the data of customtest 6 checked by run2: url not found
+similarity score: 65.64
+number of common lines: 20
+
+
+Pair: Matthew and Daniel
+the data of customtest 6 checked by run2: url not found
+similarity score: 88.76
+number of common lines: 61
+
+
+Pair: Matthew and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.31
+number of common lines: 25
+
+
+Pair: Sheryl and Catherine
+the data of customtest 6 checked by run2: url not found
+similarity score: 86.09
+number of common lines: 27
+
+
+Pair: Sheryl and Latoya
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.52
+number of common lines: 17
+
+
+Pair: Sheryl and Ryan
+the data of customtest 6 checked by run2: url not found
+similarity score: 87.1
+number of common lines: 18
+
+
+Pair: Christine and Michael
+the data of customtest 6 checked by run2: url not found
+similarity score: 37.86
+number of common lines: 48
+
+
+Pair: Christine and Sandra
+the data of customtest 6 checked by run2: url not found
+similarity score: 35.7
+number of common lines: 44
+
+
+Pair: Edward and Teresa
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.0
+number of common lines: 17
+
+
+Pair: Edward and Melanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 85.71
+number of common lines: 17
+
+
+Pair: Edward and Veronica
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.43
+number of common lines: 10
+
+
+Pair: Edward and Susan
+the data of customtest 6 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 17
+
+
+Pair: Teresa and Melanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 83.33
+number of common lines: 17
+
+
+Pair: Teresa and Veronica
+the data of customtest 6 checked by run2: url not found
+similarity score: 66.07
+number of common lines: 8
+
+
+Pair: Teresa and Susan
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.0
+number of common lines: 17
+
+
+Pair: Mary and Mark
+the data of customtest 6 checked by run2: url not found
+similarity score: 43.47
+number of common lines: 43
+
+
+Pair: Mary and Latoya
+the data of customtest 6 checked by run2: url not found
+similarity score: 45.09
+number of common lines: 41
+
+
+Pair: Mary and Deborah
+the data of customtest 6 checked by run2: url not found
+similarity score: 84.66
+number of common lines: 47
+
+
+Pair: Amanda and Rebecca
+the data of customtest 6 checked by run2: url not found
+similarity score: 57.88
+number of common lines: 26
+
+
+Pair: Amanda and Gerald
+the data of customtest 6 checked by run2: url not found
+similarity score: 55.97
+number of common lines: 21
+
+
+Pair: Michael and Sandra
+the data of customtest 6 checked by run2: url not found
+similarity score: 39.52
+number of common lines: 49
+
+
+Pair: Michael and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 44.95
+number of common lines: 44
+
+
+Pair: Sandra and Barbara
+the data of customtest 6 checked by run2: url not found
+similarity score: 57.55
+number of common lines: 17
+
+
+Pair: Sandra and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 46.01
+number of common lines: 49
+
+
+Pair: Andrew and Veronica
+the data of customtest 6 checked by run2: url not found
+similarity score: 61.84
+number of common lines: 7
+
+
+Pair: Mark and Deborah
+the data of customtest 6 checked by run2: url not found
+similarity score: 40.87
+number of common lines: 40
+
+
+Pair: Valerie and John
+the data of customtest 6 checked by run2: url not found
+similarity score: 73.46
+number of common lines: 17
+
+
+Pair: Valerie and Howard
+the data of customtest 6 checked by run2: url not found
+similarity score: 66.53
+number of common lines: 20
+
+
+Pair: Melanie and Veronica
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.43
+number of common lines: 10
+
+
+Pair: Melanie and Susan
+the data of customtest 6 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 52
+
+
+Pair: John and Howard
+the data of customtest 6 checked by run2: url not found
+similarity score: 92.74
+number of common lines: 22
+
+
+Pair: Sarah and Karen
+the data of customtest 6 checked by run2: url not found
+similarity score: 81.44
+number of common lines: 13
+
+
+Pair: Karen and Barbara
+the data of customtest 6 checked by run2: url not found
+similarity score: 94.7
+number of common lines: 41
+
+
+Pair: Karen and Harry
+the data of customtest 6 checked by run2: url not found
+similarity score: 57.74
+number of common lines: 18
+
+
+Pair: Barbara and Margaret
+the data of customtest 6 checked by run2: url not found
+similarity score: 54.45
+number of common lines: 16
+
+
+Pair: Barbara and Harry
+the data of customtest 6 checked by run2: url not found
+similarity score: 58.72
+number of common lines: 22
+
+
+Pair: Erin and Ryan
+the data of customtest 6 checked by run2: url not found
+similarity score: 40.04
+number of common lines: 37
+
+
+Pair: Erin and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 78.27
+number of common lines: 25
+
+
+Pair: Katie and Deborah
+the data of customtest 6 checked by run2: url not found
+similarity score: 46.41
+number of common lines: 30
+
+
+Pair: Latoya and Ryan
+the data of customtest 6 checked by run2: url not found
+similarity score: 65.89
+number of common lines: 16
+
+
+Pair: Latoya and Christopher
+the data of customtest 6 checked by run2: url not found
+similarity score: 90.86
+number of common lines: 38
+
+
+Pair: Lauren and Nicholas
+the data of customtest 6 checked by run2: url not found
+similarity score: 56.07
+number of common lines: 23
+
+
+Pair: Nicholas and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 43.06
+number of common lines: 30
+
+
+Pair: Rebecca and Gerald
+the data of customtest 6 checked by run2: url not found
+similarity score: 53.37
+number of common lines: 25
+
+
+Pair: Veronica and Susan
+the data of customtest 6 checked by run2: url not found
+similarity score: 71.43
+number of common lines: 10
+
+
+Pair: Margaret and Victoria
+the data of customtest 6 checked by run2: url not found
+similarity score: 61.52
+number of common lines: 29
+
+
+Pair: Margaret and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 42.79
+number of common lines: 33
+
+
+Pair: Margaret and Harry
+the data of customtest 6 checked by run2: url not found
+similarity score: 60.3
+number of common lines: 25
+
+
+Pair: Christopher and Victoria
+the data of customtest 6 checked by run2: url not found
+similarity score: 75.06
+number of common lines: 9
+
+
+Pair: Victoria and Stephanie
+the data of customtest 6 checked by run2: url not found
+similarity score: 46.0
+number of common lines: 41
+
+
+Pair: Stephanie and Harry
+the data of customtest 6 checked by run2: url not found
+similarity score: 59.55
+number of common lines: 61
+
+

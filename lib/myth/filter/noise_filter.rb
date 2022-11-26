@@ -37,7 +37,7 @@ module Myth
 
       def lower_case
 
-        line_array=@text_to_process.split("\n")
+        line_array=@text_to_process.encode('UTF-8', :invalid => :replace).split("\n")
         for line in line_array do
           line.downcase!
           @filtered_text << line << "\n"

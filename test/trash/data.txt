@@ -1,0 +1,1226 @@
+the data of customtest 6 created 26 Dec 2021
+Tran Minh Hoang	29.65	Nguyen Thi Tien Trang	29.65	7	tran_minh_hoang_msv20002127_cau_3.c	Nguyen_Thi_Tien_Trang_20000691_cau_1.c
+Tran Minh Hoang	21.49	Nguyễn Triệu Vương - 20002182	21.49	7	tran_minh_hoang_msv20002127_cau_3.c	Nguyen_Trieu_Vuong_20002182_Cau_1.c
+Tran Minh Hoang	19.51	Hồ Hải Phong 20002149	19.51	6	tran_minh_hoang_msv20002127_cau_3.c	Ho_Hai_Phong_20002149_Cau1.c
+Tran Minh Hoang	32.23	Nguyễn Xuân Tuấn Anh - 20002105	32.23	7	tran_minh_hoang_msv20002127_cau_3.c	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c
+Tran Minh Hoang	28.93	Nguyen Thu Ha	28.93	8	tran_minh_hoang_msv20002127_cau_1.c	nguyenthuha20002121cau-2.c
+Tran Minh Hoang	37.25	Nguyễn Quang Huy-20002133	37.25	7	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Quang_Huy_20002133_Cau 1.c
+Tran Minh Hoang	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Tran Minh Hoang	17.83	nguyen dinh hai 20002122	17.83	6	tran_minh_hoang_msv20002127_cau_3.c	nguyen dinh hai 2002122 bai 1.c
+Tran Minh Hoang	33.09	trần quốc đức 20002117	33.09	7	tran_minh_hoang_msv20002127_cau_1.c	tran_quoc_duc_20002117_cau_1.c
+Tran Minh Hoang	31.86	Nguyễn Công Dũng - 20002111	31.86	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Cong_Dung_20002111_Cau_1.c
+Tran Minh Hoang	24.71	Nguyễn văn hùng - 20002130	24.71	6	tran_minh_hoang_msv20002127_cau_3.c	Nguyen_Van_hung_20002130_Cau_1.c
+Tran Minh Hoang	38.63	Nguyễn Đình Quang - 20002155	38.63	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Tran Minh Hoang	30.42	Nguyen Nhat Tung	30.42	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Nhat_Tung_20002177_Cau3.c
+Tran Minh Hoang	22.88	Phạm Xuân Tài - 20002161	22.88	7	tran_minh_hoang_msv20002127_cau_1.c	Pham_Xuan_Tai_20002161_Cau_2.c
+Tran Minh Hoang	28.54	Tran Binh Huong	28.54	7	tran_minh_hoang_msv20002127_cau_3.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Tran Minh Hoang	35.81	Tran Thanh Phong	35.81	8	tran_minh_hoang_msv20002127_cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Tran Minh Hoang	27.99	Tran Kim Phuong	27.99	7	tran_minh_hoang_msv20002127_cau_3.c	Tran_kim_phuong_20002154_cau_1.c
+Tran Minh Hoang	35.29	Nguyễn Trọng Trưởng - 20002172	35.29	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Trong_Truong_20002172_Cau_1.c
+Tran Minh Hoang	37.25	Dinh Kha Vy	37.25	7	tran_minh_hoang_msv20002127_cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+Tran Minh Hoang	37.72	Trần Quốc Khang 20002138	37.72	9	tran_minh_hoang_msv20002127_cau_1.c	Tran_Quoc_Khang_20002138_cau1.c
+Tran Minh Hoang	24.79	Dam Van Vu	24.79	5	tran_minh_hoang_msv20002127_cau_3.c	Dam_Van_Vu_20002180_Cau_1.c
+Tran Minh Hoang	26.78	Nguyễn Đình Trung Kiên-20002141	26.78	7	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c
+Tran Minh Hoang	26.81	Bùi Ngọc Thành - 20002165	26.81	7	tran_minh_hoang_msv20002127_cau_1.c	BUI_NGOC_THANH_20002165_Cau 2.c
+Tran Minh Hoang	37.18	Khuất Đăng Sơn - 20002159	37.18	9	tran_minh_hoang_msv20002127_cau_1.c	khuat_dang_son_20002159_cau_1.c
+Tran Minh Hoang	20.56	Le Hong Thach	20.56	7	tran_minh_hoang_msv20002127_cau_1.c	Le_Hong_Thach_20002162_Cau_2.c
+Tran Minh Hoang	24.71	Tran Thien Cuong	24.71	6	tran_minh_hoang_msv20002127_cau_3.c	TRAN THIEN CUON_20002109_BAI1.c
+Tran Minh Hoang	24.47	Chu Pham Dinh Tu	24.47	5	tran_minh_hoang_msv20002127_cau_3.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Tran Minh Hoang	26.62	Nguyễn Bá Kiên 20002140	26.62	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Tran Minh Hoang	24.96	Nguyen Trong Son	24.96	7	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Tran Minh Hoang	19.25	Dao Anh Duong	19.25	5	tran_minh_hoang_msv20002127_cau_3.c	Dao_Anh_Duong_20002112_cau_1.c
+Tran Minh Hoang	37.25	Phạm Tiến Anh-20002106	37.25	6	tran_minh_hoang_msv20002127_cau_3.c	Pham_Tien_Anh_20002106_Cau1.c
+Tran Minh Hoang	30.94	nguyen truong danh 20002110	30.94	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Tran Minh Hoang	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Tran Minh Hoang	47.22	Nguyễn Mạnh Trung - 20002171	47.22	7	tran_minh_hoang_msv20002127_cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Tran Minh Hoang	30.80	Pham Hoang An	30.80	8	tran_minh_hoang_msv20002127_cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Tran Minh Hoang	50.98	Nguyen Thanh Long	50.98	6	tran_minh_hoang_msv20002127_cau_3.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Tran Minh Hoang	19.08	Nguyễn ANh Tuấn_20002176	19.08	8	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Tran Minh Hoang	24.48	Tran ANh Minh 20002144	24.48	7	tran_minh_hoang_msv20002127_cau_1.c	Tran_Anh_Minh_20002144_Cau_2.c
+Tran Minh Hoang	24.91	Hoàng Hữu Hiếu_20002125	24.91	6	tran_minh_hoang_msv20002127_cau_1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Tran Minh Hoang	32.17	Nguyễn Thế Phong 20002150	32.17	7	tran_minh_hoang_msv20002127_cau_1.c	Nguyen_The_Phong_20002150_Cau_3.c
+Tran Minh Hoang	26.49	Phung_Phuc_Hau_20002123	26.49	8	tran_minh_hoang_msv20002127_cau_1.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Tran Minh Hoang	27.93	Đỗ Phương Nam-20002145	27.93	6	tran_minh_hoang_msv20002127_cau_1.c	Do Phuong Nam-20002145-Cau3.c
+Tran Minh Hoang	27.78	Do_Minh_Tuan_20002175	27.78	8	tran_minh_hoang_msv20002127_cau_3.c	Do_Minh_Tuan_20002175_Cau2.c
+Tran Minh Hoang	33.44	Luu The Trung	33.44	6	tran_minh_hoang_msv20002127_cau_3.c	Luu_The_Trung_20002170_cau_1.c
+Tran Minh Hoang	24.57	Dương Đức Thịnh-20002166	24.57	7	tran_minh_hoang_msv20002127_cau_1.c	Duong_Duc_Thinh_20002166_Cau_3.c
+Tran Minh Hoang	20.96	Le_Sy_Van_20002178	20.96	6	tran_minh_hoang_msv20002127_cau_3.c	Le_Sy_Van_20002178_Cau_1.c
+Tran Minh Hoang	37.25	Luyen Thi Quyen	37.25	7	tran_minh_hoang_msv20002127_cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+Tran Minh Hoang	55.27	Truong Tuan Anh	55.27	8	tran_minh_hoang_msv20002127_cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Tran Minh Hoang	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyen Thi Tien Trang	23.08	Nguyễn Triệu Vương - 20002182	23.08	8	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	Nguyen_Trieu_Vuong_20002182_Cau_1.c
+Nguyen Thi Tien Trang	26.71	Hồ Hải Phong 20002149	26.71	7	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Ho_Hai_Phong_20002149_Cau3.c
+Nguyen Thi Tien Trang	25.30	Nguyễn Xuân Tuấn Anh - 20002105	25.30	5	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c
+Nguyen Thi Tien Trang	29.43	Nguyen Thu Ha	29.43	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	nguyenthuha20002121cau-2.c
+Nguyen Thi Tien Trang	48.19	Nguyễn Quang Huy-20002133	48.19	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Quang_Huy_20002133_Cau 1.c
+Nguyen Thi Tien Trang	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyen Thi Tien Trang	27.43	nguyen dinh hai 20002122	27.43	10	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	nguyen dinh hai 20002122 bai 3.c
+Nguyen Thi Tien Trang	41.64	trần quốc đức 20002117	41.64	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	tran_quoc_duc_20002117_cau_1.c
+Nguyen Thi Tien Trang	42.58	Nguyễn Công Dũng - 20002111	42.58	13	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Cong_Dung_20002111_Cau_1.c
+Nguyen Thi Tien Trang	36.00	Nguyễn văn hùng - 20002130	36.00	7	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Van_hung_20002130_Cau_1.c
+Nguyen Thi Tien Trang	40.22	Nguyễn Đình Quang - 20002155	40.22	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Nguyen Thi Tien Trang	24.39	Nguyen Nhat Tung	24.39	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Nhat_Tung_20002177_Cau3.c
+Nguyen Thi Tien Trang	23.68	Phạm Xuân Tài - 20002161	23.68	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Pham_Xuan_Tai_20002161_Cau_3.c
+Nguyen Thi Tien Trang	34.50	Tran Binh Huong	34.50	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Nguyen Thi Tien Trang	58.43	Tran Thanh Phong	58.43	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyen Thi Tien Trang	29.79	Tran Kim Phuong	29.79	8	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Tran_kim_phuong_20002154_cau_1.c
+Nguyen Thi Tien Trang	39.53	Nguyễn Trọng Trưởng - 20002172	39.53	9	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyen Thi Tien Trang	48.19	Dinh Kha Vy	48.19	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyen Thi Tien Trang	35.75	Trần Quốc Khang 20002138	35.75	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Tran_Quoc_Khang_20002138_cau1.c
+Nguyen Thi Tien Trang	26.23	Dam Van Vu	26.23	5	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Dam_Van_Vu_20002180_Cau_1.c
+Nguyen Thi Tien Trang	25.74	Nguyễn Đình Trung Kiên-20002141	25.74	6	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyen Thi Tien Trang	23.70	Bùi Ngọc Thành - 20002165	23.70	6	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyen Thi Tien Trang	35.10	Khuất Đăng Sơn - 20002159	35.10	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	khuat_dang_son_20002159_cau_1.c
+Nguyen Thi Tien Trang	32.15	Le Hong Thach	32.15	9	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	Le_Hong_Thach_20002162_Cau_1.c
+Nguyen Thi Tien Trang	32.00	Tran Thien Cuong	32.00	7	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyen Thi Tien Trang	25.74	Chu Pham Dinh Tu	25.74	5	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Nguyen Thi Tien Trang	28.62	Nguyễn Bá Kiên 20002140	28.62	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyen Thi Tien Trang	23.62	Nguyen Trong Son	23.62	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyen Thi Tien Trang	26.33	Dao Anh Duong	26.33	6	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Dao_Anh_Duong_20002112_cau_1.c
+Nguyen Thi Tien Trang	35.31	Phạm Tiến Anh-20002106	35.31	8	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Pham_Tien_Anh_20002106_Cau3.c
+Nguyen Thi Tien Trang	32.19	nguyen truong danh 20002110	32.19	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Nguyen Thi Tien Trang	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyen Thi Tien Trang	50.27	Nguyễn Mạnh Trung - 20002171	50.27	9	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyen Thi Tien Trang	37.82	Pham Hoang An	37.82	11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyen Thi Tien Trang	60.44	Nguyen Thanh Long	60.44	6	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyen Thi Tien Trang	23.56	Nguyễn ANh Tuấn_20002176	23.56	8	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyen Thi Tien Trang	23.14	Tran ANh Minh 20002144	23.14	5	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Tran_Anh_Minh_20002144_Cau_1.c
+Nguyen Thi Tien Trang	31.53	Hoàng Hữu Hiếu_20002125	31.53	3	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Nguyen Thi Tien Trang	36.91	Nguyễn Thế Phong 20002150	36.91	4	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyen Thi Tien Trang	25.49	Phung_Phuc_Hau_20002123	25.49	10	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Nguyen Thi Tien Trang	24.50	Đỗ Phương Nam-20002145	24.50	6	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Do Phuong Nam-20002145-Cau1.c
+Nguyen Thi Tien Trang	23.85	Do_Minh_Tuan_20002175	23.85	6	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Do_Minh_Tuan_20002175_Cau1.c
+Nguyen Thi Tien Trang	27.79	Luu The Trung	27.79	7	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyen Thi Tien Trang	42.53	Dương Đức Thịnh-20002166	42.53	9	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Nguyen Thi Tien Trang	26.77	Le_Sy_Van_20002178	26.77	6	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	Le_Sy_Van_20002178_Cau_1.c
+Nguyen Thi Tien Trang	48.19	Luyen Thi Quyen	48.19	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyen Thi Tien Trang	44.92	Truong Tuan Anh	44.92	10	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyen Thi Tien Trang	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Triệu Vương - 20002182	22.44	Hồ Hải Phong 20002149	22.44	12	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Ho_Hai_Phong_20002149_Cau1.c
+Nguyễn Triệu Vương - 20002182	42.77	Nguyễn Xuân Tuấn Anh - 20002105	42.77	26	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c
+Nguyễn Triệu Vương - 20002182	34.45	Nguyen Thu Ha	34.45	20	Nguyen_Trieu_Vuong_20002182_Cau_2.c	nguyenthuha20002121cau-2.c
+Nguyễn Triệu Vương - 20002182	29.51	Nguyễn Quang Huy-20002133	29.51	21	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Quang_Huy_20002133_Cau 2.c
+Nguyễn Triệu Vương - 20002182	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyễn Triệu Vương - 20002182	16.46	nguyen dinh hai 20002122	16.46	10	Nguyen_Trieu_Vuong_20002182_Cau_1.c	nguyen dinh hai 2002122 bai 1.c
+Nguyễn Triệu Vương - 20002182	33.55	trần quốc đức 20002117	33.55	22	Nguyen_Trieu_Vuong_20002182_Cau_2.c	tran_quoc_duc_20002117_cau_2.c
+Nguyễn Triệu Vương - 20002182	22.69	Nguyễn Công Dũng - 20002111	22.69	18	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Cong_Dung_20002111_Cau_2.c
+Nguyễn Triệu Vương - 20002182	31.36	Nguyễn văn hùng - 20002130	31.36	21	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Van_hung_20002130_Cau_3.c
+Nguyễn Triệu Vương - 20002182	21.58	Nguyễn Đình Quang - 20002155	21.58	13	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Nguyễn Triệu Vương - 20002182	51.90	Nguyen Nhat Tung	51.90	13	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Nguyen_Nhat_Tung_20002177_Cau1.c
+Nguyễn Triệu Vương - 20002182	50.20	Phạm Xuân Tài - 20002161	50.20	29	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Pham_Xuan_Tai_20002161_Cau_2.c
+Nguyễn Triệu Vương - 20002182	26.66	Tran Binh Huong	26.66	11	Nguyen_Trieu_Vuong_20002182_Cau_1.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Nguyễn Triệu Vương - 20002182	33.78	Tran Thanh Phong	33.78	9	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyễn Triệu Vương - 20002182	36.33	Tran Kim Phuong	36.33	22	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Tran_kim_phuong_20002154_cau_3.c
+Nguyễn Triệu Vương - 20002182	29.25	Nguyễn Trọng Trưởng - 20002172	29.25	9	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyễn Triệu Vương - 20002182	26.90	Dinh Kha Vy	26.90	21	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Dinh_Kha_Vy_20002183_cau3.c
+Nguyễn Triệu Vương - 20002182	24.45	Trần Quốc Khang 20002138	24.45	11	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Tran_Quoc_Khang_20002138_cau2.c
+Nguyễn Triệu Vương - 20002182	33.69	Dam Van Vu	33.69	20	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Dam_Van_Vu_20002180_Cau_2.c
+Nguyễn Triệu Vương - 20002182	28.44	Nguyễn Đình Trung Kiên-20002141	28.44	11	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyễn Triệu Vương - 20002182	29.45	Bùi Ngọc Thành - 20002165	29.45	11	Nguyen_Trieu_Vuong_20002182_Cau_1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyễn Triệu Vương - 20002182	22.97	Khuất Đăng Sơn - 20002159	22.97	15	Nguyen_Trieu_Vuong_20002182_Cau_1.c	khuat_dang_son_20002159_cau_2.c
+Nguyễn Triệu Vương - 20002182	65.64	Le Hong Thach	65.64	18	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Le_Hong_Thach_20002162_Cau_1.c
+Nguyễn Triệu Vương - 20002182	31.69	Tran Thien Cuong	31.69	8	Nguyen_Trieu_Vuong_20002182_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Triệu Vương - 20002182	33.22	Chu Pham Dinh Tu	33.22	21	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_3.c
+Nguyễn Triệu Vương - 20002182	35.12	Nguyễn Bá Kiên 20002140	35.12	20	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyễn Triệu Vương - 20002182	24.57	Nguyen Trong Son	24.57	12	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Nguyen_Trong_Son_20002160_Cau_1.c
+Nguyễn Triệu Vương - 20002182	26.54	Dao Anh Duong	26.54	15	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Dao_Anh_Duong_20002112_cau3.c
+Nguyễn Triệu Vương - 20002182	33.24	Phạm Tiến Anh-20002106	33.24	8	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Nguyễn Triệu Vương - 20002182	22.99	nguyen truong danh 20002110	22.99	16	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Nguyễn Triệu Vương - 20002182	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Triệu Vương - 20002182	19.92	Nguyễn Mạnh Trung - 20002171	19.92	12	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn Triệu Vương - 20002182	33.01	Pham Hoang An	33.01	20	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Pham_Hoang_An_20002102_Cau_2.c
+Nguyễn Triệu Vương - 20002182	37.18	Nguyen Thanh Long	37.18	6	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Triệu Vương - 20002182	88.76	Nguyễn ANh Tuấn_20002176	88.76	46	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Triệu Vương - 20002182	43.21	Tran ANh Minh 20002144	43.21	21	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Nguyễn Triệu Vương - 20002182	21.39	Hoàng Hữu Hiếu_20002125	21.39	16	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Nguyễn Triệu Vương - 20002182	21.92	Nguyễn Thế Phong 20002150	21.92	8	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyễn Triệu Vương - 20002182	71.31	Phung_Phuc_Hau_20002123	71.31	19	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Nguyễn Triệu Vương - 20002182	27.85	Đỗ Phương Nam-20002145	27.85	17	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Triệu Vương - 20002182	41.19	Do_Minh_Tuan_20002175	41.19	20	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Triệu Vương - 20002182	20.76	Luu The Trung	20.76	15	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Luu_The_Trung_20002170_cau_3.c
+Nguyễn Triệu Vương - 20002182	26.85	Dương Đức Thịnh-20002166	26.85	25	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Triệu Vương - 20002182	22.97	Le_Sy_Van_20002178	22.97	7	Nguyen_Trieu_Vuong_20002182_Cau_1.c	Le_Sy_Van_20002178_Cau_3.c
+Nguyễn Triệu Vương - 20002182	34.72	Luyen Thi Quyen	34.72	22	Nguyen_Trieu_Vuong_20002182_Cau_2.c	luyen_thi_quyen_20002158_cau_3.c
+Nguyễn Triệu Vương - 20002182	23.92	Truong Tuan Anh	23.92	13	Nguyen_Trieu_Vuong_20002182_Cau_2.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyễn Triệu Vương - 20002182	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Hồ Hải Phong 20002149	30.73	Nguyễn Xuân Tuấn Anh - 20002105	30.73	11	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c
+Hồ Hải Phong 20002149	26.50	Nguyen Thu Ha	26.50	11	Ho_Hai_Phong_20002149_Cau1.c	nguyenthuha20002121cau1.c
+Hồ Hải Phong 20002149	20.05	Nguyễn Quang Huy-20002133	20.05	8	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Quang_Huy_20002133_Cau 1.c
+Hồ Hải Phong 20002149	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Hồ Hải Phong 20002149	86.09	nguyen dinh hai 20002122	86.09	26	Ho_Hai_Phong_20002149_Cau3.c	nguyen dinh hai 20002122 bai 3.c
+Hồ Hải Phong 20002149	27.63	trần quốc đức 20002117	27.63	19	Ho_Hai_Phong_20002149_Cau2.c	tran_quoc_duc_20002117_cau_3.c
+Hồ Hải Phong 20002149	52.54	Nguyễn Công Dũng - 20002111	52.54	32	Ho_Hai_Phong_20002149_Cau2.c	Nguyen_Cong_Dung_20002111_Cau_3.c
+Hồ Hải Phong 20002149	43.80	Nguyễn văn hùng - 20002130	43.80	12	Ho_Hai_Phong_20002149_Cau3.c	Nguyen_Van_hung_20002130_Cau_2.c
+Hồ Hải Phong 20002149	23.13	Nguyễn Đình Quang - 20002155	23.13	10	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Hồ Hải Phong 20002149	21.92	Nguyen Nhat Tung	21.92	9	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Nhat_Tung_20002177_Cau1.c
+Hồ Hải Phong 20002149	27.66	Phạm Xuân Tài - 20002161	27.66	13	Ho_Hai_Phong_20002149_Cau2.c	Pham_Xuan_Tai_20002161_Cau_1.c
+Hồ Hải Phong 20002149	27.27	Tran Binh Huong	27.27	9	Ho_Hai_Phong_20002149_Cau1.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Hồ Hải Phong 20002149	37.63	Tran Thanh Phong	37.63	9	Ho_Hai_Phong_20002149_Cau1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Hồ Hải Phong 20002149	24.28	Tran Kim Phuong	24.28	9	Ho_Hai_Phong_20002149_Cau3.c	Tran_kim_phuong_20002154_cau_1.c
+Hồ Hải Phong 20002149	32.04	Nguyễn Trọng Trưởng - 20002172	32.04	13	Ho_Hai_Phong_20002149_Cau2.c	Nguyen_Trong_Truong_20002172_Cau_3.c
+Hồ Hải Phong 20002149	20.05	Dinh Kha Vy	20.05	8	Ho_Hai_Phong_20002149_Cau1.c	Dinh_Kha_Vy_20002183_cau1.c
+Hồ Hải Phong 20002149	26.74	Trần Quốc Khang 20002138	26.74	15	Ho_Hai_Phong_20002149_Cau2.c	Tran_Quoc_Khang_20002138_cau3.c
+Hồ Hải Phong 20002149	30.13	Dam Van Vu	30.13	10	Ho_Hai_Phong_20002149_Cau1.c	Dam_Van_Vu_20002180_Cau_1.c
+Hồ Hải Phong 20002149	29.37	Nguyễn Đình Trung Kiên-20002141	29.37	9	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Hồ Hải Phong 20002149	26.19	Bùi Ngọc Thành - 20002165	26.19	8	Ho_Hai_Phong_20002149_Cau1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Hồ Hải Phong 20002149	27.18	Khuất Đăng Sơn - 20002159	27.18	14	Ho_Hai_Phong_20002149_Cau2.c	khuat_dang_son_20002159_cau_3.c
+Hồ Hải Phong 20002149	59.09	Le Hong Thach	59.09	33	Ho_Hai_Phong_20002149_Cau2.c	Le_Hong_Thach_20002162_Cau_3.c
+Hồ Hải Phong 20002149	35.54	Tran Thien Cuong	35.54	8	Ho_Hai_Phong_20002149_Cau1.c	TRAN THIEN CUON_20002109_BAI1.c
+Hồ Hải Phong 20002149	75.52	Chu Pham Dinh Tu	75.52	13	Ho_Hai_Phong_20002149_Cau1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Hồ Hải Phong 20002149	43.02	Nguyễn Bá Kiên 20002140	43.02	12	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+Hồ Hải Phong 20002149	25.00	Nguyen Trong Son	25.00	14	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Trong_Son_20002160_Cau_1.c
+Hồ Hải Phong 20002149	41.15	Dao Anh Duong	41.15	12	Ho_Hai_Phong_20002149_Cau1.c	Dao_Anh_Duong_20002112_cau_1.c
+Hồ Hải Phong 20002149	40.11	Phạm Tiến Anh-20002106	40.11	8	Ho_Hai_Phong_20002149_Cau1.c	Pham_Tien_Anh_20002106_Cau1.c
+Hồ Hải Phong 20002149	30.37	nguyen truong danh 20002110	30.37	17	Ho_Hai_Phong_20002149_Cau2.c	Nguyen_Truong_Danh-20002110_Cau_3.c
+Hồ Hải Phong 20002149	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Hồ Hải Phong 20002149	24.67	Nguyễn Mạnh Trung - 20002171	24.67	10	Ho_Hai_Phong_20002149_Cau3.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Hồ Hải Phong 20002149	87.10	Pham Hoang An	87.10	18	Ho_Hai_Phong_20002149_Cau1.c	Pham_Hoang_AN_20002102_Cau_1.c
+Hồ Hải Phong 20002149	39.10	Nguyen Thanh Long	39.10	5	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Hồ Hải Phong 20002149	40.32	Nguyễn ANh Tuấn_20002176	40.32	22	Ho_Hai_Phong_20002149_Cau2.c	Nguyen_Anh_Tuan_20002176_Cau_3.c
+Hồ Hải Phong 20002149	27.13	Tran ANh Minh 20002144	27.13	9	Ho_Hai_Phong_20002149_Cau1.c	Tran_Anh_Minh_20002144_Cau_1.c
+Hồ Hải Phong 20002149	14.34	Hoàng Hữu Hiếu_20002125	14.34	8	Ho_Hai_Phong_20002149_Cau1.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Hồ Hải Phong 20002149	25.44	Nguyễn Thế Phong 20002150	25.44	9	Ho_Hai_Phong_20002149_Cau1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Hồ Hải Phong 20002149	26.19	Phung_Phuc_Hau_20002123	26.19	14	Ho_Hai_Phong_20002149_Cau1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Hồ Hải Phong 20002149	18.27	Đỗ Phương Nam-20002145	18.27	7	Ho_Hai_Phong_20002149_Cau1.c	Do Phuong Nam-20002145-Cau1.c
+Hồ Hải Phong 20002149	26.42	Do_Minh_Tuan_20002175	26.42	10	Ho_Hai_Phong_20002149_Cau1.c	Do_Minh_Tuan_20002175_Cau1.c
+Hồ Hải Phong 20002149	27.15	Luu The Trung	27.15	9	Ho_Hai_Phong_20002149_Cau3.c	Luu_The_Trung_20002170_cau_2.c
+Hồ Hải Phong 20002149	26.94	Dương Đức Thịnh-20002166	26.94	8	Ho_Hai_Phong_20002149_Cau1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Hồ Hải Phong 20002149	28.75	Le_Sy_Van_20002178	28.75	8	Ho_Hai_Phong_20002149_Cau1.c	Le_Sy_Van_20002178_Cau_1.c
+Hồ Hải Phong 20002149	23.70	Luyen Thi Quyen	23.70	20	Ho_Hai_Phong_20002149_Cau2.c	luyen_thi_quyen_20002158_cau_3.c
+Hồ Hải Phong 20002149	27.83	Truong Tuan Anh	27.83	14	Ho_Hai_Phong_20002149_Cau1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Hồ Hải Phong 20002149	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Xuân Tuấn Anh - 20002105	35.20	Nguyen Thu Ha	35.20	19	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	nguyenthuha20002121cau-2.c
+Nguyễn Xuân Tuấn Anh - 20002105	36.76	Nguyễn Quang Huy-20002133	36.76	18	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Nguyen_Quang_Huy_20002133_Cau 2.c
+Nguyễn Xuân Tuấn Anh - 20002105	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyễn Xuân Tuấn Anh - 20002105	25.68	nguyen dinh hai 20002122	25.68	11	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	nguyen dinh hai 2002122 bai 1.c
+Nguyễn Xuân Tuấn Anh - 20002105	33.26	trần quốc đức 20002117	33.26	19	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	tran_quoc_duc_20002117_cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	21.42	Nguyễn Công Dũng - 20002111	21.42	23	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Nguyen_Cong_Dung_20002111_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	33.23	Nguyễn văn hùng - 20002130	33.23	17	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Nguyen_Van_hung_20002130_Cau_3.c
+Nguyễn Xuân Tuấn Anh - 20002105	19.51	Nguyễn Đình Quang - 20002155	19.51	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	55.00	Nguyen Nhat Tung	55.00	35	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Nguyen_Nhat_Tung_20002177_Cau2.c
+Nguyễn Xuân Tuấn Anh - 20002105	50.80	Phạm Xuân Tài - 20002161	50.80	47	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Pham_Xuan_Tai_20002161_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	28.90	Tran Binh Huong	28.90	9	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Nguyễn Xuân Tuấn Anh - 20002105	39.13	Tran Thanh Phong	39.13	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyễn Xuân Tuấn Anh - 20002105	37.79	Tran Kim Phuong	37.79	19	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Tran_kim_phuong_20002154_cau_3.c
+Nguyễn Xuân Tuấn Anh - 20002105	28.20	Nguyễn Trọng Trưởng - 20002172	28.20	7	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	32.10	Dinh Kha Vy	32.10	15	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Dinh_Kha_Vy_20002183_cau3.c
+Nguyễn Xuân Tuấn Anh - 20002105	25.37	Trần Quốc Khang 20002138	25.37	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Tran_Quoc_Khang_20002138_cau2.c
+Nguyễn Xuân Tuấn Anh - 20002105	43.87	Dam Van Vu	43.87	32	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Dam_Van_Vu_20002180_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	48.91	Nguyễn Đình Trung Kiên-20002141	48.91	11	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	41.92	Bùi Ngọc Thành - 20002165	41.92	11	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	21.76	Khuất Đăng Sơn - 20002159	21.76	20	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	khuat_dang_son_20002159_cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	51.55	Le Hong Thach	51.55	23	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Le_Hong_Thach_20002162_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	37.04	Tran Thien Cuong	37.04	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Xuân Tuấn Anh - 20002105	31.13	Chu Pham Dinh Tu	31.13	7	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	41.92	Nguyễn Bá Kiên 20002140	41.92	9	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	40.89	Nguyen Trong Son	40.89	15	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_Trong_Son_20002160_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	31.94	Dao Anh Duong	31.94	10	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Dao_Anh_Duong_20002112_cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	41.61	Phạm Tiến Anh-20002106	41.61	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Nguyễn Xuân Tuấn Anh - 20002105	26.17	nguyen truong danh 20002110	26.17	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Xuân Tuấn Anh - 20002105	24.38	Nguyễn Mạnh Trung - 20002171	24.38	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn Xuân Tuấn Anh - 20002105	29.94	Pham Hoang An	29.94	10	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Xuân Tuấn Anh - 20002105	41.41	Nguyen Thanh Long	41.41	6	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	38.33	Nguyễn ANh Tuấn_20002176	38.33	31	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	55.83	Tran ANh Minh 20002144	55.83	31	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	19.44	Hoàng Hữu Hiếu_20002125	19.44	17	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	29.26	Nguyễn Thế Phong 20002150	29.26	9	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	51.11	Phung_Phuc_Hau_20002123	51.11	29	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	23.04	Đỗ Phương Nam-20002145	23.04	12	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Xuân Tuấn Anh - 20002105	55.28	Do_Minh_Tuan_20002175	55.28	33	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Xuân Tuấn Anh - 20002105	28.69	Luu The Trung	28.69	18	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	Luu_The_Trung_20002170_cau_3.c
+Nguyễn Xuân Tuấn Anh - 20002105	26.38	Dương Đức Thịnh-20002166	26.38	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	25.71	Le_Sy_Van_20002178	25.71	8	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Nguyễn Xuân Tuấn Anh - 20002105	36.84	Luyen Thi Quyen	36.84	23	Nguyen_Xuan_Tuan_Anh_20002105_Cau_2.c	luyen_thi_quyen_20002158_cau_3.c
+Nguyễn Xuân Tuấn Anh - 20002105	33.49	Truong Tuan Anh	33.49	11	Nguyen_Xuan_Tuan_Anh_20002105_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Nguyễn Xuân Tuấn Anh - 20002105	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyen Thu Ha	36.68	Nguyễn Quang Huy-20002133	36.68	13	nguyenthuha20002121cau-2.c	Nguyen_Quang_Huy_20002133_Cau 1.c
+Nguyen Thu Ha	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyen Thu Ha	15.83	nguyen dinh hai 20002122	15.83	8	nguyenthuha20002121cau1.c	nguyen dinh hai 2002122 bai 1.c
+Nguyen Thu Ha	37.86	trần quốc đức 20002117	37.86	20	nguyenthuha20002121cau-2.c	tran_quoc_duc_20002117_cau_2.c
+Nguyen Thu Ha	29.52	Nguyễn Công Dũng - 20002111	29.52	20	nguyenthuha20002121cau-2.c	Nguyen_Cong_Dung_20002111_Cau_2.c
+Nguyen Thu Ha	25.12	Nguyễn văn hùng - 20002130	25.12	9	nguyenthuha20002121cau1.c	Nguyen_Van_hung_20002130_Cau_2.c
+Nguyen Thu Ha	31.40	Nguyễn Đình Quang - 20002155	31.40	16	nguyenthuha20002121cau-2.c	Nguyen_Dinh_Quang_20002155_Cau_2.c
+Nguyen Thu Ha	41.23	Nguyen Nhat Tung	41.23	28	nguyenthuha20002121cau-2.c	Nguyen_Nhat_Tung_20002177_Cau3.c
+Nguyen Thu Ha	41.46	Phạm Xuân Tài - 20002161	41.46	12	nguyenthuha20002121cau1.c	Pham_Xuan_Tai_20002161_Cau_1.c
+Nguyen Thu Ha	35.66	Tran Binh Huong	35.66	23	nguyenthuha20002121cau-2.c	TRAN_BINH_HUONG_20002137_CAU 2.c
+Nguyen Thu Ha	34.20	Tran Thanh Phong	34.20	11	nguyenthuha20002121cau-2.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyen Thu Ha	28.44	Tran Kim Phuong	28.44	20	nguyenthuha20002121cau-2.c	Tran_kim_phuong_20002154_cau_3.c
+Nguyen Thu Ha	36.17	Nguyễn Trọng Trưởng - 20002172	36.17	9	nguyenthuha20002121cau-2.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyen Thu Ha	36.68	Dinh Kha Vy	36.68	13	nguyenthuha20002121cau-2.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyen Thu Ha	22.74	Trần Quốc Khang 20002138	22.74	10	nguyenthuha20002121cau-2.c	Tran_Quoc_Khang_20002138_cau2.c
+Nguyen Thu Ha	37.70	Dam Van Vu	37.70	9	nguyenthuha20002121cau1.c	Dam_Van_Vu_20002180_Cau_1.c
+Nguyen Thu Ha	36.62	Nguyễn Đình Trung Kiên-20002141	36.62	9	nguyenthuha20002121cau1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyen Thu Ha	27.26	Bùi Ngọc Thành - 20002165	27.26	9	nguyenthuha20002121cau1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyen Thu Ha	36.86	Khuất Đăng Sơn - 20002159	36.86	18	nguyenthuha20002121cau-2.c	khuat_dang_son_20002159_cau_2.c
+Nguyen Thu Ha	38.32	Le Hong Thach	38.32	21	nguyenthuha20002121cau-2.c	Le_Hong_Thach_20002162_Cau_2.c
+Nguyen Thu Ha	26.94	Tran Thien Cuong	26.94	7	nguyenthuha20002121cau1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyen Thu Ha	29.72	Chu Pham Dinh Tu	29.72	11	nguyenthuha20002121cau-2.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Nguyen Thu Ha	35.37	Nguyễn Bá Kiên 20002140	35.37	16	nguyenthuha20002121cau-2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyen Thu Ha	32.52	Nguyen Trong Son	32.52	18	nguyenthuha20002121cau-2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyen Thu Ha	31.61	Dao Anh Duong	31.61	11	nguyenthuha20002121cau-2.c	Dao_Anh_Duong_20002112_cau2.c
+Nguyen Thu Ha	30.75	Phạm Tiến Anh-20002106	30.75	7	nguyenthuha20002121cau1.c	Pham_Tien_Anh_20002106_Cau1.c
+Nguyen Thu Ha	37.10	nguyen truong danh 20002110	37.10	20	nguyenthuha20002121cau-2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Nguyen Thu Ha	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyen Thu Ha	28.38	Nguyễn Mạnh Trung - 20002171	28.38	12	nguyenthuha20002121cau-2.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyen Thu Ha	34.86	Pham Hoang An	34.86	15	nguyenthuha20002121cau-2.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyen Thu Ha	56.08	Nguyen Thanh Long	56.08	6	nguyenthuha20002121cau-2.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyen Thu Ha	32.02	Nguyễn ANh Tuấn_20002176	32.02	26	nguyenthuha20002121cau-2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyen Thu Ha	38.12	Tran ANh Minh 20002144	38.12	18	nguyenthuha20002121cau-2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Nguyen Thu Ha	29.28	Hoàng Hữu Hiếu_20002125	29.28	11	nguyenthuha20002121cau-2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyen Thu Ha	32.09	Nguyễn Thế Phong 20002150	32.09	20	nguyenthuha20002121cau-2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyen Thu Ha	43.93	Phung_Phuc_Hau_20002123	43.93	27	nguyenthuha20002121cau-2.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Nguyen Thu Ha	33.41	Đỗ Phương Nam-20002145	33.41	17	nguyenthuha20002121cau-2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyen Thu Ha	42.27	Do_Minh_Tuan_20002175	42.27	25	nguyenthuha20002121cau-2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyen Thu Ha	19.84	Luu The Trung	19.84	7	nguyenthuha20002121cau-2.c	Luu_The_Trung_20002170_cau_1.c
+Nguyen Thu Ha	28.34	Dương Đức Thịnh-20002166	28.34	15	nguyenthuha20002121cau-2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyen Thu Ha	28.04	Le_Sy_Van_20002178	28.04	11	nguyenthuha20002121cau-2.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyen Thu Ha	36.68	Luyen Thi Quyen	36.68	13	nguyenthuha20002121cau-2.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyen Thu Ha	27.83	Truong Tuan Anh	27.83	12	nguyenthuha20002121cau-2.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Nguyen Thu Ha	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Quang Huy-20002133	0.00	Nguyễn Hồng Giang 20002118	0.00	0
+Nguyễn Quang Huy-20002133	18.04	nguyen dinh hai 20002122	18.04	8	Nguyen_Quang_Huy_20002133_Cau 1.c	nguyen dinh hai 2002122 bai 1.c
+Nguyễn Quang Huy-20002133	75.00	trần quốc đức 20002117	75.00	16	Nguyen_Quang_Huy_20002133_Cau 1.c	tran_quoc_duc_20002117_cau_1.c
+Nguyễn Quang Huy-20002133	37.65	Nguyễn Công Dũng - 20002111	37.65	12	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Cong_Dung_20002111_Cau_1.c
+Nguyễn Quang Huy-20002133	26.29	Nguyễn văn hùng - 20002130	26.29	7	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Van_hung_20002130_Cau_1.c
+Nguyễn Quang Huy-20002133	37.32	Nguyễn Đình Quang - 20002155	37.32	12	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Nguyễn Quang Huy-20002133	44.92	Nguyen Nhat Tung	44.92	23	Nguyen_Quang_Huy_20002133_Cau 2.c	Nguyen_Nhat_Tung_20002177_Cau2.c
+Nguyễn Quang Huy-20002133	36.40	Phạm Xuân Tài - 20002161	36.40	29	Nguyen_Quang_Huy_20002133_Cau 2.c	Pham_Xuan_Tai_20002161_Cau_2.c
+Nguyễn Quang Huy-20002133	42.21	Tran Binh Huong	42.21	11	Nguyen_Quang_Huy_20002133_Cau 1.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Nguyễn Quang Huy-20002133	54.66	Tran Thanh Phong	54.66	10	Nguyen_Quang_Huy_20002133_Cau 1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyễn Quang Huy-20002133	28.74	Tran Kim Phuong	28.74	8	Nguyen_Quang_Huy_20002133_Cau 1.c	Tran_kim_phuong_20002154_cau_1.c
+Nguyễn Quang Huy-20002133	42.58	Nguyễn Trọng Trưởng - 20002172	42.58	9	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyễn Quang Huy-20002133	85.71	Dinh Kha Vy	85.71	18	Nguyen_Quang_Huy_20002133_Cau 1.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyễn Quang Huy-20002133	36.31	Trần Quốc Khang 20002138	36.31	9	Nguyen_Quang_Huy_20002133_Cau 1.c	Tran_Quoc_Khang_20002138_cau1.c
+Nguyễn Quang Huy-20002133	33.15	Dam Van Vu	33.15	17	Nguyen_Quang_Huy_20002133_Cau 2.c	Dam_Van_Vu_20002180_Cau_2.c
+Nguyễn Quang Huy-20002133	25.09	Nguyễn Đình Trung Kiên-20002141	25.09	10	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c
+Nguyễn Quang Huy-20002133	24.19	Bùi Ngọc Thành - 20002165	24.19	11	Nguyen_Quang_Huy_20002133_Cau 2.c	Bui_Ngoc_Thanh_20002165_Cau_3.c
+Nguyễn Quang Huy-20002133	35.71	Khuất Đăng Sơn - 20002159	35.71	10	Nguyen_Quang_Huy_20002133_Cau 1.c	khuat_dang_son_20002159_cau_1.c
+Nguyễn Quang Huy-20002133	41.63	Le Hong Thach	41.63	19	Nguyen_Quang_Huy_20002133_Cau 2.c	Le_Hong_Thach_20002162_Cau_2.c
+Nguyễn Quang Huy-20002133	35.05	Tran Thien Cuong	35.05	7	Nguyen_Quang_Huy_20002133_Cau 1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Quang Huy-20002133	26.88	Chu Pham Dinh Tu	26.88	20	Nguyen_Quang_Huy_20002133_Cau 2.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Nguyễn Quang Huy-20002133	32.65	Nguyễn Bá Kiên 20002140	32.65	14	Nguyen_Quang_Huy_20002133_Cau 2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyễn Quang Huy-20002133	27.22	Nguyen Trong Son	27.22	18	Nguyen_Quang_Huy_20002133_Cau 2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn Quang Huy-20002133	23.58	Dao Anh Duong	23.58	20	Nguyen_Quang_Huy_20002133_Cau 2.c	Dao_Anh_Duong_20002112_cau2.c
+Nguyễn Quang Huy-20002133	38.74	Phạm Tiến Anh-20002106	38.74	11	Nguyen_Quang_Huy_20002133_Cau 1.c	Pham_Tien_Anh_20002106_Cau3.c
+Nguyễn Quang Huy-20002133	33.07	nguyen truong danh 20002110	33.07	12	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Nguyễn Quang Huy-20002133	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Quang Huy-20002133	41.06	Nguyễn Mạnh Trung - 20002171	41.06	10	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn Quang Huy-20002133	32.90	Pham Hoang An	32.90	9	Nguyen_Quang_Huy_20002133_Cau 1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Quang Huy-20002133	71.43	Nguyen Thanh Long	71.43	6	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Quang Huy-20002133	31.67	Nguyễn ANh Tuấn_20002176	31.67	27	Nguyen_Quang_Huy_20002133_Cau 2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Quang Huy-20002133	46.94	Tran ANh Minh 20002144	46.94	19	Nguyen_Quang_Huy_20002133_Cau 2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Nguyễn Quang Huy-20002133	29.98	Hoàng Hữu Hiếu_20002125	29.98	10	Nguyen_Quang_Huy_20002133_Cau 1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Nguyễn Quang Huy-20002133	33.15	Nguyễn Thế Phong 20002150	33.15	16	Nguyen_Quang_Huy_20002133_Cau 1.c	Nguyen_The_Phong_20002150_Cau_3.c
+Nguyễn Quang Huy-20002133	39.77	Phung_Phuc_Hau_20002123	39.77	31	Nguyen_Quang_Huy_20002133_Cau 2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyễn Quang Huy-20002133	23.63	Đỗ Phương Nam-20002145	23.63	16	Nguyen_Quang_Huy_20002133_Cau 2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Quang Huy-20002133	46.59	Do_Minh_Tuan_20002175	46.59	20	Nguyen_Quang_Huy_20002133_Cau 2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Quang Huy-20002133	30.08	Luu The Trung	30.08	7	Nguyen_Quang_Huy_20002133_Cau 1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn Quang Huy-20002133	23.01	Dương Đức Thịnh-20002166	23.01	16	Nguyen_Quang_Huy_20002133_Cau 2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Quang Huy-20002133	24.05	Le_Sy_Van_20002178	24.05	18	Nguyen_Quang_Huy_20002133_Cau 2.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyễn Quang Huy-20002133	100.00	Luyen Thi Quyen	100.00	18	Nguyen_Quang_Huy_20002133_Cau 1.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyễn Quang Huy-20002133	40.18	Truong Tuan Anh	40.18	9	Nguyen_Quang_Huy_20002133_Cau 1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyễn Quang Huy-20002133	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	nguyen dinh hai 20002122	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	trần quốc đức 20002117	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Công Dũng - 20002111	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn văn hùng - 20002130	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Đình Quang - 20002155	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyen Nhat Tung	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Phạm Xuân Tài - 20002161	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Tran Binh Huong	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Tran Thanh Phong	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Tran Kim Phuong	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Trọng Trưởng - 20002172	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Dinh Kha Vy	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Trần Quốc Khang 20002138	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Dam Van Vu	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Đình Trung Kiên-20002141	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Bùi Ngọc Thành - 20002165	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Khuất Đăng Sơn - 20002159	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Le Hong Thach	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Tran Thien Cuong	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Chu Pham Dinh Tu	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Bá Kiên 20002140	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyen Trong Son	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Dao Anh Duong	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Phạm Tiến Anh-20002106	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	nguyen truong danh 20002110	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Mạnh Trung - 20002171	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Pham Hoang An	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyen Thanh Long	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn ANh Tuấn_20002176	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Tran ANh Minh 20002144	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Hoàng Hữu Hiếu_20002125	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Thế Phong 20002150	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Phung_Phuc_Hau_20002123	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Đỗ Phương Nam-20002145	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Do_Minh_Tuan_20002175	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Luu The Trung	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Dương Đức Thịnh-20002166	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Le_Sy_Van_20002178	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Luyen Thi Quyen	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Truong Tuan Anh	0.00	0
+Nguyễn Hồng Giang 20002118	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+nguyen dinh hai 20002122	18.80	trần quốc đức 20002117	18.80	19	nguyen dinh hai 2002122 bai 2.c	tran_quoc_duc_20002117_cau_3.c
+nguyen dinh hai 20002122	24.11	Nguyễn Công Dũng - 20002111	24.11	17	nguyen dinh hai 2002122 bai 2.c	Nguyen_Cong_Dung_20002111_Cau_3.c
+nguyen dinh hai 20002122	40.10	Nguyễn văn hùng - 20002130	40.10	12	nguyen dinh hai 20002122 bai 3.c	Nguyen_Van_hung_20002130_Cau_2.c
+nguyen dinh hai 20002122	19.76	Nguyễn Đình Quang - 20002155	19.76	10	nguyen dinh hai 2002122 bai 1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+nguyen dinh hai 20002122	17.80	Nguyen Nhat Tung	17.80	17	nguyen dinh hai 2002122 bai 2.c	Nguyen_Nhat_Tung_20002177_Cau2.c
+nguyen dinh hai 20002122	35.37	Phạm Xuân Tài - 20002161	35.37	10	nguyen dinh hai 2002122 bai 1.c	Pham_Xuan_Tai_20002161_Cau_1.c
+nguyen dinh hai 20002122	24.46	Tran Binh Huong	24.46	11	nguyen dinh hai 2002122 bai 1.c	TRAN_BINH_HUONG_20002137_CAU 2.c
+nguyen dinh hai 20002122	37.55	Tran Thanh Phong	37.55	5	nguyen dinh hai 2002122 bai 1.c	Tran_Thanh_Phong_20002152_Cau2.c
+nguyen dinh hai 20002122	25.84	Tran Kim Phuong	25.84	9	nguyen dinh hai 2002122 bai 1.c	Tran_kim_phuong_20002154_cau_1.c
+nguyen dinh hai 20002122	24.96	Nguyễn Trọng Trưởng - 20002172	24.96	8	nguyen dinh hai 2002122 bai 1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+nguyen dinh hai 20002122	21.04	Dinh Kha Vy	21.04	9	nguyen dinh hai 2002122 bai 1.c	Dinh_Kha_Vy_20002183_cau1.c
+nguyen dinh hai 20002122	15.85	Trần Quốc Khang 20002138	15.85	13	nguyen dinh hai 2002122 bai 2.c	Tran_Quoc_Khang_20002138_cau3.c
+nguyen dinh hai 20002122	27.23	Dam Van Vu	27.23	11	nguyen dinh hai 2002122 bai 1.c	Dam_Van_Vu_20002180_Cau_1.c
+nguyen dinh hai 20002122	26.42	Nguyễn Đình Trung Kiên-20002141	26.42	10	nguyen dinh hai 2002122 bai 1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+nguyen dinh hai 20002122	24.55	Bùi Ngọc Thành - 20002165	24.55	10	nguyen dinh hai 2002122 bai 1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+nguyen dinh hai 20002122	17.41	Khuất Đăng Sơn - 20002159	17.41	9	nguyen dinh hai 2002122 bai 1.c	khuat_dang_son_20002159_cau_3.c
+nguyen dinh hai 20002122	27.62	Le Hong Thach	27.62	9	nguyen dinh hai 2002122 bai 1.c	Le_Hong_Thach_20002162_Cau_1.c
+nguyen dinh hai 20002122	34.12	Tran Thien Cuong	34.12	9	nguyen dinh hai 2002122 bai 1.c	TRAN THIEN CUON_20002109_BAI1.c
+nguyen dinh hai 20002122	31.70	Chu Pham Dinh Tu	31.70	9	nguyen dinh hai 2002122 bai 1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+nguyen dinh hai 20002122	36.82	Nguyễn Bá Kiên 20002140	36.82	11	nguyen dinh hai 2002122 bai 1.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+nguyen dinh hai 20002122	18.94	Nguyen Trong Son	18.94	13	nguyen dinh hai 2002122 bai 1.c	Nguyen_Trong_Son_20002160_Cau_1.c
+nguyen dinh hai 20002122	49.09	Dao Anh Duong	49.09	12	nguyen dinh hai 2002122 bai 1.c	Dao_Anh_Duong_20002112_cau_1.c
+nguyen dinh hai 20002122	36.07	Phạm Tiến Anh-20002106	36.07	8	nguyen dinh hai 2002122 bai 1.c	Pham_Tien_Anh_20002106_Cau1.c
+nguyen dinh hai 20002122	21.44	nguyen truong danh 20002110	21.44	16	nguyen dinh hai 2002122 bai 2.c	Nguyen_Truong_Danh-20002110_Cau_3.c
+nguyen dinh hai 20002122	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+nguyen dinh hai 20002122	35.57	Nguyễn Mạnh Trung - 20002171	35.57	10	nguyen dinh hai 2002122 bai 1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+nguyen dinh hai 20002122	28.80	Pham Hoang An	28.80	13	nguyen dinh hai 2002122 bai 1.c	Pham_Hoang_AN_20002102_Cau_1.c
+nguyen dinh hai 20002122	37.08	Nguyen Thanh Long	37.08	5	nguyen dinh hai 2002122 bai 1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+nguyen dinh hai 20002122	25.36	Nguyễn ANh Tuấn_20002176	25.36	14	nguyen dinh hai 2002122 bai 2.c	Nguyen_Anh_Tuan_20002176_Cau_3.c
+nguyen dinh hai 20002122	23.56	Tran ANh Minh 20002144	23.56	10	nguyen dinh hai 2002122 bai 1.c	Tran_Anh_Minh_20002144_Cau_1.c
+nguyen dinh hai 20002122	16.43	Hoàng Hữu Hiếu_20002125	16.43	8	nguyen dinh hai 2002122 bai 1.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+nguyen dinh hai 20002122	25.69	Nguyễn Thế Phong 20002150	25.69	9	nguyen dinh hai 2002122 bai 1.c	Nguyen_The_Phong_20002150_Cau_1.c
+nguyen dinh hai 20002122	24.55	Phung_Phuc_Hau_20002123	24.55	9	nguyen dinh hai 2002122 bai 1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+nguyen dinh hai 20002122	18.96	Đỗ Phương Nam-20002145	18.96	7	nguyen dinh hai 2002122 bai 1.c	Do Phuong Nam-20002145-Cau1.c
+nguyen dinh hai 20002122	26.37	Do_Minh_Tuan_20002175	26.37	11	nguyen dinh hai 2002122 bai 1.c	Do_Minh_Tuan_20002175_Cau1.c
+nguyen dinh hai 20002122	24.44	Luu The Trung	24.44	9	nguyen dinh hai 20002122 bai 3.c	Luu_The_Trung_20002170_cau_2.c
+nguyen dinh hai 20002122	22.57	Dương Đức Thịnh-20002166	22.57	9	nguyen dinh hai 2002122 bai 1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+nguyen dinh hai 20002122	22.75	Le_Sy_Van_20002178	22.75	8	nguyen dinh hai 2002122 bai 1.c	Le_Sy_Van_20002178_Cau_3.c
+nguyen dinh hai 20002122	27.20	Luyen Thi Quyen	27.20	24	nguyen dinh hai 2002122 bai 2.c	luyen_thi_quyen_20002158_cau_3.c
+nguyen dinh hai 20002122	22.27	Truong Tuan Anh	22.27	15	nguyen dinh hai 20002122 bai 3.c	Truong_Tuan_Anh_20002107_Câu_2.c
+nguyen dinh hai 20002122	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+trần quốc đức 20002117	29.77	Nguyễn Công Dũng - 20002111	29.77	23	tran_quoc_duc_20002117_cau_2.c	Nguyen_Cong_Dung_20002111_Cau_2.c
+trần quốc đức 20002117	22.71	Nguyễn văn hùng - 20002130	22.71	7	tran_quoc_duc_20002117_cau_1.c	Nguyen_Van_hung_20002130_Cau_1.c
+trần quốc đức 20002117	32.12	Nguyễn Đình Quang - 20002155	32.12	20	tran_quoc_duc_20002117_cau_2.c	Nguyen_Dinh_Quang_20002155_Cau_2.c
+trần quốc đức 20002117	35.50	Nguyen Nhat Tung	35.50	20	tran_quoc_duc_20002117_cau_2.c	Nguyen_Nhat_Tung_20002177_Cau3.c
+trần quốc đức 20002117	32.74	Phạm Xuân Tài - 20002161	32.74	25	tran_quoc_duc_20002117_cau_2.c	Pham_Xuan_Tai_20002161_Cau_2.c
+trần quốc đức 20002117	32.14	Tran Binh Huong	32.14	8	tran_quoc_duc_20002117_cau_1.c	TRAN_BINH_HUONG_20002137_CAU 3.c
+trần quốc đức 20002117	47.52	Tran Thanh Phong	47.52	10	tran_quoc_duc_20002117_cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+trần quốc đức 20002117	24.57	Tran Kim Phuong	24.57	8	tran_quoc_duc_20002117_cau_1.c	Tran_kim_phuong_20002154_cau_1.c
+trần quốc đức 20002117	37.82	Nguyễn Trọng Trưởng - 20002172	37.82	9	tran_quoc_duc_20002117_cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+trần quốc đức 20002117	83.33	Dinh Kha Vy	83.33	16	tran_quoc_duc_20002117_cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+trần quốc đức 20002117	30.36	Trần Quốc Khang 20002138	30.36	9	tran_quoc_duc_20002117_cau_1.c	Tran_Quoc_Khang_20002138_cau1.c
+trần quốc đức 20002117	34.03	Dam Van Vu	34.03	22	tran_quoc_duc_20002117_cau_2.c	Dam_Van_Vu_20002180_Cau_2.c
+trần quốc đức 20002117	30.74	Nguyễn Đình Trung Kiên-20002141	30.74	15	tran_quoc_duc_20002117_cau_2.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c
+trần quốc đức 20002117	30.85	Bùi Ngọc Thành - 20002165	30.85	15	tran_quoc_duc_20002117_cau_2.c	BUI_NGOC_THANH_20002165_Cau 2.c
+trần quốc đức 20002117	29.76	Khuất Đăng Sơn - 20002159	29.76	10	tran_quoc_duc_20002117_cau_1.c	khuat_dang_son_20002159_cau_1.c
+trần quốc đức 20002117	45.94	Le Hong Thach	45.94	21	tran_quoc_duc_20002117_cau_2.c	Le_Hong_Thach_20002162_Cau_2.c
+trần quốc đức 20002117	30.29	Tran Thien Cuong	30.29	7	tran_quoc_duc_20002117_cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+trần quốc đức 20002117	26.68	Chu Pham Dinh Tu	26.68	12	tran_quoc_duc_20002117_cau_3.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+trần quốc đức 20002117	40.01	Nguyễn Bá Kiên 20002140	40.01	17	tran_quoc_duc_20002117_cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+trần quốc đức 20002117	39.48	Nguyen Trong Son	39.48	15	tran_quoc_duc_20002117_cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+trần quốc đức 20002117	22.24	Dao Anh Duong	22.24	15	tran_quoc_duc_20002117_cau_2.c	Dao_Anh_Duong_20002112_cau2.c
+trần quốc đức 20002117	33.38	Phạm Tiến Anh-20002106	33.38	9	tran_quoc_duc_20002117_cau_1.c	Pham_Tien_Anh_20002106_Cau3.c
+trần quốc đức 20002117	33.63	nguyen truong danh 20002110	33.63	16	tran_quoc_duc_20002117_cau_2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+trần quốc đức 20002117	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+trần quốc đức 20002117	37.01	Nguyễn Mạnh Trung - 20002171	37.01	17	tran_quoc_duc_20002117_cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+trần quốc đức 20002117	36.02	Pham Hoang An	36.02	19	tran_quoc_duc_20002117_cau_3.c	Pham_Hoang_An_20002102_Cau_2.c
+trần quốc đức 20002117	66.07	Nguyen Thanh Long	66.07	6	tran_quoc_duc_20002117_cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+trần quốc đức 20002117	31.99	Nguyễn ANh Tuấn_20002176	31.99	28	tran_quoc_duc_20002117_cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+trần quốc đức 20002117	44.17	Tran ANh Minh 20002144	44.17	17	tran_quoc_duc_20002117_cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+trần quốc đức 20002117	26.20	Hoàng Hữu Hiếu_20002125	26.20	12	tran_quoc_duc_20002117_cau_3.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+trần quốc đức 20002117	36.11	Nguyễn Thế Phong 20002150	36.11	24	tran_quoc_duc_20002117_cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+trần quốc đức 20002117	37.30	Phung_Phuc_Hau_20002123	37.30	30	tran_quoc_duc_20002117_cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+trần quốc đức 20002117	32.04	Đỗ Phương Nam-20002145	32.04	13	tran_quoc_duc_20002117_cau_2.c	Do Phuong Nam-20002145-Cau2.c
+trần quốc đức 20002117	40.14	Do_Minh_Tuan_20002175	40.14	29	tran_quoc_duc_20002117_cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+trần quốc đức 20002117	26.50	Luu The Trung	26.50	7	tran_quoc_duc_20002117_cau_1.c	Luu_The_Trung_20002170_cau_1.c
+trần quốc đức 20002117	25.75	Dương Đức Thịnh-20002166	25.75	13	tran_quoc_duc_20002117_cau_3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+trần quốc đức 20002117	26.39	Le_Sy_Van_20002178	26.39	18	tran_quoc_duc_20002117_cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+trần quốc đức 20002117	75.00	Luyen Thi Quyen	75.00	16	tran_quoc_duc_20002117_cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+trần quốc đức 20002117	34.82	Truong Tuan Anh	34.82	9	tran_quoc_duc_20002117_cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+trần quốc đức 20002117	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Công Dũng - 20002111	21.28	Nguyễn văn hùng - 20002130	21.28	10	Nguyen_Cong_Dung_20002111_Cau_3.c	Nguyen_Van_hung_20002130_Cau_2.c
+Nguyễn Công Dũng - 20002111	31.11	Nguyễn Đình Quang - 20002155	31.11	13	Nguyen_Cong_Dung_20002111_Cau_1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Nguyễn Công Dũng - 20002111	30.80	Nguyen Nhat Tung	30.80	23	Nguyen_Cong_Dung_20002111_Cau_2.c	Nguyen_Nhat_Tung_20002177_Cau2.c
+Nguyễn Công Dũng - 20002111	25.83	Phạm Xuân Tài - 20002161	25.83	9	Nguyen_Cong_Dung_20002111_Cau_3.c	Pham_Xuan_Tai_20002161_Cau_1.c
+Nguyễn Công Dũng - 20002111	26.14	Tran Binh Huong	26.14	11	Nguyen_Cong_Dung_20002111_Cau_1.c	TRAN_BINH_HUONG_20002137_CAU1.c
+Nguyễn Công Dũng - 20002111	32.16	Tran Thanh Phong	32.16	8	Nguyen_Cong_Dung_20002111_Cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyễn Công Dũng - 20002111	19.41	Tran Kim Phuong	19.41	22	Nguyen_Cong_Dung_20002111_Cau_2.c	Tran_kim_phuong_20002154_cau_3.c
+Nguyễn Công Dũng - 20002111	35.48	Nguyễn Trọng Trưởng - 20002172	35.48	14	Nguyen_Cong_Dung_20002111_Cau_3.c	Nguyen_Trong_Truong_20002172_Cau_3.c
+Nguyễn Công Dũng - 20002111	30.80	Dinh Kha Vy	30.80	11	Nguyen_Cong_Dung_20002111_Cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyễn Công Dũng - 20002111	27.13	Trần Quốc Khang 20002138	27.13	10	Nguyen_Cong_Dung_20002111_Cau_1.c	Tran_Quoc_Khang_20002138_cau2.c
+Nguyễn Công Dũng - 20002111	26.48	Dam Van Vu	26.48	19	Nguyen_Cong_Dung_20002111_Cau_2.c	Dam_Van_Vu_20002180_Cau_2.c
+Nguyễn Công Dũng - 20002111	23.17	Nguyễn Đình Trung Kiên-20002141	23.17	10	Nguyen_Cong_Dung_20002111_Cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c
+Nguyễn Công Dũng - 20002111	23.22	Bùi Ngọc Thành - 20002165	23.22	10	Nguyen_Cong_Dung_20002111_Cau_1.c	BUI_NGOC_THANH_20002165_Cau 2.c
+Nguyễn Công Dũng - 20002111	36.89	Khuất Đăng Sơn - 20002159	36.89	17	Nguyen_Cong_Dung_20002111_Cau_3.c	khuat_dang_son_20002159_cau_3.c
+Nguyễn Công Dũng - 20002111	64.28	Le Hong Thach	64.28	33	Nguyen_Cong_Dung_20002111_Cau_3.c	Le_Hong_Thach_20002162_Cau_3.c
+Nguyễn Công Dũng - 20002111	24.39	Tran Thien Cuong	24.39	7	Nguyen_Cong_Dung_20002111_Cau_3.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Công Dũng - 20002111	21.15	Chu Pham Dinh Tu	21.15	15	Nguyen_Cong_Dung_20002111_Cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Nguyễn Công Dũng - 20002111	34.74	Nguyễn Bá Kiên 20002140	34.74	22	Nguyen_Cong_Dung_20002111_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyễn Công Dũng - 20002111	24.09	Nguyen Trong Son	24.09	16	Nguyen_Cong_Dung_20002111_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn Công Dũng - 20002111	25.41	Dao Anh Duong	25.41	10	Nguyen_Cong_Dung_20002111_Cau_3.c	Dao_Anh_Duong_20002112_cau3.c
+Nguyễn Công Dũng - 20002111	26.68	Phạm Tiến Anh-20002106	26.68	8	Nguyen_Cong_Dung_20002111_Cau_1.c	Pham_Tien_Anh_20002106_Cau3.c
+Nguyễn Công Dũng - 20002111	38.01	nguyen truong danh 20002110	38.01	19	Nguyen_Cong_Dung_20002111_Cau_3.c	Nguyen_Truong_Danh-20002110_Cau_3.c
+Nguyễn Công Dũng - 20002111	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Công Dũng - 20002111	28.72	Nguyễn Mạnh Trung - 20002171	28.72	12	Nguyen_Cong_Dung_20002111_Cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn Công Dũng - 20002111	44.61	Pham Hoang An	44.61	34	Nguyen_Cong_Dung_20002111_Cau_3.c	Pham_Hoang_An_20002102_Cau_2.c
+Nguyễn Công Dũng - 20002111	39.58	Nguyen Thanh Long	39.58	6	Nguyen_Cong_Dung_20002111_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Công Dũng - 20002111	30.68	Nguyễn ANh Tuấn_20002176	30.68	16	Nguyen_Cong_Dung_20002111_Cau_3.c	Nguyen_Anh_Tuan_20002176_Cau_3.c
+Nguyễn Công Dũng - 20002111	36.44	Tran ANh Minh 20002144	36.44	22	Nguyen_Cong_Dung_20002111_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Nguyễn Công Dũng - 20002111	18.25	Hoàng Hữu Hiếu_20002125	18.25	9	Nguyen_Cong_Dung_20002111_Cau_1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Nguyễn Công Dũng - 20002111	21.87	Nguyễn Thế Phong 20002150	21.87	23	Nguyen_Cong_Dung_20002111_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyễn Công Dũng - 20002111	21.73	Phung_Phuc_Hau_20002123	21.73	22	Nguyen_Cong_Dung_20002111_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Nguyễn Công Dũng - 20002111	28.22	Đỗ Phương Nam-20002145	28.22	22	Nguyen_Cong_Dung_20002111_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Công Dũng - 20002111	26.41	Do_Minh_Tuan_20002175	26.41	31	Nguyen_Cong_Dung_20002111_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Công Dũng - 20002111	22.04	Luu The Trung	22.04	5	Nguyen_Cong_Dung_20002111_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn Công Dũng - 20002111	22.10	Dương Đức Thịnh-20002166	22.10	24	Nguyen_Cong_Dung_20002111_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Công Dũng - 20002111	20.42	Le_Sy_Van_20002178	20.42	8	Nguyen_Cong_Dung_20002111_Cau_1.c	Le_Sy_Van_20002178_Cau_3.c
+Nguyễn Công Dũng - 20002111	37.65	Luyen Thi Quyen	37.65	12	Nguyen_Cong_Dung_20002111_Cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyễn Công Dũng - 20002111	31.25	Truong Tuan Anh	31.25	10	Nguyen_Cong_Dung_20002111_Cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyễn Công Dũng - 20002111	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn văn hùng - 20002130	23.46	Nguyễn Đình Quang - 20002155	23.46	8	Nguyen_Van_hung_20002130_Cau_1.c	Nguyen_Dinh_Quang_20002155_Cau_1.c
+Nguyễn văn hùng - 20002130	25.58	Nguyen Nhat Tung	25.58	7	Nguyen_Van_hung_20002130_Cau_2.c	Nguyen_Nhat_Tung_20002177_Cau1.c
+Nguyễn văn hùng - 20002130	33.55	Phạm Xuân Tài - 20002161	33.55	17	Nguyen_Van_hung_20002130_Cau_3.c	Pham_Xuan_Tai_20002161_Cau_2.c
+Nguyễn văn hùng - 20002130	29.80	Tran Binh Huong	29.80	9	Nguyen_Van_hung_20002130_Cau_2.c	TRAN_BINH_HUONG_20002137_CAU 2.c
+Nguyễn văn hùng - 20002130	37.57	Tran Thanh Phong	37.57	8	Nguyen_Van_hung_20002130_Cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyễn văn hùng - 20002130	50.05	Tran Kim Phuong	50.05	36	Nguyen_Van_hung_20002130_Cau_3.c	Tran_kim_phuong_20002154_cau_3.c
+Nguyễn văn hùng - 20002130	39.53	Nguyễn Trọng Trưởng - 20002172	39.53	8	Nguyen_Van_hung_20002130_Cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyễn văn hùng - 20002130	26.29	Dinh Kha Vy	26.29	7	Nguyen_Van_hung_20002130_Cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyễn văn hùng - 20002130	25.76	Trần Quốc Khang 20002138	25.76	8	Nguyen_Van_hung_20002130_Cau_1.c	Tran_Quoc_Khang_20002138_cau2.c
+Nguyễn văn hùng - 20002130	30.39	Dam Van Vu	30.39	6	Nguyen_Van_hung_20002130_Cau_2.c	Dam_Van_Vu_20002180_Cau_1.c
+Nguyễn văn hùng - 20002130	23.28	Nguyễn Đình Trung Kiên-20002141	23.28	8	Nguyen_Van_hung_20002130_Cau_2.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyễn văn hùng - 20002130	28.34	Bùi Ngọc Thành - 20002165	28.34	7	Nguyen_Van_hung_20002130_Cau_2.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyễn văn hùng - 20002130	27.00	Khuất Đăng Sơn - 20002159	27.00	9	Nguyen_Van_hung_20002130_Cau_1.c	khuat_dang_son_20002159_cau_2.c
+Nguyễn văn hùng - 20002130	25.75	Le Hong Thach	25.75	5	Nguyen_Van_hung_20002130_Cau_2.c	Le_Hong_Thach_20002162_Cau_1.c
+Nguyễn văn hùng - 20002130	64.00	Tran Thien Cuong	64.00	10	Nguyen_Van_hung_20002130_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn văn hùng - 20002130	51.85	Chu Pham Dinh Tu	51.85	36	Nguyen_Van_hung_20002130_Cau_3.c	Chu_Pham_Dinh_Tu_20002173_Cau_3.c
+Nguyễn văn hùng - 20002130	26.45	Nguyễn Bá Kiên 20002140	26.45	5	Nguyen_Van_hung_20002130_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+Nguyễn văn hùng - 20002130	22.48	Nguyen Trong Son	22.48	6	Nguyen_Van_hung_20002130_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn văn hùng - 20002130	96.58	Dao Anh Duong	96.58	38	Nguyen_Van_hung_20002130_Cau_3.c	Dao_Anh_Duong_20002112_cau3.c
+Nguyễn văn hùng - 20002130	48.19	Phạm Tiến Anh-20002106	48.19	9	Nguyen_Van_hung_20002130_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Nguyễn văn hùng - 20002130	30.50	nguyen truong danh 20002110	30.50	7	Nguyen_Van_hung_20002130_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Nguyễn văn hùng - 20002130	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn văn hùng - 20002130	50.27	Nguyễn Mạnh Trung - 20002171	50.27	8	Nguyen_Van_hung_20002130_Cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn văn hùng - 20002130	31.77	Pham Hoang An	31.77	19	Nguyen_Van_hung_20002130_Cau_3.c	Pham_Hoang_An_20002102_Cau_2.c
+Nguyễn văn hùng - 20002130	45.33	Nguyen Thanh Long	45.33	5	Nguyen_Van_hung_20002130_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn văn hùng - 20002130	29.00	Nguyễn ANh Tuấn_20002176	29.00	25	Nguyen_Van_hung_20002130_Cau_3.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn văn hùng - 20002130	25.59	Tran ANh Minh 20002144	25.59	5	Nguyen_Van_hung_20002130_Cau_2.c	Tran_Anh_Minh_20002144_Cau_1.c
+Nguyễn văn hùng - 20002130	27.43	Hoàng Hữu Hiếu_20002125	27.43	8	Nguyen_Van_hung_20002130_Cau_1.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Nguyễn văn hùng - 20002130	23.46	Nguyễn Thế Phong 20002150	23.46	8	Nguyen_Van_hung_20002130_Cau_1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyễn văn hùng - 20002130	36.51	Phung_Phuc_Hau_20002123	36.51	16	Nguyen_Van_hung_20002130_Cau_3.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Nguyễn văn hùng - 20002130	36.75	Đỗ Phương Nam-20002145	36.75	8	Nguyen_Van_hung_20002130_Cau_1.c	Do Phuong Nam-20002145-Cau1.c
+Nguyễn văn hùng - 20002130	40.82	Do_Minh_Tuan_20002175	40.82	20	Nguyen_Van_hung_20002130_Cau_3.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn văn hùng - 20002130	55.58	Luu The Trung	55.58	8	Nguyen_Van_hung_20002130_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn văn hùng - 20002130	28.00	Dương Đức Thịnh-20002166	28.00	9	Nguyen_Van_hung_20002130_Cau_1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Nguyễn văn hùng - 20002130	23.76	Le_Sy_Van_20002178	23.76	3	Nguyen_Van_hung_20002130_Cau_2.c	Le_Sy_Van_20002178_Cau_3.c
+Nguyễn văn hùng - 20002130	28.21	Luyen Thi Quyen	28.21	11	Nguyen_Van_hung_20002130_Cau_3.c	luyen_thi_quyen_20002158_cau_3.c
+Nguyễn văn hùng - 20002130	24.84	Truong Tuan Anh	24.84	10	Nguyen_Van_hung_20002130_Cau_2.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Nguyễn văn hùng - 20002130	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Đình Quang - 20002155	48.53	Nguyen Nhat Tung	48.53	29	Nguyen_Dinh_Quang_20002155_Cau_2.c	Nguyen_Nhat_Tung_20002177_Cau3.c
+Nguyễn Đình Quang - 20002155	27.88	Phạm Xuân Tài - 20002161	27.88	8	Nguyen_Dinh_Quang_20002155_Cau_2.c	Pham_Xuan_Tai_20002161_Cau_1.c
+Nguyễn Đình Quang - 20002155	46.58	Tran Binh Huong	46.58	26	Nguyen_Dinh_Quang_20002155_Cau_2.c	TRAN_BINH_HUONG_20002137_CAU 2.c
+Nguyễn Đình Quang - 20002155	42.30	Tran Thanh Phong	42.30	11	Nguyen_Dinh_Quang_20002155_Cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyễn Đình Quang - 20002155	24.60	Tran Kim Phuong	24.60	8	Nguyen_Dinh_Quang_20002155_Cau_1.c	Tran_kim_phuong_20002154_cau_1.c
+Nguyễn Đình Quang - 20002155	38.63	Nguyễn Trọng Trưởng - 20002172	38.63	10	Nguyen_Dinh_Quang_20002155_Cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyễn Đình Quang - 20002155	37.32	Dinh Kha Vy	37.32	12	Nguyen_Dinh_Quang_20002155_Cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyễn Đình Quang - 20002155	38.56	Trần Quốc Khang 20002138	38.56	11	Nguyen_Dinh_Quang_20002155_Cau_1.c	Tran_Quoc_Khang_20002138_cau2.c
+Nguyễn Đình Quang - 20002155	20.33	Dam Van Vu	20.33	8	Nguyen_Dinh_Quang_20002155_Cau_1.c	Dam_Van_Vu_20002180_Cau_1.c
+Nguyễn Đình Quang - 20002155	27.36	Nguyễn Đình Trung Kiên-20002141	27.36	9	Nguyen_Dinh_Quang_20002155_Cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyễn Đình Quang - 20002155	23.54	Bùi Ngọc Thành - 20002165	23.54	19	Nguyen_Dinh_Quang_20002155_Cau_2.c	BUI_NGOC_THANH_20002165_Cau 2.c
+Nguyễn Đình Quang - 20002155	25.42	Khuất Đăng Sơn - 20002159	25.42	12	Nguyen_Dinh_Quang_20002155_Cau_1.c	khuat_dang_son_20002159_cau_1.c
+Nguyễn Đình Quang - 20002155	18.81	Le Hong Thach	18.81	9	Nguyen_Dinh_Quang_20002155_Cau_1.c	Le_Hong_Thach_20002162_Cau_1.c
+Nguyễn Đình Quang - 20002155	43.57	Tran Thien Cuong	43.57	8	Nguyen_Dinh_Quang_20002155_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Đình Quang - 20002155	35.97	Chu Pham Dinh Tu	35.97	12	Nguyen_Dinh_Quang_20002155_Cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Nguyễn Đình Quang - 20002155	37.64	Nguyễn Bá Kiên 20002140	37.64	17	Nguyen_Dinh_Quang_20002155_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyễn Đình Quang - 20002155	34.71	Nguyen Trong Son	34.71	19	Nguyen_Dinh_Quang_20002155_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn Đình Quang - 20002155	38.43	Dao Anh Duong	38.43	12	Nguyen_Dinh_Quang_20002155_Cau_1.c	Dao_Anh_Duong_20002112_cau_1.c
+Nguyễn Đình Quang - 20002155	42.53	Phạm Tiến Anh-20002106	42.53	22	Nguyen_Dinh_Quang_20002155_Cau_2.c	Pham_Tien_Anh_20002106_Cau2.c
+Nguyễn Đình Quang - 20002155	72.06	nguyen truong danh 20002110	72.06	28	Nguyen_Dinh_Quang_20002155_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Nguyễn Đình Quang - 20002155	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Đình Quang - 20002155	63.28	Nguyễn Mạnh Trung - 20002171	63.28	19	Nguyen_Dinh_Quang_20002155_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Nguyễn Đình Quang - 20002155	31.65	Pham Hoang An	31.65	15	Nguyen_Dinh_Quang_20002155_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Đình Quang - 20002155	48.35	Nguyen Thanh Long	48.35	6	Nguyen_Dinh_Quang_20002155_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Đình Quang - 20002155	20.68	Nguyễn ANh Tuấn_20002176	20.68	14	Nguyen_Dinh_Quang_20002155_Cau_1.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Đình Quang - 20002155	50.27	Tran ANh Minh 20002144	50.27	19	Nguyen_Dinh_Quang_20002155_Cau_2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Nguyễn Đình Quang - 20002155	36.35	Hoàng Hữu Hiếu_20002125	36.35	13	Nguyen_Dinh_Quang_20002155_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyễn Đình Quang - 20002155	38.52	Nguyễn Thế Phong 20002150	38.52	22	Nguyen_Dinh_Quang_20002155_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyễn Đình Quang - 20002155	34.50	Phung_Phuc_Hau_20002123	34.50	28	Nguyen_Dinh_Quang_20002155_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyễn Đình Quang - 20002155	38.28	Đỗ Phương Nam-20002145	38.28	21	Nguyen_Dinh_Quang_20002155_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Đình Quang - 20002155	21.28	Do_Minh_Tuan_20002175	21.28	21	Nguyen_Dinh_Quang_20002155_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Đình Quang - 20002155	23.90	Luu The Trung	23.90	6	Nguyen_Dinh_Quang_20002155_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn Đình Quang - 20002155	31.01	Dương Đức Thịnh-20002166	31.01	13	Nguyen_Dinh_Quang_20002155_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Đình Quang - 20002155	36.56	Le_Sy_Van_20002178	36.56	19	Nguyen_Dinh_Quang_20002155_Cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyễn Đình Quang - 20002155	37.32	Luyen Thi Quyen	37.32	12	Nguyen_Dinh_Quang_20002155_Cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyễn Đình Quang - 20002155	48.09	Truong Tuan Anh	48.09	13	Nguyen_Dinh_Quang_20002155_Cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyễn Đình Quang - 20002155	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyen Nhat Tung	44.97	Phạm Xuân Tài - 20002161	44.97	45	Nguyen_Nhat_Tung_20002177_Cau2.c	Pham_Xuan_Tai_20002161_Cau_2.c
+Nguyen Nhat Tung	38.60	Tran Binh Huong	38.60	22	Nguyen_Nhat_Tung_20002177_Cau3.c	TRAN_BINH_HUONG_20002137_CAU 2.c
+Nguyen Nhat Tung	34.78	Tran Thanh Phong	34.78	9	Nguyen_Nhat_Tung_20002177_Cau1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Nguyen Nhat Tung	26.40	Tran Kim Phuong	26.40	20	Nguyen_Nhat_Tung_20002177_Cau2.c	Tran_kim_phuong_20002154_cau_3.c
+Nguyen Nhat Tung	27.04	Nguyễn Trọng Trưởng - 20002172	27.04	8	Nguyen_Nhat_Tung_20002177_Cau3.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Nguyen Nhat Tung	29.26	Dinh Kha Vy	29.26	19	Nguyen_Nhat_Tung_20002177_Cau2.c	Dinh_Kha_Vy_20002183_cau3.c
+Nguyen Nhat Tung	27.02	Trần Quốc Khang 20002138	27.02	14	Nguyen_Nhat_Tung_20002177_Cau3.c	Tran_Quoc_Khang_20002138_cau1.c
+Nguyen Nhat Tung	44.37	Dam Van Vu	44.37	29	Nguyen_Nhat_Tung_20002177_Cau2.c	Dam_Van_Vu_20002180_Cau_2.c
+Nguyen Nhat Tung	44.66	Nguyễn Đình Trung Kiên-20002141	44.66	10	Nguyen_Nhat_Tung_20002177_Cau1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyen Nhat Tung	44.11	Bùi Ngọc Thành - 20002165	44.11	13	Nguyen_Nhat_Tung_20002177_Cau1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyen Nhat Tung	26.07	Khuất Đăng Sơn - 20002159	26.07	15	Nguyen_Nhat_Tung_20002177_Cau3.c	khuat_dang_son_20002159_cau_1.c
+Nguyen Nhat Tung	50.40	Le Hong Thach	50.40	19	Nguyen_Nhat_Tung_20002177_Cau2.c	Le_Hong_Thach_20002162_Cau_2.c
+Nguyen Nhat Tung	29.97	Tran Thien Cuong	29.97	7	Nguyen_Nhat_Tung_20002177_Cau1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyen Nhat Tung	41.67	Chu Pham Dinh Tu	41.67	15	Nguyen_Nhat_Tung_20002177_Cau3.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Nguyen Nhat Tung	36.42	Nguyễn Bá Kiên 20002140	36.42	16	Nguyen_Nhat_Tung_20002177_Cau3.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyen Nhat Tung	51.05	Nguyen Trong Son	51.05	23	Nguyen_Nhat_Tung_20002177_Cau3.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyen Nhat Tung	29.18	Dao Anh Duong	29.18	19	Nguyen_Nhat_Tung_20002177_Cau2.c	Dao_Anh_Duong_20002112_cau3.c
+Nguyen Nhat Tung	43.52	Phạm Tiến Anh-20002106	43.52	24	Nguyen_Nhat_Tung_20002177_Cau3.c	Pham_Tien_Anh_20002106_Cau2.c
+Nguyen Nhat Tung	51.13	nguyen truong danh 20002110	51.13	25	Nguyen_Nhat_Tung_20002177_Cau3.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Nguyen Nhat Tung	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyen Nhat Tung	41.57	Nguyễn Mạnh Trung - 20002171	41.57	18	Nguyen_Nhat_Tung_20002177_Cau3.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Nguyen Nhat Tung	27.96	Pham Hoang An	27.96	20	Nguyen_Nhat_Tung_20002177_Cau2.c	Pham_Hoang_An_20002102_Cau_2.c
+Nguyen Nhat Tung	50.24	Nguyen Thanh Long	50.24	6	Nguyen_Nhat_Tung_20002177_Cau1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyen Nhat Tung	36.22	Nguyễn ANh Tuấn_20002176	36.22	27	Nguyen_Nhat_Tung_20002177_Cau2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyen Nhat Tung	57.24	Tran ANh Minh 20002144	57.24	24	Nguyen_Nhat_Tung_20002177_Cau3.c	Tran_Anh_Minh_20002144_Cau_3.c
+Nguyen Nhat Tung	40.90	Hoàng Hữu Hiếu_20002125	40.90	15	Nguyen_Nhat_Tung_20002177_Cau3.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyen Nhat Tung	46.96	Nguyễn Thế Phong 20002150	46.96	26	Nguyen_Nhat_Tung_20002177_Cau3.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyen Nhat Tung	60.90	Phung_Phuc_Hau_20002123	60.90	35	Nguyen_Nhat_Tung_20002177_Cau2.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Nguyen Nhat Tung	48.02	Đỗ Phương Nam-20002145	48.02	29	Nguyen_Nhat_Tung_20002177_Cau3.c	Do Phuong Nam-20002145-Cau2.c
+Nguyen Nhat Tung	55.85	Do_Minh_Tuan_20002175	55.85	49	Nguyen_Nhat_Tung_20002177_Cau2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyen Nhat Tung	22.93	Luu The Trung	22.93	24	Nguyen_Nhat_Tung_20002177_Cau2.c	Luu_The_Trung_20002170_cau_3.c
+Nguyen Nhat Tung	38.69	Dương Đức Thịnh-20002166	38.69	18	Nguyen_Nhat_Tung_20002177_Cau3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyen Nhat Tung	31.43	Le_Sy_Van_20002178	31.43	14	Nguyen_Nhat_Tung_20002177_Cau3.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyen Nhat Tung	29.26	Luyen Thi Quyen	29.26	19	Nguyen_Nhat_Tung_20002177_Cau2.c	luyen_thi_quyen_20002158_cau_2.c
+Nguyen Nhat Tung	25.22	Truong Tuan Anh	25.22	11	Nguyen_Nhat_Tung_20002177_Cau3.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyen Nhat Tung	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Phạm Xuân Tài - 20002161	27.00	Tran Binh Huong	27.00	7	Pham_Xuan_Tai_20002161_Cau_1.c	TRAN_BINH_HUONG_20002137_CAU 2.c
+Phạm Xuân Tài - 20002161	34.91	Tran Thanh Phong	34.91	9	Pham_Xuan_Tai_20002161_Cau_1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Phạm Xuân Tài - 20002161	34.68	Tran Kim Phuong	34.68	24	Pham_Xuan_Tai_20002161_Cau_2.c	Tran_kim_phuong_20002154_cau_3.c
+Phạm Xuân Tài - 20002161	29.41	Nguyễn Trọng Trưởng - 20002172	29.41	9	Pham_Xuan_Tai_20002161_Cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Phạm Xuân Tài - 20002161	27.49	Dinh Kha Vy	27.49	12	Pham_Xuan_Tai_20002161_Cau_3.c	Dinh_Kha_Vy_20002183_cau1.c
+Phạm Xuân Tài - 20002161	20.10	Trần Quốc Khang 20002138	20.10	15	Pham_Xuan_Tai_20002161_Cau_2.c	Tran_Quoc_Khang_20002138_cau2.c
+Phạm Xuân Tài - 20002161	46.22	Dam Van Vu	46.22	13	Pham_Xuan_Tai_20002161_Cau_1.c	Dam_Van_Vu_20002180_Cau_1.c
+Phạm Xuân Tài - 20002161	44.92	Nguyễn Đình Trung Kiên-20002141	44.92	12	Pham_Xuan_Tai_20002161_Cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Phạm Xuân Tài - 20002161	57.55	Bùi Ngọc Thành - 20002165	57.55	16	Pham_Xuan_Tai_20002161_Cau_1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Phạm Xuân Tài - 20002161	27.76	Khuất Đăng Sơn - 20002159	27.76	11	Pham_Xuan_Tai_20002161_Cau_1.c	khuat_dang_son_20002159_cau_2.c
+Phạm Xuân Tài - 20002161	44.67	Le Hong Thach	44.67	33	Pham_Xuan_Tai_20002161_Cau_2.c	Le_Hong_Thach_20002162_Cau_2.c
+Phạm Xuân Tài - 20002161	32.82	Tran Thien Cuong	32.82	8	Pham_Xuan_Tai_20002161_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Phạm Xuân Tài - 20002161	34.31	Chu Pham Dinh Tu	34.31	19	Pham_Xuan_Tai_20002161_Cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_3.c
+Phạm Xuân Tài - 20002161	34.48	Nguyễn Bá Kiên 20002140	34.48	24	Pham_Xuan_Tai_20002161_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Phạm Xuân Tài - 20002161	31.39	Nguyen Trong Son	31.39	13	Pham_Xuan_Tai_20002161_Cau_1.c	Nguyen_Trong_Son_20002160_Cau_1.c
+Phạm Xuân Tài - 20002161	29.87	Dao Anh Duong	29.87	16	Pham_Xuan_Tai_20002161_Cau_2.c	Dao_Anh_Duong_20002112_cau3.c
+Phạm Xuân Tài - 20002161	37.39	Phạm Tiến Anh-20002106	37.39	8	Pham_Xuan_Tai_20002161_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Phạm Xuân Tài - 20002161	31.85	nguyen truong danh 20002110	31.85	9	Pham_Xuan_Tai_20002161_Cau_1.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Phạm Xuân Tài - 20002161	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Phạm Xuân Tài - 20002161	21.25	Nguyễn Mạnh Trung - 20002171	21.25	16	Pham_Xuan_Tai_20002161_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Phạm Xuân Tài - 20002161	27.95	Pham Hoang An	27.95	10	Pham_Xuan_Tai_20002161_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Phạm Xuân Tài - 20002161	37.75	Nguyen Thanh Long	37.75	5	Pham_Xuan_Tai_20002161_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Phạm Xuân Tài - 20002161	49.81	Nguyễn ANh Tuấn_20002176	49.81	32	Pham_Xuan_Tai_20002161_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Phạm Xuân Tài - 20002161	53.81	Tran ANh Minh 20002144	53.81	17	Pham_Xuan_Tai_20002161_Cau_1.c	Tran_Anh_Minh_20002144_Cau_1.c
+Phạm Xuân Tài - 20002161	27.27	Hoàng Hữu Hiếu_20002125	27.27	9	Pham_Xuan_Tai_20002161_Cau_1.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Phạm Xuân Tài - 20002161	31.02	Nguyễn Thế Phong 20002150	31.02	30	Pham_Xuan_Tai_20002161_Cau_3.c	Nguyen_The_Phong_20002150_Cau_3.c
+Phạm Xuân Tài - 20002161	55.52	Phung_Phuc_Hau_20002123	55.52	28	Pham_Xuan_Tai_20002161_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Phạm Xuân Tài - 20002161	40.35	Đỗ Phương Nam-20002145	40.35	36	Pham_Xuan_Tai_20002161_Cau_3.c	Do Phuong Nam-20002145-Cau3.c
+Phạm Xuân Tài - 20002161	49.84	Do_Minh_Tuan_20002175	49.84	17	Pham_Xuan_Tai_20002161_Cau_1.c	Do_Minh_Tuan_20002175_Cau1.c
+Phạm Xuân Tài - 20002161	30.01	Luu The Trung	30.01	26	Pham_Xuan_Tai_20002161_Cau_2.c	Luu_The_Trung_20002170_cau_3.c
+Phạm Xuân Tài - 20002161	31.28	Dương Đức Thịnh-20002166	31.28	10	Pham_Xuan_Tai_20002161_Cau_1.c	Duong_Duc_Thinh_20002166_Cau_3.c
+Phạm Xuân Tài - 20002161	27.35	Le_Sy_Van_20002178	27.35	14	Pham_Xuan_Tai_20002161_Cau_3.c	Le_Sy_Van_20002178_Cau_3.c
+Phạm Xuân Tài - 20002161	30.23	Luyen Thi Quyen	30.23	13	Pham_Xuan_Tai_20002161_Cau_3.c	luyen_thi_quyen_20002158_cau_1.c
+Phạm Xuân Tài - 20002161	21.47	Truong Tuan Anh	21.47	10	Pham_Xuan_Tai_20002161_Cau_3.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Phạm Xuân Tài - 20002161	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Tran Binh Huong	43.03	Tran Thanh Phong	43.03	9	TRAN_BINH_HUONG_20002137_CAU1.c	Tran_Thanh_Phong_20002152_Cau1.c
+Tran Binh Huong	31.59	Tran Kim Phuong	31.59	7	TRAN_BINH_HUONG_20002137_CAU 3.c	Tran_kim_phuong_20002154_cau_1.c
+Tran Binh Huong	44.85	Nguyễn Trọng Trưởng - 20002172	44.85	10	TRAN_BINH_HUONG_20002137_CAU1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Tran Binh Huong	42.21	Dinh Kha Vy	42.21	11	TRAN_BINH_HUONG_20002137_CAU1.c	Dinh_Kha_Vy_20002183_cau1.c
+Tran Binh Huong	32.98	Trần Quốc Khang 20002138	32.98	12	TRAN_BINH_HUONG_20002137_CAU1.c	Tran_Quoc_Khang_20002138_cau2.c
+Tran Binh Huong	33.63	Dam Van Vu	33.63	11	TRAN_BINH_HUONG_20002137_CAU 2.c	Dam_Van_Vu_20002180_Cau_2.c
+Tran Binh Huong	31.82	Nguyễn Đình Trung Kiên-20002141	31.82	9	TRAN_BINH_HUONG_20002137_CAU1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Tran Binh Huong	28.64	Bùi Ngọc Thành - 20002165	28.64	9	TRAN_BINH_HUONG_20002137_CAU1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Tran Binh Huong	27.77	Khuất Đăng Sơn - 20002159	27.77	12	TRAN_BINH_HUONG_20002137_CAU1.c	khuat_dang_son_20002159_cau_2.c
+Tran Binh Huong	25.87	Le Hong Thach	25.87	13	TRAN_BINH_HUONG_20002137_CAU 2.c	Le_Hong_Thach_20002162_Cau_2.c
+Tran Binh Huong	43.91	Tran Thien Cuong	43.91	9	TRAN_BINH_HUONG_20002137_CAU1.c	TRAN THIEN CUON_20002109_BAI1.c
+Tran Binh Huong	33.52	Chu Pham Dinh Tu	33.52	16	TRAN_BINH_HUONG_20002137_CAU 2.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Tran Binh Huong	37.72	Nguyễn Bá Kiên 20002140	37.72	16	TRAN_BINH_HUONG_20002137_CAU 2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Tran Binh Huong	30.84	Nguyen Trong Son	30.84	16	TRAN_BINH_HUONG_20002137_CAU 2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Tran Binh Huong	34.54	Dao Anh Duong	34.54	14	TRAN_BINH_HUONG_20002137_CAU 2.c	Dao_Anh_Duong_20002112_cau2.c
+Tran Binh Huong	45.73	Phạm Tiến Anh-20002106	45.73	9	TRAN_BINH_HUONG_20002137_CAU1.c	Pham_Tien_Anh_20002106_Cau1.c
+Tran Binh Huong	43.31	nguyen truong danh 20002110	43.31	12	TRAN_BINH_HUONG_20002137_CAU1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Tran Binh Huong	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Tran Binh Huong	41.57	Nguyễn Mạnh Trung - 20002171	41.57	19	TRAN_BINH_HUONG_20002137_CAU 2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Tran Binh Huong	40.91	Pham Hoang An	40.91	13	TRAN_BINH_HUONG_20002137_CAU1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Tran Binh Huong	58.73	Nguyen Thanh Long	58.73	6	TRAN_BINH_HUONG_20002137_CAU 3.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Tran Binh Huong	23.72	Nguyễn ANh Tuấn_20002176	23.72	18	TRAN_BINH_HUONG_20002137_CAU 2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Tran Binh Huong	43.89	Tran ANh Minh 20002144	43.89	19	TRAN_BINH_HUONG_20002137_CAU 2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Tran Binh Huong	32.89	Hoàng Hữu Hiếu_20002125	32.89	16	TRAN_BINH_HUONG_20002137_CAU 2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Tran Binh Huong	33.05	Nguyễn Thế Phong 20002150	33.05	23	TRAN_BINH_HUONG_20002137_CAU 2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Tran Binh Huong	34.21	Phung_Phuc_Hau_20002123	34.21	29	TRAN_BINH_HUONG_20002137_CAU 2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Tran Binh Huong	42.02	Đỗ Phương Nam-20002145	42.02	20	TRAN_BINH_HUONG_20002137_CAU 2.c	Do Phuong Nam-20002145-Cau2.c
+Tran Binh Huong	29.12	Do_Minh_Tuan_20002175	29.12	23	TRAN_BINH_HUONG_20002137_CAU 2.c	Do_Minh_Tuan_20002175_Cau2.c
+Tran Binh Huong	33.91	Luu The Trung	33.91	8	TRAN_BINH_HUONG_20002137_CAU1.c	Luu_The_Trung_20002170_cau_1.c
+Tran Binh Huong	26.42	Dương Đức Thịnh-20002166	26.42	14	TRAN_BINH_HUONG_20002137_CAU 2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Tran Binh Huong	25.53	Le_Sy_Van_20002178	25.53	16	TRAN_BINH_HUONG_20002137_CAU 2.c	Le_Sy_Van_20002178_Cau_2.c
+Tran Binh Huong	42.21	Luyen Thi Quyen	42.21	11	TRAN_BINH_HUONG_20002137_CAU1.c	luyen_thi_quyen_20002158_cau_1.c
+Tran Binh Huong	30.80	Truong Tuan Anh	30.80	11	TRAN_BINH_HUONG_20002137_CAU1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Tran Binh Huong	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Tran Thanh Phong	40.97	Tran Kim Phuong	40.97	7	Tran_Thanh_Phong_20002152_Cau3c.c	Tran_kim_phuong_20002154_cau_1.c
+Tran Thanh Phong	36.45	Nguyễn Trọng Trưởng - 20002172	36.45	8	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Trong_Truong_20002172_Cau_1.c
+Tran Thanh Phong	54.66	Dinh Kha Vy	54.66	10	Tran_Thanh_Phong_20002152_Cau1.c	Dinh_Kha_Vy_20002183_cau1.c
+Tran Thanh Phong	34.24	Trần Quốc Khang 20002138	34.24	8	Tran_Thanh_Phong_20002152_Cau1.c	Tran_Quoc_Khang_20002138_cau1.c
+Tran Thanh Phong	40.37	Dam Van Vu	40.37	9	Tran_Thanh_Phong_20002152_Cau1.c	Dam_Van_Vu_20002180_Cau_1.c
+Tran Thanh Phong	39.72	Nguyễn Đình Trung Kiên-20002141	39.72	8	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Tran Thanh Phong	37.00	Bùi Ngọc Thành - 20002165	37.00	8	Tran_Thanh_Phong_20002152_Cau1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Tran Thanh Phong	33.64	Khuất Đăng Sơn - 20002159	33.64	8	Tran_Thanh_Phong_20002152_Cau1.c	khuat_dang_son_20002159_cau_1.c
+Tran Thanh Phong	34.91	Le Hong Thach	34.91	8	Tran_Thanh_Phong_20002152_Cau1.c	Le_Hong_Thach_20002162_Cau_1.c
+Tran Thanh Phong	50.09	Tran Thien Cuong	50.09	8	Tran_Thanh_Phong_20002152_Cau1.c	TRAN THIEN CUON_20002109_BAI1.c
+Tran Thanh Phong	39.72	Chu Pham Dinh Tu	39.72	7	Tran_Thanh_Phong_20002152_Cau1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Tran Thanh Phong	42.50	Nguyễn Bá Kiên 20002140	42.50	9	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Tran Thanh Phong	36.39	Nguyen Trong Son	36.39	10	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Tran Thanh Phong	42.95	Dao Anh Duong	42.95	5	Tran_Thanh_Phong_20002152_Cau2.c	Dao_Anh_Duong_20002112_cau_1.c
+Tran Thanh Phong	54.66	Phạm Tiến Anh-20002106	54.66	8	Tran_Thanh_Phong_20002152_Cau1.c	Pham_Tien_Anh_20002106_Cau1.c
+Tran Thanh Phong	46.50	nguyen truong danh 20002110	46.50	10	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Tran Thanh Phong	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Tran Thanh Phong	43.57	Nguyễn Mạnh Trung - 20002171	43.57	6	Tran_Thanh_Phong_20002152_Cau3c.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Tran Thanh Phong	46.25	Pham Hoang An	46.25	11	Tran_Thanh_Phong_20002152_Cau1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Tran Thanh Phong	61.84	Nguyen Thanh Long	61.84	6	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Tran Thanh Phong	28.32	Nguyễn ANh Tuấn_20002176	28.32	7	Tran_Thanh_Phong_20002152_Cau1.c	Nguyen_Anh_Tuan_20002176_Cau_1.c
+Tran Thanh Phong	36.26	Tran ANh Minh 20002144	36.26	7	Tran_Thanh_Phong_20002152_Cau1.c	Tran_Anh_Minh_20002144_Cau_1.c
+Tran Thanh Phong	38.92	Hoàng Hữu Hiếu_20002125	38.92	4	Tran_Thanh_Phong_20002152_Cau2.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Tran Thanh Phong	43.24	Nguyễn Thế Phong 20002150	43.24	5	Tran_Thanh_Phong_20002152_Cau2.c	Nguyen_The_Phong_20002150_Cau_1.c
+Tran Thanh Phong	37.00	Phung_Phuc_Hau_20002123	37.00	9	Tran_Thanh_Phong_20002152_Cau1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Tran Thanh Phong	34.06	Đỗ Phương Nam-20002145	34.06	7	Tran_Thanh_Phong_20002152_Cau1.c	Do Phuong Nam-20002145-Cau1.c
+Tran Thanh Phong	37.20	Do_Minh_Tuan_20002175	37.20	9	Tran_Thanh_Phong_20002152_Cau1.c	Do_Minh_Tuan_20002175_Cau1.c
+Tran Thanh Phong	33.64	Luu The Trung	33.64	7	Tran_Thanh_Phong_20002152_Cau1.c	Luu_The_Trung_20002170_cau_1.c
+Tran Thanh Phong	41.86	Dương Đức Thịnh-20002166	41.86	5	Tran_Thanh_Phong_20002152_Cau2.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Tran Thanh Phong	34.24	Le_Sy_Van_20002178	34.24	7	Tran_Thanh_Phong_20002152_Cau1.c	Le_Sy_Van_20002178_Cau_1.c
+Tran Thanh Phong	54.66	Luyen Thi Quyen	54.66	10	Tran_Thanh_Phong_20002152_Cau1.c	luyen_thi_quyen_20002158_cau_1.c
+Tran Thanh Phong	42.57	Truong Tuan Anh	42.57	8	Tran_Thanh_Phong_20002152_Cau1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Tran Thanh Phong	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Tran Kim Phuong	32.66	Nguyễn Trọng Trưởng - 20002172	32.66	8	Tran_kim_phuong_20002154_cau_1.c	Nguyen_Trong_Truong_20002172_Cau_2.c
+Tran Kim Phuong	28.74	Dinh Kha Vy	28.74	8	Tran_kim_phuong_20002154_cau_1.c	Dinh_Kha_Vy_20002183_cau1.c
+Tran Kim Phuong	26.49	Trần Quốc Khang 20002138	26.49	11	Tran_kim_phuong_20002154_cau_1.c	Tran_Quoc_Khang_20002138_cau2.c
+Tran Kim Phuong	23.68	Dam Van Vu	23.68	26	Tran_kim_phuong_20002154_cau_3.c	Dam_Van_Vu_20002180_Cau_2.c
+Tran Kim Phuong	22.88	Nguyễn Đình Trung Kiên-20002141	22.88	7	Tran_kim_phuong_20002154_cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Tran Kim Phuong	21.07	Bùi Ngọc Thành - 20002165	21.07	7	Tran_kim_phuong_20002154_cau_1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Tran Kim Phuong	21.79	Khuất Đăng Sơn - 20002159	21.79	10	Tran_kim_phuong_20002154_cau_1.c	khuat_dang_son_20002159_cau_2.c
+Tran Kim Phuong	28.90	Le Hong Thach	28.90	12	Tran_kim_phuong_20002154_cau_3.c	Le_Hong_Thach_20002162_Cau_2.c
+Tran Kim Phuong	37.24	Tran Thien Cuong	37.24	9	Tran_kim_phuong_20002154_cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Tran Kim Phuong	42.72	Chu Pham Dinh Tu	42.72	29	Tran_kim_phuong_20002154_cau_3.c	Chu_Pham_Dinh_Tu_20002173_Cau_3.c
+Tran Kim Phuong	26.45	Nguyễn Bá Kiên 20002140	26.45	19	Tran_kim_phuong_20002154_cau_3.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Tran Kim Phuong	17.37	Nguyen Trong Son	17.37	14	Tran_kim_phuong_20002154_cau_3.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Tran Kim Phuong	46.06	Dao Anh Duong	46.06	34	Tran_kim_phuong_20002154_cau_3.c	Dao_Anh_Duong_20002112_cau3.c
+Tran Kim Phuong	45.16	Phạm Tiến Anh-20002106	45.16	9	Tran_kim_phuong_20002154_cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Tran Kim Phuong	24.06	nguyen truong danh 20002110	24.06	14	Tran_kim_phuong_20002154_cau_3.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Tran Kim Phuong	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Tran Kim Phuong	39.98	Nguyễn Mạnh Trung - 20002171	39.98	10	Tran_kim_phuong_20002154_cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Tran Kim Phuong	29.81	Pham Hoang An	29.81	16	Tran_kim_phuong_20002154_cau_3.c	Pham_Hoang_An_20002102_Cau_2.c
+Tran Kim Phuong	50.96	Nguyen Thanh Long	50.96	6	Tran_kim_phuong_20002154_cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Tran Kim Phuong	32.44	Nguyễn ANh Tuấn_20002176	32.44	25	Tran_kim_phuong_20002154_cau_3.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Tran Kim Phuong	27.77	Tran ANh Minh 20002144	27.77	20	Tran_kim_phuong_20002154_cau_3.c	Tran_Anh_Minh_20002144_Cau_2.c
+Tran Kim Phuong	25.22	Hoàng Hữu Hiếu_20002125	25.22	9	Tran_kim_phuong_20002154_cau_1.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Tran Kim Phuong	24.68	Nguyễn Thế Phong 20002150	24.68	20	Tran_kim_phuong_20002154_cau_3.c	Nguyen_The_Phong_20002150_Cau_2.c
+Tran Kim Phuong	39.38	Phung_Phuc_Hau_20002123	39.38	27	Tran_kim_phuong_20002154_cau_3.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Tran Kim Phuong	30.46	Đỗ Phương Nam-20002145	30.46	8	Tran_kim_phuong_20002154_cau_1.c	Do Phuong Nam-20002145-Cau1.c
+Tran Kim Phuong	31.39	Do_Minh_Tuan_20002175	31.39	21	Tran_kim_phuong_20002154_cau_3.c	Do_Minh_Tuan_20002175_Cau2.c
+Tran Kim Phuong	43.56	Luu The Trung	43.56	8	Tran_kim_phuong_20002154_cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Tran Kim Phuong	19.85	Dương Đức Thịnh-20002166	19.85	8	Tran_kim_phuong_20002154_cau_1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Tran Kim Phuong	19.04	Le_Sy_Van_20002178	19.04	7	Tran_kim_phuong_20002154_cau_2.c	Le_Sy_Van_20002178_Cau_1.c
+Tran Kim Phuong	28.74	Luyen Thi Quyen	28.74	8	Tran_kim_phuong_20002154_cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+Tran Kim Phuong	25.09	Truong Tuan Anh	25.09	8	Tran_kim_phuong_20002154_cau_1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Tran Kim Phuong	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Trọng Trưởng - 20002172	42.58	Dinh Kha Vy	42.58	9	Nguyen_Trong_Truong_20002172_Cau_2.c	Dinh_Kha_Vy_20002183_cau1.c
+Nguyễn Trọng Trưởng - 20002172	73.46	Trần Quốc Khang 20002138	73.46	18	Nguyen_Trong_Truong_20002172_Cau_1.c	Tran_Quoc_Khang_20002138_cau1.c
+Nguyễn Trọng Trưởng - 20002172	33.05	Dam Van Vu	33.05	9	Nguyen_Trong_Truong_20002172_Cau_2.c	Dam_Van_Vu_20002180_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	32.62	Nguyễn Đình Trung Kiên-20002141	32.62	8	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	30.80	Bùi Ngọc Thành - 20002165	30.80	8	Nguyen_Trong_Truong_20002172_Cau_2.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	66.53	Khuất Đăng Sơn - 20002159	66.53	17	Nguyen_Trong_Truong_20002172_Cau_1.c	khuat_dang_son_20002159_cau_1.c
+Nguyễn Trọng Trưởng - 20002172	28.40	Le Hong Thach	28.40	12	Nguyen_Trong_Truong_20002172_Cau_3.c	Le_Hong_Thach_20002162_Cau_3.c
+Nguyễn Trọng Trưởng - 20002172	44.47	Tran Thien Cuong	44.47	8	Nguyen_Trong_Truong_20002172_Cau_2.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Trọng Trưởng - 20002172	28.54	Chu Pham Dinh Tu	28.54	6	Nguyen_Trong_Truong_20002172_Cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	30.43	Nguyễn Bá Kiên 20002140	30.43	8	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyễn Trọng Trưởng - 20002172	24.96	Nguyen Trong Son	24.96	8	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn Trọng Trưởng - 20002172	26.95	Dao Anh Duong	26.95	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Dao_Anh_Duong_20002112_cau_1.c
+Nguyễn Trọng Trưởng - 20002172	58.54	Phạm Tiến Anh-20002106	58.54	8	Nguyen_Trong_Truong_20002172_Cau_2.c	Pham_Tien_Anh_20002106_Cau1.c
+Nguyễn Trọng Trưởng - 20002172	42.54	nguyen truong danh 20002110	42.54	9	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Trọng Trưởng - 20002172	42.93	Nguyễn Mạnh Trung - 20002171	42.93	10	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn Trọng Trưởng - 20002172	34.65	Pham Hoang An	34.65	10	Nguyen_Trong_Truong_20002172_Cau_2.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Trọng Trưởng - 20002172	59.48	Nguyen Thanh Long	59.48	6	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Trọng Trưởng - 20002172	28.62	Nguyễn ANh Tuấn_20002176	28.62	9	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Trọng Trưởng - 20002172	30.31	Tran ANh Minh 20002144	30.31	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Tran_Anh_Minh_20002144_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	26.22	Hoàng Hữu Hiếu_20002125	26.22	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	21.46	Nguyễn Thế Phong 20002150	21.46	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	29.80	Phung_Phuc_Hau_20002123	29.80	9	Nguyen_Trong_Truong_20002172_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Nguyễn Trọng Trưởng - 20002172	35.17	Đỗ Phương Nam-20002145	35.17	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Do Phuong Nam-20002145-Cau1.c
+Nguyễn Trọng Trưởng - 20002172	27.07	Do_Minh_Tuan_20002175	27.07	8	Nguyen_Trong_Truong_20002172_Cau_2.c	Do_Minh_Tuan_20002175_Cau1.c
+Nguyễn Trọng Trưởng - 20002172	33.44	Luu The Trung	33.44	6	Nguyen_Trong_Truong_20002172_Cau_2.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn Trọng Trưởng - 20002172	24.31	Dương Đức Thịnh-20002166	24.31	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	20.96	Le_Sy_Van_20002178	20.96	7	Nguyen_Trong_Truong_20002172_Cau_2.c	Le_Sy_Van_20002178_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	42.58	Luyen Thi Quyen	42.58	9	Nguyen_Trong_Truong_20002172_Cau_2.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyễn Trọng Trưởng - 20002172	50.25	Truong Tuan Anh	50.25	9	Nguyen_Trong_Truong_20002172_Cau_2.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyễn Trọng Trưởng - 20002172	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Dinh Kha Vy	36.31	Trần Quốc Khang 20002138	36.31	9	Dinh_Kha_Vy_20002183_cau1.c	Tran_Quoc_Khang_20002138_cau1.c
+Dinh Kha Vy	25.67	Dam Van Vu	25.67	9	Dinh_Kha_Vy_20002183_cau1.c	Dam_Van_Vu_20002180_Cau_3.c
+Dinh Kha Vy	25.09	Nguyễn Đình Trung Kiên-20002141	25.09	10	Dinh_Kha_Vy_20002183_cau1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c
+Dinh Kha Vy	22.33	Bùi Ngọc Thành - 20002165	22.33	9	Dinh_Kha_Vy_20002183_cau1.c	BUI_NGOC_THANH_20002165_Cau 2.c
+Dinh Kha Vy	35.71	Khuất Đăng Sơn - 20002159	35.71	10	Dinh_Kha_Vy_20002183_cau1.c	khuat_dang_son_20002159_cau_1.c
+Dinh Kha Vy	28.49	Le Hong Thach	28.49	18	Dinh_Kha_Vy_20002183_cau3.c	Le_Hong_Thach_20002162_Cau_2.c
+Dinh Kha Vy	35.05	Tran Thien Cuong	35.05	7	Dinh_Kha_Vy_20002183_cau1.c	TRAN THIEN CUON_20002109_BAI1.c
+Dinh Kha Vy	24.98	Chu Pham Dinh Tu	24.98	16	Dinh_Kha_Vy_20002183_cau3.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Dinh Kha Vy	34.85	Nguyễn Bá Kiên 20002140	34.85	17	Dinh_Kha_Vy_20002183_cau3.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Dinh Kha Vy	24.05	Nguyen Trong Son	24.05	11	Dinh_Kha_Vy_20002183_cau1.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Dinh Kha Vy	19.74	Dao Anh Duong	19.74	6	Dinh_Kha_Vy_20002183_cau1.c	Dao_Anh_Duong_20002112_cau_1.c
+Dinh Kha Vy	38.74	Phạm Tiến Anh-20002106	38.74	11	Dinh_Kha_Vy_20002183_cau1.c	Pham_Tien_Anh_20002106_Cau3.c
+Dinh Kha Vy	33.07	nguyen truong danh 20002110	33.07	12	Dinh_Kha_Vy_20002183_cau1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Dinh Kha Vy	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Dinh Kha Vy	41.06	Nguyễn Mạnh Trung - 20002171	41.06	10	Dinh_Kha_Vy_20002183_cau1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Dinh Kha Vy	32.90	Pham Hoang An	32.90	9	Dinh_Kha_Vy_20002183_cau1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Dinh Kha Vy	71.43	Nguyen Thanh Long	71.43	6	Dinh_Kha_Vy_20002183_cau1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Dinh Kha Vy	26.22	Nguyễn ANh Tuấn_20002176	26.22	25	Dinh_Kha_Vy_20002183_cau3.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Dinh Kha Vy	29.36	Tran ANh Minh 20002144	29.36	18	Dinh_Kha_Vy_20002183_cau3.c	Tran_Anh_Minh_20002144_Cau_2.c
+Dinh Kha Vy	29.98	Hoàng Hữu Hiếu_20002125	29.98	10	Dinh_Kha_Vy_20002183_cau1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Dinh Kha Vy	34.67	Nguyễn Thế Phong 20002150	34.67	16	Dinh_Kha_Vy_20002183_cau3.c	Nguyen_The_Phong_20002150_Cau_2.c
+Dinh Kha Vy	32.68	Phung_Phuc_Hau_20002123	32.68	24	Dinh_Kha_Vy_20002183_cau3.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Dinh Kha Vy	26.37	Đỗ Phương Nam-20002145	26.37	11	Dinh_Kha_Vy_20002183_cau1.c	Do Phuong Nam-20002145-Cau3.c
+Dinh Kha Vy	29.79	Do_Minh_Tuan_20002175	29.79	19	Dinh_Kha_Vy_20002183_cau3.c	Do_Minh_Tuan_20002175_Cau2.c
+Dinh Kha Vy	37.50	Luu The Trung	37.50	13	Dinh_Kha_Vy_20002183_cau2.c	Luu_The_Trung_20002170_cau_3.c
+Dinh Kha Vy	20.74	Dương Đức Thịnh-20002166	20.74	16	Dinh_Kha_Vy_20002183_cau3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Dinh Kha Vy	26.88	Le_Sy_Van_20002178	26.88	17	Dinh_Kha_Vy_20002183_cau3.c	Le_Sy_Van_20002178_Cau_2.c
+Dinh Kha Vy	100.00	Luyen Thi Quyen	100.00	43	Dinh_Kha_Vy_20002183_cau3.c	luyen_thi_quyen_20002158_cau_2.c
+Dinh Kha Vy	40.18	Truong Tuan Anh	40.18	9	Dinh_Kha_Vy_20002183_cau1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Dinh Kha Vy	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Trần Quốc Khang 20002138	26.51	Dam Van Vu	26.51	8	Tran_Quoc_Khang_20002138_cau2.c	Dam_Van_Vu_20002180_Cau_1.c
+Trần Quốc Khang 20002138	25.91	Nguyễn Đình Trung Kiên-20002141	25.91	8	Tran_Quoc_Khang_20002138_cau2.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Trần Quốc Khang 20002138	27.67	Bùi Ngọc Thành - 20002165	27.67	8	Tran_Quoc_Khang_20002138_cau2.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Trần Quốc Khang 20002138	92.74	Khuất Đăng Sơn - 20002159	92.74	19	Tran_Quoc_Khang_20002138_cau1.c	khuat_dang_son_20002159_cau_1.c
+Trần Quốc Khang 20002138	30.96	Le Hong Thach	30.96	18	Tran_Quoc_Khang_20002138_cau3.c	Le_Hong_Thach_20002162_Cau_3.c
+Trần Quốc Khang 20002138	32.20	Tran Thien Cuong	32.20	8	Tran_Quoc_Khang_20002138_cau2.c	TRAN THIEN CUON_20002109_BAI1.c
+Trần Quốc Khang 20002138	21.20	Chu Pham Dinh Tu	21.20	7	Tran_Quoc_Khang_20002138_cau2.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Trần Quốc Khang 20002138	26.36	Nguyễn Bá Kiên 20002140	26.36	11	Tran_Quoc_Khang_20002138_cau3.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Trần Quốc Khang 20002138	19.76	Nguyen Trong Son	19.76	8	Tran_Quoc_Khang_20002138_cau2.c	Nguyen_Trong_Son_20002160_Cau_1.c
+Trần Quốc Khang 20002138	31.93	Dao Anh Duong	31.93	9	Tran_Quoc_Khang_20002138_cau2.c	Dao_Anh_Duong_20002112_cau_1.c
+Trần Quốc Khang 20002138	28.80	Phạm Tiến Anh-20002106	28.80	6	Tran_Quoc_Khang_20002138_cau2.c	Pham_Tien_Anh_20002106_Cau1.c
+Trần Quốc Khang 20002138	32.64	nguyen truong danh 20002110	32.64	11	Tran_Quoc_Khang_20002138_cau1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Trần Quốc Khang 20002138	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Trần Quốc Khang 20002138	35.99	Nguyễn Mạnh Trung - 20002171	35.99	11	Tran_Quoc_Khang_20002138_cau2.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Trần Quốc Khang 20002138	36.19	Pham Hoang An	36.19	11	Tran_Quoc_Khang_20002138_cau2.c	Pham_Hoang_AN_20002102_Cau_3.c
+Trần Quốc Khang 20002138	40.83	Nguyen Thanh Long	40.83	6	Tran_Quoc_Khang_20002138_cau1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Trần Quốc Khang 20002138	23.34	Nguyễn ANh Tuấn_20002176	23.34	11	Tran_Quoc_Khang_20002138_cau2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Trần Quốc Khang 20002138	27.76	Tran ANh Minh 20002144	27.76	19	Tran_Quoc_Khang_20002138_cau2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Trần Quốc Khang 20002138	22.41	Hoàng Hữu Hiếu_20002125	22.41	8	Tran_Quoc_Khang_20002138_cau1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Trần Quốc Khang 20002138	23.53	Nguyễn Thế Phong 20002150	23.53	14	Tran_Quoc_Khang_20002138_cau1.c	Nguyen_The_Phong_20002150_Cau_2.c
+Trần Quốc Khang 20002138	22.34	Phung_Phuc_Hau_20002123	22.34	16	Tran_Quoc_Khang_20002138_cau2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Trần Quốc Khang 20002138	19.79	Đỗ Phương Nam-20002145	19.79	12	Tran_Quoc_Khang_20002138_cau1.c	Do Phuong Nam-20002145-Cau3.c
+Trần Quốc Khang 20002138	24.52	Do_Minh_Tuan_20002175	24.52	13	Tran_Quoc_Khang_20002138_cau2.c	Do_Minh_Tuan_20002175_Cau2.c
+Trần Quốc Khang 20002138	23.29	Luu The Trung	23.29	6	Tran_Quoc_Khang_20002138_cau1.c	Luu_The_Trung_20002170_cau_1.c
+Trần Quốc Khang 20002138	23.31	Dương Đức Thịnh-20002166	23.31	7	Tran_Quoc_Khang_20002138_cau2.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Trần Quốc Khang 20002138	22.23	Le_Sy_Van_20002178	22.23	8	Tran_Quoc_Khang_20002138_cau2.c	Le_Sy_Van_20002178_Cau_1.c
+Trần Quốc Khang 20002138	36.31	Luyen Thi Quyen	36.31	9	Tran_Quoc_Khang_20002138_cau1.c	luyen_thi_quyen_20002158_cau_1.c
+Trần Quốc Khang 20002138	33.33	Truong Tuan Anh	33.33	11	Tran_Quoc_Khang_20002138_cau1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Trần Quốc Khang 20002138	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Dam Van Vu	81.44	Nguyễn Đình Trung Kiên-20002141	81.44	12	Dam_Van_Vu_20002180_Cau_1.c	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c
+Dam Van Vu	52.49	Bùi Ngọc Thành - 20002165	52.49	11	Dam_Van_Vu_20002180_Cau_1.c	BUI_NGOC_THANH_20002165_Cau_1.c
+Dam Van Vu	22.08	Khuất Đăng Sơn - 20002159	22.08	11	Dam_Van_Vu_20002180_Cau_3.c	khuat_dang_son_20002159_cau_2.c
+Dam Van Vu	50.00	Le Hong Thach	50.00	18	Dam_Van_Vu_20002180_Cau_2.c	Le_Hong_Thach_20002162_Cau_2.c
+Dam Van Vu	38.29	Tran Thien Cuong	38.29	8	Dam_Van_Vu_20002180_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Dam Van Vu	32.58	Chu Pham Dinh Tu	32.58	7	Dam_Van_Vu_20002180_Cau_1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Dam Van Vu	37.79	Nguyễn Bá Kiên 20002140	37.79	9	Dam_Van_Vu_20002180_Cau_1.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+Dam Van Vu	27.50	Nguyen Trong Son	27.50	12	Dam_Van_Vu_20002180_Cau_1.c	Nguyen_Trong_Son_20002160_Cau_1.c
+Dam Van Vu	31.49	Dao Anh Duong	31.49	9	Dam_Van_Vu_20002180_Cau_1.c	Dao_Anh_Duong_20002112_cau_1.c
+Dam Van Vu	42.86	Phạm Tiến Anh-20002106	42.86	8	Dam_Van_Vu_20002180_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Dam Van Vu	27.95	nguyen truong danh 20002110	27.95	13	Dam_Van_Vu_20002180_Cau_3.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Dam Van Vu	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Dam Van Vu	25.42	Nguyễn Mạnh Trung - 20002171	25.42	8	Dam_Van_Vu_20002180_Cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Dam Van Vu	31.49	Pham Hoang An	31.49	10	Dam_Van_Vu_20002180_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Dam Van Vu	42.19	Nguyen Thanh Long	42.19	6	Dam_Van_Vu_20002180_Cau_3.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Dam Van Vu	30.50	Nguyễn ANh Tuấn_20002176	30.50	23	Dam_Van_Vu_20002180_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Dam Van Vu	57.78	Tran ANh Minh 20002144	57.78	26	Dam_Van_Vu_20002180_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Dam Van Vu	27.22	Hoàng Hữu Hiếu_20002125	27.22	24	Dam_Van_Vu_20002180_Cau_3.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Dam Van Vu	48.60	Nguyễn Thế Phong 20002150	48.60	26	Dam_Van_Vu_20002180_Cau_3.c	Nguyen_The_Phong_20002150_Cau_3.c
+Dam Van Vu	38.91	Phung_Phuc_Hau_20002123	38.91	31	Dam_Van_Vu_20002180_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Dam Van Vu	40.85	Đỗ Phương Nam-20002145	40.85	22	Dam_Van_Vu_20002180_Cau_3.c	Do Phuong Nam-20002145-Cau3.c
+Dam Van Vu	50.79	Do_Minh_Tuan_20002175	50.79	13	Dam_Van_Vu_20002180_Cau_1.c	Do_Minh_Tuan_20002175_Cau1.c
+Dam Van Vu	22.93	Luu The Trung	22.93	6	Dam_Van_Vu_20002180_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Dam Van Vu	40.56	Dương Đức Thịnh-20002166	40.56	17	Dam_Van_Vu_20002180_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_3.c
+Dam Van Vu	32.38	Le_Sy_Van_20002178	32.38	12	Dam_Van_Vu_20002180_Cau_3.c	Le_Sy_Van_20002178_Cau_3.c
+Dam Van Vu	25.67	Luyen Thi Quyen	25.67	9	Dam_Van_Vu_20002180_Cau_3.c	luyen_thi_quyen_20002158_cau_1.c
+Dam Van Vu	29.86	Truong Tuan Anh	29.86	10	Dam_Van_Vu_20002180_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Dam Van Vu	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Đình Trung Kiên-20002141	94.70	Bùi Ngọc Thành - 20002165	94.70	38	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c	BUI_NGOC_THANH_20002165_Cau 2.c
+Nguyễn Đình Trung Kiên-20002141	21.36	Khuất Đăng Sơn - 20002159	21.36	9	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	khuat_dang_son_20002159_cau_2.c
+Nguyễn Đình Trung Kiên-20002141	36.32	Le Hong Thach	36.32	12	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Le_Hong_Thach_20002162_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	37.64	Tran Thien Cuong	37.64	8	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Nguyễn Đình Trung Kiên-20002141	36.36	Chu Pham Dinh Tu	36.36	7	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	27.91	Nguyễn Bá Kiên 20002140	27.91	12	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Nguyễn Đình Trung Kiên-20002141	30.95	Nguyen Trong Son	30.95	16	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn Đình Trung Kiên-20002141	28.64	Dao Anh Duong	28.64	9	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Dao_Anh_Duong_20002112_cau_1.c
+Nguyễn Đình Trung Kiên-20002141	42.21	Phạm Tiến Anh-20002106	42.21	8	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Nguyễn Đình Trung Kiên-20002141	26.81	nguyen truong danh 20002110	26.81	8	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Đình Trung Kiên-20002141	24.88	Nguyễn Mạnh Trung - 20002171	24.88	7	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Nguyễn Đình Trung Kiên-20002141	30.68	Pham Hoang An	30.68	9	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Đình Trung Kiên-20002141	40.15	Nguyen Thanh Long	40.15	5	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Đình Trung Kiên-20002141	32.30	Nguyễn ANh Tuấn_20002176	32.30	9	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Nguyen_Anh_Tuan_20002176_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	45.63	Tran ANh Minh 20002144	45.63	10	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Tran_Anh_Minh_20002144_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	21.42	Hoàng Hữu Hiếu_20002125	21.42	14	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyễn Đình Trung Kiên-20002141	27.36	Nguyễn Thế Phong 20002150	27.36	8	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	42.95	Phung_Phuc_Hau_20002123	42.95	12	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	23.90	Đỗ Phương Nam-20002145	23.90	16	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c	Do Phuong Nam-20002145-Cau3.c
+Nguyễn Đình Trung Kiên-20002141	57.74	Do_Minh_Tuan_20002175	57.74	12	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Do_Minh_Tuan_20002175_Cau1.c
+Nguyễn Đình Trung Kiên-20002141	22.61	Luu The Trung	22.61	6	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn Đình Trung Kiên-20002141	24.72	Dương Đức Thịnh-20002166	24.72	7	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	23.86	Le_Sy_Van_20002178	23.86	7	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Nguyễn Đình Trung Kiên-20002141	25.09	Luyen Thi Quyen	25.09	10	Nguyen_Dinh_Trung_Kien_20002141_Cau_2.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyễn Đình Trung Kiên-20002141	32.62	Truong Tuan Anh	32.62	10	Nguyen_Dinh_Trung_Kien_20002141_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Nguyễn Đình Trung Kiên-20002141	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Bùi Ngọc Thành - 20002165	25.04	Khuất Đăng Sơn - 20002159	25.04	12	Bui_Ngoc_Thanh_20002165_Cau_3.c	khuat_dang_son_20002159_cau_2.c
+Bùi Ngọc Thành - 20002165	32.45	Le Hong Thach	32.45	9	BUI_NGOC_THANH_20002165_Cau_1.c	Le_Hong_Thach_20002162_Cau_1.c
+Bùi Ngọc Thành - 20002165	34.91	Tran Thien Cuong	34.91	8	BUI_NGOC_THANH_20002165_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Bùi Ngọc Thành - 20002165	37.62	Chu Pham Dinh Tu	37.62	13	Bui_Ngoc_Thanh_20002165_Cau_3.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Bùi Ngọc Thành - 20002165	35.76	Nguyễn Bá Kiên 20002140	35.76	9	Bui_Ngoc_Thanh_20002165_Cau_3.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Bùi Ngọc Thành - 20002165	38.77	Nguyen Trong Son	38.77	10	Bui_Ngoc_Thanh_20002165_Cau_3.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Bùi Ngọc Thành - 20002165	29.09	Dao Anh Duong	29.09	10	BUI_NGOC_THANH_20002165_Cau_1.c	Dao_Anh_Duong_20002112_cau_1.c
+Bùi Ngọc Thành - 20002165	39.48	Phạm Tiến Anh-20002106	39.48	8	BUI_NGOC_THANH_20002165_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Bùi Ngọc Thành - 20002165	31.20	nguyen truong danh 20002110	31.20	11	BUI_NGOC_THANH_20002165_Cau_1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Bùi Ngọc Thành - 20002165	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Bùi Ngọc Thành - 20002165	27.38	Nguyễn Mạnh Trung - 20002171	27.38	10	Bui_Ngoc_Thanh_20002165_Cau_3.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Bùi Ngọc Thành - 20002165	30.91	Pham Hoang An	30.91	8	BUI_NGOC_THANH_20002165_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Bùi Ngọc Thành - 20002165	38.79	Nguyen Thanh Long	38.79	5	BUI_NGOC_THANH_20002165_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Bùi Ngọc Thành - 20002165	37.61	Nguyễn ANh Tuấn_20002176	37.61	9	BUI_NGOC_THANH_20002165_Cau_1.c	Nguyen_Anh_Tuan_20002176_Cau_1.c
+Bùi Ngọc Thành - 20002165	54.45	Tran ANh Minh 20002144	54.45	16	BUI_NGOC_THANH_20002165_Cau_1.c	Tran_Anh_Minh_20002144_Cau_1.c
+Bùi Ngọc Thành - 20002165	39.91	Hoàng Hữu Hiếu_20002125	39.91	12	Bui_Ngoc_Thanh_20002165_Cau_3.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Bùi Ngọc Thành - 20002165	54.28	Nguyễn Thế Phong 20002150	54.28	19	Bui_Ngoc_Thanh_20002165_Cau_3.c	Nguyen_The_Phong_20002150_Cau_2.c
+Bùi Ngọc Thành - 20002165	49.09	Phung_Phuc_Hau_20002123	49.09	13	BUI_NGOC_THANH_20002165_Cau_1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Bùi Ngọc Thành - 20002165	37.19	Đỗ Phương Nam-20002145	37.19	10	Bui_Ngoc_Thanh_20002165_Cau_3.c	Do Phuong Nam-20002145-Cau2.c
+Bùi Ngọc Thành - 20002165	67.90	Do_Minh_Tuan_20002175	67.90	16	BUI_NGOC_THANH_20002165_Cau_1.c	Do_Minh_Tuan_20002175_Cau1.c
+Bùi Ngọc Thành - 20002165	21.24	Luu The Trung	21.24	6	BUI_NGOC_THANH_20002165_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Bùi Ngọc Thành - 20002165	44.36	Dương Đức Thịnh-20002166	44.36	14	Bui_Ngoc_Thanh_20002165_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Bùi Ngọc Thành - 20002165	26.96	Le_Sy_Van_20002178	26.96	8	Bui_Ngoc_Thanh_20002165_Cau_3.c	Le_Sy_Van_20002178_Cau_3.c
+Bùi Ngọc Thành - 20002165	24.97	Luyen Thi Quyen	24.97	14	Bui_Ngoc_Thanh_20002165_Cau_3.c	luyen_thi_quyen_20002158_cau_3.c
+Bùi Ngọc Thành - 20002165	31.70	Truong Tuan Anh	31.70	14	BUI_NGOC_THANH_20002165_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Bùi Ngọc Thành - 20002165	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Khuất Đăng Sơn - 20002159	34.54	Le Hong Thach	34.54	17	khuat_dang_son_20002159_cau_3.c	Le_Hong_Thach_20002162_Cau_3.c
+Khuất Đăng Sơn - 20002159	27.14	Tran Thien Cuong	27.14	7	khuat_dang_son_20002159_cau_3.c	TRAN THIEN CUON_20002109_BAI1.c
+Khuất Đăng Sơn - 20002159	19.92	Chu Pham Dinh Tu	19.92	15	khuat_dang_son_20002159_cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_3.c
+Khuất Đăng Sơn - 20002159	40.97	Nguyễn Bá Kiên 20002140	40.97	19	khuat_dang_son_20002159_cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Khuất Đăng Sơn - 20002159	17.88	Nguyen Trong Son	17.88	11	khuat_dang_son_20002159_cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Khuất Đăng Sơn - 20002159	26.91	Dao Anh Duong	26.91	11	khuat_dang_son_20002159_cau_2.c	Dao_Anh_Duong_20002112_cau2.c
+Khuất Đăng Sơn - 20002159	30.43	Phạm Tiến Anh-20002106	30.43	8	khuat_dang_son_20002159_cau_2.c	Pham_Tien_Anh_20002106_Cau1.c
+Khuất Đăng Sơn - 20002159	38.52	nguyen truong danh 20002110	38.52	16	khuat_dang_son_20002159_cau_2.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Khuất Đăng Sơn - 20002159	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Khuất Đăng Sơn - 20002159	30.57	Nguyễn Mạnh Trung - 20002171	30.57	12	khuat_dang_son_20002159_cau_2.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Khuất Đăng Sơn - 20002159	36.27	Pham Hoang An	36.27	14	khuat_dang_son_20002159_cau_2.c	Pham_Hoang_AN_20002102_Cau_3.c
+Khuất Đăng Sơn - 20002159	45.89	Nguyen Thanh Long	45.89	6	khuat_dang_son_20002159_cau_2.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Khuất Đăng Sơn - 20002159	22.10	Nguyễn ANh Tuấn_20002176	22.10	15	khuat_dang_son_20002159_cau_3.c	Nguyen_Anh_Tuan_20002176_Cau_3.c
+Khuất Đăng Sơn - 20002159	31.82	Tran ANh Minh 20002144	31.82	22	khuat_dang_son_20002159_cau_2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Khuất Đăng Sơn - 20002159	21.69	Hoàng Hữu Hiếu_20002125	21.69	9	khuat_dang_son_20002159_cau_1.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Khuất Đăng Sơn - 20002159	21.47	Nguyễn Thế Phong 20002150	21.47	15	khuat_dang_son_20002159_cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Khuất Đăng Sơn - 20002159	22.91	Phung_Phuc_Hau_20002123	22.91	12	khuat_dang_son_20002159_cau_2.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Khuất Đăng Sơn - 20002159	19.14	Đỗ Phương Nam-20002145	19.14	12	khuat_dang_son_20002159_cau_1.c	Do Phuong Nam-20002145-Cau3.c
+Khuất Đăng Sơn - 20002159	23.52	Do_Minh_Tuan_20002175	23.52	10	khuat_dang_son_20002159_cau_2.c	Do_Minh_Tuan_20002175_Cau3.c
+Khuất Đăng Sơn - 20002159	29.05	Luu The Trung	29.05	8	khuat_dang_son_20002159_cau_2.c	Luu_The_Trung_20002170_cau_1.c
+Khuất Đăng Sơn - 20002159	27.44	Dương Đức Thịnh-20002166	27.44	11	khuat_dang_son_20002159_cau_2.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Khuất Đăng Sơn - 20002159	24.70	Le_Sy_Van_20002178	24.70	9	khuat_dang_son_20002159_cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+Khuất Đăng Sơn - 20002159	35.71	Luyen Thi Quyen	35.71	10	khuat_dang_son_20002159_cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+Khuất Đăng Sơn - 20002159	43.34	Truong Tuan Anh	43.34	12	khuat_dang_son_20002159_cau_2.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Khuất Đăng Sơn - 20002159	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Le Hong Thach	33.00	Tran Thien Cuong	33.00	8	Le_Hong_Thach_20002162_Cau_1.c	TRAN THIEN CUON_20002109_BAI1.c
+Le Hong Thach	32.39	Chu Pham Dinh Tu	32.39	10	Le_Hong_Thach_20002162_Cau_2.c	Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Le Hong Thach	38.18	Nguyễn Bá Kiên 20002140	38.18	10	Le_Hong_Thach_20002162_Cau_1.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+Le Hong Thach	42.20	Nguyen Trong Son	42.20	14	Le_Hong_Thach_20002162_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Le Hong Thach	30.55	Dao Anh Duong	30.55	10	Le_Hong_Thach_20002162_Cau_1.c	Dao_Anh_Duong_20002112_cau_1.c
+Le Hong Thach	37.19	Phạm Tiến Anh-20002106	37.19	8	Le_Hong_Thach_20002162_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Le Hong Thach	31.43	nguyen truong danh 20002110	31.43	13	Le_Hong_Thach_20002162_Cau_3.c	Nguyen_Truong_Danh-20002110_Cau_3.c
+Le Hong Thach	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Le Hong Thach	21.07	Nguyễn Mạnh Trung - 20002171	21.07	15	Le_Hong_Thach_20002162_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Le Hong Thach	55.54	Pham Hoang An	55.54	41	Le_Hong_Thach_20002162_Cau_3.c	Pham_Hoang_An_20002102_Cau_2.c
+Le Hong Thach	35.52	Nguyen Thanh Long	35.52	6	Le_Hong_Thach_20002162_Cau_3.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Le Hong Thach	49.28	Nguyễn ANh Tuấn_20002176	49.28	28	Le_Hong_Thach_20002162_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Le Hong Thach	48.93	Tran ANh Minh 20002144	48.93	13	Le_Hong_Thach_20002162_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Le Hong Thach	31.82	Hoàng Hữu Hiếu_20002125	31.82	10	Le_Hong_Thach_20002162_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Le Hong Thach	32.99	Nguyễn Thế Phong 20002150	32.99	16	Le_Hong_Thach_20002162_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Le Hong Thach	78.27	Phung_Phuc_Hau_20002123	78.27	18	Le_Hong_Thach_20002162_Cau_1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Le Hong Thach	27.23	Đỗ Phương Nam-20002145	27.23	14	Le_Hong_Thach_20002162_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Le Hong Thach	54.94	Do_Minh_Tuan_20002175	54.94	30	Le_Hong_Thach_20002162_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Le Hong Thach	20.45	Luu The Trung	20.45	21	Le_Hong_Thach_20002162_Cau_3.c	Luu_The_Trung_20002170_cau_3.c
+Le Hong Thach	33.68	Dương Đức Thịnh-20002166	33.68	11	Le_Hong_Thach_20002162_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Le Hong Thach	22.50	Le_Sy_Van_20002178	22.50	6	Le_Hong_Thach_20002162_Cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Le Hong Thach	34.38	Luyen Thi Quyen	34.38	27	Le_Hong_Thach_20002162_Cau_3.c	luyen_thi_quyen_20002158_cau_3.c
+Le Hong Thach	37.15	Truong Tuan Anh	37.15	11	Le_Hong_Thach_20002162_Cau_1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Le Hong Thach	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Tran Thien Cuong	37.64	Chu Pham Dinh Tu	37.64	7	TRAN THIEN CUON_20002109_BAI1.c	Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Tran Thien Cuong	34.91	Nguyễn Bá Kiên 20002140	34.91	7	TRAN THIEN CUON_20002109_BAI1.c	Nguyen_Ba_Kien_20002140_Cau_1.c
+Tran Thien Cuong	28.88	Nguyen Trong Son	28.88	7	TRAN THIEN CUON_20002109_BAI1.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Tran Thien Cuong	50.28	Dao Anh Duong	50.28	27	TRAN THIEN CUONG_20002109_BAI3.c	Dao_Anh_Duong_20002112_cau3.c
+Tran Thien Cuong	56.95	Phạm Tiến Anh-20002106	56.95	9	TRAN THIEN CUON_20002109_BAI1.c	Pham_Tien_Anh_20002106_Cau1.c
+Tran Thien Cuong	40.96	nguyen truong danh 20002110	40.96	10	TRAN THIEN CUON_20002109_BAI1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Tran Thien Cuong	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Tran Thien Cuong	36.86	Nguyễn Mạnh Trung - 20002171	36.86	7	TRAN THIEN CUON_20002109_BAI1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Tran Thien Cuong	37.82	Pham Hoang An	37.82	9	TRAN THIEN CUON_20002109_BAI1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Tran Thien Cuong	45.33	Nguyen Thanh Long	45.33	5	TRAN THIEN CUON_20002109_BAI1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Tran Thien Cuong	26.58	Nguyễn ANh Tuấn_20002176	26.58	7	TRAN THIEN CUON_20002109_BAI1.c	Nguyen_Anh_Tuan_20002176_Cau_1.c
+Tran Thien Cuong	34.17	Tran ANh Minh 20002144	34.17	7	TRAN THIEN CUON_20002109_BAI1.c	Tran_Anh_Minh_20002144_Cau_1.c
+Tran Thien Cuong	30.86	Hoàng Hữu Hiếu_20002125	30.86	9	TRAN THIEN CUON_20002109_BAI1.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Tran Thien Cuong	36.86	Nguyễn Thế Phong 20002150	36.86	9	TRAN THIEN CUON_20002109_BAI1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Tran Thien Cuong	32.00	Phung_Phuc_Hau_20002123	32.00	8	TRAN THIEN CUON_20002109_BAI1.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Tran Thien Cuong	36.75	Đỗ Phương Nam-20002145	36.75	8	TRAN THIEN CUON_20002109_BAI1.c	Do Phuong Nam-20002145-Cau1.c
+Tran Thien Cuong	35.11	Do_Minh_Tuan_20002175	35.11	8	TRAN THIEN CUON_20002109_BAI1.c	Do_Minh_Tuan_20002175_Cau1.c
+Tran Thien Cuong	55.58	Luu The Trung	55.58	8	TRAN THIEN CUON_20002109_BAI1.c	Luu_The_Trung_20002170_cau_1.c
+Tran Thien Cuong	40.44	Dương Đức Thịnh-20002166	40.44	9	TRAN THIEN CUON_20002109_BAI1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Tran Thien Cuong	32.50	Le_Sy_Van_20002178	32.50	7	TRAN THIEN CUON_20002109_BAI1.c	Le_Sy_Van_20002178_Cau_1.c
+Tran Thien Cuong	35.05	Luyen Thi Quyen	35.05	7	TRAN THIEN CUON_20002109_BAI1.c	luyen_thi_quyen_20002158_cau_1.c
+Tran Thien Cuong	32.11	Truong Tuan Anh	32.11	8	TRAN THIEN CUON_20002109_BAI1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Tran Thien Cuong	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Chu Pham Dinh Tu	39.88	Nguyễn Bá Kiên 20002140	39.88	13	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Nguyen_Ba_Kien_20002140_Cau_2.c
+Chu Pham Dinh Tu	45.88	Nguyen Trong Son	45.88	20	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Chu Pham Dinh Tu	43.19	Dao Anh Duong	43.19	34	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	Dao_Anh_Duong_20002112_cau3.c
+Chu Pham Dinh Tu	42.21	Phạm Tiến Anh-20002106	42.21	7	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Chu Pham Dinh Tu	44.67	nguyen truong danh 20002110	44.67	12	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Chu Pham Dinh Tu	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Chu Pham Dinh Tu	32.26	Nguyễn Mạnh Trung - 20002171	32.26	13	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Chu Pham Dinh Tu	65.89	Pham Hoang An	65.89	13	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	Pham_Hoang_AN_20002102_Cau_1.c
+Chu Pham Dinh Tu	40.15	Nguyen Thanh Long	40.15	5	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Chu Pham Dinh Tu	29.54	Nguyễn ANh Tuấn_20002176	29.54	28	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Chu Pham Dinh Tu	37.34	Tran ANh Minh 20002144	37.34	17	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Chu Pham Dinh Tu	95.44	Hoàng Hữu Hiếu_20002125	95.44	38	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Chu Pham Dinh Tu	40.42	Nguyễn Thế Phong 20002150	40.42	25	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Chu Pham Dinh Tu	39.63	Phung_Phuc_Hau_20002123	39.63	25	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Chu Pham Dinh Tu	36.02	Đỗ Phương Nam-20002145	36.02	21	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Chu Pham Dinh Tu	27.97	Do_Minh_Tuan_20002175	27.97	16	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	Do_Minh_Tuan_20002175_Cau2.c
+Chu Pham Dinh Tu	26.92	Luu The Trung	26.92	23	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	Luu_The_Trung_20002170_cau_3.c
+Chu Pham Dinh Tu	31.11	Dương Đức Thịnh-20002166	31.11	19	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Chu Pham Dinh Tu	39.42	Le_Sy_Van_20002178	39.42	18	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+Chu Pham Dinh Tu	32.93	Luyen Thi Quyen	32.93	18	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	luyen_thi_quyen_20002158_cau_3.c
+Chu Pham Dinh Tu	27.18	Truong Tuan Anh	27.18	9	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Chu Pham Dinh Tu	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Bá Kiên 20002140	43.12	Nguyen Trong Son	43.12	17	Nguyen_Ba_Kien_20002140_Cau_2.c	Nguyen_Trong_Son_20002160_Cau_2.c
+Nguyễn Bá Kiên 20002140	35.29	Dao Anh Duong	35.29	12	Nguyen_Ba_Kien_20002140_Cau_2.c	Dao_Anh_Duong_20002112_cau2.c
+Nguyễn Bá Kiên 20002140	43.83	Phạm Tiến Anh-20002106	43.83	15	Nguyen_Ba_Kien_20002140_Cau_2.c	Pham_Tien_Anh_20002106_Cau2.c
+Nguyễn Bá Kiên 20002140	37.79	nguyen truong danh 20002110	37.79	15	Nguyen_Ba_Kien_20002140_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Nguyễn Bá Kiên 20002140	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyễn Bá Kiên 20002140	34.03	Nguyễn Mạnh Trung - 20002171	34.03	12	Nguyen_Ba_Kien_20002140_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Nguyễn Bá Kiên 20002140	40.74	Pham Hoang An	40.74	13	Nguyen_Ba_Kien_20002140_Cau_2.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Bá Kiên 20002140	57.76	Nguyen Thanh Long	57.76	6	Nguyen_Ba_Kien_20002140_Cau_2.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Bá Kiên 20002140	37.44	Nguyễn ANh Tuấn_20002176	37.44	24	Nguyen_Ba_Kien_20002140_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Bá Kiên 20002140	42.70	Tran ANh Minh 20002144	42.70	20	Nguyen_Ba_Kien_20002140_Cau_2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Nguyễn Bá Kiên 20002140	39.38	Hoàng Hữu Hiếu_20002125	39.38	13	Nguyen_Ba_Kien_20002140_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyễn Bá Kiên 20002140	34.91	Nguyễn Thế Phong 20002150	34.91	17	Nguyen_Ba_Kien_20002140_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyễn Bá Kiên 20002140	35.90	Phung_Phuc_Hau_20002123	35.90	19	Nguyen_Ba_Kien_20002140_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyễn Bá Kiên 20002140	41.29	Đỗ Phương Nam-20002145	41.29	15	Nguyen_Ba_Kien_20002140_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Bá Kiên 20002140	37.64	Do_Minh_Tuan_20002175	37.64	24	Nguyen_Ba_Kien_20002140_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Bá Kiên 20002140	27.65	Luu The Trung	27.65	14	Nguyen_Ba_Kien_20002140_Cau_2.c	Luu_The_Trung_20002170_cau_3.c
+Nguyễn Bá Kiên 20002140	42.38	Dương Đức Thịnh-20002166	42.38	18	Nguyen_Ba_Kien_20002140_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Bá Kiên 20002140	36.54	Le_Sy_Van_20002178	36.54	15	Nguyen_Ba_Kien_20002140_Cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyễn Bá Kiên 20002140	34.85	Luyen Thi Quyen	34.85	16	Nguyen_Ba_Kien_20002140_Cau_2.c	luyen_thi_quyen_20002158_cau_2.c
+Nguyễn Bá Kiên 20002140	27.62	Truong Tuan Anh	27.62	9	Nguyen_Ba_Kien_20002140_Cau_1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Nguyễn Bá Kiên 20002140	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyen Trong Son	23.55	Dao Anh Duong	23.55	11	Nguyen_Trong_Son_20002160_Cau_1.c	Dao_Anh_Duong_20002112_cau3.c
+Nguyen Trong Son	59.89	Phạm Tiến Anh-20002106	59.89	22	Nguyen_Trong_Son_20002160_Cau_2.c	Pham_Tien_Anh_20002106_Cau2.c
+Nguyen Trong Son	42.05	nguyen truong danh 20002110	42.05	16	Nguyen_Trong_Son_20002160_Cau_2.c	Nguyen_Truong_Danh-20002110_Cau_2.c
+Nguyen Trong Son	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Nguyen Trong Son	35.37	Nguyễn Mạnh Trung - 20002171	35.37	14	Nguyen_Trong_Son_20002160_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Nguyen Trong Son	27.61	Pham Hoang An	27.61	13	Nguyen_Trong_Son_20002160_Cau_2.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyen Trong Son	43.26	Nguyen Thanh Long	43.26	6	Nguyen_Trong_Son_20002160_Cau_2.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyen Trong Son	22.47	Nguyễn ANh Tuấn_20002176	22.47	20	Nguyen_Trong_Son_20002160_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyen Trong Son	47.90	Tran ANh Minh 20002144	47.90	26	Nguyen_Trong_Son_20002160_Cau_2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Nguyen Trong Son	45.17	Hoàng Hữu Hiếu_20002125	45.17	20	Nguyen_Trong_Son_20002160_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyen Trong Son	52.80	Nguyễn Thế Phong 20002150	52.80	24	Nguyen_Trong_Son_20002160_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyen Trong Son	41.04	Phung_Phuc_Hau_20002123	41.04	24	Nguyen_Trong_Son_20002160_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyen Trong Son	47.47	Đỗ Phương Nam-20002145	47.47	21	Nguyen_Trong_Son_20002160_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyen Trong Son	29.77	Do_Minh_Tuan_20002175	29.77	17	Nguyen_Trong_Son_20002160_Cau_1.c	Do_Minh_Tuan_20002175_Cau1.c
+Nguyen Trong Son	21.41	Luu The Trung	21.41	7	Nguyen_Trong_Son_20002160_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyen Trong Son	40.68	Dương Đức Thịnh-20002166	40.68	18	Nguyen_Trong_Son_20002160_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyen Trong Son	36.22	Le_Sy_Van_20002178	36.22	14	Nguyen_Trong_Son_20002160_Cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyen Trong Son	24.05	Luyen Thi Quyen	24.05	11	Nguyen_Trong_Son_20002160_Cau_2.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyen Trong Son	21.67	Truong Tuan Anh	21.67	11	Nguyen_Trong_Son_20002160_Cau_2.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyen Trong Son	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Dao Anh Duong	39.48	Phạm Tiến Anh-20002106	39.48	8	Dao_Anh_Duong_20002112_cau_1.c	Pham_Tien_Anh_20002106_Cau1.c
+Dao Anh Duong	25.58	nguyen truong danh 20002110	25.58	14	Dao_Anh_Duong_20002112_cau2.c	Nguyen_Truong_Danh-20002110_Cau_3.c
+Dao Anh Duong	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Dao Anh Duong	31.65	Nguyễn Mạnh Trung - 20002171	31.65	8	Dao_Anh_Duong_20002112_cau_1.c	Nguyen Manh Trung - 20002171 - Cau 1.c
+Dao Anh Duong	33.11	Pham Hoang An	33.11	11	Dao_Anh_Duong_20002112_cau_1.c	Pham_Hoang_AN_20002102_Cau_1.c
+Dao Anh Duong	38.79	Nguyen Thanh Long	38.79	5	Dao_Anh_Duong_20002112_cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Dao Anh Duong	23.56	Nguyễn ANh Tuấn_20002176	23.56	18	Dao_Anh_Duong_20002112_cau3.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Dao Anh Duong	34.36	Tran ANh Minh 20002144	34.36	19	Dao_Anh_Duong_20002112_cau2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Dao Anh Duong	32.15	Hoàng Hữu Hiếu_20002125	32.15	18	Dao_Anh_Duong_20002112_cau2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Dao Anh Duong	36.12	Nguyễn Thế Phong 20002150	36.12	22	Dao_Anh_Duong_20002112_cau2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Dao Anh Duong	34.63	Phung_Phuc_Hau_20002123	34.63	16	Dao_Anh_Duong_20002112_cau3.c	Phung_Phuc_Hau_20002123_Cau_2.c
+Dao Anh Duong	30.65	Đỗ Phương Nam-20002145	30.65	11	Dao_Anh_Duong_20002112_cau2.c	Do Phuong Nam-20002145-Cau2.c
+Dao Anh Duong	37.83	Do_Minh_Tuan_20002175	37.83	20	Dao_Anh_Duong_20002112_cau3.c	Do_Minh_Tuan_20002175_Cau2.c
+Dao Anh Duong	40.87	Luu The Trung	40.87	23	Dao_Anh_Duong_20002112_cau3.c	Luu_The_Trung_20002170_cau_3.c
+Dao Anh Duong	38.00	Dương Đức Thịnh-20002166	38.00	28	Dao_Anh_Duong_20002112_cau2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Dao Anh Duong	23.75	Le_Sy_Van_20002178	23.75	7	Dao_Anh_Duong_20002112_cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Dao Anh Duong	24.62	Luyen Thi Quyen	24.62	10	Dao_Anh_Duong_20002112_cau3.c	luyen_thi_quyen_20002158_cau_3.c
+Dao Anh Duong	25.65	Truong Tuan Anh	25.65	9	Dao_Anh_Duong_20002112_cau_1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Dao Anh Duong	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Phạm Tiến Anh-20002106	42.99	nguyen truong danh 20002110	42.99	9	Pham_Tien_Anh_20002106_Cau1.c	Nguyen_Truong_Danh-20002110_Cau_1.c
+Phạm Tiến Anh-20002106	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+Phạm Tiến Anh-20002106	45.37	Nguyễn Mạnh Trung - 20002171	45.37	17	Pham_Tien_Anh_20002106_Cau2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+Phạm Tiến Anh-20002106	42.77	Pham Hoang An	42.77	9	Pham_Tien_Anh_20002106_Cau1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Phạm Tiến Anh-20002106	52.35	Nguyen Thanh Long	52.35	6	Pham_Tien_Anh_20002106_Cau3.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Phạm Tiến Anh-20002106	30.39	Nguyễn ANh Tuấn_20002176	30.39	7	Pham_Tien_Anh_20002106_Cau1.c	Nguyen_Anh_Tuan_20002176_Cau_1.c
+Phạm Tiến Anh-20002106	45.43	Tran ANh Minh 20002144	45.43	24	Pham_Tien_Anh_20002106_Cau2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Phạm Tiến Anh-20002106	41.90	Hoàng Hữu Hiếu_20002125	41.90	9	Pham_Tien_Anh_20002106_Cau1.c	Hoang_Huu_Hieu_20002125_Cau_1.c
+Phạm Tiến Anh-20002106	51.86	Nguyễn Thế Phong 20002150	51.86	25	Pham_Tien_Anh_20002106_Cau2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Phạm Tiến Anh-20002106	49.21	Phung_Phuc_Hau_20002123	49.21	27	Pham_Tien_Anh_20002106_Cau2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Phạm Tiến Anh-20002106	58.04	Đỗ Phương Nam-20002145	58.04	8	Pham_Tien_Anh_20002106_Cau1.c	Do Phuong Nam-20002145-Cau1.c
+Phạm Tiến Anh-20002106	39.68	Do_Minh_Tuan_20002175	39.68	8	Pham_Tien_Anh_20002106_Cau1.c	Do_Minh_Tuan_20002175_Cau1.c
+Phạm Tiến Anh-20002106	35.09	Luu The Trung	35.09	7	Pham_Tien_Anh_20002106_Cau1.c	Luu_The_Trung_20002170_cau_1.c
+Phạm Tiến Anh-20002106	41.90	Dương Đức Thịnh-20002166	41.90	9	Pham_Tien_Anh_20002106_Cau1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Phạm Tiến Anh-20002106	40.56	Le_Sy_Van_20002178	40.56	16	Pham_Tien_Anh_20002106_Cau2.c	Le_Sy_Van_20002178_Cau_2.c
+Phạm Tiến Anh-20002106	38.74	Luyen Thi Quyen	38.74	11	Pham_Tien_Anh_20002106_Cau3.c	luyen_thi_quyen_20002158_cau_1.c
+Phạm Tiến Anh-20002106	33.62	Truong Tuan Anh	33.62	8	Pham_Tien_Anh_20002106_Cau1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Phạm Tiến Anh-20002106	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+nguyen truong danh 20002110	0.00	Trương Ngôn Nghĩa - 20002147	0.00	0
+nguyen truong danh 20002110	53.37	Nguyễn Mạnh Trung - 20002171	53.37	19	Nguyen_Truong_Danh-20002110_Cau_2.c	Nguyen Manh Trung - 20002171 - Cau 2.c
+nguyen truong danh 20002110	31.20	Pham Hoang An	31.20	13	Nguyen_Truong_Danh-20002110_Cau_1.c	Pham_Hoang_AN_20002102_Cau_3.c
+nguyen truong danh 20002110	45.37	Nguyen Thanh Long	45.37	6	Nguyen_Truong_Danh-20002110_Cau_1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+nguyen truong danh 20002110	30.24	Nguyễn ANh Tuấn_20002176	30.24	13	Nguyen_Truong_Danh-20002110_Cau_3.c	Nguyen_Anh_Tuan_20002176_Cau_3.c
+nguyen truong danh 20002110	45.43	Tran ANh Minh 20002144	45.43	16	Nguyen_Truong_Danh-20002110_Cau_2.c	Tran_Anh_Minh_20002144_Cau_3.c
+nguyen truong danh 20002110	43.99	Hoàng Hữu Hiếu_20002125	43.99	12	Nguyen_Truong_Danh-20002110_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+nguyen truong danh 20002110	37.81	Nguyễn Thế Phong 20002150	37.81	19	Nguyen_Truong_Danh-20002110_Cau_2.c	Nguyen_The_Phong_20002150_Cau_2.c
+nguyen truong danh 20002110	37.94	Phung_Phuc_Hau_20002123	37.94	25	Nguyen_Truong_Danh-20002110_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+nguyen truong danh 20002110	35.12	Đỗ Phương Nam-20002145	35.12	18	Nguyen_Truong_Danh-20002110_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+nguyen truong danh 20002110	25.99	Do_Minh_Tuan_20002175	25.99	18	Nguyen_Truong_Danh-20002110_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+nguyen truong danh 20002110	35.58	Luu The Trung	35.58	8	Nguyen_Truong_Danh-20002110_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+nguyen truong danh 20002110	30.56	Dương Đức Thịnh-20002166	30.56	13	Nguyen_Truong_Danh-20002110_Cau_1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+nguyen truong danh 20002110	40.56	Le_Sy_Van_20002178	40.56	12	Nguyen_Truong_Danh-20002110_Cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+nguyen truong danh 20002110	33.07	Luyen Thi Quyen	33.07	12	Nguyen_Truong_Danh-20002110_Cau_1.c	luyen_thi_quyen_20002158_cau_1.c
+nguyen truong danh 20002110	30.09	Truong Tuan Anh	30.09	11	Nguyen_Truong_Danh-20002110_Cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+nguyen truong danh 20002110	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn Mạnh Trung - 20002171	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Pham Hoang An	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyen Thanh Long	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn ANh Tuấn_20002176	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Tran ANh Minh 20002144	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Hoàng Hữu Hiếu_20002125	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn Thế Phong 20002150	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Phung_Phuc_Hau_20002123	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Đỗ Phương Nam-20002145	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Do_Minh_Tuan_20002175	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Luu The Trung	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Dương Đức Thịnh-20002166	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Le_Sy_Van_20002178	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Luyen Thi Quyen	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Truong Tuan Anh	0.00	0
+Trương Ngôn Nghĩa - 20002147	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Mạnh Trung - 20002171	38.43	Pham Hoang An	38.43	13	Nguyen Manh Trung - 20002171 - Cau 1.c	Pham_Hoang_AN_20002102_Cau_3.c
+Nguyễn Mạnh Trung - 20002171	55.26	Nguyen Thanh Long	55.26	6	Nguyen Manh Trung - 20002171 - Cau 1.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Nguyễn Mạnh Trung - 20002171	19.41	Nguyễn ANh Tuấn_20002176	19.41	14	Nguyen Manh Trung - 20002171 - Cau 2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyễn Mạnh Trung - 20002171	36.01	Tran ANh Minh 20002144	36.01	11	Nguyen Manh Trung - 20002171 - Cau 2.c	Tran_Anh_Minh_20002144_Cau_3.c
+Nguyễn Mạnh Trung - 20002171	32.93	Hoàng Hữu Hiếu_20002125	32.93	14	Nguyen Manh Trung - 20002171 - Cau 2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyễn Mạnh Trung - 20002171	32.36	Nguyễn Thế Phong 20002150	32.36	13	Nguyen Manh Trung - 20002171 - Cau 2.c	Nguyen_The_Phong_20002150_Cau_2.c
+Nguyễn Mạnh Trung - 20002171	41.37	Phung_Phuc_Hau_20002123	41.37	18	Nguyen Manh Trung - 20002171 - Cau 2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyễn Mạnh Trung - 20002171	32.41	Đỗ Phương Nam-20002145	32.41	16	Nguyen Manh Trung - 20002171 - Cau 2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Mạnh Trung - 20002171	22.77	Do_Minh_Tuan_20002175	22.77	9	Nguyen Manh Trung - 20002171 - Cau 1.c	Do_Minh_Tuan_20002175_Cau1.c
+Nguyễn Mạnh Trung - 20002171	35.85	Luu The Trung	35.85	8	Nguyen Manh Trung - 20002171 - Cau 1.c	Luu_The_Trung_20002170_cau_1.c
+Nguyễn Mạnh Trung - 20002171	24.99	Dương Đức Thịnh-20002166	24.99	9	Nguyen Manh Trung - 20002171 - Cau 2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Mạnh Trung - 20002171	41.77	Le_Sy_Van_20002178	41.77	14	Nguyen Manh Trung - 20002171 - Cau 2.c	Le_Sy_Van_20002178_Cau_2.c
+Nguyễn Mạnh Trung - 20002171	41.06	Luyen Thi Quyen	41.06	10	Nguyen Manh Trung - 20002171 - Cau 1.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyễn Mạnh Trung - 20002171	34.35	Truong Tuan Anh	34.35	7	Nguyen Manh Trung - 20002171 - Cau 1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Nguyễn Mạnh Trung - 20002171	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Pham Hoang An	58.18	Nguyen Thanh Long	58.18	6	Pham_Hoang_AN_20002102_Cau_3.c	Nguyen_Thanh_Long_20002142_Cau_2.c
+Pham Hoang An	37.61	Nguyễn ANh Tuấn_20002176	37.61	22	Pham_Hoang_An_20002102_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_3.c
+Pham Hoang An	31.34	Tran ANh Minh 20002144	31.34	14	Pham_Hoang_AN_20002102_Cau_3.c	Tran_Anh_Minh_20002144_Cau_3.c
+Pham Hoang An	29.91	Hoàng Hữu Hiếu_20002125	29.91	12	Pham_Hoang_AN_20002102_Cau_3.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Pham Hoang An	27.13	Nguyễn Thế Phong 20002150	27.13	10	Pham_Hoang_AN_20002102_Cau_3.c	Nguyen_The_Phong_20002150_Cau_1.c
+Pham Hoang An	28.27	Phung_Phuc_Hau_20002123	28.27	15	Pham_Hoang_AN_20002102_Cau_3.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Pham Hoang An	26.48	Đỗ Phương Nam-20002145	26.48	11	Pham_Hoang_AN_20002102_Cau_3.c	Do Phuong Nam-20002145-Cau2.c
+Pham Hoang An	31.20	Do_Minh_Tuan_20002175	31.20	10	Pham_Hoang_AN_20002102_Cau_3.c	Do_Minh_Tuan_20002175_Cau1.c
+Pham Hoang An	28.33	Luu The Trung	28.33	8	Pham_Hoang_AN_20002102_Cau_3.c	Luu_The_Trung_20002170_cau_1.c
+Pham Hoang An	30.30	Dương Đức Thịnh-20002166	30.30	11	Pham_Hoang_AN_20002102_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Pham Hoang An	25.95	Le_Sy_Van_20002178	25.95	8	Pham_Hoang_AN_20002102_Cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Pham Hoang An	34.40	Luyen Thi Quyen	34.40	25	Pham_Hoang_An_20002102_Cau_2.c	luyen_thi_quyen_20002158_cau_3.c
+Pham Hoang An	37.49	Truong Tuan Anh	37.49	14	Pham_Hoang_AN_20002102_Cau_3.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Pham Hoang An	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyen Thanh Long	34.77	Nguyễn ANh Tuấn_20002176	34.77	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Nguyen_Anh_Tuan_20002176_Cau_2.c
+Nguyen Thanh Long	42.78	Tran ANh Minh 20002144	42.78	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Nguyen Thanh Long	43.21	Hoàng Hữu Hiếu_20002125	43.21	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_3.c
+Nguyen Thanh Long	43.32	Nguyễn Thế Phong 20002150	43.32	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Nguyen_The_Phong_20002150_Cau_3.c
+Nguyen Thanh Long	38.79	Phung_Phuc_Hau_20002123	38.79	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_1.c
+Nguyen Thanh Long	38.19	Đỗ Phương Nam-20002145	38.19	5	Nguyen_Thanh_Long_20002142_Cau_2.c	Do Phuong Nam-20002145-Cau1.c
+Nguyen Thanh Long	48.70	Do_Minh_Tuan_20002175	48.70	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyen Thanh Long	49.12	Luu The Trung	49.12	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Luu_The_Trung_20002170_cau_1.c
+Nguyen Thanh Long	33.33	Dương Đức Thịnh-20002166	33.33	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Nguyen Thanh Long	27.22	Le_Sy_Van_20002178	27.22	5	Nguyen_Thanh_Long_20002142_Cau_2.c	Le_Sy_Van_20002178_Cau_1.c
+Nguyen Thanh Long	71.43	Luyen Thi Quyen	71.43	6	Nguyen_Thanh_Long_20002142_Cau_2.c	luyen_thi_quyen_20002158_cau_1.c
+Nguyen Thanh Long	52.96	Truong Tuan Anh	52.96	6	Nguyen_Thanh_Long_20002142_Cau_2.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Nguyen Thanh Long	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn ANh Tuấn_20002176	39.74	Tran ANh Minh 20002144	39.74	25	Nguyen_Anh_Tuan_20002176_Cau_2.c	Tran_Anh_Minh_20002144_Cau_2.c
+Nguyễn ANh Tuấn_20002176	20.00	Hoàng Hữu Hiếu_20002125	20.00	24	Nguyen_Anh_Tuan_20002176_Cau_2.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Nguyễn ANh Tuấn_20002176	22.27	Nguyễn Thế Phong 20002150	22.27	8	Nguyen_Anh_Tuan_20002176_Cau_2.c	Nguyen_The_Phong_20002150_Cau_1.c
+Nguyễn ANh Tuấn_20002176	55.37	Phung_Phuc_Hau_20002123	55.37	32	Nguyen_Anh_Tuan_20002176_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyễn ANh Tuấn_20002176	27.24	Đỗ Phương Nam-20002145	27.24	20	Nguyen_Anh_Tuan_20002176_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn ANh Tuấn_20002176	37.79	Do_Minh_Tuan_20002175	37.79	24	Nguyen_Anh_Tuan_20002176_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn ANh Tuấn_20002176	20.86	Luu The Trung	20.86	19	Nguyen_Anh_Tuan_20002176_Cau_2.c	Luu_The_Trung_20002170_cau_3.c
+Nguyễn ANh Tuấn_20002176	26.05	Dương Đức Thịnh-20002166	26.05	27	Nguyen_Anh_Tuan_20002176_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn ANh Tuấn_20002176	21.55	Le_Sy_Van_20002178	21.55	5	Nguyen_Anh_Tuan_20002176_Cau_1.c	Le_Sy_Van_20002178_Cau_3.c
+Nguyễn ANh Tuấn_20002176	26.22	Luyen Thi Quyen	26.22	25	Nguyen_Anh_Tuan_20002176_Cau_2.c	luyen_thi_quyen_20002158_cau_2.c
+Nguyễn ANh Tuấn_20002176	24.10	Truong Tuan Anh	24.10	11	Nguyen_Anh_Tuan_20002176_Cau_1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Nguyễn ANh Tuấn_20002176	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Tran ANh Minh 20002144	36.70	Hoàng Hữu Hiếu_20002125	36.70	17	Tran_Anh_Minh_20002144_Cau_3.c	Hoang_Huu_Hieu_20002125_Cau_2.c
+Tran ANh Minh 20002144	67.20	Nguyễn Thế Phong 20002150	67.20	31	Tran_Anh_Minh_20002144_Cau_3.c	Nguyen_The_Phong_20002150_Cau_2.c
+Tran ANh Minh 20002144	54.38	Phung_Phuc_Hau_20002123	54.38	32	Tran_Anh_Minh_20002144_Cau_3.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Tran ANh Minh 20002144	44.17	Đỗ Phương Nam-20002145	44.17	20	Tran_Anh_Minh_20002144_Cau_3.c	Do Phuong Nam-20002145-Cau2.c
+Tran ANh Minh 20002144	66.34	Do_Minh_Tuan_20002175	66.34	33	Tran_Anh_Minh_20002144_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Tran ANh Minh 20002144	20.87	Luu The Trung	20.87	5	Tran_Anh_Minh_20002144_Cau_1.c	Luu_The_Trung_20002170_cau_1.c
+Tran ANh Minh 20002144	34.70	Dương Đức Thịnh-20002166	34.70	18	Tran_Anh_Minh_20002144_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Tran ANh Minh 20002144	32.83	Le_Sy_Van_20002178	32.83	14	Tran_Anh_Minh_20002144_Cau_3.c	Le_Sy_Van_20002178_Cau_2.c
+Tran ANh Minh 20002144	34.25	Luyen Thi Quyen	34.25	20	Tran_Anh_Minh_20002144_Cau_2.c	luyen_thi_quyen_20002158_cau_3.c
+Tran ANh Minh 20002144	28.59	Truong Tuan Anh	28.59	13	Tran_Anh_Minh_20002144_Cau_3.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Tran ANh Minh 20002144	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Hoàng Hữu Hiếu_20002125	75.06	Nguyễn Thế Phong 20002150	75.06	10	Hoang_Huu_Hieu_20002125_Cau_1.c	Nguyen_The_Phong_20002150_Cau_1.c
+Hoàng Hữu Hiếu_20002125	42.15	Phung_Phuc_Hau_20002123	42.15	26	Hoang_Huu_Hieu_20002125_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Hoàng Hữu Hiếu_20002125	35.43	Đỗ Phương Nam-20002145	35.43	22	Hoang_Huu_Hieu_20002125_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Hoàng Hữu Hiếu_20002125	24.89	Do_Minh_Tuan_20002175	24.89	15	Hoang_Huu_Hieu_20002125_Cau_3.c	Do_Minh_Tuan_20002175_Cau3.c
+Hoàng Hữu Hiếu_20002125	22.74	Luu The Trung	22.74	6	Hoang_Huu_Hieu_20002125_Cau_3.c	Luu_The_Trung_20002170_cau_1.c
+Hoàng Hữu Hiếu_20002125	35.56	Dương Đức Thịnh-20002166	35.56	10	Hoang_Huu_Hieu_20002125_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_3.c
+Hoàng Hữu Hiếu_20002125	37.77	Le_Sy_Van_20002178	37.77	14	Hoang_Huu_Hieu_20002125_Cau_2.c	Le_Sy_Van_20002178_Cau_2.c
+Hoàng Hữu Hiếu_20002125	29.98	Luyen Thi Quyen	29.98	10	Hoang_Huu_Hieu_20002125_Cau_3.c	luyen_thi_quyen_20002158_cau_1.c
+Hoàng Hữu Hiếu_20002125	25.22	Truong Tuan Anh	25.22	8	Hoang_Huu_Hieu_20002125_Cau_3.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Hoàng Hữu Hiếu_20002125	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Nguyễn Thế Phong 20002150	50.84	Phung_Phuc_Hau_20002123	50.84	40	Nguyen_The_Phong_20002150_Cau_2.c	Phung_Phuc_Hau_20002123_Cau_3.c
+Nguyễn Thế Phong 20002150	48.65	Đỗ Phương Nam-20002145	48.65	26	Nguyen_The_Phong_20002150_Cau_2.c	Do Phuong Nam-20002145-Cau2.c
+Nguyễn Thế Phong 20002150	36.59	Do_Minh_Tuan_20002175	36.59	26	Nguyen_The_Phong_20002150_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Nguyễn Thế Phong 20002150	27.76	Luu The Trung	27.76	16	Nguyen_The_Phong_20002150_Cau_2.c	Luu_The_Trung_20002170_cau_3.c
+Nguyễn Thế Phong 20002150	44.00	Dương Đức Thịnh-20002166	44.00	23	Nguyen_The_Phong_20002150_Cau_2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Nguyễn Thế Phong 20002150	34.29	Le_Sy_Van_20002178	34.29	7	Nguyen_The_Phong_20002150_Cau_3.c	Le_Sy_Van_20002178_Cau_3.c
+Nguyễn Thế Phong 20002150	34.67	Luyen Thi Quyen	34.67	16	Nguyen_The_Phong_20002150_Cau_2.c	luyen_thi_quyen_20002158_cau_2.c
+Nguyễn Thế Phong 20002150	20.93	Truong Tuan Anh	20.93	11	Nguyen_The_Phong_20002150_Cau_2.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Nguyễn Thế Phong 20002150	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Phung_Phuc_Hau_20002123	39.38	Đỗ Phương Nam-20002145	39.38	29	Phung_Phuc_Hau_20002123_Cau_3.c	Do Phuong Nam-20002145-Cau2.c
+Phung_Phuc_Hau_20002123	64.96	Do_Minh_Tuan_20002175	64.96	44	Phung_Phuc_Hau_20002123_Cau_2.c	Do_Minh_Tuan_20002175_Cau2.c
+Phung_Phuc_Hau_20002123	35.09	Luu The Trung	35.09	36	Phung_Phuc_Hau_20002123_Cau_3.c	Luu_The_Trung_20002170_cau_3.c
+Phung_Phuc_Hau_20002123	31.72	Dương Đức Thịnh-20002166	31.72	26	Phung_Phuc_Hau_20002123_Cau_3.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Phung_Phuc_Hau_20002123	35.86	Le_Sy_Van_20002178	35.86	18	Phung_Phuc_Hau_20002123_Cau_3.c	Le_Sy_Van_20002178_Cau_2.c
+Phung_Phuc_Hau_20002123	32.68	Luyen Thi Quyen	32.68	23	Phung_Phuc_Hau_20002123_Cau_3.c	luyen_thi_quyen_20002158_cau_2.c
+Phung_Phuc_Hau_20002123	25.36	Truong Tuan Anh	25.36	14	Phung_Phuc_Hau_20002123_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Phung_Phuc_Hau_20002123	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Đỗ Phương Nam-20002145	40.23	Do_Minh_Tuan_20002175	40.23	22	Do Phuong Nam-20002145-Cau3.c	Do_Minh_Tuan_20002175_Cau3.c
+Đỗ Phương Nam-20002145	28.29	Luu The Trung	28.29	6	Do Phuong Nam-20002145-Cau1.c	Luu_The_Trung_20002170_cau_1.c
+Đỗ Phương Nam-20002145	46.94	Dương Đức Thịnh-20002166	46.94	20	Do Phuong Nam-20002145-Cau2.c	Duong_Duc_Thinh_20002166_Cau_2.c
+Đỗ Phương Nam-20002145	34.09	Le_Sy_Van_20002178	34.09	14	Do Phuong Nam-20002145-Cau3.c	Le_Sy_Van_20002178_Cau_3.c
+Đỗ Phương Nam-20002145	22.97	Luyen Thi Quyen	22.97	15	Do Phuong Nam-20002145-Cau2.c	luyen_thi_quyen_20002158_cau_2.c
+Đỗ Phương Nam-20002145	21.16	Truong Tuan Anh	21.16	11	Do Phuong Nam-20002145-Cau2.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Đỗ Phương Nam-20002145	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Do_Minh_Tuan_20002175	28.47	Luu The Trung	28.47	7	Do_Minh_Tuan_20002175_Cau2.c	Luu_The_Trung_20002170_cau_1.c
+Do_Minh_Tuan_20002175	40.91	Dương Đức Thịnh-20002166	40.91	15	Do_Minh_Tuan_20002175_Cau3.c	Duong_Duc_Thinh_20002166_Cau_3.c
+Do_Minh_Tuan_20002175	39.20	Le_Sy_Van_20002178	39.20	17	Do_Minh_Tuan_20002175_Cau3.c	Le_Sy_Van_20002178_Cau_3.c
+Do_Minh_Tuan_20002175	34.18	Luyen Thi Quyen	34.18	20	Do_Minh_Tuan_20002175_Cau2.c	luyen_thi_quyen_20002158_cau_3.c
+Do_Minh_Tuan_20002175	28.83	Truong Tuan Anh	28.83	14	Do_Minh_Tuan_20002175_Cau1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Do_Minh_Tuan_20002175	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Luu The Trung	26.20	Dương Đức Thịnh-20002166	26.20	6	Luu_The_Trung_20002170_cau_1.c	Duong_Duc_Thinh_20002166_Cau_1.c
+Luu The Trung	27.17	Le_Sy_Van_20002178	27.17	6	Luu_The_Trung_20002170_cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Luu The Trung	37.50	Luyen Thi Quyen	37.50	13	Luu_The_Trung_20002170_cau_3.c	luyen_thi_quyen_20002158_cau_2.c
+Luu The Trung	25.87	Truong Tuan Anh	25.87	7	Luu_The_Trung_20002170_cau_1.c	Truong_Tuan_Anh_20002107_Cau_3.c
+Luu The Trung	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Dương Đức Thịnh-20002166	35.42	Le_Sy_Van_20002178	35.42	10	Duong_Duc_Thinh_20002166_Cau_1.c	Le_Sy_Van_20002178_Cau_1.c
+Dương Đức Thịnh-20002166	20.74	Luyen Thi Quyen	20.74	15	Duong_Duc_Thinh_20002166_Cau_2.c	luyen_thi_quyen_20002158_cau_2.c
+Dương Đức Thịnh-20002166	25.02	Truong Tuan Anh	25.02	9	Duong_Duc_Thinh_20002166_Cau_1.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Dương Đức Thịnh-20002166	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Le_Sy_Van_20002178	26.88	Luyen Thi Quyen	26.88	16	Le_Sy_Van_20002178_Cau_2.c	luyen_thi_quyen_20002158_cau_2.c
+Le_Sy_Van_20002178	26.81	Truong Tuan Anh	26.81	10	Le_Sy_Van_20002178_Cau_3.c	Truong_Tuan_Anh_20002107_Câu_2.c
+Le_Sy_Van_20002178	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Luyen Thi Quyen	40.18	Truong Tuan Anh	40.18	9	luyen_thi_quyen_20002158_cau_1.c	Truong_Tuan_Anh_20002107_Cau_1.c
+Luyen Thi Quyen	0.00	Nguyễn Thanh Phong 20002151	0.00	0
+Truong Tuan Anh	0.00	Nguyễn Thanh Phong 20002151	0.00	0

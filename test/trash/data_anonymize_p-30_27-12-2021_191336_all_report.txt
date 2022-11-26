@@ -1,0 +1,4003 @@
+Aaron		Dương Đức Thịnh-20002166
+Albert		Nguyen Trong Son
+Andrea		Khuất Đăng Sơn - 20002159
+Antonio		Tran Thien Cuong
+Bradley		Nguyễn văn hùng - 20002130
+Brian		Bùi Ngọc Thành - 20002165
+Charles		Nguyễn Mạnh Trung - 20002171
+Cheryl		Nguyen Nhat Tung
+Christine		Dao Anh Duong
+Christopher		Nguyễn Đình Trung Kiên-20002141
+Curtis		Nguyễn ANh Tuấn_20002176
+Heather		Luyen Thi Quyen
+Ian		Nguyễn Quang Huy-20002133
+Janet		Nguyễn Trọng Trưởng - 20002172
+Janice		Đỗ Phương Nam-20002145
+Jason		Phạm Tiến Anh-20002106
+Jeffrey		trần quốc đức 20002117
+Jesse		Tran Minh Hoang
+Joshua		Dinh Kha Vy
+Julie		Nguyen Thanh Long
+Karen		Nguyễn Bá Kiên 20002140
+Kimberly		Nguyễn Xuân Tuấn Anh - 20002105
+Laura		Phung_Phuc_Hau_20002123
+Lauren		nguyen dinh hai 20002122
+Lori		Dam Van Vu
+Mary		Nguyễn Triệu Vương - 20002182
+Matthew		Tran Binh Huong
+Nicole		nguyen truong danh 20002110
+Olivia		Tran Thanh Phong
+Rachel		Truong Tuan Anh
+Ralph		Chu Pham Dinh Tu
+Rebecca		Pham Hoang An
+Reginald		Nguyễn Đình Quang - 20002155
+Renee		Hồ Hải Phong 20002149
+Richard		Phạm Xuân Tài - 20002161
+Robert		Hoàng Hữu Hiếu_20002125
+Ryan		Do_Minh_Tuan_20002175
+Sabrina		Tran ANh Minh 20002144
+Shannon		Le Hong Thach
+Shawn		Tran Kim Phuong
+Shelly		Trần Quốc Khang 20002138
+Stephanie		Nguyen Thi Tien Trang
+Taylor		Nguyễn Thế Phong 20002150
+Theresa		Nguyen Thu Ha
+Vanessa		Luu The Trung
+Victoria		Le_Sy_Van_20002178
+Wesley		Nguyễn Công Dũng - 20002111
+
+
+Pair: Jesse and Kimberly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.23
+number of common lines: 7
+
+
+Pair: Jesse and Ian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.25
+number of common lines: 7
+
+
+Pair: Jesse and Jeffrey
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.09
+number of common lines: 7
+
+
+Pair: Jesse and Wesley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.86
+number of common lines: 8
+
+
+Pair: Jesse and Reginald
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.63
+number of common lines: 8
+
+
+Pair: Jesse and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.42
+number of common lines: 8
+
+
+Pair: Jesse and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.81
+number of common lines: 8
+
+
+Pair: Jesse and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.29
+number of common lines: 8
+
+
+Pair: Jesse and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.25
+number of common lines: 7
+
+
+Pair: Jesse and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.72
+number of common lines: 9
+
+
+Pair: Jesse and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.18
+number of common lines: 9
+
+
+Pair: Jesse and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.25
+number of common lines: 6
+
+
+Pair: Jesse and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.94
+number of common lines: 8
+
+
+Pair: Jesse and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 47.22
+number of common lines: 7
+
+
+Pair: Jesse and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.8
+number of common lines: 8
+
+
+Pair: Jesse and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.98
+number of common lines: 6
+
+
+Pair: Jesse and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.17
+number of common lines: 7
+
+
+Pair: Jesse and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.44
+number of common lines: 6
+
+
+Pair: Jesse and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.25
+number of common lines: 7
+
+
+Pair: Jesse and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.27
+number of common lines: 8
+
+
+Pair: Stephanie and Ian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.19
+number of common lines: 10
+
+
+Pair: Stephanie and Jeffrey
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.64
+number of common lines: 10
+
+
+Pair: Stephanie and Wesley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.58
+number of common lines: 13
+
+
+Pair: Stephanie and Bradley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.0
+number of common lines: 7
+
+
+Pair: Stephanie and Reginald
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.22
+number of common lines: 11
+
+
+Pair: Stephanie and Matthew
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.5
+number of common lines: 10
+
+
+Pair: Stephanie and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.43
+number of common lines: 11
+
+
+Pair: Stephanie and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.53
+number of common lines: 9
+
+
+Pair: Stephanie and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.19
+number of common lines: 10
+
+
+Pair: Stephanie and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.75
+number of common lines: 11
+
+
+Pair: Stephanie and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.1
+number of common lines: 11
+
+
+Pair: Stephanie and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.15
+number of common lines: 9
+
+
+Pair: Stephanie and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.0
+number of common lines: 7
+
+
+Pair: Stephanie and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.31
+number of common lines: 8
+
+
+Pair: Stephanie and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.19
+number of common lines: 11
+
+
+Pair: Stephanie and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.27
+number of common lines: 9
+
+
+Pair: Stephanie and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.82
+number of common lines: 11
+
+
+Pair: Stephanie and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 60.44
+number of common lines: 6
+
+
+Pair: Stephanie and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.53
+number of common lines: 3
+
+
+Pair: Stephanie and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.91
+number of common lines: 4
+
+
+Pair: Stephanie and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.53
+number of common lines: 9
+
+
+Pair: Stephanie and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.19
+number of common lines: 10
+
+
+Pair: Stephanie and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.92
+number of common lines: 10
+
+
+Pair: Mary and Kimberly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.77
+number of common lines: 26
+
+
+Pair: Mary and Theresa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.45
+number of common lines: 20
+
+
+Pair: Mary and Jeffrey
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.55
+number of common lines: 22
+
+
+Pair: Mary and Bradley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.36
+number of common lines: 21
+
+
+Pair: Mary and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.9
+number of common lines: 13
+
+
+Pair: Mary and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.2
+number of common lines: 29
+
+
+Pair: Mary and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.78
+number of common lines: 9
+
+
+Pair: Mary and Shawn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.33
+number of common lines: 22
+
+
+Pair: Mary and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.69
+number of common lines: 20
+
+
+Pair: Mary and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 65.64
+number of common lines: 18
+
+
+Pair: Mary and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.69
+number of common lines: 8
+
+
+Pair: Mary and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.22
+number of common lines: 21
+
+
+Pair: Mary and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.12
+number of common lines: 20
+
+
+Pair: Mary and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.24
+number of common lines: 8
+
+
+Pair: Mary and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.01
+number of common lines: 20
+
+
+Pair: Mary and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.18
+number of common lines: 6
+
+
+Pair: Mary and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 88.76
+number of common lines: 46
+
+
+Pair: Mary and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.21
+number of common lines: 21
+
+
+Pair: Mary and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.31
+number of common lines: 19
+
+
+Pair: Mary and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.19
+number of common lines: 20
+
+
+Pair: Mary and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.72
+number of common lines: 22
+
+
+Pair: Renee and Kimberly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.73
+number of common lines: 11
+
+
+Pair: Renee and Lauren
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 86.09
+number of common lines: 26
+
+
+Pair: Renee and Wesley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.54
+number of common lines: 32
+
+
+Pair: Renee and Bradley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.8
+number of common lines: 12
+
+
+Pair: Renee and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.63
+number of common lines: 9
+
+
+Pair: Renee and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.04
+number of common lines: 13
+
+
+Pair: Renee and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.13
+number of common lines: 10
+
+
+Pair: Renee and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 59.09
+number of common lines: 33
+
+
+Pair: Renee and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.54
+number of common lines: 8
+
+
+Pair: Renee and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.52
+number of common lines: 13
+
+
+Pair: Renee and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.02
+number of common lines: 12
+
+
+Pair: Renee and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.15
+number of common lines: 12
+
+
+Pair: Renee and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.11
+number of common lines: 8
+
+
+Pair: Renee and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.37
+number of common lines: 17
+
+
+Pair: Renee and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 87.1
+number of common lines: 18
+
+
+Pair: Renee and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.1
+number of common lines: 5
+
+
+Pair: Renee and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.32
+number of common lines: 22
+
+
+Pair: Kimberly and Theresa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.2
+number of common lines: 19
+
+
+Pair: Kimberly and Ian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.76
+number of common lines: 18
+
+
+Pair: Kimberly and Jeffrey
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.26
+number of common lines: 19
+
+
+Pair: Kimberly and Bradley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.23
+number of common lines: 17
+
+
+Pair: Kimberly and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.0
+number of common lines: 35
+
+
+Pair: Kimberly and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.8
+number of common lines: 47
+
+
+Pair: Kimberly and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.13
+number of common lines: 8
+
+
+Pair: Kimberly and Shawn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.79
+number of common lines: 19
+
+
+Pair: Kimberly and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.1
+number of common lines: 15
+
+
+Pair: Kimberly and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.87
+number of common lines: 32
+
+
+Pair: Kimberly and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.91
+number of common lines: 11
+
+
+Pair: Kimberly and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.92
+number of common lines: 11
+
+
+Pair: Kimberly and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.55
+number of common lines: 23
+
+
+Pair: Kimberly and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.04
+number of common lines: 8
+
+
+Pair: Kimberly and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.13
+number of common lines: 7
+
+
+Pair: Kimberly and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.92
+number of common lines: 9
+
+
+Pair: Kimberly and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.89
+number of common lines: 15
+
+
+Pair: Kimberly and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.94
+number of common lines: 10
+
+
+Pair: Kimberly and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.61
+number of common lines: 8
+
+
+Pair: Kimberly and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.41
+number of common lines: 6
+
+
+Pair: Kimberly and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.33
+number of common lines: 31
+
+
+Pair: Kimberly and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.83
+number of common lines: 31
+
+
+Pair: Kimberly and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.11
+number of common lines: 29
+
+
+Pair: Kimberly and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.28
+number of common lines: 33
+
+
+Pair: Kimberly and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.84
+number of common lines: 23
+
+
+Pair: Kimberly and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.49
+number of common lines: 11
+
+
+Pair: Theresa and Ian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.68
+number of common lines: 13
+
+
+Pair: Theresa and Jeffrey
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.86
+number of common lines: 20
+
+
+Pair: Theresa and Reginald
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.4
+number of common lines: 16
+
+
+Pair: Theresa and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.23
+number of common lines: 28
+
+
+Pair: Theresa and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.46
+number of common lines: 12
+
+
+Pair: Theresa and Matthew
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.66
+number of common lines: 23
+
+
+Pair: Theresa and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.2
+number of common lines: 11
+
+
+Pair: Theresa and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.17
+number of common lines: 9
+
+
+Pair: Theresa and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.68
+number of common lines: 13
+
+
+Pair: Theresa and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.7
+number of common lines: 9
+
+
+Pair: Theresa and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.62
+number of common lines: 9
+
+
+Pair: Theresa and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.86
+number of common lines: 18
+
+
+Pair: Theresa and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.32
+number of common lines: 21
+
+
+Pair: Theresa and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.37
+number of common lines: 16
+
+
+Pair: Theresa and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.52
+number of common lines: 18
+
+
+Pair: Theresa and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.61
+number of common lines: 11
+
+
+Pair: Theresa and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.75
+number of common lines: 7
+
+
+Pair: Theresa and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.1
+number of common lines: 20
+
+
+Pair: Theresa and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.86
+number of common lines: 15
+
+
+Pair: Theresa and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 56.08
+number of common lines: 6
+
+
+Pair: Theresa and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.02
+number of common lines: 26
+
+
+Pair: Theresa and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.12
+number of common lines: 18
+
+
+Pair: Theresa and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.09
+number of common lines: 20
+
+
+Pair: Theresa and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.93
+number of common lines: 27
+
+
+Pair: Theresa and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.41
+number of common lines: 17
+
+
+Pair: Theresa and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.27
+number of common lines: 25
+
+
+Pair: Theresa and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.68
+number of common lines: 13
+
+
+Pair: Ian and Jeffrey
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.0
+number of common lines: 16
+
+
+Pair: Ian and Wesley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.65
+number of common lines: 12
+
+
+Pair: Ian and Reginald
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.32
+number of common lines: 12
+
+
+Pair: Ian and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.92
+number of common lines: 23
+
+
+Pair: Ian and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.4
+number of common lines: 29
+
+
+Pair: Ian and Matthew
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.21
+number of common lines: 11
+
+
+Pair: Ian and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 10
+
+
+Pair: Ian and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.58
+number of common lines: 9
+
+
+Pair: Ian and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 85.71
+number of common lines: 18
+
+
+Pair: Ian and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.31
+number of common lines: 9
+
+
+Pair: Ian and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.15
+number of common lines: 17
+
+
+Pair: Ian and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.71
+number of common lines: 10
+
+
+Pair: Ian and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.63
+number of common lines: 19
+
+
+Pair: Ian and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.05
+number of common lines: 7
+
+
+Pair: Ian and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.65
+number of common lines: 14
+
+
+Pair: Ian and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.74
+number of common lines: 11
+
+
+Pair: Ian and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.07
+number of common lines: 12
+
+
+Pair: Ian and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.06
+number of common lines: 10
+
+
+Pair: Ian and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.9
+number of common lines: 9
+
+
+Pair: Ian and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.43
+number of common lines: 6
+
+
+Pair: Ian and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.67
+number of common lines: 27
+
+
+Pair: Ian and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.94
+number of common lines: 19
+
+
+Pair: Ian and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.15
+number of common lines: 16
+
+
+Pair: Ian and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.77
+number of common lines: 31
+
+
+Pair: Ian and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.59
+number of common lines: 20
+
+
+Pair: Ian and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.08
+number of common lines: 7
+
+
+Pair: Ian and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 100.0
+number of common lines: 18
+
+
+Pair: Ian and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.18
+number of common lines: 9
+
+
+Pair: Lauren and Bradley
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.1
+number of common lines: 12
+
+
+Pair: Lauren and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.37
+number of common lines: 10
+
+
+Pair: Lauren and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.55
+number of common lines: 5
+
+
+Pair: Lauren and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.12
+number of common lines: 9
+
+
+Pair: Lauren and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.7
+number of common lines: 9
+
+
+Pair: Lauren and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.82
+number of common lines: 11
+
+
+Pair: Lauren and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.09
+number of common lines: 12
+
+
+Pair: Lauren and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.07
+number of common lines: 8
+
+
+Pair: Lauren and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.57
+number of common lines: 10
+
+
+Pair: Lauren and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.08
+number of common lines: 5
+
+
+Pair: Jeffrey and Reginald
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.12
+number of common lines: 20
+
+
+Pair: Jeffrey and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.5
+number of common lines: 20
+
+
+Pair: Jeffrey and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.74
+number of common lines: 25
+
+
+Pair: Jeffrey and Matthew
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.14
+number of common lines: 8
+
+
+Pair: Jeffrey and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 47.52
+number of common lines: 10
+
+
+Pair: Jeffrey and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.82
+number of common lines: 9
+
+
+Pair: Jeffrey and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 83.33
+number of common lines: 16
+
+
+Pair: Jeffrey and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.36
+number of common lines: 9
+
+
+Pair: Jeffrey and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.03
+number of common lines: 22
+
+
+Pair: Jeffrey and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.74
+number of common lines: 15
+
+
+Pair: Jeffrey and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.85
+number of common lines: 15
+
+
+Pair: Jeffrey and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.94
+number of common lines: 21
+
+
+Pair: Jeffrey and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.29
+number of common lines: 7
+
+
+Pair: Jeffrey and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.01
+number of common lines: 17
+
+
+Pair: Jeffrey and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.48
+number of common lines: 15
+
+
+Pair: Jeffrey and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.38
+number of common lines: 9
+
+
+Pair: Jeffrey and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.63
+number of common lines: 16
+
+
+Pair: Jeffrey and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.01
+number of common lines: 17
+
+
+Pair: Jeffrey and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.02
+number of common lines: 19
+
+
+Pair: Jeffrey and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 66.07
+number of common lines: 6
+
+
+Pair: Jeffrey and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.99
+number of common lines: 28
+
+
+Pair: Jeffrey and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.17
+number of common lines: 17
+
+
+Pair: Jeffrey and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.11
+number of common lines: 24
+
+
+Pair: Jeffrey and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.3
+number of common lines: 30
+
+
+Pair: Jeffrey and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.04
+number of common lines: 13
+
+
+Pair: Jeffrey and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.14
+number of common lines: 29
+
+
+Pair: Jeffrey and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.0
+number of common lines: 16
+
+
+Pair: Jeffrey and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.82
+number of common lines: 9
+
+
+Pair: Wesley and Reginald
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.11
+number of common lines: 13
+
+
+Pair: Wesley and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.8
+number of common lines: 23
+
+
+Pair: Wesley and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.16
+number of common lines: 8
+
+
+Pair: Wesley and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.48
+number of common lines: 14
+
+
+Pair: Wesley and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.8
+number of common lines: 11
+
+
+Pair: Wesley and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.89
+number of common lines: 17
+
+
+Pair: Wesley and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 64.28
+number of common lines: 33
+
+
+Pair: Wesley and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.74
+number of common lines: 22
+
+
+Pair: Wesley and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.01
+number of common lines: 19
+
+
+Pair: Wesley and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.61
+number of common lines: 34
+
+
+Pair: Wesley and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.58
+number of common lines: 6
+
+
+Pair: Wesley and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.68
+number of common lines: 16
+
+
+Pair: Wesley and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.44
+number of common lines: 22
+
+
+Pair: Wesley and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.65
+number of common lines: 12
+
+
+Pair: Wesley and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.25
+number of common lines: 10
+
+
+Pair: Bradley and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.55
+number of common lines: 17
+
+
+Pair: Bradley and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.57
+number of common lines: 8
+
+
+Pair: Bradley and Shawn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.05
+number of common lines: 36
+
+
+Pair: Bradley and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.53
+number of common lines: 8
+
+
+Pair: Bradley and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.39
+number of common lines: 6
+
+
+Pair: Bradley and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 64.0
+number of common lines: 10
+
+
+Pair: Bradley and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.85
+number of common lines: 36
+
+
+Pair: Bradley and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 96.58
+number of common lines: 38
+
+
+Pair: Bradley and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.19
+number of common lines: 9
+
+
+Pair: Bradley and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.5
+number of common lines: 7
+
+
+Pair: Bradley and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.27
+number of common lines: 8
+
+
+Pair: Bradley and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.77
+number of common lines: 19
+
+
+Pair: Bradley and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.33
+number of common lines: 5
+
+
+Pair: Bradley and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.51
+number of common lines: 16
+
+
+Pair: Bradley and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.75
+number of common lines: 8
+
+
+Pair: Bradley and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.82
+number of common lines: 20
+
+
+Pair: Bradley and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.58
+number of common lines: 8
+
+
+Pair: Reginald and Cheryl
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.53
+number of common lines: 29
+
+
+Pair: Reginald and Matthew
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.58
+number of common lines: 26
+
+
+Pair: Reginald and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.3
+number of common lines: 11
+
+
+Pair: Reginald and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.63
+number of common lines: 10
+
+
+Pair: Reginald and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.32
+number of common lines: 12
+
+
+Pair: Reginald and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.56
+number of common lines: 11
+
+
+Pair: Reginald and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.57
+number of common lines: 8
+
+
+Pair: Reginald and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.97
+number of common lines: 12
+
+
+Pair: Reginald and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.64
+number of common lines: 17
+
+
+Pair: Reginald and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.71
+number of common lines: 19
+
+
+Pair: Reginald and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.43
+number of common lines: 12
+
+
+Pair: Reginald and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.53
+number of common lines: 22
+
+
+Pair: Reginald and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 72.06
+number of common lines: 28
+
+
+Pair: Reginald and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 63.28
+number of common lines: 19
+
+
+Pair: Reginald and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.65
+number of common lines: 15
+
+
+Pair: Reginald and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.35
+number of common lines: 6
+
+
+Pair: Reginald and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.27
+number of common lines: 19
+
+
+Pair: Reginald and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.35
+number of common lines: 13
+
+
+Pair: Reginald and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.52
+number of common lines: 22
+
+
+Pair: Reginald and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.5
+number of common lines: 28
+
+
+Pair: Reginald and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.28
+number of common lines: 21
+
+
+Pair: Reginald and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.01
+number of common lines: 13
+
+
+Pair: Reginald and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.56
+number of common lines: 19
+
+
+Pair: Reginald and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.32
+number of common lines: 12
+
+
+Pair: Reginald and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.09
+number of common lines: 13
+
+
+Pair: Cheryl and Richard
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.97
+number of common lines: 45
+
+
+Pair: Cheryl and Matthew
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.6
+number of common lines: 22
+
+
+Pair: Cheryl and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.78
+number of common lines: 9
+
+
+Pair: Cheryl and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.37
+number of common lines: 29
+
+
+Pair: Cheryl and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.66
+number of common lines: 10
+
+
+Pair: Cheryl and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.11
+number of common lines: 13
+
+
+Pair: Cheryl and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.4
+number of common lines: 19
+
+
+Pair: Cheryl and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.67
+number of common lines: 15
+
+
+Pair: Cheryl and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.42
+number of common lines: 16
+
+
+Pair: Cheryl and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.05
+number of common lines: 23
+
+
+Pair: Cheryl and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.52
+number of common lines: 24
+
+
+Pair: Cheryl and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.13
+number of common lines: 25
+
+
+Pair: Cheryl and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.57
+number of common lines: 18
+
+
+Pair: Cheryl and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.24
+number of common lines: 6
+
+
+Pair: Cheryl and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.22
+number of common lines: 27
+
+
+Pair: Cheryl and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.24
+number of common lines: 24
+
+
+Pair: Cheryl and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.9
+number of common lines: 15
+
+
+Pair: Cheryl and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.96
+number of common lines: 26
+
+
+Pair: Cheryl and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 60.9
+number of common lines: 35
+
+
+Pair: Cheryl and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.02
+number of common lines: 29
+
+
+Pair: Cheryl and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.85
+number of common lines: 49
+
+
+Pair: Cheryl and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.69
+number of common lines: 18
+
+
+Pair: Cheryl and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.43
+number of common lines: 14
+
+
+Pair: Richard and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.91
+number of common lines: 9
+
+
+Pair: Richard and Shawn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.68
+number of common lines: 24
+
+
+Pair: Richard and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.22
+number of common lines: 13
+
+
+Pair: Richard and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.92
+number of common lines: 12
+
+
+Pair: Richard and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.55
+number of common lines: 16
+
+
+Pair: Richard and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.67
+number of common lines: 33
+
+
+Pair: Richard and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.82
+number of common lines: 8
+
+
+Pair: Richard and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.31
+number of common lines: 19
+
+
+Pair: Richard and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.48
+number of common lines: 24
+
+
+Pair: Richard and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.39
+number of common lines: 13
+
+
+Pair: Richard and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.39
+number of common lines: 8
+
+
+Pair: Richard and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.85
+number of common lines: 9
+
+
+Pair: Richard and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.75
+number of common lines: 5
+
+
+Pair: Richard and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.81
+number of common lines: 32
+
+
+Pair: Richard and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 53.81
+number of common lines: 17
+
+
+Pair: Richard and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.02
+number of common lines: 30
+
+
+Pair: Richard and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.52
+number of common lines: 28
+
+
+Pair: Richard and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.35
+number of common lines: 36
+
+
+Pair: Richard and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.84
+number of common lines: 17
+
+
+Pair: Richard and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.01
+number of common lines: 26
+
+
+Pair: Richard and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.28
+number of common lines: 10
+
+
+Pair: Richard and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.23
+number of common lines: 13
+
+
+Pair: Matthew and Olivia
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.03
+number of common lines: 9
+
+
+Pair: Matthew and Shawn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.59
+number of common lines: 7
+
+
+Pair: Matthew and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.85
+number of common lines: 10
+
+
+Pair: Matthew and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.21
+number of common lines: 11
+
+
+Pair: Matthew and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.98
+number of common lines: 12
+
+
+Pair: Matthew and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.63
+number of common lines: 11
+
+
+Pair: Matthew and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.82
+number of common lines: 9
+
+
+Pair: Matthew and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.91
+number of common lines: 9
+
+
+Pair: Matthew and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.52
+number of common lines: 16
+
+
+Pair: Matthew and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.72
+number of common lines: 16
+
+
+Pair: Matthew and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.84
+number of common lines: 16
+
+
+Pair: Matthew and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.54
+number of common lines: 14
+
+
+Pair: Matthew and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.73
+number of common lines: 9
+
+
+Pair: Matthew and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.31
+number of common lines: 12
+
+
+Pair: Matthew and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.57
+number of common lines: 19
+
+
+Pair: Matthew and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.91
+number of common lines: 13
+
+
+Pair: Matthew and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.73
+number of common lines: 6
+
+
+Pair: Matthew and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.89
+number of common lines: 19
+
+
+Pair: Matthew and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.89
+number of common lines: 16
+
+
+Pair: Matthew and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.05
+number of common lines: 23
+
+
+Pair: Matthew and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.21
+number of common lines: 29
+
+
+Pair: Matthew and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.02
+number of common lines: 20
+
+
+Pair: Matthew and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.91
+number of common lines: 8
+
+
+Pair: Matthew and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.21
+number of common lines: 11
+
+
+Pair: Matthew and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.8
+number of common lines: 11
+
+
+Pair: Olivia and Shawn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.97
+number of common lines: 7
+
+
+Pair: Olivia and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.45
+number of common lines: 8
+
+
+Pair: Olivia and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 10
+
+
+Pair: Olivia and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.24
+number of common lines: 8
+
+
+Pair: Olivia and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.37
+number of common lines: 9
+
+
+Pair: Olivia and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.72
+number of common lines: 8
+
+
+Pair: Olivia and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.0
+number of common lines: 8
+
+
+Pair: Olivia and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.64
+number of common lines: 8
+
+
+Pair: Olivia and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.91
+number of common lines: 8
+
+
+Pair: Olivia and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.09
+number of common lines: 8
+
+
+Pair: Olivia and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.72
+number of common lines: 7
+
+
+Pair: Olivia and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.5
+number of common lines: 9
+
+
+Pair: Olivia and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.39
+number of common lines: 10
+
+
+Pair: Olivia and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.95
+number of common lines: 5
+
+
+Pair: Olivia and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 8
+
+
+Pair: Olivia and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.5
+number of common lines: 10
+
+
+Pair: Olivia and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.57
+number of common lines: 6
+
+
+Pair: Olivia and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.25
+number of common lines: 11
+
+
+Pair: Olivia and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 61.84
+number of common lines: 6
+
+
+Pair: Olivia and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.26
+number of common lines: 7
+
+
+Pair: Olivia and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.92
+number of common lines: 4
+
+
+Pair: Olivia and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.24
+number of common lines: 5
+
+
+Pair: Olivia and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.0
+number of common lines: 9
+
+
+Pair: Olivia and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.06
+number of common lines: 7
+
+
+Pair: Olivia and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.2
+number of common lines: 9
+
+
+Pair: Olivia and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.64
+number of common lines: 7
+
+
+Pair: Olivia and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.86
+number of common lines: 5
+
+
+Pair: Olivia and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.24
+number of common lines: 7
+
+
+Pair: Olivia and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 10
+
+
+Pair: Olivia and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.57
+number of common lines: 8
+
+
+Pair: Shawn and Janet
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.66
+number of common lines: 8
+
+
+Pair: Shawn and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.24
+number of common lines: 9
+
+
+Pair: Shawn and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.72
+number of common lines: 29
+
+
+Pair: Shawn and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.06
+number of common lines: 34
+
+
+Pair: Shawn and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.16
+number of common lines: 9
+
+
+Pair: Shawn and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.98
+number of common lines: 10
+
+
+Pair: Shawn and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.96
+number of common lines: 6
+
+
+Pair: Shawn and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.44
+number of common lines: 25
+
+
+Pair: Shawn and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.38
+number of common lines: 27
+
+
+Pair: Shawn and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.46
+number of common lines: 8
+
+
+Pair: Shawn and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.39
+number of common lines: 21
+
+
+Pair: Shawn and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.56
+number of common lines: 8
+
+
+Pair: Janet and Joshua
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.58
+number of common lines: 9
+
+
+Pair: Janet and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 73.46
+number of common lines: 18
+
+
+Pair: Janet and Lori
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.05
+number of common lines: 9
+
+
+Pair: Janet and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.62
+number of common lines: 8
+
+
+Pair: Janet and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.8
+number of common lines: 8
+
+
+Pair: Janet and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 66.53
+number of common lines: 17
+
+
+Pair: Janet and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.47
+number of common lines: 8
+
+
+Pair: Janet and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.43
+number of common lines: 8
+
+
+Pair: Janet and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.54
+number of common lines: 8
+
+
+Pair: Janet and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.54
+number of common lines: 9
+
+
+Pair: Janet and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.93
+number of common lines: 10
+
+
+Pair: Janet and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.65
+number of common lines: 10
+
+
+Pair: Janet and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 59.48
+number of common lines: 6
+
+
+Pair: Janet and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.31
+number of common lines: 7
+
+
+Pair: Janet and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.17
+number of common lines: 7
+
+
+Pair: Janet and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.44
+number of common lines: 6
+
+
+Pair: Janet and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.58
+number of common lines: 9
+
+
+Pair: Janet and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.25
+number of common lines: 9
+
+
+Pair: Joshua and Shelly
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.31
+number of common lines: 9
+
+
+Pair: Joshua and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.71
+number of common lines: 10
+
+
+Pair: Joshua and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.05
+number of common lines: 7
+
+
+Pair: Joshua and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.85
+number of common lines: 17
+
+
+Pair: Joshua and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.74
+number of common lines: 11
+
+
+Pair: Joshua and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.07
+number of common lines: 12
+
+
+Pair: Joshua and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.06
+number of common lines: 10
+
+
+Pair: Joshua and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.9
+number of common lines: 9
+
+
+Pair: Joshua and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.43
+number of common lines: 6
+
+
+Pair: Joshua and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.67
+number of common lines: 16
+
+
+Pair: Joshua and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.68
+number of common lines: 24
+
+
+Pair: Joshua and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.5
+number of common lines: 13
+
+
+Pair: Joshua and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Joshua and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.18
+number of common lines: 9
+
+
+Pair: Shelly and Andrea
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 92.74
+number of common lines: 19
+
+
+Pair: Shelly and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.96
+number of common lines: 18
+
+
+Pair: Shelly and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.2
+number of common lines: 8
+
+
+Pair: Shelly and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.93
+number of common lines: 9
+
+
+Pair: Shelly and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.64
+number of common lines: 11
+
+
+Pair: Shelly and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.99
+number of common lines: 11
+
+
+Pair: Shelly and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.19
+number of common lines: 11
+
+
+Pair: Shelly and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.83
+number of common lines: 6
+
+
+Pair: Shelly and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.31
+number of common lines: 9
+
+
+Pair: Shelly and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.33
+number of common lines: 11
+
+
+Pair: Lori and Christopher
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 81.44
+number of common lines: 12
+
+
+Pair: Lori and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.49
+number of common lines: 11
+
+
+Pair: Lori and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.0
+number of common lines: 18
+
+
+Pair: Lori and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.29
+number of common lines: 8
+
+
+Pair: Lori and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.58
+number of common lines: 7
+
+
+Pair: Lori and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.79
+number of common lines: 9
+
+
+Pair: Lori and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.49
+number of common lines: 9
+
+
+Pair: Lori and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.86
+number of common lines: 8
+
+
+Pair: Lori and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.49
+number of common lines: 10
+
+
+Pair: Lori and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.19
+number of common lines: 6
+
+
+Pair: Lori and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.5
+number of common lines: 23
+
+
+Pair: Lori and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.78
+number of common lines: 26
+
+
+Pair: Lori and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.6
+number of common lines: 26
+
+
+Pair: Lori and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.91
+number of common lines: 31
+
+
+Pair: Lori and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.85
+number of common lines: 22
+
+
+Pair: Lori and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.79
+number of common lines: 13
+
+
+Pair: Lori and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.56
+number of common lines: 17
+
+
+Pair: Lori and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.38
+number of common lines: 12
+
+
+Pair: Christopher and Brian
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 94.7
+number of common lines: 38
+
+
+Pair: Christopher and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.32
+number of common lines: 12
+
+
+Pair: Christopher and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.64
+number of common lines: 8
+
+
+Pair: Christopher and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.36
+number of common lines: 7
+
+
+Pair: Christopher and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.95
+number of common lines: 16
+
+
+Pair: Christopher and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.21
+number of common lines: 8
+
+
+Pair: Christopher and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.68
+number of common lines: 9
+
+
+Pair: Christopher and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.15
+number of common lines: 5
+
+
+Pair: Christopher and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.3
+number of common lines: 9
+
+
+Pair: Christopher and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.63
+number of common lines: 10
+
+
+Pair: Christopher and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.95
+number of common lines: 12
+
+
+Pair: Christopher and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.74
+number of common lines: 12
+
+
+Pair: Christopher and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.62
+number of common lines: 10
+
+
+Pair: Brian and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.45
+number of common lines: 9
+
+
+Pair: Brian and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.91
+number of common lines: 8
+
+
+Pair: Brian and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.62
+number of common lines: 13
+
+
+Pair: Brian and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.76
+number of common lines: 9
+
+
+Pair: Brian and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.77
+number of common lines: 10
+
+
+Pair: Brian and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.48
+number of common lines: 8
+
+
+Pair: Brian and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.2
+number of common lines: 11
+
+
+Pair: Brian and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.91
+number of common lines: 8
+
+
+Pair: Brian and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.79
+number of common lines: 5
+
+
+Pair: Brian and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.61
+number of common lines: 9
+
+
+Pair: Brian and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.45
+number of common lines: 16
+
+
+Pair: Brian and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.91
+number of common lines: 12
+
+
+Pair: Brian and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.28
+number of common lines: 19
+
+
+Pair: Brian and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.09
+number of common lines: 13
+
+
+Pair: Brian and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.19
+number of common lines: 10
+
+
+Pair: Brian and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 67.9
+number of common lines: 16
+
+
+Pair: Brian and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.36
+number of common lines: 14
+
+
+Pair: Brian and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.7
+number of common lines: 14
+
+
+Pair: Andrea and Shannon
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.54
+number of common lines: 17
+
+
+Pair: Andrea and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.97
+number of common lines: 19
+
+
+Pair: Andrea and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.43
+number of common lines: 8
+
+
+Pair: Andrea and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.52
+number of common lines: 16
+
+
+Pair: Andrea and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.57
+number of common lines: 12
+
+
+Pair: Andrea and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.27
+number of common lines: 14
+
+
+Pair: Andrea and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.89
+number of common lines: 6
+
+
+Pair: Andrea and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.82
+number of common lines: 22
+
+
+Pair: Andrea and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.71
+number of common lines: 10
+
+
+Pair: Andrea and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.34
+number of common lines: 12
+
+
+Pair: Shannon and Antonio
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.0
+number of common lines: 8
+
+
+Pair: Shannon and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.39
+number of common lines: 10
+
+
+Pair: Shannon and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.18
+number of common lines: 10
+
+
+Pair: Shannon and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.2
+number of common lines: 14
+
+
+Pair: Shannon and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.55
+number of common lines: 10
+
+
+Pair: Shannon and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.19
+number of common lines: 8
+
+
+Pair: Shannon and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.43
+number of common lines: 13
+
+
+Pair: Shannon and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.54
+number of common lines: 41
+
+
+Pair: Shannon and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.52
+number of common lines: 6
+
+
+Pair: Shannon and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.28
+number of common lines: 28
+
+
+Pair: Shannon and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.93
+number of common lines: 13
+
+
+Pair: Shannon and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.82
+number of common lines: 10
+
+
+Pair: Shannon and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.99
+number of common lines: 16
+
+
+Pair: Shannon and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 78.27
+number of common lines: 18
+
+
+Pair: Shannon and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.94
+number of common lines: 30
+
+
+Pair: Shannon and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.68
+number of common lines: 11
+
+
+Pair: Shannon and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.38
+number of common lines: 27
+
+
+Pair: Shannon and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.15
+number of common lines: 11
+
+
+Pair: Antonio and Ralph
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.64
+number of common lines: 7
+
+
+Pair: Antonio and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.91
+number of common lines: 7
+
+
+Pair: Antonio and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.28
+number of common lines: 27
+
+
+Pair: Antonio and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 56.95
+number of common lines: 9
+
+
+Pair: Antonio and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.96
+number of common lines: 10
+
+
+Pair: Antonio and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.86
+number of common lines: 7
+
+
+Pair: Antonio and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.82
+number of common lines: 9
+
+
+Pair: Antonio and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.33
+number of common lines: 5
+
+
+Pair: Antonio and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.17
+number of common lines: 7
+
+
+Pair: Antonio and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.86
+number of common lines: 9
+
+
+Pair: Antonio and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.86
+number of common lines: 9
+
+
+Pair: Antonio and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.0
+number of common lines: 8
+
+
+Pair: Antonio and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.75
+number of common lines: 8
+
+
+Pair: Antonio and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.11
+number of common lines: 8
+
+
+Pair: Antonio and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.58
+number of common lines: 8
+
+
+Pair: Antonio and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.44
+number of common lines: 9
+
+
+Pair: Antonio and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.5
+number of common lines: 7
+
+
+Pair: Antonio and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.05
+number of common lines: 7
+
+
+Pair: Antonio and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.11
+number of common lines: 8
+
+
+Pair: Ralph and Karen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.88
+number of common lines: 13
+
+
+Pair: Ralph and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.88
+number of common lines: 20
+
+
+Pair: Ralph and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.19
+number of common lines: 34
+
+
+Pair: Ralph and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.21
+number of common lines: 7
+
+
+Pair: Ralph and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.67
+number of common lines: 12
+
+
+Pair: Ralph and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.26
+number of common lines: 13
+
+
+Pair: Ralph and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 65.89
+number of common lines: 13
+
+
+Pair: Ralph and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.15
+number of common lines: 5
+
+
+Pair: Ralph and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.34
+number of common lines: 17
+
+
+Pair: Ralph and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 95.44
+number of common lines: 38
+
+
+Pair: Ralph and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.42
+number of common lines: 25
+
+
+Pair: Ralph and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.63
+number of common lines: 25
+
+
+Pair: Ralph and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.02
+number of common lines: 21
+
+
+Pair: Ralph and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.11
+number of common lines: 19
+
+
+Pair: Ralph and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.42
+number of common lines: 18
+
+
+Pair: Ralph and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.93
+number of common lines: 18
+
+
+Pair: Karen and Albert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.12
+number of common lines: 17
+
+
+Pair: Karen and Christine
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.29
+number of common lines: 12
+
+
+Pair: Karen and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.83
+number of common lines: 15
+
+
+Pair: Karen and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.79
+number of common lines: 15
+
+
+Pair: Karen and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.03
+number of common lines: 12
+
+
+Pair: Karen and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.74
+number of common lines: 13
+
+
+Pair: Karen and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.76
+number of common lines: 6
+
+
+Pair: Karen and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.44
+number of common lines: 24
+
+
+Pair: Karen and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.7
+number of common lines: 20
+
+
+Pair: Karen and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.38
+number of common lines: 13
+
+
+Pair: Karen and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.91
+number of common lines: 17
+
+
+Pair: Karen and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.9
+number of common lines: 19
+
+
+Pair: Karen and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.29
+number of common lines: 15
+
+
+Pair: Karen and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.64
+number of common lines: 24
+
+
+Pair: Karen and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.38
+number of common lines: 18
+
+
+Pair: Karen and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.54
+number of common lines: 15
+
+
+Pair: Karen and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.85
+number of common lines: 16
+
+
+Pair: Albert and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 59.89
+number of common lines: 22
+
+
+Pair: Albert and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.05
+number of common lines: 16
+
+
+Pair: Albert and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.37
+number of common lines: 14
+
+
+Pair: Albert and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.26
+number of common lines: 6
+
+
+Pair: Albert and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 47.9
+number of common lines: 26
+
+
+Pair: Albert and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.17
+number of common lines: 20
+
+
+Pair: Albert and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.8
+number of common lines: 24
+
+
+Pair: Albert and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.04
+number of common lines: 24
+
+
+Pair: Albert and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 47.47
+number of common lines: 21
+
+
+Pair: Albert and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.68
+number of common lines: 18
+
+
+Pair: Albert and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.22
+number of common lines: 14
+
+
+Pair: Christine and Jason
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.48
+number of common lines: 8
+
+
+Pair: Christine and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.65
+number of common lines: 8
+
+
+Pair: Christine and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.11
+number of common lines: 11
+
+
+Pair: Christine and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.79
+number of common lines: 5
+
+
+Pair: Christine and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.36
+number of common lines: 19
+
+
+Pair: Christine and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.15
+number of common lines: 18
+
+
+Pair: Christine and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.12
+number of common lines: 22
+
+
+Pair: Christine and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.63
+number of common lines: 16
+
+
+Pair: Christine and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.65
+number of common lines: 11
+
+
+Pair: Christine and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.83
+number of common lines: 20
+
+
+Pair: Christine and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.87
+number of common lines: 23
+
+
+Pair: Christine and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.0
+number of common lines: 28
+
+
+Pair: Jason and Nicole
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.99
+number of common lines: 9
+
+
+Pair: Jason and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.37
+number of common lines: 17
+
+
+Pair: Jason and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.77
+number of common lines: 9
+
+
+Pair: Jason and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.35
+number of common lines: 6
+
+
+Pair: Jason and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.39
+number of common lines: 7
+
+
+Pair: Jason and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.43
+number of common lines: 24
+
+
+Pair: Jason and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.9
+number of common lines: 9
+
+
+Pair: Jason and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.86
+number of common lines: 25
+
+
+Pair: Jason and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.21
+number of common lines: 27
+
+
+Pair: Jason and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.04
+number of common lines: 8
+
+
+Pair: Jason and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.68
+number of common lines: 8
+
+
+Pair: Jason and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.09
+number of common lines: 7
+
+
+Pair: Jason and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.9
+number of common lines: 9
+
+
+Pair: Jason and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.56
+number of common lines: 16
+
+
+Pair: Jason and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.74
+number of common lines: 11
+
+
+Pair: Jason and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.62
+number of common lines: 8
+
+
+Pair: Nicole and Charles
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 53.37
+number of common lines: 19
+
+
+Pair: Nicole and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.2
+number of common lines: 13
+
+
+Pair: Nicole and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.37
+number of common lines: 6
+
+
+Pair: Nicole and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.24
+number of common lines: 13
+
+
+Pair: Nicole and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 45.43
+number of common lines: 16
+
+
+Pair: Nicole and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.99
+number of common lines: 12
+
+
+Pair: Nicole and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.81
+number of common lines: 19
+
+
+Pair: Nicole and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.94
+number of common lines: 25
+
+
+Pair: Nicole and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.12
+number of common lines: 18
+
+
+Pair: Nicole and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.58
+number of common lines: 8
+
+
+Pair: Nicole and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.56
+number of common lines: 13
+
+
+Pair: Nicole and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.56
+number of common lines: 12
+
+
+Pair: Nicole and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.07
+number of common lines: 12
+
+
+Pair: Nicole and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.09
+number of common lines: 11
+
+
+Pair: Charles and Rebecca
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.43
+number of common lines: 13
+
+
+Pair: Charles and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.26
+number of common lines: 6
+
+
+Pair: Charles and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.01
+number of common lines: 11
+
+
+Pair: Charles and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.93
+number of common lines: 14
+
+
+Pair: Charles and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.36
+number of common lines: 13
+
+
+Pair: Charles and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.37
+number of common lines: 18
+
+
+Pair: Charles and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.41
+number of common lines: 16
+
+
+Pair: Charles and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.85
+number of common lines: 8
+
+
+Pair: Charles and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.77
+number of common lines: 14
+
+
+Pair: Charles and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 41.06
+number of common lines: 10
+
+
+Pair: Charles and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.35
+number of common lines: 7
+
+
+Pair: Rebecca and Julie
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.18
+number of common lines: 6
+
+
+Pair: Rebecca and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.61
+number of common lines: 22
+
+
+Pair: Rebecca and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.34
+number of common lines: 14
+
+
+Pair: Rebecca and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.2
+number of common lines: 10
+
+
+Pair: Rebecca and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 30.3
+number of common lines: 11
+
+
+Pair: Rebecca and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.4
+number of common lines: 25
+
+
+Pair: Rebecca and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.49
+number of common lines: 14
+
+
+Pair: Julie and Curtis
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.77
+number of common lines: 6
+
+
+Pair: Julie and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.78
+number of common lines: 6
+
+
+Pair: Julie and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.21
+number of common lines: 6
+
+
+Pair: Julie and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 43.32
+number of common lines: 6
+
+
+Pair: Julie and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.79
+number of common lines: 6
+
+
+Pair: Julie and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 38.19
+number of common lines: 5
+
+
+Pair: Julie and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.7
+number of common lines: 6
+
+
+Pair: Julie and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 49.12
+number of common lines: 6
+
+
+Pair: Julie and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 33.33
+number of common lines: 6
+
+
+Pair: Julie and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.43
+number of common lines: 6
+
+
+Pair: Julie and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.96
+number of common lines: 6
+
+
+Pair: Curtis and Sabrina
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.74
+number of common lines: 25
+
+
+Pair: Curtis and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.37
+number of common lines: 32
+
+
+Pair: Curtis and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.79
+number of common lines: 24
+
+
+Pair: Sabrina and Robert
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.7
+number of common lines: 17
+
+
+Pair: Sabrina and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 67.2
+number of common lines: 31
+
+
+Pair: Sabrina and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.38
+number of common lines: 32
+
+
+Pair: Sabrina and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.17
+number of common lines: 20
+
+
+Pair: Sabrina and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 66.34
+number of common lines: 33
+
+
+Pair: Sabrina and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.7
+number of common lines: 18
+
+
+Pair: Sabrina and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.83
+number of common lines: 14
+
+
+Pair: Sabrina and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.25
+number of common lines: 20
+
+
+Pair: Robert and Taylor
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.06
+number of common lines: 10
+
+
+Pair: Robert and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 42.15
+number of common lines: 26
+
+
+Pair: Robert and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.43
+number of common lines: 22
+
+
+Pair: Robert and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.56
+number of common lines: 10
+
+
+Pair: Robert and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.77
+number of common lines: 14
+
+
+Pair: Taylor and Laura
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.84
+number of common lines: 40
+
+
+Pair: Taylor and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 48.65
+number of common lines: 26
+
+
+Pair: Taylor and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 36.59
+number of common lines: 26
+
+
+Pair: Taylor and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 44.0
+number of common lines: 23
+
+
+Pair: Taylor and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.29
+number of common lines: 7
+
+
+Pair: Taylor and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.67
+number of common lines: 16
+
+
+Pair: Laura and Janice
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.38
+number of common lines: 29
+
+
+Pair: Laura and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 64.96
+number of common lines: 44
+
+
+Pair: Laura and Vanessa
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.09
+number of common lines: 36
+
+
+Pair: Laura and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 31.72
+number of common lines: 26
+
+
+Pair: Laura and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.86
+number of common lines: 18
+
+
+Pair: Laura and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 32.68
+number of common lines: 23
+
+
+Pair: Janice and Ryan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.23
+number of common lines: 22
+
+
+Pair: Janice and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 46.94
+number of common lines: 20
+
+
+Pair: Janice and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.09
+number of common lines: 14
+
+
+Pair: Ryan and Aaron
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.91
+number of common lines: 15
+
+
+Pair: Ryan and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 39.2
+number of common lines: 17
+
+
+Pair: Ryan and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 34.18
+number of common lines: 20
+
+
+Pair: Vanessa and Heather
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 37.5
+number of common lines: 13
+
+
+Pair: Aaron and Victoria
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 35.42
+number of common lines: 10
+
+
+Pair: Heather and Rachel
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 40.18
+number of common lines: 9
+
+

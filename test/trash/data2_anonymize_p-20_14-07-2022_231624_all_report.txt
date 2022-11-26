@@ -1,0 +1,10 @@
+Isaac		Luyen Thi Quyen
+Jennifer		Truong Tuan Anh
+
+
+Pair: Isaac and Jennifer
+the data of customtest 5.2 checked by run2: url not found
+similarity score: 40.18
+number of common lines: 10
+
+

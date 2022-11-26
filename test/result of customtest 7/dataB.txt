@@ -1,0 +1,1276 @@
+the data of customtest 7 checked by run2
+Dung	7.15	Nghia	7.15	8	B4.m	B6.m
+Dung	1.37	THuy	1.37	3	B4.m	B0.m
+Dung	4.77	Thang	4.77	14	B4.m	B5.m
+Dung	6.06	MTan	6.06	16	B4.m	B5.m
+Dung	9.20	DoMinh	9.20	12	B4.m	B2.m
+Dung	0.00	Duong	0.00	0
+Dung	4.34	HongAnh	4.34	12	B4.m	B9.m
+Dung	9.61	Cong673	9.61	17	B4.m	B3.m
+Dung	0.00	Hoang	0.00	0
+Dung	5.88	Doanh	5.88	12	B4.m	B9.m
+Dung	10.15	DHiep	10.15	13	B4.m	B3.m
+Dung	2.71	Bang	2.71	8	B4.m	B0.m
+Dung	0.00	DThanh	0.00	0
+Dung	8.34	DucMinh	8.34	9	B4.m	B3.m
+Dung	8.75	Hong	8.75	12	B4.m	B3.m
+Dung	0.00	Hao	0.00	0	B4.m	B0.m
+Dung	2.39	MTuan	2.39	4	B4.m	B8.m
+Dung	5.16	Luan	5.16	16	B4.m	B1.m
+Dung	7.44	Cong672	7.44	11	B4.m	B2.m
+Dung	8.35	Thom	8.35	10	B4.m	B6.m
+Dung	6.05	VietAnh	6.05	16	B4.m	B5.m
+Dung	7.75	Thao	7.75	9	B4.m	B6.m
+Dung	7.89	VThanh	7.89	11	B4.m	B6.m
+Dung	2.46	BCCong	2.46	4	B4.m	B1.m
+Dung	1.69	Dong	1.69	2	B4.m	B0.m
+Dung	9.39	Nga	9.39	14	B4.m	B3.m
+Dung	6.08	Quat	6.08	16	B4.m	B7.m
+Dung	6.15	NTan	6.15	16	B4.m	B5.m
+Dung	8.22	DuyAnh	8.22	8	B4.m	B6.m
+Dung	8.97	Nhuan	8.97	9	B4.m	B3.m
+Dung	11.05	SHiep	11.05	13	B4.m	B7.m
+Dung	2.72	Nam	2.72	6	B4.m	B1.m
+Dung	7.61	TTGiang	7.61	14	B4.m	B7.m
+Dung	9.13	TTuan	9.13	11	B4.m	B8.m
+Dung	9.64	NNgoc	9.64	12	B4.m	B3.m
+Dung	10.70	TThuy	10.70	10	B4.m	B6.m
+Dung	9.33	HTuan	9.33	13	B4.m	B8.m
+Dung	0.00	Muoi	0.00	0
+Dung	9.05	Thinh	9.05	13	B4.m	B6.m
+Dung	0.00	MQuan	0.00	0
+Dung	4.38	Phi	4.38	7	B4.m	B1.m
+Dung	10.70	BThuy	10.70	10	B4.m	B6.m
+Dung	6.04	TNgoc	6.04	16	B4.m	B5.m
+Dung	8.45	LCCong	8.45	16	B4.m	B7.m
+Dung	95.70	DucAnh	95.70	46	B4.m	B4.m
+Dung	6.15	DTan	6.15	16	B4.m	B5.m
+Dung	11.27	PTGiang	11.27	11	B4.m	B6.m
+Dung	2.97	QHuy	2.97	2	B4.m	B0.m
+Dung	8.04	Trang	8.04	15	B4.m	B7.m
+Dung	8.99	VanMinh	8.99	14	B4.m	B8.m
+Nghia	1.27	THuy	1.27	3	B6.m	B0.m
+Nghia	8.03	Thang	8.03	11	B6.m	B5.m
+Nghia	9.64	MTan	9.64	13	B6.m	B5.m
+Nghia	9.76	DoMinh	9.76	10	B6.m	B2.m
+Nghia	0.00	Duong	0.00	0
+Nghia	4.61	HongAnh	4.61	5	B6.m	B9.m
+Nghia	9.53	Cong673	9.53	11	B6.m	B3.m
+Nghia	0.00	Hoang	0.00	0
+Nghia	4.98	Doanh	4.98	5	B6.m	B9.m
+Nghia	8.92	DHiep	8.92	11	B6.m	B3.m
+Nghia	1.88	Bang	1.88	4	B6.m	B0.m
+Nghia	0.00	DThanh	0.00	0
+Nghia	8.41	DucMinh	8.41	8	B6.m	B3.m
+Nghia	9.67	Hong	9.67	11	B6.m	B3.m
+Nghia	0.00	Hao	0.00	0	B6.m	B0.m
+Nghia	0.77	MTuan	0.77	1	B6.m	B8.m
+Nghia	6.30	Luan	6.30	10	B6.m	B1.m
+Nghia	14.12	Cong672	14.12	12	B6.m	B2.m
+Nghia	88.07	Thom	88.07	40	B6.m	B6.m
+Nghia	9.62	VietAnh	9.62	13	B6.m	B5.m
+Nghia	88.93	Thao	88.93	40	B6.m	B6.m
+Nghia	25.62	VThanh	25.62	21	B6.m	B6.m
+Nghia	0.79	BCCong	0.79	1	B6.m	B1.m
+Nghia	1.02	Dong	1.02	1	B6.m	B0.m
+Nghia	10.33	Nga	10.33	12	B6.m	B3.m
+Nghia	9.65	Quat	9.65	13	B6.m	B7.m
+Nghia	9.74	NTan	9.74	13	B6.m	B5.m
+Nghia	83.11	DuyAnh	83.11	36	B6.m	B6.m
+Nghia	9.85	Nhuan	9.85	11	B6.m	B3.m
+Nghia	21.00	SHiep	21.00	15	B6.m	B7.m
+Nghia	3.60	Nam	3.60	5	B6.m	B1.m
+Nghia	24.97	TTGiang	24.97	26	B6.m	B7.m
+Nghia	10.75	TTuan	10.75	12	B6.m	B8.m
+Nghia	8.43	NNgoc	8.43	14	B6.m	B3.m
+Nghia	67.60	TThuy	67.60	40	B6.m	B6.m
+Nghia	10.21	HTuan	10.21	12	B6.m	B8.m
+Nghia	0.00	Muoi	0.00	0
+Nghia	49.04	Thinh	49.04	39	B6.m	B6.m
+Nghia	0.00	MQuan	0.00	0
+Nghia	2.17	Phi	2.17	2	B6.m	B1.m
+Nghia	67.60	BThuy	67.60	40	B6.m	B6.m
+Nghia	9.61	TNgoc	9.61	13	B6.m	B5.m
+Nghia	25.19	LCCong	25.19	25	B6.m	B7.m
+Nghia	7.20	DucAnh	7.20	8	B6.m	B4.m
+Nghia	9.74	DTan	9.74	13	B6.m	B5.m
+Nghia	58.11	PTGiang	58.11	38	B6.m	B6.m
+Nghia	1.66	QHuy	1.66	1	B6.m	B0.m
+Nghia	25.96	Trang	25.96	25	B6.m	B7.m
+Nghia	10.64	VanMinh	10.64	11	B6.m	B8.m
+THuy	0.76	Thang	0.76	3	B0.m	B5.m
+THuy	1.35	MTan	1.35	3	B0.m	B5.m
+THuy	2.24	DoMinh	2.24	6	B0.m	B2.m
+THuy	0.00	Duong	0.00	0
+THuy	7.46	HongAnh	7.46	10	B0.m	B9.m
+THuy	3.32	Cong673	3.32	13	B0.m	B3.m
+THuy	0.00	Hoang	0.00	0
+THuy	10.21	Doanh	10.21	12	B0.m	B9.m
+THuy	2.23	DHiep	2.23	4	B0.m	B3.m
+THuy	95.88	Bang	95.88	73	B0.m	B0.m
+THuy	0.00	DThanh	0.00	0
+THuy	2.23	DucMinh	2.23	6	B0.m	B3.m
+THuy	2.50	Hong	2.50	5	B0.m	B3.m
+THuy	46.84	Hao	46.84	9	B0.m	B0.m
+THuy	1.74	MTuan	1.74	2	B0.m	B8.m
+THuy	2.67	Luan	2.67	14	B0.m	B1.m
+THuy	4.32	Cong672	4.32	7	B0.m	B2.m
+THuy	1.36	Thom	1.36	3	B0.m	B6.m
+THuy	1.35	VietAnh	1.35	3	B0.m	B5.m
+THuy	1.38	Thao	1.38	3	B0.m	B6.m
+THuy	2.69	VThanh	2.69	5	B0.m	B6.m
+THuy	1.20	BCCong	1.20	1	B0.m	B1.m
+THuy	40.72	Dong	40.72	31	B0.m	B0.m
+THuy	1.82	Nga	1.82	3	B0.m	B3.m
+THuy	1.35	Quat	1.35	3	B0.m	B7.m
+THuy	1.37	NTan	1.37	3	B0.m	B5.m
+THuy	1.46	DuyAnh	1.46	3	B0.m	B6.m
+THuy	2.05	Nhuan	2.05	3	B0.m	B3.m
+THuy	2.16	SHiep	2.16	2	B0.m	B7.m
+THuy	2.64	Nam	2.64	9	B0.m	B1.m
+THuy	1.30	TTGiang	1.30	2	B0.m	B7.m
+THuy	2.20	TTuan	2.20	4	B0.m	B8.m
+THuy	1.48	NNgoc	1.48	7	B0.m	B3.m
+THuy	1.39	TThuy	1.39	2	B0.m	B6.m
+THuy	2.04	HTuan	2.04	12	B0.m	B8.m
+THuy	0.00	Muoi	0.00	0
+THuy	2.62	Thinh	2.62	11	B0.m	B6.m
+THuy	0.00	MQuan	0.00	0
+THuy	3.72	Phi	3.72	11	B0.m	B1.m
+THuy	1.39	BThuy	1.39	2	B0.m	B6.m
+THuy	1.35	TNgoc	1.35	3	B0.m	B5.m
+THuy	1.36	LCCong	1.36	2	B0.m	B7.m
+THuy	1.85	DucAnh	1.85	8	B0.m	B4.m
+THuy	1.37	DTan	1.37	3	B0.m	B5.m
+THuy	1.38	PTGiang	1.38	3	B0.m	B6.m
+THuy	52.96	QHuy	52.96	13	B0.m	B0.m
+THuy	1.37	Trang	1.37	2	B0.m	B7.m
+THuy	1.74	VanMinh	1.74	4	B0.m	B8.m
+Thang	40.52	MTan	40.52	24	B5.m	B5.m
+Thang	4.48	DoMinh	4.48	7	B5.m	B2.m
+Thang	0.00	Duong	0.00	0
+Thang	3.24	HongAnh	3.24	8	B5.m	B9.m
+Thang	8.62	Cong673	8.62	17	B5.m	B3.m
+Thang	0.00	Hoang	0.00	0
+Thang	2.88	Doanh	2.88	7	B5.m	B9.m
+Thang	10.77	DHiep	10.77	12	B5.m	B3.m
+Thang	1.87	Bang	1.87	9	B5.m	B0.m
+Thang	0.00	DThanh	0.00	0
+Thang	4.77	DucMinh	4.77	3	B5.m	B3.m
+Thang	11.39	Hong	11.39	10	B5.m	B3.m
+Thang	0.00	Hao	0.00	0	B5.m	B0.m
+Thang	5.20	MTuan	5.20	8	B5.m	B8.m
+Thang	8.96	Luan	8.96	12	B5.m	B1.m
+Thang	8.81	Cong672	8.81	14	B5.m	B2.m
+Thang	8.67	Thom	8.67	11	B5.m	B6.m
+Thang	38.86	VietAnh	38.86	27	B5.m	B5.m
+Thang	8.79	Thao	8.79	11	B5.m	B6.m
+Thang	14.34	VThanh	14.34	18	B5.m	B6.m
+Thang	5.39	BCCong	5.39	8	B5.m	B1.m
+Thang	0.77	Dong	0.77	2	B5.m	B0.m
+Thang	9.43	Nga	9.43	12	B5.m	B3.m
+Thang	39.07	Quat	39.07	33	B5.m	B7.m
+Thang	39.61	NTan	39.61	24	B5.m	B5.m
+Thang	9.39	DuyAnh	9.39	11	B5.m	B6.m
+Thang	11.72	Nhuan	11.72	9	B5.m	B3.m
+Thang	10.56	SHiep	10.56	10	B5.m	B7.m
+Thang	7.47	Nam	7.47	7	B5.m	B1.m
+Thang	9.65	TTGiang	9.65	16	B5.m	B7.m
+Thang	10.63	TTuan	10.63	15	B5.m	B8.m
+Thang	9.27	NNgoc	9.27	20	B5.m	B3.m
+Thang	9.55	TThuy	9.55	11	B5.m	B6.m
+Thang	12.51	HTuan	12.51	20	B5.m	B8.m
+Thang	0.00	Muoi	0.00	0
+Thang	9.02	Thinh	9.02	16	B5.m	B6.m
+Thang	0.00	MQuan	0.00	0
+Thang	6.59	Phi	6.59	8	B5.m	B1.m
+Thang	9.55	BThuy	9.55	11	B5.m	B6.m
+Thang	40.30	TNgoc	40.30	33	B5.m	B5.m
+Thang	9.43	LCCong	9.43	14	B5.m	B7.m
+Thang	4.82	DucAnh	4.82	11	B5.m	B4.m
+Thang	39.61	DTan	39.61	24	B5.m	B5.m
+Thang	9.41	PTGiang	9.41	11	B5.m	B6.m
+Thang	1.41	QHuy	1.41	1	B5.m	B0.m
+Thang	9.11	Trang	9.11	14	B5.m	B7.m
+Thang	10.07	VanMinh	10.07	13	B5.m	B8.m
+MTan	5.10	DoMinh	5.10	11	B5.m	B2.m
+MTan	0.00	Duong	0.00	0
+MTan	3.32	HongAnh	3.32	7	B5.m	B9.m
+MTan	6.78	Cong673	6.78	14	B5.m	B3.m
+MTan	0.00	Hoang	0.00	0
+MTan	2.58	Doanh	2.58	6	B5.m	B9.m
+MTan	7.71	DHiep	7.71	13	B5.m	B3.m
+MTan	3.11	Bang	3.11	9	B5.m	B0.m
+MTan	0.00	DThanh	0.00	0
+MTan	6.00	DucMinh	6.00	6	B5.m	B3.m
+MTan	8.11	Hong	8.11	12	B5.m	B3.m
+MTan	0.00	Hao	0.00	0	B5.m	B0.m
+MTan	5.89	MTuan	5.89	9	B5.m	B8.m
+MTan	13.62	Luan	13.62	18	B5.m	B1.m
+MTan	11.23	Cong672	11.23	14	B5.m	B2.m
+MTan	11.01	Thom	11.01	14	B5.m	B6.m
+MTan	92.91	VietAnh	92.91	48	B5.m	B5.m
+MTan	11.15	Thao	11.15	14	B5.m	B6.m
+MTan	8.22	VThanh	8.22	15	B5.m	B6.m
+MTan	6.08	BCCong	6.08	9	B5.m	B1.m
+MTan	3.36	Dong	3.36	6	B5.m	B0.m
+MTan	7.39	Nga	7.39	13	B5.m	B3.m
+MTan	92.87	Quat	92.87	48	B5.m	B7.m
+MTan	97.69	NTan	97.69	38	B5.m	B5.m
+MTan	10.35	DuyAnh	10.35	12	B5.m	B6.m
+MTan	8.32	Nhuan	8.32	12	B5.m	B3.m
+MTan	11.67	SHiep	11.67	13	B5.m	B7.m
+MTan	9.65	Nam	9.65	10	B5.m	B1.m
+MTan	11.89	TTGiang	11.89	21	B5.m	B7.m
+MTan	8.52	TTuan	8.52	12	B5.m	B8.m
+MTan	7.94	NNgoc	7.94	15	B5.m	B3.m
+MTan	11.99	TThuy	11.99	12	B5.m	B6.m
+MTan	8.33	HTuan	8.33	12	B5.m	B8.m
+MTan	0.00	Muoi	0.00	0
+MTan	9.79	Thinh	9.79	16	B5.m	B6.m
+MTan	0.00	MQuan	0.00	0
+MTan	8.64	Phi	8.64	11	B5.m	B1.m
+MTan	11.99	BThuy	11.99	12	B5.m	B6.m
+MTan	95.44	TNgoc	95.44	49	B5.m	B5.m
+MTan	11.55	LCCong	11.55	18	B5.m	B7.m
+MTan	5.65	DucAnh	5.65	11	B5.m	B4.m
+MTan	97.69	DTan	97.69	38	B5.m	B5.m
+MTan	12.54	PTGiang	12.54	15	B5.m	B6.m
+MTan	2.96	QHuy	2.96	1	B5.m	B0.m
+MTan	11.63	Trang	11.63	18	B5.m	B7.m
+MTan	7.96	VanMinh	7.96	11	B5.m	B8.m
+DoMinh	0.00	Duong	0.00	0
+DoMinh	3.50	HongAnh	3.50	5	B2.m	B9.m
+DoMinh	9.22	Cong673	9.22	12	B2.m	B3.m
+DoMinh	0.00	Hoang	0.00	0
+DoMinh	3.77	Doanh	3.77	5	B2.m	B9.m
+DoMinh	10.68	DHiep	10.68	11	B2.m	B3.m
+DoMinh	2.76	Bang	2.76	6	B2.m	B0.m
+DoMinh	0.00	DThanh	0.00	0
+DoMinh	18.03	DucMinh	18.03	8	B2.m	B3.m
+DoMinh	14.77	Hong	14.77	10	B2.m	B3.m
+DoMinh	0.00	Hao	0.00	0	B2.m	B0.m
+DoMinh	2.79	MTuan	2.79	7	B2.m	B8.m
+DoMinh	4.98	Luan	4.98	9	B2.m	B1.m
+DoMinh	14.92	Cong672	14.92	9	B2.m	B2.m
+DoMinh	11.15	Thom	11.15	11	B2.m	B6.m
+DoMinh	5.10	VietAnh	5.10	10	B2.m	B5.m
+DoMinh	11.27	Thao	11.27	11	B2.m	B6.m
+DoMinh	7.91	VThanh	7.91	9	B2.m	B6.m
+DoMinh	2.87	BCCong	2.87	7	B2.m	B1.m
+DoMinh	2.84	Dong	2.84	4	B2.m	B0.m
+DoMinh	10.27	Nga	10.27	10	B2.m	B3.m
+DoMinh	5.11	Quat	5.11	10	B2.m	B7.m
+DoMinh	5.16	NTan	5.16	11	B2.m	B5.m
+DoMinh	11.02	DuyAnh	11.02	10	B2.m	B6.m
+DoMinh	10.69	Nhuan	10.69	9	B2.m	B3.m
+DoMinh	15.08	SHiep	15.08	9	B2.m	B7.m
+DoMinh	3.22	Nam	3.22	5	B2.m	B1.m
+DoMinh	12.62	TTGiang	12.62	12	B2.m	B7.m
+DoMinh	14.49	TTuan	14.49	11	B2.m	B8.m
+DoMinh	9.73	NNgoc	9.73	13	B2.m	B3.m
+DoMinh	13.02	TThuy	13.02	11	B2.m	B6.m
+DoMinh	11.03	HTuan	11.03	9	B2.m	B8.m
+DoMinh	0.00	Muoi	0.00	0
+DoMinh	9.96	Thinh	9.96	12	B2.m	B6.m
+DoMinh	0.00	MQuan	0.00	0
+DoMinh	7.13	Phi	7.13	9	B2.m	B1.m
+DoMinh	13.02	BThuy	13.02	11	B2.m	B6.m
+DoMinh	5.09	TNgoc	5.09	10	B2.m	B5.m
+DoMinh	12.55	LCCong	12.55	11	B2.m	B7.m
+DoMinh	9.27	DucAnh	9.27	12	B2.m	B4.m
+DoMinh	5.16	DTan	5.16	11	B2.m	B5.m
+DoMinh	11.27	PTGiang	11.27	11	B2.m	B6.m
+DoMinh	3.18	QHuy	3.18	3	B2.m	B0.m
+DoMinh	12.62	Trang	12.62	11	B2.m	B7.m
+DoMinh	14.32	VanMinh	14.32	11	B2.m	B8.m
+Duong	0.00	HongAnh	0.00	0
+Duong	0.00	Cong673	0.00	0
+Duong	0.00	Hoang	0.00	0
+Duong	0.00	Doanh	0.00	0
+Duong	0.00	DHiep	0.00	0
+Duong	0.00	Bang	0.00	0
+Duong	0.00	DThanh	0.00	0
+Duong	0.00	DucMinh	0.00	0
+Duong	0.00	Hong	0.00	0
+Duong	0.00	Hao	0.00	0
+Duong	0.00	MTuan	0.00	0
+Duong	0.00	Luan	0.00	0
+Duong	0.00	Cong672	0.00	0
+Duong	0.00	Thom	0.00	0
+Duong	0.00	VietAnh	0.00	0
+Duong	0.00	Thao	0.00	0
+Duong	0.00	VThanh	0.00	0
+Duong	0.00	BCCong	0.00	0
+Duong	0.00	Dong	0.00	0
+Duong	0.00	Nga	0.00	0
+Duong	0.00	Quat	0.00	0
+Duong	0.00	NTan	0.00	0
+Duong	0.00	DuyAnh	0.00	0
+Duong	0.00	Nhuan	0.00	0
+Duong	0.00	SHiep	0.00	0
+Duong	0.00	Nam	0.00	0
+Duong	0.00	TTGiang	0.00	0
+Duong	0.00	TTuan	0.00	0
+Duong	0.00	NNgoc	0.00	0
+Duong	0.00	TThuy	0.00	0
+Duong	0.00	HTuan	0.00	0
+Duong	0.00	Muoi	0.00	0
+Duong	0.00	Thinh	0.00	0
+Duong	0.00	MQuan	0.00	0
+Duong	0.00	Phi	0.00	0
+Duong	0.00	BThuy	0.00	0
+Duong	0.00	TNgoc	0.00	0
+Duong	0.00	LCCong	0.00	0
+Duong	0.00	DucAnh	0.00	0
+Duong	0.00	DTan	0.00	0
+Duong	0.00	PTGiang	0.00	0
+Duong	0.00	QHuy	0.00	0
+Duong	0.00	Trang	0.00	0
+Duong	0.00	VanMinh	0.00	0
+HongAnh	5.89	Cong673	5.89	15	B9.m	B3.m
+HongAnh	0.00	Hoang	0.00	0
+HongAnh	66.84	Doanh	66.84	31	B9.m	B9.m
+HongAnh	7.04	DHiep	7.04	13	B9.m	B3.m
+HongAnh	7.36	Bang	7.36	13	B9.m	B0.m
+HongAnh	0.00	DThanh	0.00	0
+HongAnh	6.89	DucMinh	6.89	6	B9.m	B3.m
+HongAnh	6.27	Hong	6.27	8	B9.m	B3.m
+HongAnh	18.38	Hao	18.38	5	B9.m	B0.m
+HongAnh	3.63	MTuan	3.63	6	B9.m	B8.m
+HongAnh	2.43	Luan	2.43	8	B9.m	B1.m
+HongAnh	7.56	Cong672	7.56	11	B9.m	B2.m
+HongAnh	4.93	Thom	4.93	5	B9.m	B6.m
+HongAnh	3.31	VietAnh	3.31	7	B9.m	B5.m
+HongAnh	4.99	Thao	4.99	5	B9.m	B6.m
+HongAnh	4.72	VThanh	4.72	6	B9.m	B6.m
+HongAnh	3.74	BCCong	3.74	6	B9.m	B1.m
+HongAnh	10.26	Dong	10.26	8	B9.m	B0.m
+HongAnh	5.73	Nga	5.73	10	B9.m	B3.m
+HongAnh	3.33	Quat	3.33	8	B9.m	B7.m
+HongAnh	3.37	NTan	3.37	8	B9.m	B5.m
+HongAnh	5.29	DuyAnh	5.29	5	B9.m	B6.m
+HongAnh	7.50	Nhuan	7.50	10	B9.m	B3.m
+HongAnh	6.71	SHiep	6.71	7	B9.m	B7.m
+HongAnh	2.21	Nam	2.21	6	B9.m	B1.m
+HongAnh	4.56	TTGiang	4.56	8	B9.m	B7.m
+HongAnh	5.57	TTuan	5.57	9	B9.m	B8.m
+HongAnh	5.12	NNgoc	5.12	11	B9.m	B3.m
+HongAnh	5.05	TThuy	5.05	5	B9.m	B6.m
+HongAnh	5.19	HTuan	5.19	9	B9.m	B8.m
+HongAnh	0.00	Muoi	0.00	0
+HongAnh	4.15	Thinh	4.15	8	B9.m	B6.m
+HongAnh	0.00	MQuan	0.00	0
+HongAnh	3.89	Phi	3.89	9	B9.m	B1.m
+HongAnh	5.05	BThuy	5.05	5	B9.m	B6.m
+HongAnh	3.31	TNgoc	3.31	8	B9.m	B5.m
+HongAnh	5.25	LCCong	5.25	10	B9.m	B7.m
+HongAnh	4.38	DucAnh	4.38	11	B9.m	B4.m
+HongAnh	3.37	DTan	3.37	8	B9.m	B5.m
+HongAnh	5.70	PTGiang	5.70	5	B9.m	B6.m
+HongAnh	11.96	QHuy	11.96	6	B9.m	B0.m
+HongAnh	4.81	Trang	4.81	9	B9.m	B7.m
+HongAnh	5.04	VanMinh	5.04	8	B9.m	B8.m
+Cong673	0.00	Hoang	0.00	0
+Cong673	5.64	Doanh	5.64	11	B3.m	B9.m
+Cong673	66.54	DHiep	66.54	46	B3.m	B3.m
+Cong673	3.62	Bang	3.62	13	B3.m	B0.m
+Cong673	0.00	DThanh	0.00	0
+Cong673	31.41	DucMinh	31.41	15	B3.m	B3.m
+Cong673	43.38	Hong	43.38	37	B3.m	B3.m
+Cong673	2.53	Hao	2.53	2	B3.m	B0.m
+Cong673	3.04	MTuan	3.04	9	B3.m	B8.m
+Cong673	5.53	Luan	5.53	16	B3.m	B1.m
+Cong673	9.76	Cong672	9.76	12	B3.m	B2.m
+Cong673	9.70	Thom	9.70	11	B3.m	B6.m
+Cong673	7.52	VietAnh	7.52	18	B3.m	B5.m
+Cong673	9.84	Thao	9.84	11	B3.m	B6.m
+Cong673	11.62	VThanh	11.62	17	B3.m	B6.m
+Cong673	3.16	BCCong	3.16	9	B3.m	B1.m
+Cong673	3.03	Dong	3.03	7	B3.m	B0.m
+Cong673	56.63	Nga	56.63	43	B3.m	B3.m
+Cong673	7.18	Quat	7.18	17	B3.m	B7.m
+Cong673	6.90	NTan	6.90	15	B3.m	B5.m
+Cong673	11.18	DuyAnh	11.18	11	B3.m	B6.m
+Cong673	66.60	Nhuan	66.60	37	B3.m	B3.m
+Cong673	17.48	SHiep	17.48	14	B3.m	B7.m
+Cong673	3.18	Nam	3.18	8	B3.m	B1.m
+Cong673	14.70	TTGiang	14.70	22	B3.m	B7.m
+Cong673	28.61	TTuan	28.61	24	B3.m	B8.m
+Cong673	58.67	NNgoc	58.67	40	B3.m	B3.m
+Cong673	9.36	TThuy	9.36	9	B3.m	B6.m
+Cong673	28.45	HTuan	28.45	29	B3.m	B8.m
+Cong673	0.00	Muoi	0.00	0
+Cong673	9.80	Thinh	9.80	19	B3.m	B6.m
+Cong673	0.00	MQuan	0.00	0
+Cong673	3.21	Phi	3.21	8	B3.m	B1.m
+Cong673	9.36	BThuy	9.36	9	B3.m	B6.m
+Cong673	6.37	TNgoc	6.37	15	B3.m	B5.m
+Cong673	16.34	LCCong	16.34	23	B3.m	B7.m
+Cong673	9.73	DucAnh	9.73	17	B3.m	B4.m
+Cong673	6.90	DTan	6.90	15	B3.m	B5.m
+Cong673	9.84	PTGiang	9.84	11	B3.m	B6.m
+Cong673	6.99	QHuy	6.99	5	B3.m	B0.m
+Cong673	16.10	Trang	16.10	22	B3.m	B7.m
+Cong673	24.14	VanMinh	24.14	24	B3.m	B8.m
+Hoang	0.00	Doanh	0.00	0
+Hoang	0.00	DHiep	0.00	0
+Hoang	0.00	Bang	0.00	0
+Hoang	0.00	DThanh	0.00	0
+Hoang	0.00	DucMinh	0.00	0
+Hoang	0.00	Hong	0.00	0
+Hoang	0.00	Hao	0.00	0
+Hoang	0.00	MTuan	0.00	0
+Hoang	0.00	Luan	0.00	0
+Hoang	0.00	Cong672	0.00	0
+Hoang	0.00	Thom	0.00	0
+Hoang	0.00	VietAnh	0.00	0
+Hoang	0.00	Thao	0.00	0
+Hoang	0.00	VThanh	0.00	0
+Hoang	0.00	BCCong	0.00	0
+Hoang	0.00	Dong	0.00	0
+Hoang	0.00	Nga	0.00	0
+Hoang	0.00	Quat	0.00	0
+Hoang	0.00	NTan	0.00	0
+Hoang	0.00	DuyAnh	0.00	0
+Hoang	0.00	Nhuan	0.00	0
+Hoang	0.00	SHiep	0.00	0
+Hoang	0.00	Nam	0.00	0
+Hoang	0.00	TTGiang	0.00	0
+Hoang	0.00	TTuan	0.00	0
+Hoang	0.00	NNgoc	0.00	0
+Hoang	0.00	TThuy	0.00	0
+Hoang	0.00	HTuan	0.00	0
+Hoang	0.00	Muoi	0.00	0
+Hoang	0.00	Thinh	0.00	0
+Hoang	0.00	MQuan	0.00	0
+Hoang	0.00	Phi	0.00	0
+Hoang	0.00	BThuy	0.00	0
+Hoang	0.00	TNgoc	0.00	0
+Hoang	0.00	LCCong	0.00	0
+Hoang	0.00	DucAnh	0.00	0
+Hoang	0.00	DTan	0.00	0
+Hoang	0.00	PTGiang	0.00	0
+Hoang	0.00	QHuy	0.00	0
+Hoang	0.00	Trang	0.00	0
+Hoang	0.00	VanMinh	0.00	0
+Doanh	5.77	DHiep	5.77	9	B9.m	B3.m
+Doanh	10.10	Bang	10.10	12	B9.m	B0.m
+Doanh	0.00	DThanh	0.00	0
+Doanh	6.56	DucMinh	6.56	5	B9.m	B3.m
+Doanh	4.86	Hong	4.86	6	B9.m	B3.m
+Doanh	19.58	Hao	19.58	5	B9.m	B0.m
+Doanh	3.11	MTuan	3.11	4	B9.m	B8.m
+Doanh	1.73	Luan	1.73	4	B9.m	B1.m
+Doanh	8.78	Cong672	8.78	10	B9.m	B2.m
+Doanh	5.25	Thom	5.25	5	B9.m	B6.m
+Doanh	2.58	VietAnh	2.58	4	B9.m	B5.m
+Doanh	5.30	Thao	5.30	5	B9.m	B6.m
+Doanh	5.15	VThanh	5.15	5	B9.m	B6.m
+Doanh	2.39	BCCong	2.39	2	B9.m	B1.m
+Doanh	10.26	Dong	10.26	9	B9.m	B0.m
+Doanh	5.19	Nga	5.19	8	B9.m	B3.m
+Doanh	2.59	Quat	2.59	4	B9.m	B7.m
+Doanh	2.61	NTan	2.61	4	B9.m	B5.m
+Doanh	5.56	DuyAnh	5.56	5	B9.m	B6.m
+Doanh	5.66	Nhuan	5.66	7	B9.m	B3.m
+Doanh	6.42	SHiep	6.42	6	B9.m	B7.m
+Doanh	1.45	Nam	1.45	4	B9.m	B1.m
+Doanh	5.02	TTGiang	5.02	7	B9.m	B7.m
+Doanh	5.72	TTuan	5.72	7	B9.m	B8.m
+Doanh	4.52	NNgoc	4.52	6	B9.m	B3.m
+Doanh	5.36	TThuy	5.36	5	B9.m	B6.m
+Doanh	4.83	HTuan	4.83	7	B9.m	B8.m
+Doanh	0.00	Muoi	0.00	0
+Doanh	4.43	Thinh	4.43	6	B9.m	B6.m
+Doanh	0.00	MQuan	0.00	0
+Doanh	2.91	Phi	2.91	4	B9.m	B1.m
+Doanh	5.36	BThuy	5.36	5	B9.m	B6.m
+Doanh	2.58	TNgoc	2.58	4	B9.m	B5.m
+Doanh	5.19	LCCong	5.19	7	B9.m	B7.m
+Doanh	5.92	DucAnh	5.92	11	B9.m	B4.m
+Doanh	2.61	DTan	2.61	4	B9.m	B5.m
+Doanh	5.30	PTGiang	5.30	4	B9.m	B6.m
+Doanh	13.33	QHuy	13.33	6	B9.m	B0.m
+Doanh	5.22	Trang	5.22	7	B9.m	B7.m
+Doanh	5.04	VanMinh	5.04	6	B9.m	B8.m
+DHiep	2.19	Bang	2.19	4	B3.m	B0.m
+DHiep	0.00	DThanh	0.00	0
+DHiep	35.02	DucMinh	35.02	9	B3.m	B3.m
+DHiep	49.70	Hong	49.70	26	B3.m	B3.m
+DHiep	2.61	Hao	2.61	2	B3.m	B0.m
+DHiep	1.75	MTuan	1.75	3	B3.m	B8.m
+DHiep	4.99	Luan	4.99	13	B3.m	B1.m
+DHiep	11.60	Cong672	11.60	14	B3.m	B2.m
+DHiep	8.20	Thom	8.20	9	B3.m	B6.m
+DHiep	8.15	VietAnh	8.15	16	B3.m	B5.m
+DHiep	8.30	Thao	8.30	9	B3.m	B6.m
+DHiep	14.00	VThanh	14.00	15	B3.m	B6.m
+DHiep	1.81	BCCong	1.81	3	B3.m	B1.m
+DHiep	1.67	Dong	1.67	5	B3.m	B0.m
+DHiep	69.89	Nga	69.89	32	B3.m	B3.m
+DHiep	7.73	Quat	7.73	14	B3.m	B7.m
+DHiep	7.82	NTan	7.82	13	B3.m	B5.m
+DHiep	10.28	DuyAnh	10.28	10	B3.m	B6.m
+DHiep	81.87	Nhuan	81.87	25	B3.m	B3.m
+DHiep	19.55	SHiep	19.55	13	B3.m	B7.m
+DHiep	3.19	Nam	3.19	6	B3.m	B1.m
+DHiep	13.49	TTGiang	13.49	17	B3.m	B7.m
+DHiep	33.71	TTuan	33.71	16	B3.m	B8.m
+DHiep	60.80	NNgoc	60.80	39	B3.m	B3.m
+DHiep	9.11	TThuy	9.11	8	B3.m	B6.m
+DHiep	34.15	HTuan	34.15	20	B3.m	B8.m
+DHiep	0.00	Muoi	0.00	0
+DHiep	7.92	Thinh	7.92	12	B3.m	B6.m
+DHiep	0.00	MQuan	0.00	0
+DHiep	2.14	Phi	2.14	5	B3.m	B1.m
+DHiep	9.11	BThuy	9.11	8	B3.m	B6.m
+DHiep	7.68	TNgoc	7.68	14	B3.m	B5.m
+DHiep	14.62	LCCong	14.62	17	B3.m	B7.m
+DHiep	10.25	DucAnh	10.25	12	B3.m	B4.m
+DHiep	7.82	DTan	7.82	13	B3.m	B5.m
+DHiep	9.68	PTGiang	9.68	10	B3.m	B6.m
+DHiep	5.90	QHuy	5.90	3	B3.m	B0.m
+DHiep	14.26	Trang	14.26	17	B3.m	B7.m
+DHiep	28.40	VanMinh	28.40	18	B3.m	B8.m
+Bang	0.00	DThanh	0.00	0
+Bang	2.94	DucMinh	2.94	7	B0.m	B3.m
+Bang	2.46	Hong	2.46	5	B0.m	B3.m
+Bang	46.72	Hao	46.72	9	B0.m	B0.m
+Bang	2.30	MTuan	2.30	3	B0.m	B8.m
+Bang	3.37	Luan	3.37	16	B0.m	B1.m
+Bang	4.26	Cong672	4.26	7	B0.m	B2.m
+Bang	3.37	Thom	3.37	6	B0.m	B6.m
+Bang	2.21	VietAnh	2.21	5	B0.m	B5.m
+Bang	2.73	Thao	2.73	5	B0.m	B6.m
+Bang	2.65	VThanh	2.65	5	B0.m	B6.m
+Bang	1.78	BCCong	1.78	2	B0.m	B1.m
+Bang	43.69	Dong	43.69	33	B0.m	B0.m
+Bang	2.68	Nga	2.68	8	B0.m	B3.m
+Bang	2.23	Quat	2.23	5	B0.m	B7.m
+Bang	3.15	NTan	3.15	9	B0.m	B5.m
+Bang	1.45	DuyAnh	1.45	3	B0.m	B6.m
+Bang	2.02	Nhuan	2.02	3	B0.m	B3.m
+Bang	2.14	SHiep	2.14	2	B0.m	B7.m
+Bang	2.61	Nam	2.61	9	B0.m	B1.m
+Bang	2.98	TTGiang	2.98	6	B0.m	B7.m
+Bang	3.04	TTuan	3.04	6	B0.m	B8.m
+Bang	1.45	NNgoc	1.45	7	B0.m	B3.m
+Bang	2.76	TThuy	2.76	4	B0.m	B6.m
+Bang	2.01	HTuan	2.01	12	B0.m	B8.m
+Bang	0.00	Muoi	0.00	0
+Bang	4.73	Thinh	4.73	18	B0.m	B6.m
+Bang	0.00	MQuan	0.00	0
+Bang	4.20	Phi	4.20	11	B0.m	B1.m
+Bang	2.76	BThuy	2.76	4	B0.m	B6.m
+Bang	2.21	TNgoc	2.21	5	B0.m	B5.m
+Bang	2.24	LCCong	2.24	4	B0.m	B7.m
+Bang	2.74	DucAnh	2.74	9	B0.m	B4.m
+Bang	3.15	DTan	3.15	9	B0.m	B5.m
+Bang	3.41	PTGiang	3.41	6	B0.m	B6.m
+Bang	52.73	QHuy	52.73	13	B0.m	B0.m
+Bang	1.80	Trang	1.80	3	B0.m	B7.m
+Bang	2.56	VanMinh	2.56	6	B0.m	B8.m
+DThanh	0.00	DucMinh	0.00	0
+DThanh	0.00	Hong	0.00	0
+DThanh	0.00	Hao	0.00	0
+DThanh	0.00	MTuan	0.00	0
+DThanh	0.00	Luan	0.00	0
+DThanh	0.00	Cong672	0.00	0
+DThanh	0.00	Thom	0.00	0
+DThanh	0.00	VietAnh	0.00	0
+DThanh	0.00	Thao	0.00	0
+DThanh	0.00	VThanh	0.00	0
+DThanh	0.00	BCCong	0.00	0
+DThanh	0.00	Dong	0.00	0
+DThanh	0.00	Nga	0.00	0
+DThanh	0.00	Quat	0.00	0
+DThanh	0.00	NTan	0.00	0
+DThanh	0.00	DuyAnh	0.00	0
+DThanh	0.00	Nhuan	0.00	0
+DThanh	0.00	SHiep	0.00	0
+DThanh	0.00	Nam	0.00	0
+DThanh	0.00	TTGiang	0.00	0
+DThanh	0.00	TTuan	0.00	0
+DThanh	0.00	NNgoc	0.00	0
+DThanh	0.00	TThuy	0.00	0
+DThanh	0.00	HTuan	0.00	0
+DThanh	0.00	Muoi	0.00	0
+DThanh	0.00	Thinh	0.00	0
+DThanh	0.00	MQuan	0.00	0
+DThanh	0.00	Phi	0.00	0
+DThanh	0.00	BThuy	0.00	0
+DThanh	0.00	TNgoc	0.00	0
+DThanh	0.00	LCCong	0.00	0
+DThanh	0.00	DucAnh	0.00	0
+DThanh	0.00	DTan	0.00	0
+DThanh	0.00	PTGiang	0.00	0
+DThanh	0.00	QHuy	0.00	0
+DThanh	0.00	Trang	0.00	0
+DThanh	0.00	VanMinh	0.00	0
+DucMinh	56.70	Hong	56.70	20	B3.m	B3.m
+DucMinh	2.90	Hao	2.90	2	B3.m	B0.m
+DucMinh	2.64	MTuan	2.64	2	B3.m	B8.m
+DucMinh	4.08	Luan	4.08	4	B3.m	B1.m
+DucMinh	16.38	Cong672	16.38	8	B3.m	B2.m
+DucMinh	8.82	Thom	8.82	7	B3.m	B6.m
+DucMinh	5.99	VietAnh	5.99	5	B3.m	B5.m
+DucMinh	8.89	Thao	8.89	7	B3.m	B6.m
+DucMinh	7.48	VThanh	7.48	6	B3.m	B6.m
+DucMinh	2.70	BCCong	2.70	2	B3.m	B1.m
+DucMinh	2.26	Dong	2.26	3	B3.m	B0.m
+DucMinh	35.41	Nga	35.41	8	B3.m	B3.m
+DucMinh	6.01	Quat	6.01	5	B3.m	B7.m
+DucMinh	6.05	NTan	6.05	5	B3.m	B5.m
+DucMinh	8.25	DuyAnh	8.25	6	B3.m	B6.m
+DucMinh	37.33	Nhuan	37.33	7	B3.m	B3.m
+DucMinh	12.25	SHiep	12.25	5	B3.m	B7.m
+DucMinh	3.31	Nam	3.31	3	B3.m	B1.m
+DucMinh	10.25	TTGiang	10.25	8	B3.m	B7.m
+DucMinh	56.25	TTuan	56.25	13	B3.m	B8.m
+DucMinh	33.48	NNgoc	33.48	18	B3.m	B3.m
+DucMinh	8.97	TThuy	8.97	6	B3.m	B6.m
+DucMinh	45.32	HTuan	45.32	12	B3.m	B8.m
+DucMinh	0.00	Muoi	0.00	0
+DucMinh	8.10	Thinh	8.10	7	B3.m	B6.m
+DucMinh	0.00	MQuan	0.00	0
+DucMinh	7.48	Phi	7.48	4	B3.m	B1.m
+DucMinh	8.97	BThuy	8.97	6	B3.m	B6.m
+DucMinh	5.98	TNgoc	5.98	5	B3.m	B5.m
+DucMinh	10.55	LCCong	10.55	7	B3.m	B7.m
+DucMinh	9.15	DucAnh	9.15	8	B3.m	B4.m
+DucMinh	6.05	DTan	6.05	5	B3.m	B5.m
+DucMinh	8.89	PTGiang	8.89	6	B3.m	B6.m
+DucMinh	1.77	QHuy	1.77	1	B3.m	B0.m
+DucMinh	10.59	Trang	10.59	7	B3.m	B7.m
+DucMinh	60.16	VanMinh	60.16	13	B3.m	B8.m
+Hong	2.66	Hao	2.66	2	B3.m	B0.m
+Hong	1.91	MTuan	1.91	3	B3.m	B8.m
+Hong	5.25	Luan	5.25	8	B3.m	B1.m
+Hong	17.18	Cong672	17.18	12	B3.m	B2.m
+Hong	8.84	Thom	8.84	9	B3.m	B6.m
+Hong	8.10	VietAnh	8.10	11	B3.m	B5.m
+Hong	8.94	Thao	8.94	9	B3.m	B6.m
+Hong	15.15	VThanh	15.15	13	B3.m	B6.m
+Hong	1.97	BCCong	1.97	3	B3.m	B1.m
+Hong	0.89	Dong	0.89	2	B3.m	B0.m
+Hong	45.42	Nga	45.42	27	B3.m	B3.m
+Hong	8.13	Quat	8.13	11	B3.m	B7.m
+Hong	8.22	NTan	8.22	11	B3.m	B5.m
+Hong	11.03	DuyAnh	11.03	10	B3.m	B6.m
+Hong	54.01	Nhuan	54.01	25	B3.m	B3.m
+Hong	17.11	SHiep	17.11	12	B3.m	B7.m
+Hong	4.68	Nam	4.68	6	B3.m	B1.m
+Hong	12.22	TTGiang	12.22	15	B3.m	B7.m
+Hong	49.71	TTuan	49.71	23	B3.m	B8.m
+Hong	40.95	NNgoc	40.95	34	B3.m	B3.m
+Hong	9.05	TThuy	9.05	8	B3.m	B6.m
+Hong	47.43	HTuan	47.43	24	B3.m	B8.m
+Hong	0.00	Muoi	0.00	0
+Hong	8.39	Thinh	8.39	12	B3.m	B6.m
+Hong	0.00	MQuan	0.00	0
+Hong	5.88	Phi	5.88	4	B3.m	B1.m
+Hong	9.05	BThuy	9.05	8	B3.m	B6.m
+Hong	8.08	TNgoc	8.08	11	B3.m	B5.m
+Hong	12.76	LCCong	12.76	15	B3.m	B7.m
+Hong	8.83	DucAnh	8.83	13	B3.m	B4.m
+Hong	8.22	DTan	8.22	11	B3.m	B5.m
+Hong	9.69	PTGiang	9.69	10	B3.m	B6.m
+Hong	6.11	QHuy	6.11	3	B3.m	B0.m
+Hong	12.33	Trang	12.33	14	B3.m	B7.m
+Hong	45.62	VanMinh	45.62	24	B3.m	B8.m
+Hao	2.74	MTuan	2.74	1	B0.m	B8.m
+Hao	0.00	Luan	0.00	0	B0.m	B1.m
+Hao	5.28	Cong672	5.28	3	B0.m	B2.m
+Hao	0.00	Thom	0.00	0	B0.m	B6.m
+Hao	0.00	VietAnh	0.00	0	B0.m	B5.m
+Hao	0.00	Thao	0.00	0	B0.m	B6.m
+Hao	0.00	VThanh	0.00	0	B0.m	B6.m
+Hao	0.00	BCCong	0.00	0	B0.m	B1.m
+Hao	56.82	Dong	56.82	9	B0.m	B0.m
+Hao	2.61	Nga	2.61	2	B0.m	B3.m
+Hao	0.00	Quat	0.00	0	B0.m	B7.m
+Hao	0.00	NTan	0.00	0	B0.m	B5.m
+Hao	0.00	DuyAnh	0.00	0	B0.m	B6.m
+Hao	2.67	Nhuan	2.67	2	B0.m	B3.m
+Hao	2.88	SHiep	2.88	2	B0.m	B7.m
+Hao	0.00	Nam	0.00	0	B0.m	B1.m
+Hao	2.59	TTGiang	2.59	2	B0.m	B7.m
+Hao	0.00	TTuan	0.00	0	B0.m	B8.m
+Hao	2.53	NNgoc	2.53	2	B0.m	B3.m
+Hao	0.00	TThuy	0.00	0	B0.m	B6.m
+Hao	2.57	HTuan	2.57	2	B0.m	B8.m
+Hao	0.00	Muoi	0.00	0
+Hao	2.60	Thinh	2.60	4	B0.m	B6.m
+Hao	0.00	MQuan	0.00	0
+Hao	0.00	Phi	0.00	0	B0.m	B1.m
+Hao	0.00	BThuy	0.00	0	B0.m	B6.m
+Hao	0.00	TNgoc	0.00	0	B0.m	B5.m
+Hao	2.61	LCCong	2.61	2	B0.m	B7.m
+Hao	0.00	DucAnh	0.00	0	B0.m	B4.m
+Hao	0.00	DTan	0.00	0	B0.m	B5.m
+Hao	2.85	PTGiang	2.85	2	B0.m	B6.m
+Hao	58.10	QHuy	58.10	8	B0.m	B0.m
+Hao	2.62	Trang	2.62	2	B0.m	B7.m
+Hao	0.00	VanMinh	0.00	0	B0.m	B8.m
+MTuan	20.26	Luan	20.26	13	B8.m	B1.m
+MTuan	3.71	Cong672	3.71	7	B8.m	B2.m
+MTuan	2.46	Thom	2.46	3	B8.m	B6.m
+MTuan	5.88	VietAnh	5.88	9	B8.m	B5.m
+MTuan	2.48	Thao	2.48	3	B8.m	B6.m
+MTuan	0.00	VThanh	0.00	0	B8.m	B6.m
+MTuan	92.31	BCCong	92.31	26	B8.m	B1.m
+MTuan	3.88	Dong	3.88	4	B8.m	B0.m
+MTuan	3.55	Nga	3.55	6	B8.m	B3.m
+MTuan	5.90	Quat	5.90	9	B8.m	B7.m
+MTuan	5.96	NTan	5.96	9	B8.m	B5.m
+MTuan	0.00	DuyAnh	0.00	0	B8.m	B6.m
+MTuan	1.30	Nhuan	1.30	3	B8.m	B3.m
+MTuan	0.86	SHiep	0.86	4	B8.m	B7.m
+MTuan	14.00	Nam	14.00	8	B8.m	B1.m
+MTuan	2.28	TTGiang	2.28	5	B8.m	B7.m
+MTuan	2.90	TTuan	2.90	6	B8.m	B8.m
+MTuan	2.03	NNgoc	2.03	4	B8.m	B3.m
+MTuan	2.51	TThuy	2.51	3	B8.m	B6.m
+MTuan	2.73	HTuan	2.73	8	B8.m	B8.m
+MTuan	0.00	Muoi	0.00	0
+MTuan	2.30	Thinh	2.30	6	B8.m	B6.m
+MTuan	0.00	MQuan	0.00	0
+MTuan	42.90	Phi	42.90	21	B8.m	B1.m
+MTuan	2.51	BThuy	2.51	3	B8.m	B6.m
+MTuan	5.87	TNgoc	5.87	9	B8.m	B5.m
+MTuan	1.78	LCCong	1.78	6	B8.m	B7.m
+MTuan	2.41	DucAnh	2.41	6	B8.m	B4.m
+MTuan	5.96	DTan	5.96	9	B8.m	B5.m
+MTuan	2.48	PTGiang	2.48	3	B8.m	B6.m
+MTuan	0.00	QHuy	0.00	0	B8.m	B0.m
+MTuan	1.79	Trang	1.79	6	B8.m	B7.m
+MTuan	2.86	VanMinh	2.86	6	B8.m	B8.m
+Luan	6.70	Cong672	6.70	10	B1.m	B2.m
+Luan	8.04	Thom	8.04	12	B1.m	B6.m
+Luan	13.97	VietAnh	13.97	16	B1.m	B5.m
+Luan	8.15	Thao	8.15	12	B1.m	B6.m
+Luan	4.26	VThanh	4.26	6	B1.m	B6.m
+Luan	20.46	BCCong	20.46	12	B1.m	B1.m
+Luan	3.08	Dong	3.08	5	B1.m	B0.m
+Luan	5.88	Nga	5.88	15	B1.m	B3.m
+Luan	13.66	Quat	13.66	18	B1.m	B7.m
+Luan	13.85	NTan	13.85	16	B1.m	B5.m
+Luan	6.70	DuyAnh	6.70	9	B1.m	B6.m
+Luan	3.60	Nhuan	3.60	5	B1.m	B3.m
+Luan	5.28	SHiep	5.28	6	B1.m	B7.m
+Luan	46.65	Nam	46.65	17	B1.m	B1.m
+Luan	4.45	TTGiang	4.45	10	B1.m	B7.m
+Luan	5.31	TTuan	5.31	8	B1.m	B8.m
+Luan	6.48	NNgoc	6.48	11	B1.m	B3.m
+Luan	7.63	TThuy	7.63	9	B1.m	B6.m
+Luan	5.90	HTuan	5.90	10	B1.m	B8.m
+Luan	0.00	Muoi	0.00	0
+Luan	5.63	Thinh	5.63	12	B1.m	B6.m
+Luan	0.00	MQuan	0.00	0
+Luan	32.92	Phi	32.92	10	B1.m	B1.m
+Luan	7.63	BThuy	7.63	9	B1.m	B6.m
+Luan	13.55	TNgoc	13.55	18	B1.m	B5.m
+Luan	3.92	LCCong	3.92	7	B1.m	B7.m
+Luan	5.22	DucAnh	5.22	14	B1.m	B4.m
+Luan	13.85	DTan	13.85	16	B1.m	B5.m
+Luan	6.90	PTGiang	6.90	11	B1.m	B6.m
+Luan	4.23	QHuy	4.23	3	B1.m	B0.m
+Luan	3.96	Trang	3.96	7	B1.m	B7.m
+Luan	4.84	VanMinh	4.84	7	B1.m	B8.m
+Cong672	13.64	Thom	13.64	12	B2.m	B6.m
+Cong672	11.21	VietAnh	11.21	14	B2.m	B5.m
+Cong672	13.80	Thao	13.80	12	B2.m	B6.m
+Cong672	15.08	VThanh	15.08	17	B2.m	B6.m
+Cong672	4.46	BCCong	4.46	8	B2.m	B1.m
+Cong672	1.74	Dong	1.74	3	B2.m	B0.m
+Cong672	11.80	Nga	11.80	12	B2.m	B3.m
+Cong672	11.26	Quat	11.26	15	B2.m	B7.m
+Cong672	11.38	NTan	11.38	13	B2.m	B5.m
+Cong672	15.39	DuyAnh	15.39	11	B2.m	B6.m
+Cong672	13.19	Nhuan	13.19	13	B2.m	B3.m
+Cong672	36.44	SHiep	36.44	17	B2.m	B7.m
+Cong672	4.53	Nam	4.53	5	B2.m	B1.m
+Cong672	25.38	TTGiang	25.38	20	B2.m	B7.m
+Cong672	18.66	TTuan	18.66	13	B2.m	B8.m
+Cong672	9.79	NNgoc	9.79	12	B2.m	B3.m
+Cong672	12.50	TThuy	12.50	11	B2.m	B6.m
+Cong672	15.18	HTuan	15.18	13	B2.m	B8.m
+Cong672	0.00	Muoi	0.00	0
+Cong672	11.39	Thinh	11.39	16	B2.m	B6.m
+Cong672	0.00	MQuan	0.00	0
+Cong672	5.13	Phi	5.13	6	B2.m	B1.m
+Cong672	12.50	BThuy	12.50	11	B2.m	B6.m
+Cong672	11.19	TNgoc	11.19	15	B2.m	B5.m
+Cong672	26.55	LCCong	26.55	20	B2.m	B7.m
+Cong672	7.51	DucAnh	7.51	11	B2.m	B4.m
+Cong672	11.38	DTan	11.38	13	B2.m	B5.m
+Cong672	13.80	PTGiang	13.80	13	B2.m	B6.m
+Cong672	6.04	QHuy	6.04	4	B2.m	B0.m
+Cong672	26.73	Trang	26.73	20	B2.m	B7.m
+Cong672	18.40	VanMinh	18.40	13	B2.m	B8.m
+Thom	10.99	VietAnh	10.99	14	B6.m	B5.m
+Thom	99.08	Thao	99.08	33	B6.m	B6.m
+Thom	25.38	VThanh	25.38	18	B6.m	B6.m
+Thom	2.51	BCCong	2.51	3	B6.m	B1.m
+Thom	3.21	Dong	3.21	3	B6.m	B0.m
+Thom	8.99	Nga	8.99	11	B6.m	B3.m
+Thom	11.03	Quat	11.03	14	B6.m	B7.m
+Thom	11.11	NTan	11.11	14	B6.m	B5.m
+Thom	85.26	DuyAnh	85.26	30	B6.m	B6.m
+Thom	8.99	Nhuan	8.99	10	B6.m	B3.m
+Thom	20.13	SHiep	20.13	13	B6.m	B7.m
+Thom	3.83	Nam	3.83	5	B6.m	B1.m
+Thom	26.12	TTGiang	26.12	22	B6.m	B7.m
+Thom	11.53	TTuan	11.53	12	B6.m	B8.m
+Thom	7.90	NNgoc	7.90	13	B6.m	B3.m
+Thom	71.99	TThuy	71.99	33	B6.m	B6.m
+Thom	9.69	HTuan	9.69	11	B6.m	B8.m
+Thom	0.00	Muoi	0.00	0
+Thom	53.26	Thinh	53.26	33	B6.m	B6.m
+Thom	0.00	MQuan	0.00	0
+Thom	3.85	Phi	3.85	4	B6.m	B1.m
+Thom	71.99	BThuy	71.99	33	B6.m	B6.m
+Thom	10.98	TNgoc	10.98	14	B6.m	B5.m
+Thom	26.27	LCCong	26.27	21	B6.m	B7.m
+Thom	8.40	DucAnh	8.40	9	B6.m	B4.m
+Thom	11.11	DTan	11.11	14	B6.m	B5.m
+Thom	63.89	PTGiang	63.89	32	B6.m	B6.m
+Thom	1.71	QHuy	1.71	1	B6.m	B0.m
+Thom	26.39	Trang	26.39	20	B6.m	B7.m
+Thom	10.74	VanMinh	10.74	11	B6.m	B8.m
+VietAnh	11.13	Thao	11.13	14	B5.m	B6.m
+VietAnh	8.20	VThanh	8.20	15	B5.m	B6.m
+VietAnh	6.07	BCCong	6.07	9	B5.m	B1.m
+VietAnh	2.51	Dong	2.51	4	B5.m	B0.m
+VietAnh	7.83	Nga	7.83	14	B5.m	B3.m
+VietAnh	92.20	Quat	92.20	48	B5.m	B7.m
+VietAnh	95.15	NTan	95.15	49	B5.m	B5.m
+VietAnh	10.34	DuyAnh	10.34	12	B5.m	B6.m
+VietAnh	8.82	Nhuan	8.82	13	B5.m	B3.m
+VietAnh	11.65	SHiep	11.65	12	B5.m	B7.m
+VietAnh	9.63	Nam	9.63	13	B5.m	B1.m
+VietAnh	10.98	TTGiang	10.98	18	B5.m	B7.m
+VietAnh	8.06	TTuan	8.06	11	B5.m	B8.m
+VietAnh	8.30	NNgoc	8.30	16	B5.m	B3.m
+VietAnh	11.98	TThuy	11.98	14	B5.m	B6.m
+VietAnh	7.48	HTuan	7.48	11	B5.m	B8.m
+VietAnh	0.00	Muoi	0.00	0
+VietAnh	9.76	Thinh	9.76	17	B5.m	B6.m
+VietAnh	0.00	MQuan	0.00	0
+VietAnh	8.08	Phi	8.08	9	B5.m	B1.m
+VietAnh	11.98	BThuy	11.98	14	B5.m	B6.m
+VietAnh	90.21	TNgoc	90.21	49	B5.m	B5.m
+VietAnh	11.52	LCCong	11.52	19	B5.m	B7.m
+VietAnh	5.64	DucAnh	5.64	12	B5.m	B4.m
+VietAnh	95.15	DTan	95.15	49	B5.m	B5.m
+VietAnh	11.83	PTGiang	11.83	14	B5.m	B6.m
+VietAnh	2.96	QHuy	2.96	1	B5.m	B0.m
+VietAnh	11.60	Trang	11.60	19	B5.m	B7.m
+VietAnh	7.94	VanMinh	7.94	11	B5.m	B8.m
+Thao	25.70	VThanh	25.70	18	B6.m	B6.m
+Thao	2.54	BCCong	2.54	3	B6.m	B1.m
+Thao	3.23	Dong	3.23	3	B6.m	B0.m
+Thao	8.40	Nga	8.40	10	B6.m	B3.m
+Thao	11.16	Quat	11.16	14	B6.m	B7.m
+Thao	11.25	NTan	11.25	14	B6.m	B5.m
+Thao	86.02	DuyAnh	86.02	30	B6.m	B6.m
+Thao	9.10	Nhuan	9.10	10	B6.m	B3.m
+Thao	20.31	SHiep	20.31	13	B6.m	B7.m
+Thao	3.87	Nam	3.87	5	B6.m	B1.m
+Thao	25.77	TTGiang	25.77	21	B6.m	B7.m
+Thao	10.99	TTuan	10.99	11	B6.m	B8.m
+Thao	8.01	NNgoc	8.01	13	B6.m	B3.m
+Thao	72.65	TThuy	72.65	33	B6.m	B6.m
+Thao	9.82	HTuan	9.82	11	B6.m	B8.m
+Thao	0.00	Muoi	0.00	0
+Thao	53.94	Thinh	53.94	33	B6.m	B6.m
+Thao	0.00	MQuan	0.00	0
+Thao	3.89	Phi	3.89	4	B6.m	B1.m
+Thao	72.65	BThuy	72.65	33	B6.m	B6.m
+Thao	11.11	TNgoc	11.11	14	B6.m	B5.m
+Thao	25.89	LCCong	25.89	20	B6.m	B7.m
+Thao	7.80	DucAnh	7.80	8	B6.m	B4.m
+Thao	11.25	DTan	11.25	14	B6.m	B5.m
+Thao	62.62	PTGiang	62.62	31	B6.m	B6.m
+Thao	1.72	QHuy	1.72	1	B6.m	B0.m
+Thao	26.72	Trang	26.72	20	B6.m	B7.m
+Thao	10.20	VanMinh	10.20	10	B6.m	B8.m
+VThanh	0.00	BCCong	0.00	0	B6.m	B1.m
+VThanh	0.00	Dong	0.00	0	B6.m	B0.m
+VThanh	15.17	Nga	15.17	15	B6.m	B3.m
+VThanh	8.24	Quat	8.24	15	B6.m	B7.m
+VThanh	8.34	NTan	8.34	15	B6.m	B5.m
+VThanh	29.50	DuyAnh	29.50	19	B6.m	B6.m
+VThanh	15.54	Nhuan	15.54	14	B6.m	B3.m
+VThanh	18.91	SHiep	18.91	16	B6.m	B7.m
+VThanh	3.20	Nam	3.20	6	B6.m	B1.m
+VThanh	15.78	TTGiang	15.78	21	B6.m	B7.m
+VThanh	14.29	TTuan	14.29	16	B6.m	B8.m
+VThanh	13.54	NNgoc	13.54	21	B6.m	B3.m
+VThanh	30.25	TThuy	30.25	16	B6.m	B6.m
+VThanh	17.00	HTuan	17.00	20	B6.m	B8.m
+VThanh	0.00	Muoi	0.00	0
+VThanh	24.35	Thinh	24.35	22	B6.m	B6.m
+VThanh	0.00	MQuan	0.00	0
+VThanh	3.23	Phi	3.23	5	B6.m	B1.m
+VThanh	30.25	BThuy	30.25	16	B6.m	B6.m
+VThanh	8.18	TNgoc	8.18	15	B6.m	B5.m
+VThanh	15.17	LCCong	15.17	18	B6.m	B7.m
+VThanh	7.97	DucAnh	7.97	12	B6.m	B4.m
+VThanh	8.34	DTan	8.34	15	B6.m	B5.m
+VThanh	31.95	PTGiang	31.95	16	B6.m	B6.m
+VThanh	7.39	QHuy	7.39	2	B6.m	B0.m
+VThanh	15.28	Trang	15.28	18	B6.m	B7.m
+VThanh	14.08	VanMinh	14.08	16	B6.m	B8.m
+BCCong	2.97	Dong	2.97	3	B1.m	B0.m
+BCCong	3.67	Nga	3.67	6	B1.m	B3.m
+BCCong	6.09	Quat	6.09	9	B1.m	B7.m
+BCCong	6.15	NTan	6.15	9	B1.m	B5.m
+BCCong	0.00	DuyAnh	0.00	0	B1.m	B6.m
+BCCong	1.34	Nhuan	1.34	3	B1.m	B3.m
+BCCong	0.88	SHiep	0.88	4	B1.m	B7.m
+BCCong	15.08	Nam	15.08	7	B1.m	B1.m
+BCCong	1.77	TTGiang	1.77	3	B1.m	B7.m
+BCCong	2.99	TTuan	2.99	6	B1.m	B8.m
+BCCong	2.11	NNgoc	2.11	4	B1.m	B3.m
+BCCong	2.56	TThuy	2.56	3	B1.m	B6.m
+BCCong	2.26	HTuan	2.26	5	B1.m	B8.m
+BCCong	0.00	Muoi	0.00	0
+BCCong	2.38	Thinh	2.38	6	B1.m	B6.m
+BCCong	0.00	MQuan	0.00	0
+BCCong	48.94	Phi	48.94	21	B1.m	B1.m
+BCCong	2.56	BThuy	2.56	3	B1.m	B6.m
+BCCong	6.06	TNgoc	6.06	9	B1.m	B5.m
+BCCong	1.83	LCCong	1.83	6	B1.m	B7.m
+BCCong	2.48	DucAnh	2.48	6	B1.m	B4.m
+BCCong	6.15	DTan	6.15	9	B1.m	B5.m
+BCCong	2.54	PTGiang	2.54	3	B1.m	B6.m
+BCCong	0.00	QHuy	0.00	0	B1.m	B0.m
+BCCong	1.84	Trang	1.84	6	B1.m	B7.m
+BCCong	2.37	VanMinh	2.37	6	B1.m	B8.m
+Dong	4.21	Nga	4.21	6	B0.m	B3.m
+Dong	2.52	Quat	2.52	5	B0.m	B7.m
+Dong	3.38	NTan	3.38	5	B0.m	B5.m
+Dong	0.00	DuyAnh	0.00	0	B0.m	B6.m
+Dong	1.80	Nhuan	1.80	5	B0.m	B3.m
+Dong	1.11	SHiep	1.11	2	B0.m	B7.m
+Dong	0.92	Nam	0.92	2	B0.m	B1.m
+Dong	1.64	TTGiang	1.64	3	B0.m	B7.m
+Dong	2.49	TTuan	2.49	3	B0.m	B8.m
+Dong	0.76	NNgoc	0.76	2	B0.m	B3.m
+Dong	3.26	TThuy	3.26	3	B0.m	B6.m
+Dong	0.80	HTuan	0.80	2	B0.m	B8.m
+Dong	0.00	Muoi	0.00	0
+Dong	4.95	Thinh	4.95	8	B0.m	B6.m
+Dong	0.00	MQuan	0.00	0
+Dong	3.68	Phi	3.68	6	B0.m	B1.m
+Dong	3.26	BThuy	3.26	3	B0.m	B6.m
+Dong	2.51	TNgoc	2.51	5	B0.m	B5.m
+Dong	1.68	LCCong	1.68	2	B0.m	B7.m
+Dong	1.70	DucAnh	1.70	6	B0.m	B4.m
+Dong	3.38	DTan	3.38	5	B0.m	B5.m
+Dong	4.31	PTGiang	4.31	5	B0.m	B6.m
+Dong	35.34	QHuy	35.34	18	B0.m	B0.m
+Dong	0.85	Trang	0.85	2	B0.m	B7.m
+Dong	1.65	VanMinh	1.65	2	B0.m	B8.m
+Nga	7.41	Quat	7.41	13	B3.m	B7.m
+Nga	7.49	NTan	7.49	12	B3.m	B5.m
+Nga	10.40	DuyAnh	10.40	10	B3.m	B6.m
+Nga	65.41	Nhuan	65.41	22	B3.m	B3.m
+Nga	19.78	SHiep	19.78	13	B3.m	B7.m
+Nga	3.24	Nam	3.24	7	B3.m	B1.m
+Nga	14.19	TTGiang	14.19	18	B3.m	B7.m
+Nga	34.79	TTuan	34.79	17	B3.m	B8.m
+Nga	52.25	NNgoc	52.25	34	B3.m	B3.m
+Nga	9.92	TThuy	9.92	9	B3.m	B6.m
+Nga	34.01	HTuan	34.01	21	B3.m	B8.m
+Nga	0.00	Muoi	0.00	0
+Nga	8.51	Thinh	8.51	13	B3.m	B6.m
+Nga	0.00	MQuan	0.00	0
+Nga	3.80	Phi	3.80	7	B3.m	B1.m
+Nga	9.92	BThuy	9.92	9	B3.m	B6.m
+Nga	7.36	TNgoc	7.36	13	B3.m	B5.m
+Nga	14.88	LCCong	14.88	16	B3.m	B7.m
+Nga	9.48	DucAnh	9.48	15	B3.m	B4.m
+Nga	7.49	DTan	7.49	12	B3.m	B5.m
+Nga	10.50	PTGiang	10.50	11	B3.m	B6.m
+Nga	5.93	QHuy	5.93	3	B3.m	B0.m
+Nga	14.52	Trang	14.52	15	B3.m	B7.m
+Nga	29.84	VanMinh	29.84	17	B3.m	B8.m
+Quat	95.12	NTan	95.12	48	B7.m	B5.m
+Quat	10.37	DuyAnh	10.37	12	B7.m	B6.m
+Quat	8.34	Nhuan	8.34	13	B7.m	B3.m
+Quat	10.96	SHiep	10.96	12	B7.m	B7.m
+Quat	9.67	Nam	9.67	12	B7.m	B1.m
+Quat	11.03	TTGiang	11.03	18	B7.m	B7.m
+Quat	8.09	TTuan	8.09	11	B7.m	B8.m
+Quat	7.96	NNgoc	7.96	15	B7.m	B3.m
+Quat	12.01	TThuy	12.01	12	B7.m	B6.m
+Quat	7.52	HTuan	7.52	11	B7.m	B8.m
+Quat	0.00	Muoi	0.00	0
+Quat	9.81	Thinh	9.81	16	B7.m	B6.m
+Quat	0.00	MQuan	0.00	0
+Quat	8.11	Phi	8.11	11	B7.m	B1.m
+Quat	12.01	BThuy	12.01	12	B7.m	B6.m
+Quat	95.20	TNgoc	95.20	50	B7.m	B5.m
+Quat	11.57	LCCong	11.57	18	B7.m	B7.m
+Quat	5.66	DucAnh	5.66	12	B7.m	B4.m
+Quat	95.12	DTan	95.12	48	B7.m	B5.m
+Quat	11.86	PTGiang	11.86	14	B7.m	B6.m
+Quat	2.96	QHuy	2.96	1	B7.m	B0.m
+Quat	11.66	Trang	11.66	18	B7.m	B7.m
+Quat	7.98	VanMinh	7.98	11	B7.m	B8.m
+NTan	10.44	DuyAnh	10.44	12	B5.m	B6.m
+NTan	8.42	Nhuan	8.42	12	B5.m	B3.m
+NTan	11.77	SHiep	11.77	13	B5.m	B7.m
+NTan	9.77	Nam	9.77	10	B5.m	B1.m
+NTan	12.06	TTGiang	12.06	21	B5.m	B7.m
+NTan	8.19	TTuan	8.19	11	B5.m	B8.m
+NTan	8.08	NNgoc	8.08	15	B5.m	B3.m
+NTan	12.10	TThuy	12.10	12	B5.m	B6.m
+NTan	7.62	HTuan	7.62	11	B5.m	B8.m
+NTan	0.00	Muoi	0.00	0
+NTan	9.93	Thinh	9.93	16	B5.m	B6.m
+NTan	0.00	MQuan	0.00	0
+NTan	8.20	Phi	8.20	10	B5.m	B1.m
+NTan	12.10	BThuy	12.10	12	B5.m	B6.m
+NTan	93.09	TNgoc	93.09	49	B5.m	B5.m
+NTan	11.71	LCCong	11.71	18	B5.m	B7.m
+NTan	5.73	DucAnh	5.73	11	B5.m	B4.m
+NTan	100.00	DTan	100.00	38	B5.m	B5.m
+NTan	11.95	PTGiang	11.95	14	B5.m	B6.m
+NTan	2.97	QHuy	2.97	1	B5.m	B0.m
+NTan	11.79	Trang	11.79	18	B5.m	B7.m
+NTan	8.08	VanMinh	8.08	11	B5.m	B8.m
+DuyAnh	11.21	Nhuan	11.21	10	B6.m	B3.m
+DuyAnh	24.24	SHiep	24.24	13	B6.m	B7.m
+DuyAnh	4.08	Nam	4.08	5	B6.m	B1.m
+DuyAnh	28.13	TTGiang	28.13	21	B6.m	B7.m
+DuyAnh	11.67	TTuan	11.67	11	B6.m	B8.m
+DuyAnh	10.54	NNgoc	10.54	14	B6.m	B3.m
+DuyAnh	69.05	TThuy	69.05	30	B6.m	B6.m
+DuyAnh	11.86	HTuan	11.86	12	B6.m	B8.m
+DuyAnh	0.00	Muoi	0.00	0
+DuyAnh	52.98	Thinh	52.98	30	B6.m	B6.m
+DuyAnh	0.00	MQuan	0.00	0
+DuyAnh	1.64	Phi	1.64	3	B6.m	B1.m
+DuyAnh	69.05	BThuy	69.05	30	B6.m	B6.m
+DuyAnh	10.32	TNgoc	10.32	12	B6.m	B5.m
+DuyAnh	28.97	LCCong	28.97	21	B6.m	B7.m
+DuyAnh	8.27	DucAnh	8.27	8	B6.m	B4.m
+DuyAnh	10.44	DTan	10.44	12	B6.m	B5.m
+DuyAnh	58.65	PTGiang	58.65	28	B6.m	B6.m
+DuyAnh	1.76	QHuy	1.76	1	B6.m	B0.m
+DuyAnh	29.84	Trang	29.84	21	B6.m	B7.m
+DuyAnh	11.57	VanMinh	11.57	10	B6.m	B8.m
+Nhuan	19.77	SHiep	19.77	11	B3.m	B7.m
+Nhuan	2.99	Nam	2.99	4	B3.m	B1.m
+Nhuan	15.05	TTGiang	15.05	16	B3.m	B7.m
+Nhuan	38.25	TTuan	38.25	15	B3.m	B8.m
+Nhuan	62.41	NNgoc	62.41	34	B3.m	B3.m
+Nhuan	9.20	TThuy	9.20	8	B3.m	B6.m
+Nhuan	38.24	HTuan	38.24	17	B3.m	B8.m
+Nhuan	0.00	Muoi	0.00	0
+Nhuan	8.61	Thinh	8.61	13	B3.m	B6.m
+Nhuan	0.00	MQuan	0.00	0
+Nhuan	2.41	Phi	2.41	5	B3.m	B1.m
+Nhuan	9.20	BThuy	9.20	8	B3.m	B6.m
+Nhuan	8.29	TNgoc	8.29	12	B3.m	B5.m
+Nhuan	15.70	LCCong	15.70	14	B3.m	B7.m
+Nhuan	9.05	DucAnh	9.05	11	B3.m	B4.m
+Nhuan	8.42	DTan	8.42	11	B3.m	B5.m
+Nhuan	10.61	PTGiang	10.61	10	B3.m	B6.m
+Nhuan	6.16	QHuy	6.16	3	B3.m	B0.m
+Nhuan	15.27	Trang	15.27	14	B3.m	B7.m
+Nhuan	32.22	VanMinh	32.22	15	B3.m	B8.m
+SHiep	4.03	Nam	4.03	5	B7.m	B1.m
+SHiep	69.68	TTGiang	69.68	26	B7.m	B7.m
+SHiep	15.11	TTuan	15.11	10	B7.m	B8.m
+SHiep	16.87	NNgoc	16.87	17	B7.m	B3.m
+SHiep	20.50	TThuy	20.50	9	B7.m	B6.m
+SHiep	14.43	HTuan	14.43	10	B7.m	B8.m
+SHiep	0.00	Muoi	0.00	0
+SHiep	18.60	Thinh	18.60	13	B7.m	B6.m
+SHiep	0.00	MQuan	0.00	0
+SHiep	2.43	Phi	2.43	3	B7.m	B1.m
+SHiep	20.50	BThuy	20.50	9	B7.m	B6.m
+SHiep	10.91	TNgoc	10.91	11	B7.m	B5.m
+SHiep	72.52	LCCong	72.52	15	B7.m	B7.m
+SHiep	10.38	DucAnh	10.38	10	B7.m	B4.m
+SHiep	11.77	DTan	11.77	12	B7.m	B5.m
+SHiep	20.31	PTGiang	20.31	11	B7.m	B6.m
+SHiep	5.25	QHuy	5.25	2	B7.m	B0.m
+SHiep	73.58	Trang	73.58	15	B7.m	B7.m
+SHiep	14.97	VanMinh	14.97	10	B7.m	B8.m
+Nam	2.59	TTGiang	2.59	4	B1.m	B7.m
+Nam	4.21	TTuan	4.21	5	B1.m	B8.m
+Nam	5.92	NNgoc	5.92	9	B1.m	B3.m
+Nam	4.70	TThuy	4.70	6	B1.m	B6.m
+Nam	3.95	HTuan	3.95	4	B1.m	B8.m
+Nam	0.00	Muoi	0.00	0
+Nam	3.66	Thinh	3.66	7	B1.m	B6.m
+Nam	0.00	MQuan	0.00	0
+Nam	29.63	Phi	29.63	12	B1.m	B1.m
+Nam	4.70	BThuy	4.70	6	B1.m	B6.m
+Nam	9.61	TNgoc	9.61	11	B1.m	B5.m
+Nam	3.24	LCCong	3.24	6	B1.m	B7.m
+Nam	2.74	DucAnh	2.74	7	B1.m	B4.m
+Nam	9.77	DTan	9.77	10	B1.m	B5.m
+Nam	4.64	PTGiang	4.64	6	B1.m	B6.m
+Nam	3.11	QHuy	3.11	3	B1.m	B0.m
+Nam	3.26	Trang	3.26	6	B1.m	B7.m
+Nam	3.64	VanMinh	3.64	4	B1.m	B8.m
+TTGiang	11.19	TTuan	11.19	17	B7.m	B8.m
+TTGiang	11.87	NNgoc	11.87	22	B7.m	B3.m
+TTGiang	24.74	TThuy	24.74	18	B7.m	B6.m
+TTGiang	11.95	HTuan	11.95	20	B7.m	B8.m
+TTGiang	0.00	Muoi	0.00	0
+TTGiang	18.34	Thinh	18.34	22	B7.m	B6.m
+TTGiang	0.00	MQuan	0.00	0
+TTGiang	2.61	Phi	2.61	8	B7.m	B1.m
+TTGiang	24.74	BThuy	24.74	18	B7.m	B6.m
+TTGiang	10.96	TNgoc	10.96	20	B7.m	B5.m
+TTGiang	91.37	LCCong	91.37	47	B7.m	B7.m
+TTGiang	7.24	DucAnh	7.24	12	B7.m	B4.m
+TTGiang	12.06	DTan	12.06	23	B7.m	B5.m
+TTGiang	24.42	PTGiang	24.42	19	B7.m	B6.m
+TTGiang	4.38	QHuy	4.38	2	B7.m	B0.m
+TTGiang	90.70	Trang	90.70	46	B7.m	B7.m
+TTGiang	11.02	VanMinh	11.02	17	B7.m	B8.m
+TTuan	34.23	NNgoc	34.23	30	B8.m	B3.m
+TTuan	12.52	TThuy	12.52	10	B8.m	B6.m
+TTuan	48.79	HTuan	48.79	19	B8.m	B8.m
+TTuan	0.00	Muoi	0.00	0
+TTuan	10.00	Thinh	10.00	13	B8.m	B6.m
+TTuan	0.00	MQuan	0.00	0
+TTuan	5.83	Phi	5.83	5	B8.m	B1.m
+TTuan	12.52	BThuy	12.52	10	B8.m	B6.m
+TTuan	8.48	TNgoc	8.48	11	B8.m	B5.m
+TTuan	10.84	LCCong	10.84	12	B8.m	B7.m
+TTuan	9.22	DucAnh	9.22	10	B8.m	B4.m
+TTuan	8.19	DTan	8.19	10	B8.m	B5.m
+TTuan	12.36	PTGiang	12.36	11	B8.m	B6.m
+TTuan	7.35	QHuy	7.35	4	B8.m	B0.m
+TTuan	10.92	Trang	10.92	12	B8.m	B7.m
+TTuan	76.48	VanMinh	76.48	29	B8.m	B8.m
+NNgoc	10.62	TThuy	10.62	16	B3.m	B6.m
+NNgoc	31.26	HTuan	31.26	32	B3.m	B8.m
+NNgoc	0.00	Muoi	0.00	0
+NNgoc	8.74	Thinh	8.74	21	B3.m	B6.m
+NNgoc	0.00	MQuan	0.00	0
+NNgoc	4.59	Phi	4.59	6	B3.m	B1.m
+NNgoc	10.62	BThuy	10.62	16	B3.m	B6.m
+NNgoc	7.90	TNgoc	7.90	14	B3.m	B5.m
+NNgoc	11.44	LCCong	11.44	20	B3.m	B7.m
+NNgoc	9.76	DucAnh	9.76	12	B3.m	B4.m
+NNgoc	8.08	DTan	8.08	14	B3.m	B5.m
+NNgoc	10.47	PTGiang	10.47	15	B3.m	B6.m
+NNgoc	5.60	QHuy	5.60	3	B3.m	B0.m
+NNgoc	11.54	Trang	11.54	20	B3.m	B7.m
+NNgoc	28.20	VanMinh	28.20	30	B3.m	B8.m
+TThuy	12.61	HTuan	12.61	11	B6.m	B8.m
+TThuy	0.00	Muoi	0.00	0
+TThuy	72.63	Thinh	72.63	23	B6.m	B6.m
+TThuy	0.00	MQuan	0.00	0
+TThuy	3.93	Phi	3.93	4	B6.m	B1.m
+TThuy	100.00	BThuy	100.00	22	B6.m	B6.m
+TThuy	11.96	TNgoc	11.96	13	B6.m	B5.m
+TThuy	24.81	LCCong	24.81	17	B6.m	B7.m
+TThuy	10.77	DucAnh	10.77	8	B6.m	B4.m
+TThuy	12.10	DTan	12.10	13	B6.m	B5.m
+TThuy	89.63	PTGiang	89.63	26	B6.m	B6.m
+TThuy	1.73	QHuy	1.73	1	B6.m	B0.m
+TThuy	25.63	Trang	25.63	17	B6.m	B7.m
+TThuy	11.02	VanMinh	11.02	9	B6.m	B8.m
+HTuan	0.00	Muoi	0.00	0
+HTuan	10.07	Thinh	10.07	14	B8.m	B6.m
+HTuan	0.00	MQuan	0.00	0
+HTuan	4.48	Phi	4.48	8	B8.m	B1.m
+HTuan	12.61	BThuy	12.61	12	B8.m	B6.m
+HTuan	8.29	TNgoc	8.29	11	B8.m	B5.m
+HTuan	11.34	LCCong	11.34	16	B8.m	B7.m
+HTuan	9.43	DucAnh	9.43	12	B8.m	B4.m
+HTuan	7.62	DTan	7.62	10	B8.m	B5.m
+HTuan	13.09	PTGiang	13.09	12	B8.m	B6.m
+HTuan	7.19	QHuy	7.19	4	B8.m	B0.m
+HTuan	11.00	Trang	11.00	15	B8.m	B7.m
+HTuan	41.20	VanMinh	41.20	19	B8.m	B8.m
+Muoi	0.00	Thinh	0.00	0
+Muoi	0.00	MQuan	0.00	0
+Muoi	0.00	Phi	0.00	0
+Muoi	0.00	BThuy	0.00	0
+Muoi	0.00	TNgoc	0.00	0
+Muoi	0.00	LCCong	0.00	0
+Muoi	0.00	DucAnh	0.00	0
+Muoi	0.00	DTan	0.00	0
+Muoi	0.00	PTGiang	0.00	0
+Muoi	0.00	QHuy	0.00	0
+Muoi	0.00	Trang	0.00	0
+Muoi	0.00	VanMinh	0.00	0
+Thinh	0.00	MQuan	0.00	0
+Thinh	4.21	Phi	4.21	7	B6.m	B1.m
+Thinh	72.63	BThuy	72.63	23	B6.m	B6.m
+Thinh	9.74	TNgoc	9.74	16	B6.m	B5.m
+Thinh	18.37	LCCong	18.37	20	B6.m	B7.m
+Thinh	9.14	DucAnh	9.14	11	B6.m	B4.m
+Thinh	9.93	DTan	9.93	16	B6.m	B5.m
+Thinh	65.55	PTGiang	65.55	27	B6.m	B6.m
+Thinh	2.93	QHuy	2.93	2	B6.m	B0.m
+Thinh	18.96	Trang	18.96	20	B6.m	B7.m
+Thinh	9.42	VanMinh	9.42	13	B6.m	B8.m
+MQuan	0.00	Phi	0.00	0
+MQuan	0.00	BThuy	0.00	0
+MQuan	0.00	TNgoc	0.00	0
+MQuan	0.00	LCCong	0.00	0
+MQuan	0.00	DucAnh	0.00	0
+MQuan	0.00	DTan	0.00	0
+MQuan	0.00	PTGiang	0.00	0
+MQuan	0.00	QHuy	0.00	0
+MQuan	0.00	Trang	0.00	0
+MQuan	0.00	VanMinh	0.00	0
+Phi	3.93	BThuy	3.93	4	B1.m	B6.m
+Phi	8.07	TNgoc	8.07	11	B1.m	B5.m
+Phi	2.72	LCCong	2.72	5	B1.m	B7.m
+Phi	4.42	DucAnh	4.42	6	B1.m	B4.m
+Phi	8.20	DTan	8.20	10	B1.m	B5.m
+Phi	3.89	PTGiang	3.89	5	B1.m	B6.m
+Phi	3.12	QHuy	3.12	1	B1.m	B0.m
+Phi	2.19	Trang	2.19	6	B1.m	B7.m
+Phi	5.76	VanMinh	5.76	6	B1.m	B8.m
+BThuy	11.96	TNgoc	11.96	13	B6.m	B5.m
+BThuy	24.81	LCCong	24.81	17	B6.m	B7.m
+BThuy	10.77	DucAnh	10.77	8	B6.m	B4.m
+BThuy	12.10	DTan	12.10	13	B6.m	B5.m
+BThuy	89.63	PTGiang	89.63	26	B6.m	B6.m
+BThuy	1.73	QHuy	1.73	1	B6.m	B0.m
+BThuy	25.63	Trang	25.63	17	B6.m	B7.m
+BThuy	11.02	VanMinh	11.02	9	B6.m	B8.m
+TNgoc	11.50	LCCong	11.50	18	B5.m	B7.m
+TNgoc	5.63	DucAnh	5.63	12	B5.m	B4.m
+TNgoc	93.09	DTan	93.09	49	B5.m	B5.m
+TNgoc	12.50	PTGiang	12.50	15	B5.m	B6.m
+TNgoc	2.95	QHuy	2.95	1	B5.m	B0.m
+TNgoc	11.58	Trang	11.58	18	B5.m	B7.m
+TNgoc	7.92	VanMinh	7.92	11	B5.m	B8.m
+LCCong	8.06	DucAnh	8.06	13	B7.m	B4.m
+LCCong	11.71	DTan	11.71	20	B7.m	B5.m
+LCCong	24.49	PTGiang	24.49	19	B7.m	B6.m
+LCCong	4.45	QHuy	4.45	2	B7.m	B0.m
+LCCong	98.83	Trang	98.83	29	B7.m	B7.m
+LCCong	10.69	VanMinh	10.69	11	B7.m	B8.m
+DucAnh	5.73	DTan	5.73	11	B4.m	B5.m
+DucAnh	11.34	PTGiang	11.34	9	B4.m	B6.m
+DucAnh	2.98	QHuy	2.98	2	B4.m	B0.m
+DucAnh	7.64	Trang	7.64	12	B4.m	B7.m
+DucAnh	9.54	VanMinh	9.54	13	B4.m	B8.m
+DTan	11.95	PTGiang	11.95	14	B5.m	B6.m
+DTan	2.97	QHuy	2.97	1	B5.m	B0.m
+DTan	11.79	Trang	11.79	18	B5.m	B7.m
+DTan	8.08	VanMinh	8.08	11	B5.m	B8.m
+PTGiang	3.43	QHuy	3.43	3	B6.m	B0.m
+PTGiang	24.61	Trang	24.61	18	B6.m	B7.m
+PTGiang	10.88	VanMinh	10.88	10	B6.m	B8.m
+QHuy	4.46	Trang	4.46	2	B0.m	B7.m
+QHuy	5.85	VanMinh	5.85	4	B0.m	B8.m
+Trang	10.77	VanMinh	10.77	12	B7.m	B8.m

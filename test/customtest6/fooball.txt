@@ -1,0 +1,8 @@
+ Tên	        Win   Drawn    Lost    Point
+Arsenal  	11 	3 	3 	36
+
+Chelsea  	5 	3 	9 	18
+
+ManUnit  	8 	5 	4 	29
+
+Mancity  	10 	2 	5 	32

@@ -1,0 +1,29 @@
+List of valid folders: 
+sandbox
+results
+
+
+List of invalid files: 
+results/data_all_report.txt
+results/data1.png
+results/data.txt
+results/name_mapping.txt
+results/data_report.txt
+results/data3.png
+results/log.txt
+results/data2.png
+
+
+-------------------------------------------------
+sandbox & results
+8 0
+
+
+
+
+
+
+
+
+
+Skipped files:

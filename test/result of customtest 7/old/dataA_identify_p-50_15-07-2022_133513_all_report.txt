@@ -1,0 +1,78 @@
+Cong672		Cong672
+Cong673		Cong673
+Doanh		Doanh
+DucAnh		DucAnh
+Duong		Duong
+DuyAnh		DuyAnh
+HTuan		HTuan
+HongAnh		HongAnh
+MTuan		MTuan
+Nhuan		Nhuan
+PTGiang		PTGiang
+TTGiang		TTGiang
+Thang		Thang
+Trang		Trang
+VThanh		VThanh
+VietAnh		VietAnh
+
+
+Pair: Thang and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 61.76
+number of common lines: 24
+
+
+Pair: Duong and HongAnh
+the data of customtest 7 checked by run2: url not found
+similarity score: 83.33
+number of common lines: 34
+
+
+Pair: Cong673 and Doanh
+the data of customtest 7 checked by run2: url not found
+similarity score: 87.39
+number of common lines: 20
+
+
+Pair: Cong673 and Cong672
+the data of customtest 7 checked by run2: url not found
+similarity score: 92.88
+number of common lines: 23
+
+
+Pair: Doanh and Cong672
+the data of customtest 7 checked by run2: url not found
+similarity score: 90.21
+number of common lines: 19
+
+
+Pair: MTuan and Trang
+the data of customtest 7 checked by run2: url not found
+similarity score: 58.34
+number of common lines: 11
+
+
+Pair: VietAnh and DucAnh
+the data of customtest 7 checked by run2: url not found
+similarity score: 76.14
+number of common lines: 18
+
+
+Pair: VThanh and HTuan
+the data of customtest 7 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 23
+
+
+Pair: DuyAnh and Nhuan
+the data of customtest 7 checked by run2: url not found
+similarity score: 62.64
+number of common lines: 42
+
+
+Pair: TTGiang and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 52.87
+number of common lines: 27
+
+

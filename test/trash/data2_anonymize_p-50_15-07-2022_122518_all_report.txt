@@ -1,0 +1,39 @@
+Andrea		VietAnh
+Benjamin		Doanh
+Brian		Cong672
+Daniel		TTGiang
+Edward		PTGiang
+Mary		Cong673
+Oscar		DucAnh
+
+
+Pair: Mary and Benjamin
+the data of customtest 7 checked by run2: url not found
+similarity score: 87.39
+number of common lines: 20
+
+
+Pair: Mary and Brian
+the data of customtest 7 checked by run2: url not found
+similarity score: 92.88
+number of common lines: 23
+
+
+Pair: Benjamin and Brian
+the data of customtest 7 checked by run2: url not found
+similarity score: 90.21
+number of common lines: 19
+
+
+Pair: Andrea and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 76.14
+number of common lines: 18
+
+
+Pair: Daniel and Edward
+the data of customtest 7 checked by run2: url not found
+similarity score: 52.87
+number of common lines: 27
+
+

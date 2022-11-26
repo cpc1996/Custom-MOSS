@@ -1,0 +1,243 @@
+Aaron		Nguyễn Công Dũng - 20002111
+Charles		Đỗ Phương Nam-20002145
+Christina		nguyen truong danh 20002110
+Dana		trần quốc đức 20002117
+Evan		Do_Minh_Tuan_20002175
+Gabriel		Hồ Hải Phong 20002149
+Heather		Khuất Đăng Sơn - 20002159
+Jacqueline		nguyen dinh hai 20002122
+James		Tran ANh Minh 20002144
+Jasmine		Trần Quốc Khang 20002138
+Jeffery		Phạm Tiến Anh-20002106
+Jessica		Nguyễn Triệu Vương - 20002182
+Jon		Nguyễn Đình Trung Kiên-20002141
+Judy		Nguyễn Đình Quang - 20002155
+Kenneth		Phung_Phuc_Hau_20002123
+Leah		Hoàng Hữu Hiếu_20002125
+Martha		Phạm Xuân Tài - 20002161
+Matthew		Nguyễn Xuân Tuấn Anh - 20002105
+Natalie		Nguyễn ANh Tuấn_20002176
+Nicole		Nguyễn Thế Phong 20002150
+Pamela		Nguyễn Trọng Trưởng - 20002172
+Robert		Bùi Ngọc Thành - 20002165
+Tiffany		Nguyễn Mạnh Trung - 20002171
+Timothy		Nguyễn văn hùng - 20002130
+Valerie		Nguyễn Quang Huy-20002133
+
+
+Pair: Jessica and Martha
+data: url not found
+similarity score: 50.2
+number of common lines: 10
+
+
+Pair: Jessica and Natalie
+data: url not found
+similarity score: 88.76
+number of common lines: 46
+
+
+Pair: Jessica and Kenneth
+data: url not found
+similarity score: 71.31
+number of common lines: 9
+
+
+Pair: Gabriel and Jacqueline
+data: url not found
+similarity score: 86.09
+number of common lines: 22
+
+
+Pair: Gabriel and Aaron
+data: url not found
+similarity score: 52.54
+number of common lines: 6
+
+
+Pair: Matthew and Martha
+data: url not found
+similarity score: 50.8
+number of common lines: 8
+
+
+Pair: Matthew and James
+data: url not found
+similarity score: 55.83
+number of common lines: 20
+
+
+Pair: Matthew and Kenneth
+data: url not found
+similarity score: 51.11
+number of common lines: 12
+
+
+Pair: Matthew and Evan
+data: url not found
+similarity score: 55.28
+number of common lines: 33
+
+
+Pair: Valerie and Dana
+data: url not found
+similarity score: 75.0
+number of common lines: 16
+
+
+Pair: Timothy and Tiffany
+data: url not found
+similarity score: 50.27
+number of common lines: 8
+
+
+Pair: Judy and Christina
+data: url not found
+similarity score: 72.06
+number of common lines: 6
+
+
+Pair: Judy and Tiffany
+data: url not found
+similarity score: 63.28
+number of common lines: 5
+
+
+Pair: Judy and James
+data: url not found
+similarity score: 50.27
+number of common lines: 7
+
+
+Pair: Martha and Robert
+data: url not found
+similarity score: 57.55
+number of common lines: 4
+
+
+Pair: Martha and James
+data: url not found
+similarity score: 53.81
+number of common lines: 9
+
+
+Pair: Martha and Kenneth
+data: url not found
+similarity score: 55.52
+number of common lines: 11
+
+
+Pair: Pamela and Jasmine
+data: url not found
+similarity score: 73.46
+number of common lines: 11
+
+
+Pair: Pamela and Heather
+data: url not found
+similarity score: 66.53
+number of common lines: 17
+
+
+Pair: Pamela and Jeffery
+data: url not found
+similarity score: 58.54
+number of common lines: 6
+
+
+Pair: Jasmine and Heather
+data: url not found
+similarity score: 92.74
+number of common lines: 7
+
+
+Pair: Jon and Robert
+data: url not found
+similarity score: 94.7
+number of common lines: 8
+
+
+Pair: Jon and Evan
+data: url not found
+similarity score: 57.74
+number of common lines: 22
+
+
+Pair: Robert and James
+data: url not found
+similarity score: 54.45
+number of common lines: 11
+
+
+Pair: Robert and Nicole
+data: url not found
+similarity score: 54.28
+number of common lines: 3
+
+
+Pair: Robert and Evan
+data: url not found
+similarity score: 67.9
+number of common lines: 17
+
+
+Pair: Jeffery and Nicole
+data: url not found
+similarity score: 51.86
+number of common lines: 9
+
+
+Pair: Jeffery and Charles
+data: url not found
+similarity score: 58.04
+number of common lines: 8
+
+
+Pair: Christina and Tiffany
+data: url not found
+similarity score: 53.37
+number of common lines: 11
+
+
+Pair: Natalie and Kenneth
+data: url not found
+similarity score: 55.37
+number of common lines: 11
+
+
+Pair: James and Nicole
+data: url not found
+similarity score: 67.2
+number of common lines: 6
+
+
+Pair: James and Kenneth
+data: url not found
+similarity score: 54.38
+number of common lines: 9
+
+
+Pair: James and Evan
+data: url not found
+similarity score: 66.34
+number of common lines: 24
+
+
+Pair: Leah and Nicole
+data: url not found
+similarity score: 75.06
+number of common lines: 6
+
+
+Pair: Nicole and Kenneth
+data: url not found
+similarity score: 50.84
+number of common lines: 9
+
+
+Pair: Kenneth and Evan
+data: url not found
+similarity score: 64.96
+number of common lines: 13
+
+

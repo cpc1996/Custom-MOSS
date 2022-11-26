@@ -1,0 +1,1538 @@
+Adam		DucAnh
+Alyssa		SHiep
+Amy		VThanh
+Brenda		Nghia
+Carla		TTuan
+Christine		LCCong
+Cody		DuyAnh
+Douglas		Cong672
+Elizabeth		Cong673
+James		VietAnh
+Jeffrey		MTuan
+Jeremiah		Nhuan
+Jessica		PTGiang
+Joy		Duong
+Katie		Thang
+Kurt		TNgoc
+Kyle		HongAnh
+Kylie		Doanh
+Lisa		HTuan
+Mary		NNgoc
+Oscar		DucMinh
+Pam		DoMinh
+Patrick		TTGiang
+Phillip		DHiep
+Sarah		MQuan
+Scott		Hoang
+Stephanie		DThanh
+Stephen		Thinh
+Tony		Trang
+Valerie		TThuy
+
+
+Pair: Brenda and Katie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.84
+number of common lines: 9
+
+
+Pair: Brenda and Pam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.49
+number of common lines: 2
+
+
+Pair: Brenda and Scott
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.74
+number of common lines: 2
+
+
+Pair: Brenda and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.48
+number of common lines: 3
+
+
+Pair: Brenda and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.99
+number of common lines: 2
+
+
+Pair: Brenda and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 34.9
+number of common lines: 9
+
+
+Pair: Brenda and Christine
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.1
+number of common lines: 3
+
+
+Pair: Katie and Joy
+the data of customtest 7 checked by run2: url not found
+similarity score: 13.96
+number of common lines: 8
+
+
+Pair: Katie and Kyle
+the data of customtest 7 checked by run2: url not found
+similarity score: 15.06
+number of common lines: 8
+
+
+Pair: Katie and Elizabeth
+the data of customtest 7 checked by run2: url not found
+similarity score: 13.33
+number of common lines: 7
+
+
+Pair: Katie and Kylie
+the data of customtest 7 checked by run2: url not found
+similarity score: 14.74
+number of common lines: 7
+
+
+Pair: Katie and Phillip
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.53
+number of common lines: 6
+
+
+Pair: Katie and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.13
+number of common lines: 3
+
+
+Pair: Katie and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 13.94
+number of common lines: 7
+
+
+Pair: Katie and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.89
+number of common lines: 11
+
+
+Pair: Katie and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.49
+number of common lines: 7
+
+
+Pair: Katie and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 40.51
+number of common lines: 26
+
+
+Pair: Katie and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 44.06
+number of common lines: 23
+
+
+Pair: Katie and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 9.93
+number of common lines: 8
+
+
+Pair: Katie and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.06
+number of common lines: 3
+
+
+Pair: Katie and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.5
+number of common lines: 3
+
+
+Pair: Katie and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 61.76
+number of common lines: 24
+
+
+Pair: Pam and Joy
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.41
+number of common lines: 3
+
+
+Pair: Pam and Kyle
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.52
+number of common lines: 3
+
+
+Pair: Pam and Scott
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.34
+number of common lines: 2
+
+
+Pair: Pam and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 23.33
+number of common lines: 6
+
+
+Pair: Pam and Jeffrey
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.24
+number of common lines: 4
+
+
+Pair: Pam and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 23.38
+number of common lines: 6
+
+
+Pair: Pam and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.16
+number of common lines: 4
+
+
+Pair: Pam and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.59
+number of common lines: 3
+
+
+Pair: Pam and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 35.68
+number of common lines: 5
+
+
+Pair: Pam and Christine
+the data of customtest 7 checked by run2: url not found
+similarity score: 13.57
+number of common lines: 2
+
+
+Pair: Pam and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 17.82
+number of common lines: 6
+
+
+Pair: Joy and Kyle
+the data of customtest 7 checked by run2: url not found
+similarity score: 83.33
+number of common lines: 34
+
+
+Pair: Joy and Elizabeth
+the data of customtest 7 checked by run2: url not found
+similarity score: 37.74
+number of common lines: 22
+
+
+Pair: Joy and Kylie
+the data of customtest 7 checked by run2: url not found
+similarity score: 39.02
+number of common lines: 21
+
+
+Pair: Joy and Phillip
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.87
+number of common lines: 6
+
+
+Pair: Joy and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.86
+number of common lines: 4
+
+
+Pair: Joy and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.05
+number of common lines: 2
+
+
+Pair: Joy and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 39.57
+number of common lines: 22
+
+
+Pair: Joy and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.52
+number of common lines: 10
+
+
+Pair: Joy and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 22.02
+number of common lines: 13
+
+
+Pair: Joy and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 18.38
+number of common lines: 18
+
+
+Pair: Joy and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 30.62
+number of common lines: 20
+
+
+Pair: Joy and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.98
+number of common lines: 2
+
+
+Pair: Joy and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.8
+number of common lines: 7
+
+
+Pair: Joy and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 19.86
+number of common lines: 14
+
+
+Pair: Kyle and Elizabeth
+the data of customtest 7 checked by run2: url not found
+similarity score: 38.59
+number of common lines: 21
+
+
+Pair: Kyle and Kylie
+the data of customtest 7 checked by run2: url not found
+similarity score: 41.01
+number of common lines: 21
+
+
+Pair: Kyle and Phillip
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.08
+number of common lines: 5
+
+
+Pair: Kyle and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.07
+number of common lines: 4
+
+
+Pair: Kyle and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 40.32
+number of common lines: 21
+
+
+Pair: Kyle and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.73
+number of common lines: 10
+
+
+Pair: Kyle and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 23.22
+number of common lines: 11
+
+
+Pair: Kyle and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 19.07
+number of common lines: 17
+
+
+Pair: Kyle and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 30.06
+number of common lines: 21
+
+
+Pair: Kyle and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.9
+number of common lines: 7
+
+
+Pair: Kyle and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 22.15
+number of common lines: 15
+
+
+Pair: Elizabeth and Kylie
+the data of customtest 7 checked by run2: url not found
+similarity score: 87.39
+number of common lines: 20
+
+
+Pair: Elizabeth and Phillip
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.52
+number of common lines: 11
+
+
+Pair: Elizabeth and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.26
+number of common lines: 6
+
+
+Pair: Elizabeth and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.13
+number of common lines: 5
+
+
+Pair: Elizabeth and Jeffrey
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.03
+number of common lines: 4
+
+
+Pair: Elizabeth and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 92.88
+number of common lines: 23
+
+
+Pair: Elizabeth and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.84
+number of common lines: 6
+
+
+Pair: Elizabeth and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.58
+number of common lines: 6
+
+
+Pair: Elizabeth and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.48
+number of common lines: 8
+
+
+Pair: Elizabeth and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 16.13
+number of common lines: 14
+
+
+Pair: Elizabeth and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 16.31
+number of common lines: 12
+
+
+Pair: Elizabeth and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 29.65
+number of common lines: 24
+
+
+Pair: Elizabeth and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.84
+number of common lines: 5
+
+
+Pair: Elizabeth and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.2
+number of common lines: 2
+
+
+Pair: Elizabeth and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.44
+number of common lines: 5
+
+
+Pair: Elizabeth and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 18.88
+number of common lines: 10
+
+
+Pair: Elizabeth and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.7
+number of common lines: 7
+
+
+Pair: Scott and Phillip
+the data of customtest 7 checked by run2: url not found
+similarity score: 8.17
+number of common lines: 10
+
+
+Pair: Scott and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.04
+number of common lines: 4
+
+
+Pair: Scott and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.93
+number of common lines: 2
+
+
+Pair: Scott and Jeffrey
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.54
+number of common lines: 7
+
+
+Pair: Scott and Amy
+the data of customtest 7 checked by run2: url not found
+similarity score: 38.86
+number of common lines: 18
+
+
+Pair: Scott and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.72
+number of common lines: 11
+
+
+Pair: Scott and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.61
+number of common lines: 12
+
+
+Pair: Scott and Carla
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.83
+number of common lines: 2
+
+
+Pair: Scott and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 9.52
+number of common lines: 6
+
+
+Pair: Scott and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 38.86
+number of common lines: 18
+
+
+Pair: Scott and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.35
+number of common lines: 2
+
+
+Pair: Scott and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.69
+number of common lines: 2
+
+
+Pair: Scott and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.13
+number of common lines: 2
+
+
+Pair: Scott and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.81
+number of common lines: 6
+
+
+Pair: Kylie and Phillip
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.47
+number of common lines: 10
+
+
+Pair: Kylie and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.48
+number of common lines: 6
+
+
+Pair: Kylie and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.28
+number of common lines: 5
+
+
+Pair: Kylie and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 90.21
+number of common lines: 19
+
+
+Pair: Kylie and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.98
+number of common lines: 6
+
+
+Pair: Kylie and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.8
+number of common lines: 6
+
+
+Pair: Kylie and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.28
+number of common lines: 7
+
+
+Pair: Kylie and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 16.52
+number of common lines: 11
+
+
+Pair: Kylie and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 18.46
+number of common lines: 13
+
+
+Pair: Kylie and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 31.25
+number of common lines: 20
+
+
+Pair: Kylie and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.98
+number of common lines: 5
+
+
+Pair: Kylie and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.28
+number of common lines: 2
+
+
+Pair: Kylie and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.51
+number of common lines: 5
+
+
+Pair: Kylie and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 20.88
+number of common lines: 11
+
+
+Pair: Kylie and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.0
+number of common lines: 5
+
+
+Pair: Phillip and Stephanie
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.23
+number of common lines: 6
+
+
+Pair: Phillip and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 8.68
+number of common lines: 5
+
+
+Pair: Phillip and Jeffrey
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.1
+number of common lines: 5
+
+
+Pair: Phillip and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.75
+number of common lines: 10
+
+
+Pair: Phillip and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.17
+number of common lines: 6
+
+
+Pair: Phillip and Amy
+the data of customtest 7 checked by run2: url not found
+similarity score: 9.31
+number of common lines: 12
+
+
+Pair: Phillip and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 19.24
+number of common lines: 21
+
+
+Pair: Phillip and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 18.03
+number of common lines: 22
+
+
+Pair: Phillip and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.76
+number of common lines: 10
+
+
+Pair: Phillip and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.67
+number of common lines: 11
+
+
+Pair: Phillip and Carla
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.46
+number of common lines: 2
+
+
+Pair: Phillip and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.49
+number of common lines: 7
+
+
+Pair: Phillip and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.47
+number of common lines: 5
+
+
+Pair: Phillip and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 9.31
+number of common lines: 12
+
+
+Pair: Phillip and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.89
+number of common lines: 7
+
+
+Pair: Phillip and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.01
+number of common lines: 3
+
+
+Pair: Phillip and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.03
+number of common lines: 9
+
+
+Pair: Phillip and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.37
+number of common lines: 7
+
+
+Pair: Stephanie and Oscar
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.24
+number of common lines: 5
+
+
+Pair: Stephanie and Jeffrey
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.28
+number of common lines: 6
+
+
+Pair: Stephanie and Douglas
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.57
+number of common lines: 3
+
+
+Pair: Stephanie and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 31.09
+number of common lines: 23
+
+
+Pair: Stephanie and Amy
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.59
+number of common lines: 2
+
+
+Pair: Stephanie and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.65
+number of common lines: 6
+
+
+Pair: Stephanie and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.96
+number of common lines: 6
+
+
+Pair: Stephanie and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.85
+number of common lines: 6
+
+
+Pair: Stephanie and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.59
+number of common lines: 2
+
+
+Pair: Stephanie and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.61
+number of common lines: 3
+
+
+Pair: Stephanie and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.94
+number of common lines: 5
+
+
+Pair: Stephanie and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 24.81
+number of common lines: 8
+
+
+Pair: Stephanie and Christine
+the data of customtest 7 checked by run2: url not found
+similarity score: 31.94
+number of common lines: 3
+
+
+Pair: Stephanie and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 38.74
+number of common lines: 14
+
+
+Pair: Stephanie and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.26
+number of common lines: 5
+
+
+Pair: Stephanie and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.91
+number of common lines: 8
+
+
+Pair: Oscar and Jeffrey
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.38
+number of common lines: 3
+
+
+Pair: Oscar and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.56
+number of common lines: 6
+
+
+Pair: Oscar and Amy
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.32
+number of common lines: 2
+
+
+Pair: Oscar and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.57
+number of common lines: 5
+
+
+Pair: Oscar and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.03
+number of common lines: 8
+
+
+Pair: Oscar and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.85
+number of common lines: 3
+
+
+Pair: Oscar and Carla
+the data of customtest 7 checked by run2: url not found
+similarity score: 21.43
+number of common lines: 4
+
+
+Pair: Oscar and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.44
+number of common lines: 6
+
+
+Pair: Oscar and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 38.92
+number of common lines: 7
+
+
+Pair: Oscar and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.32
+number of common lines: 2
+
+
+Pair: Oscar and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.85
+number of common lines: 6
+
+
+Pair: Oscar and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.57
+number of common lines: 3
+
+
+Pair: Oscar and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.8
+number of common lines: 5
+
+
+Pair: Oscar and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.13
+number of common lines: 3
+
+
+Pair: Oscar and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.16
+number of common lines: 7
+
+
+Pair: Jeffrey and James
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.47
+number of common lines: 4
+
+
+Pair: Jeffrey and Amy
+the data of customtest 7 checked by run2: url not found
+similarity score: 9.54
+number of common lines: 5
+
+
+Pair: Jeffrey and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.22
+number of common lines: 5
+
+
+Pair: Jeffrey and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.07
+number of common lines: 6
+
+
+Pair: Jeffrey and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.71
+number of common lines: 3
+
+
+Pair: Jeffrey and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.76
+number of common lines: 3
+
+
+Pair: Jeffrey and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 9.54
+number of common lines: 5
+
+
+Pair: Jeffrey and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.13
+number of common lines: 2
+
+
+Pair: Jeffrey and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.52
+number of common lines: 2
+
+
+Pair: Jeffrey and Christine
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.17
+number of common lines: 2
+
+
+Pair: Jeffrey and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.51
+number of common lines: 6
+
+
+Pair: Jeffrey and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 58.34
+number of common lines: 11
+
+
+Pair: Douglas and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.68
+number of common lines: 6
+
+
+Pair: Douglas and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.11
+number of common lines: 7
+
+
+Pair: Douglas and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 17.66
+number of common lines: 14
+
+
+Pair: Douglas and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 17.83
+number of common lines: 12
+
+
+Pair: Douglas and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 30.52
+number of common lines: 23
+
+
+Pair: Douglas and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.23
+number of common lines: 2
+
+
+Pair: Douglas and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.47
+number of common lines: 5
+
+
+Pair: Douglas and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 20.48
+number of common lines: 10
+
+
+Pair: Douglas and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.83
+number of common lines: 6
+
+
+Pair: James and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.14
+number of common lines: 6
+
+
+Pair: James and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.27
+number of common lines: 3
+
+
+Pair: James and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.56
+number of common lines: 4
+
+
+Pair: James and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.94
+number of common lines: 4
+
+
+Pair: James and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.27
+number of common lines: 6
+
+
+Pair: James and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 24.2
+number of common lines: 10
+
+
+Pair: James and Christine
+the data of customtest 7 checked by run2: url not found
+similarity score: 24.55
+number of common lines: 6
+
+
+Pair: James and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 76.14
+number of common lines: 18
+
+
+Pair: James and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.84
+number of common lines: 4
+
+
+Pair: James and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.43
+number of common lines: 7
+
+
+Pair: Amy and Cody
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.43
+number of common lines: 10
+
+
+Pair: Amy and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 8.65
+number of common lines: 11
+
+
+Pair: Amy and Carla
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.18
+number of common lines: 2
+
+
+Pair: Amy and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.35
+number of common lines: 4
+
+
+Pair: Amy and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 23
+
+
+Pair: Amy and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.59
+number of common lines: 2
+
+
+Pair: Amy and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.48
+number of common lines: 2
+
+
+Pair: Amy and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.49
+number of common lines: 3
+
+
+Pair: Amy and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.75
+number of common lines: 4
+
+
+Pair: Cody and Jeremiah
+the data of customtest 7 checked by run2: url not found
+similarity score: 62.64
+number of common lines: 42
+
+
+Pair: Cody and Alyssa
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.2
+number of common lines: 6
+
+
+Pair: Cody and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.3
+number of common lines: 11
+
+
+Pair: Cody and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.61
+number of common lines: 6
+
+
+Pair: Cody and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.27
+number of common lines: 5
+
+
+Pair: Cody and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.43
+number of common lines: 10
+
+
+Pair: Cody and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.69
+number of common lines: 8
+
+
+Pair: Cody and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.27
+number of common lines: 6
+
+
+Pair: Jeremiah and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.88
+number of common lines: 10
+
+
+Pair: Jeremiah and Carla
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.25
+number of common lines: 3
+
+
+Pair: Jeremiah and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.04
+number of common lines: 10
+
+
+Pair: Jeremiah and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.29
+number of common lines: 4
+
+
+Pair: Jeremiah and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 8.65
+number of common lines: 11
+
+
+Pair: Jeremiah and Sarah
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.14
+number of common lines: 7
+
+
+Pair: Jeremiah and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.0
+number of common lines: 3
+
+
+Pair: Jeremiah and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.47
+number of common lines: 7
+
+
+Pair: Jeremiah and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.47
+number of common lines: 9
+
+
+Pair: Jeremiah and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.61
+number of common lines: 7
+
+
+Pair: Alyssa and Patrick
+the data of customtest 7 checked by run2: url not found
+similarity score: 36.47
+number of common lines: 30
+
+
+Pair: Alyssa and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 14.3
+number of common lines: 28
+
+
+Pair: Alyssa and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.18
+number of common lines: 6
+
+
+Pair: Alyssa and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.55
+number of common lines: 2
+
+
+Pair: Alyssa and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 43.55
+number of common lines: 27
+
+
+Pair: Alyssa and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.29
+number of common lines: 4
+
+
+Pair: Patrick and Mary
+the data of customtest 7 checked by run2: url not found
+similarity score: 13.22
+number of common lines: 21
+
+
+Pair: Patrick and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.44
+number of common lines: 3
+
+
+Pair: Patrick and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.06
+number of common lines: 2
+
+
+Pair: Patrick and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.3
+number of common lines: 5
+
+
+Pair: Patrick and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 52.87
+number of common lines: 27
+
+
+Pair: Patrick and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.36
+number of common lines: 4
+
+
+Pair: Carla and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 39.82
+number of common lines: 3
+
+
+Pair: Carla and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.18
+number of common lines: 2
+
+
+Pair: Carla and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 6.72
+number of common lines: 3
+
+
+Pair: Mary and Valerie
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.28
+number of common lines: 5
+
+
+Pair: Mary and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.0
+number of common lines: 3
+
+
+Pair: Mary and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 13.34
+number of common lines: 15
+
+
+Pair: Valerie and Lisa
+the data of customtest 7 checked by run2: url not found
+similarity score: 5.35
+number of common lines: 4
+
+
+Pair: Valerie and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.75
+number of common lines: 3
+
+
+Pair: Lisa and Stephen
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.59
+number of common lines: 2
+
+
+Pair: Lisa and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.48
+number of common lines: 2
+
+
+Pair: Lisa and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.49
+number of common lines: 3
+
+
+Pair: Lisa and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 7.75
+number of common lines: 4
+
+
+Pair: Stephen and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.5
+number of common lines: 4
+
+
+Pair: Stephen and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.97
+number of common lines: 4
+
+
+Pair: Stephen and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.5
+number of common lines: 3
+
+
+Pair: Stephen and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.92
+number of common lines: 4
+
+
+Pair: Sarah and Kurt
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.42
+number of common lines: 2
+
+
+Pair: Sarah and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.66
+number of common lines: 5
+
+
+Pair: Sarah and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.29
+number of common lines: 5
+
+
+Pair: Kurt and Christine
+the data of customtest 7 checked by run2: url not found
+similarity score: 21.76
+number of common lines: 4
+
+
+Pair: Kurt and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 20.57
+number of common lines: 11
+
+
+Pair: Kurt and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.2
+number of common lines: 2
+
+
+Pair: Kurt and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 4.85
+number of common lines: 4
+
+
+Pair: Christine and Adam
+the data of customtest 7 checked by run2: url not found
+similarity score: 28.7
+number of common lines: 5
+
+
+Pair: Christine and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.07
+number of common lines: 2
+
+
+Pair: Adam and Jessica
+the data of customtest 7 checked by run2: url not found
+similarity score: 1.44
+number of common lines: 5
+
+
+Pair: Adam and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 3.32
+number of common lines: 6
+
+
+Pair: Jessica and Tony
+the data of customtest 7 checked by run2: url not found
+similarity score: 2.77
+number of common lines: 4
+
+

@@ -1,0 +1,647 @@
+AnhTuấn		Nguyễn ANh Tuấn_20002176
+BinhHuong		Tran Binh Huong
+BáKiên		Nguyễn Bá Kiên 20002140
+Cuong		Tran Thien Cuong
+DinhTu		Chu Pham Dinh Tu
+Duong		Dao Anh Duong
+Dũng		Nguyễn Công Dũng - 20002111
+Hau		Phung_Phuc_Hau_20002123
+Hoang		Tran Minh Hoang
+HoangAn		Pham Hoang An
+Huy		Nguyễn Quang Huy-20002133
+HảiPhong		Hồ Hải Phong 20002149
+HữuHiếu		Hoàng Hữu Hiếu_20002125
+KhaVy		Dinh Kha Vy
+Khang		Trần Quốc Khang 20002138
+KimPhuong		Tran Kim Phuong
+Long		Nguyen Thanh Long
+MTuan		Do_Minh_Tuan_20002175
+Minh		Tran ANh Minh 20002144
+MạnhTrung		Nguyễn Mạnh Trung - 20002171
+Nam		Đỗ Phương Nam-20002145
+Quang		Nguyễn Đình Quang - 20002155
+Quyen		Luyen Thi Quyen
+Son		Nguyen Trong Son
+Sơn		Khuất Đăng Sơn - 20002159
+TTAnh		Truong Tuan Anh
+Thach		Le Hong Thach
+ThanhPhong		Tran Thanh Phong
+TheTrung		Luu The Trung
+ThuHa		Nguyen Thu Ha
+Thành		Bùi Ngọc Thành - 20002165
+ThếPhong		Nguyễn Thế Phong 20002150
+TiếnAnh		Phạm Tiến Anh-20002106
+Trang		Nguyen Thi Tien Trang
+TrungKiên		Nguyễn Đình Trung Kiên-20002141
+Trưởng		Nguyễn Trọng Trưởng - 20002172
+Tung		Nguyen Nhat Tung
+TuấnAnh		Nguyễn Xuân Tuấn Anh - 20002105
+Tài		Phạm Xuân Tài - 20002161
+Vu		Dam Van Vu
+Vương		Nguyễn Triệu Vương - 20002182
+danh		nguyen truong danh 20002110
+dinhhai		nguyen dinh hai 20002122
+hùng		Nguyễn văn hùng - 20002130
+đức		trần quốc đức 20002117
+
+
+Pair: Hoang and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.98
+number of common lines: 6
+
+
+Pair: Hoang and TTAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.27
+number of common lines: 8
+
+
+Pair: Trang and ThanhPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.43
+number of common lines: 11
+
+
+Pair: Trang and MạnhTrung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.27
+number of common lines: 9
+
+
+Pair: Trang and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 60.44
+number of common lines: 6
+
+
+Pair: Vương and Tung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.9
+number of common lines: 13
+
+
+Pair: Vương and Tài
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.2
+number of common lines: 29
+
+
+Pair: Vương and Thach
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 65.64
+number of common lines: 18
+
+
+Pair: Vương and AnhTuấn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 88.76
+number of common lines: 46
+
+
+Pair: Vương and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.31
+number of common lines: 19
+
+
+Pair: HảiPhong and dinhhai
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 86.09
+number of common lines: 26
+
+
+Pair: HảiPhong and Dũng
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.54
+number of common lines: 32
+
+
+Pair: HảiPhong and Thach
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 59.09
+number of common lines: 33
+
+
+Pair: HảiPhong and DinhTu
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.52
+number of common lines: 13
+
+
+Pair: HảiPhong and HoangAn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 87.1
+number of common lines: 18
+
+
+Pair: TuấnAnh and Tung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.0
+number of common lines: 35
+
+
+Pair: TuấnAnh and Tài
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.8
+number of common lines: 47
+
+
+Pair: TuấnAnh and Thach
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.55
+number of common lines: 23
+
+
+Pair: TuấnAnh and Minh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.83
+number of common lines: 31
+
+
+Pair: TuấnAnh and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.11
+number of common lines: 29
+
+
+Pair: TuấnAnh and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.28
+number of common lines: 33
+
+
+Pair: ThuHa and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 56.08
+number of common lines: 6
+
+
+Pair: Huy and đức
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.0
+number of common lines: 16
+
+
+Pair: Huy and ThanhPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 10
+
+
+Pair: Huy and KhaVy
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 85.71
+number of common lines: 18
+
+
+Pair: Huy and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.43
+number of common lines: 6
+
+
+Pair: Huy and Quyen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 100.0
+number of common lines: 18
+
+
+Pair: đức and KhaVy
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 83.33
+number of common lines: 16
+
+
+Pair: đức and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 66.07
+number of common lines: 6
+
+
+Pair: đức and Quyen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.0
+number of common lines: 16
+
+
+Pair: Dũng and Thach
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 64.28
+number of common lines: 33
+
+
+Pair: hùng and KimPhuong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.05
+number of common lines: 36
+
+
+Pair: hùng and Cuong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 64.0
+number of common lines: 10
+
+
+Pair: hùng and DinhTu
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.85
+number of common lines: 36
+
+
+Pair: hùng and Duong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 96.58
+number of common lines: 38
+
+
+Pair: hùng and MạnhTrung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.27
+number of common lines: 8
+
+
+Pair: hùng and TheTrung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.58
+number of common lines: 8
+
+
+Pair: Quang and danh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 72.06
+number of common lines: 28
+
+
+Pair: Quang and MạnhTrung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 63.28
+number of common lines: 19
+
+
+Pair: Quang and Minh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.27
+number of common lines: 19
+
+
+Pair: Tung and Thach
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.4
+number of common lines: 19
+
+
+Pair: Tung and Son
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.05
+number of common lines: 23
+
+
+Pair: Tung and danh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.13
+number of common lines: 25
+
+
+Pair: Tung and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.24
+number of common lines: 6
+
+
+Pair: Tung and Minh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.24
+number of common lines: 24
+
+
+Pair: Tung and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 60.9
+number of common lines: 35
+
+
+Pair: Tung and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.85
+number of common lines: 49
+
+
+Pair: Tài and Thành
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.55
+number of common lines: 16
+
+
+Pair: Tài and Minh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 53.81
+number of common lines: 17
+
+
+Pair: Tài and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.52
+number of common lines: 28
+
+
+Pair: BinhHuong and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.73
+number of common lines: 6
+
+
+Pair: ThanhPhong and KhaVy
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 10
+
+
+Pair: ThanhPhong and Cuong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.09
+number of common lines: 8
+
+
+Pair: ThanhPhong and TiếnAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 8
+
+
+Pair: ThanhPhong and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 61.84
+number of common lines: 6
+
+
+Pair: ThanhPhong and Quyen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.66
+number of common lines: 10
+
+
+Pair: KimPhuong and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.96
+number of common lines: 6
+
+
+Pair: Trưởng and Khang
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 73.46
+number of common lines: 18
+
+
+Pair: Trưởng and Sơn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 66.53
+number of common lines: 17
+
+
+Pair: Trưởng and TiếnAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.54
+number of common lines: 8
+
+
+Pair: Trưởng and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 59.48
+number of common lines: 6
+
+
+Pair: Trưởng and TTAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.25
+number of common lines: 9
+
+
+Pair: KhaVy and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.43
+number of common lines: 6
+
+
+Pair: KhaVy and Quyen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Khang and Sơn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 92.74
+number of common lines: 19
+
+
+Pair: Vu and TrungKiên
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 81.44
+number of common lines: 12
+
+
+Pair: Vu and Thành
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.49
+number of common lines: 11
+
+
+Pair: Vu and Minh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.78
+number of common lines: 26
+
+
+Pair: Vu and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.79
+number of common lines: 13
+
+
+Pair: TrungKiên and Thành
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 94.7
+number of common lines: 38
+
+
+Pair: TrungKiên and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.74
+number of common lines: 12
+
+
+Pair: Thành and Minh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.45
+number of common lines: 16
+
+
+Pair: Thành and ThếPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.28
+number of common lines: 19
+
+
+Pair: Thành and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 67.9
+number of common lines: 16
+
+
+Pair: Thach and HoangAn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.54
+number of common lines: 41
+
+
+Pair: Thach and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 78.27
+number of common lines: 18
+
+
+Pair: Thach and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.94
+number of common lines: 30
+
+
+Pair: Cuong and Duong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.28
+number of common lines: 27
+
+
+Pair: Cuong and TiếnAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 56.95
+number of common lines: 9
+
+
+Pair: Cuong and TheTrung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.58
+number of common lines: 8
+
+
+Pair: DinhTu and HoangAn
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 65.89
+number of common lines: 13
+
+
+Pair: DinhTu and HữuHiếu
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 95.44
+number of common lines: 38
+
+
+Pair: BáKiên and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 57.76
+number of common lines: 6
+
+
+Pair: Son and TiếnAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 59.89
+number of common lines: 22
+
+
+Pair: Son and ThếPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.8
+number of common lines: 24
+
+
+Pair: TiếnAnh and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.35
+number of common lines: 6
+
+
+Pair: TiếnAnh and ThếPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 51.86
+number of common lines: 25
+
+
+Pair: TiếnAnh and Nam
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.04
+number of common lines: 8
+
+
+Pair: danh and MạnhTrung
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 53.37
+number of common lines: 19
+
+
+Pair: MạnhTrung and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.26
+number of common lines: 6
+
+
+Pair: HoangAn and Long
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 58.18
+number of common lines: 6
+
+
+Pair: Long and Quyen
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 71.43
+number of common lines: 6
+
+
+Pair: Long and TTAnh
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 52.96
+number of common lines: 6
+
+
+Pair: AnhTuấn and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 55.37
+number of common lines: 32
+
+
+Pair: Minh and ThếPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 67.2
+number of common lines: 31
+
+
+Pair: Minh and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 54.38
+number of common lines: 32
+
+
+Pair: Minh and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 66.34
+number of common lines: 33
+
+
+Pair: HữuHiếu and ThếPhong
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 75.06
+number of common lines: 10
+
+
+Pair: ThếPhong and Hau
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 50.84
+number of common lines: 40
+
+
+Pair: Hau and MTuan
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 64.96
+number of common lines: 44
+
+

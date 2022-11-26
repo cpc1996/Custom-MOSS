@@ -1,0 +1,502 @@
+Henry		tran_minh_hoang_msv20002127_cau_1.c
+Christina		Nguyen_Nhat_Tung_20002177_Cau3.c
+Melanie		Nguyen_Thanh_Long_20002142_Cau_2.c
+Shari		Truong_Tuan_Anh_20002107_Cau_1.c
+Joshua		Nguyen_Thi_Tien_Trang_20000691_cau_1.c
+Shelley		Nguyen_Nhat_Tung_20002177_Cau2.c
+Alicia		Tran_Thanh_Phong_20002152_Cau1.c
+Connie		Nguyen_Trong_Son_20002160_Cau_2.c
+Colleen		Le_Hong_Thach_20002162_Cau_2.c
+James		TRAN_BINH_HUONG_20002137_CAU1.c
+Robin		Dinh_Kha_Vy_20002183_cau1.c
+Pamela		luyen_thi_quyen_20002158_cau_1.c
+Paula		Tran_Thanh_Phong_20002152_Cau3c.c
+Christine		Tran_Thanh_Phong_20002152_Cau2.c
+Brittany		Dao_Anh_Duong_20002112_cau_1.c
+Patricia		Nguyen_Thanh_Long_20002142_Cau_3.c
+Tony		Pham_Hoang_An_20002102_Cau_2.c
+Heather		luyen_thi_quyen_20002158_cau_2.c
+Danielle		Dinh_Kha_Vy_20002183_cau3.c
+Richard		Dinh_Kha_Vy_20002183_cau2.c
+Alexis		nguyenthuha20002121cau1.c
+Rachael		Tran_kim_phuong_20002154_cau_1.c
+David		Luu_The_Trung_20002170_cau_1.c
+Charles		Pham_Hoang_AN_20002102_Cau_1.c
+Ryan		Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Jessica		Tran_kim_phuong_20002154_cau_3.c
+Zachary		Tran_kim_phuong_20002154_cau_2.c
+Bruce		Dam_Van_Vu_20002180_Cau_3.c
+Gerald		Le_Hong_Thach_20002162_Cau_3.c
+Tracy		Dam_Van_Vu_20002180_Cau_1.c
+Cheryl		Nguyen_Trong_Son_20002160_Cau_1.c
+John		Le_Hong_Thach_20002162_Cau_1.c
+Ashley		Dam_Van_Vu_20002180_Cau_2.c
+Alison		Chu_Pham_Dinh_Tu_20002173_Cau_2.c
+Ruben		Truong_Tuan_Anh_20002107_Cau_3.c
+Nicholas		Dao_Anh_Duong_20002112_cau2.c
+Victoria		Nguyen_Thanh_Long_20002142_Cau_1.c
+Andrea		Pham_Hoang_AN_20002102_Cau_3.c
+Crystal		tran_minh_hoang_msv20002127_cau_3.c
+Veronica		Luu_The_Trung_20002170_cau_3.c
+Kevin		Nguyen_Nhat_Tung_20002177_Cau1.c
+Gail		Dao_Anh_Duong_20002112_cau3.c
+Brandon		Duong_Duc_Thinh_20002166_Cau_1.c
+Anna		Nguyen_Thi_Tien_Trang_20000691_cau_2.c
+
+
+Pair: Henry and Christina
+data: url not found
+similarity score: 52.94
+number of common lines: 8
+
+
+Pair: Henry and Melanie
+data: url not found
+similarity score: 55.56
+number of common lines: 5
+
+
+Pair: Henry and Shari
+data: url not found
+similarity score: 64.71
+number of common lines: 8
+
+
+Pair: Henry and Joshua
+data: url not found
+similarity score: 52.94
+number of common lines: 8
+
+
+Pair: Shelley and Melanie
+data: url not found
+similarity score: 77.78
+number of common lines: 6
+
+
+Pair: Shelley and Alicia
+data: url not found
+similarity score: 52.17
+number of common lines: 10
+
+
+Pair: Shelley and Connie
+data: url not found
+similarity score: 51.25
+number of common lines: 19
+
+
+Pair: Shelley and Colleen
+data: url not found
+similarity score: 58.25
+number of common lines: 19
+
+
+Pair: James and Robin
+data: url not found
+similarity score: 57.14
+number of common lines: 11
+
+
+Pair: James and Melanie
+data: url not found
+similarity score: 88.89
+number of common lines: 6
+
+
+Pair: James and Alicia
+data: url not found
+similarity score: 56.52
+number of common lines: 9
+
+
+Pair: James and Pamela
+data: url not found
+similarity score: 57.14
+number of common lines: 11
+
+
+Pair: Paula and Christine
+data: url not found
+similarity score: 64.0
+number of common lines: 4
+
+
+Pair: Paula and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Paula and Brittany
+data: url not found
+similarity score: 52.0
+number of common lines: 6
+
+
+Pair: Patricia and Tony
+data: url not found
+similarity score: 53.33
+number of common lines: 11
+
+
+Pair: Patricia and Melanie
+data: url not found
+similarity score: 55.56
+number of common lines: 5
+
+
+Pair: Heather and Danielle
+data: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Heather and Richard
+data: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Christine and Brittany
+data: url not found
+similarity score: 51.35
+number of common lines: 5
+
+
+Pair: Alexis and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Rachael and Melanie
+data: url not found
+similarity score: 77.78
+number of common lines: 6
+
+
+Pair: Rachael and David
+data: url not found
+similarity score: 52.63
+number of common lines: 8
+
+
+Pair: Charles and Melanie
+data: url not found
+similarity score: 55.56
+number of common lines: 5
+
+
+Pair: Charles and Ryan
+data: url not found
+similarity score: 79.55
+number of common lines: 13
+
+
+Pair: Jessica and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Zachary and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 5
+
+
+Pair: Bruce and Melanie
+data: url not found
+similarity score: 77.78
+number of common lines: 6
+
+
+Pair: Tony and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Tony and Gerald
+data: url not found
+similarity score: 62.77
+number of common lines: 41
+
+
+Pair: Christina and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Christina and Alicia
+data: url not found
+similarity score: 52.17
+number of common lines: 8
+
+
+Pair: Christina and Connie
+data: url not found
+similarity score: 60.0
+number of common lines: 23
+
+
+Pair: Tracy and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 5
+
+
+Pair: Tracy and Alicia
+data: url not found
+similarity score: 52.17
+number of common lines: 9
+
+
+Pair: Robin and Melanie
+data: url not found
+similarity score: 100.0
+number of common lines: 6
+
+
+Pair: Robin and Joshua
+data: url not found
+similarity score: 52.38
+number of common lines: 10
+
+
+Pair: Robin and Alicia
+data: url not found
+similarity score: 57.14
+number of common lines: 10
+
+
+Pair: Robin and Pamela
+data: url not found
+similarity score: 85.71
+number of common lines: 18
+
+
+Pair: Cheryl and Melanie
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Cheryl and Alicia
+data: url not found
+similarity score: 52.17
+number of common lines: 8
+
+
+Pair: Melanie and Shari
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Melanie and Joshua
+data: url not found
+similarity score: 88.89
+number of common lines: 6
+
+
+Pair: Melanie and Alicia
+data: url not found
+similarity score: 88.89
+number of common lines: 6
+
+
+Pair: Melanie and John
+data: url not found
+similarity score: 55.56
+number of common lines: 5
+
+
+Pair: Melanie and Ashley
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Melanie and Brittany
+data: url not found
+similarity score: 66.67
+number of common lines: 5
+
+
+Pair: Melanie and Gerald
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Melanie and Alison
+data: url not found
+similarity score: 66.67
+number of common lines: 5
+
+
+Pair: Melanie and Ruben
+data: url not found
+similarity score: 88.89
+number of common lines: 6
+
+
+Pair: Melanie and David
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Melanie and Nicholas
+data: url not found
+similarity score: 55.56
+number of common lines: 6
+
+
+Pair: Melanie and Victoria
+data: url not found
+similarity score: 55.56
+number of common lines: 5
+
+
+Pair: Melanie and Connie
+data: url not found
+similarity score: 77.78
+number of common lines: 6
+
+
+Pair: Melanie and Andrea
+data: url not found
+similarity score: 100.0
+number of common lines: 6
+
+
+Pair: Melanie and Crystal
+data: url not found
+similarity score: 66.67
+number of common lines: 6
+
+
+Pair: Melanie and Veronica
+data: url not found
+similarity score: 88.89
+number of common lines: 6
+
+
+Pair: Melanie and Kevin
+data: url not found
+similarity score: 88.89
+number of common lines: 6
+
+
+Pair: Melanie and Gail
+data: url not found
+similarity score: 55.56
+number of common lines: 6
+
+
+Pair: Melanie and Ryan
+data: url not found
+similarity score: 66.67
+number of common lines: 5
+
+
+Pair: Melanie and Brandon
+data: url not found
+similarity score: 55.56
+number of common lines: 6
+
+
+Pair: Melanie and Pamela
+data: url not found
+similarity score: 100.0
+number of common lines: 6
+
+
+Pair: Joshua and Alicia
+data: url not found
+similarity score: 60.87
+number of common lines: 11
+
+
+Pair: Joshua and Andrea
+data: url not found
+similarity score: 52.0
+number of common lines: 11
+
+
+Pair: Joshua and Pamela
+data: url not found
+similarity score: 52.38
+number of common lines: 10
+
+
+Pair: Alicia and Brittany
+data: url not found
+similarity score: 52.17
+number of common lines: 8
+
+
+Pair: Alicia and Connie
+data: url not found
+similarity score: 56.52
+number of common lines: 10
+
+
+Pair: Alicia and Andrea
+data: url not found
+similarity score: 65.22
+number of common lines: 11
+
+
+Pair: Alicia and Veronica
+data: url not found
+similarity score: 56.52
+number of common lines: 11
+
+
+Pair: Alicia and Kevin
+data: url not found
+similarity score: 52.17
+number of common lines: 9
+
+
+Pair: Alicia and Ryan
+data: url not found
+similarity score: 52.17
+number of common lines: 7
+
+
+Pair: Alicia and Pamela
+data: url not found
+similarity score: 57.14
+number of common lines: 10
+
+
+Pair: Ashley and Colleen
+data: url not found
+similarity score: 53.4
+number of common lines: 18
+
+
+Pair: Anna and Brandon
+data: url not found
+similarity score: 51.72
+number of common lines: 9
+
+
+Pair: Danielle and Richard
+data: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Alison and Connie
+data: url not found
+similarity score: 52.5
+number of common lines: 20
+
+

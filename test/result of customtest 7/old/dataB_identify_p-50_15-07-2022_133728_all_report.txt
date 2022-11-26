@@ -1,0 +1,223 @@
+BCCong		BCCong
+BThuy		BThuy
+Cong673		Cong673
+DHiep		DHiep
+Doanh		Doanh
+DucMinh		DucMinh
+DuyAnh		DuyAnh
+HongAnh		HongAnh
+LCCong		LCCong
+MTuan		MTuan
+NNgoc		NNgoc
+Nghia		Nghia
+Nhuan		Nhuan
+PTGiang		PTGiang
+SHiep		SHiep
+TNgoc		TNgoc
+TTGiang		TTGiang
+TThuy		TThuy
+TTuan		TTuan
+Thinh		Thinh
+Trang		Trang
+VanMinh		VanMinh
+VietAnh		VietAnh
+
+
+Pair: Nghia and DuyAnh
+the data of customtest 7 checked by run2: url not found
+similarity score: 83.11
+number of common lines: 36
+
+
+Pair: Nghia and TThuy
+the data of customtest 7 checked by run2: url not found
+similarity score: 67.6
+number of common lines: 40
+
+
+Pair: Nghia and Thinh
+the data of customtest 7 checked by run2: url not found
+similarity score: 49.04
+number of common lines: 39
+
+
+Pair: Nghia and BThuy
+the data of customtest 7 checked by run2: url not found
+similarity score: 67.6
+number of common lines: 40
+
+
+Pair: Nghia and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 58.11
+number of common lines: 38
+
+
+Pair: HongAnh and Doanh
+the data of customtest 7 checked by run2: url not found
+similarity score: 66.84
+number of common lines: 31
+
+
+Pair: Cong673 and DHiep
+the data of customtest 7 checked by run2: url not found
+similarity score: 66.54
+number of common lines: 46
+
+
+Pair: Cong673 and Nhuan
+the data of customtest 7 checked by run2: url not found
+similarity score: 66.6
+number of common lines: 37
+
+
+Pair: Cong673 and NNgoc
+the data of customtest 7 checked by run2: url not found
+similarity score: 58.67
+number of common lines: 40
+
+
+Pair: DHiep and Nhuan
+the data of customtest 7 checked by run2: url not found
+similarity score: 81.87
+number of common lines: 25
+
+
+Pair: DHiep and NNgoc
+the data of customtest 7 checked by run2: url not found
+similarity score: 60.8
+number of common lines: 39
+
+
+Pair: DucMinh and TTuan
+the data of customtest 7 checked by run2: url not found
+similarity score: 56.25
+number of common lines: 13
+
+
+Pair: DucMinh and VanMinh
+the data of customtest 7 checked by run2: url not found
+similarity score: 60.16
+number of common lines: 13
+
+
+Pair: MTuan and BCCong
+the data of customtest 7 checked by run2: url not found
+similarity score: 92.31
+number of common lines: 26
+
+
+Pair: VietAnh and TNgoc
+the data of customtest 7 checked by run2: url not found
+similarity score: 90.21
+number of common lines: 49
+
+
+Pair: DuyAnh and TThuy
+the data of customtest 7 checked by run2: url not found
+similarity score: 69.05
+number of common lines: 30
+
+
+Pair: DuyAnh and Thinh
+the data of customtest 7 checked by run2: url not found
+similarity score: 52.98
+number of common lines: 30
+
+
+Pair: DuyAnh and BThuy
+the data of customtest 7 checked by run2: url not found
+similarity score: 69.05
+number of common lines: 30
+
+
+Pair: DuyAnh and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 58.65
+number of common lines: 28
+
+
+Pair: Nhuan and NNgoc
+the data of customtest 7 checked by run2: url not found
+similarity score: 62.41
+number of common lines: 34
+
+
+Pair: SHiep and TTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 69.68
+number of common lines: 26
+
+
+Pair: SHiep and LCCong
+the data of customtest 7 checked by run2: url not found
+similarity score: 72.52
+number of common lines: 15
+
+
+Pair: SHiep and Trang
+the data of customtest 7 checked by run2: url not found
+similarity score: 73.58
+number of common lines: 15
+
+
+Pair: TTGiang and LCCong
+the data of customtest 7 checked by run2: url not found
+similarity score: 91.37
+number of common lines: 47
+
+
+Pair: TTGiang and Trang
+the data of customtest 7 checked by run2: url not found
+similarity score: 90.7
+number of common lines: 46
+
+
+Pair: TTuan and VanMinh
+the data of customtest 7 checked by run2: url not found
+similarity score: 76.48
+number of common lines: 29
+
+
+Pair: TThuy and Thinh
+the data of customtest 7 checked by run2: url not found
+similarity score: 72.63
+number of common lines: 23
+
+
+Pair: TThuy and BThuy
+the data of customtest 7 checked by run2: url not found
+similarity score: 100.0
+number of common lines: 22
+
+
+Pair: TThuy and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 89.63
+number of common lines: 26
+
+
+Pair: Thinh and BThuy
+the data of customtest 7 checked by run2: url not found
+similarity score: 72.63
+number of common lines: 23
+
+
+Pair: Thinh and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 65.55
+number of common lines: 27
+
+
+Pair: BThuy and PTGiang
+the data of customtest 7 checked by run2: url not found
+similarity score: 89.63
+number of common lines: 26
+
+
+Pair: LCCong and Trang
+the data of customtest 7 checked by run2: url not found
+similarity score: 98.83
+number of common lines: 29
+
+

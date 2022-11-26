@@ -1,0 +1,1831 @@
+data
+Nguyen_Nhat_Tung_20002177_Cau2.c	9.93	Truong_Tuan_Anh_20002107_Câu_2.c	18.92	13
+Nguyen_Nhat_Tung_20002177_Cau2.c	12.06	TRAN_BINH_HUONG_20002137_CAU1.c	38.64	11
+Nguyen_Nhat_Tung_20002177_Cau2.c	6.38	Tran_Thanh_Phong_20002152_Cau3c.c	36.00	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	8.51	Nguyen_Thanh_Long_20002142_Cau_3.c	26.67	8
+Nguyen_Nhat_Tung_20002177_Cau2.c	23.40	luyen_thi_quyen_20002158_cau_2.c	35.11	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	30.50	luyen_thi_quyen_20002158_cau_3.c	27.74	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	7.80	Tran_Thanh_Phong_20002152_Cau2.c	29.73	4
+Nguyen_Nhat_Tung_20002177_Cau2.c	12.77	nguyenthuha20002121cau1.c	25.00	17
+Nguyen_Nhat_Tung_20002177_Cau2.c	6.38	Tran_kim_phuong_20002154_cau_1.c	31.03	9
+Nguyen_Nhat_Tung_20002177_Cau2.c	8.51	Pham_Hoang_AN_20002102_Cau_1.c	17.91	10
+Nguyen_Nhat_Tung_20002177_Cau2.c	7.09	TRAN THIEN CUON_20002109_BAI1.c	40.00	6
+Nguyen_Nhat_Tung_20002177_Cau2.c	26.95	Tran_kim_phuong_20002154_cau_3.c	25.85	20
+Nguyen_Nhat_Tung_20002177_Cau2.c	4.26	Tran_kim_phuong_20002154_cau_2.c	17.65	8
+Nguyen_Nhat_Tung_20002177_Cau2.c	6.38	tran thien cuong_20002109_bai2.c	8.91	6
+Nguyen_Nhat_Tung_20002177_Cau2.c	24.82	Dam_Van_Vu_20002180_Cau_3.c	33.02	14
+Nguyen_Nhat_Tung_20002177_Cau2.c	21.99	Do Phuong Nam-20002145-Cau2.c	34.83	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	10.64	nguyen dinh hai 2002122 bai 1.c	18.75	12
+Nguyen_Nhat_Tung_20002177_Cau2.c	31.21	Pham_Hoang_An_20002102_Cau_2.c	24.72	20
+Nguyen_Nhat_Tung_20002177_Cau2.c	29.79	Nguyen_Nhat_Tung_20002177_Cau3.c	36.84	17
+Nguyen_Nhat_Tung_20002177_Cau2.c	9.22	Dam_Van_Vu_20002180_Cau_1.c	30.95	9
+Nguyen_Nhat_Tung_20002177_Cau2.c	4.96	Dinh_Kha_Vy_20002183_cau1.c	33.33	8
+Nguyen_Nhat_Tung_20002177_Cau2.c	14.89	Nguyen_Trong_Son_20002160_Cau_1.c	17.95	16
+Nguyen_Nhat_Tung_20002177_Cau2.c	5.67	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Nguyen_Nhat_Tung_20002177_Cau2.c	29.08	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	20.10	15
+Nguyen_Nhat_Tung_20002177_Cau2.c	6.38	nguyen dinh hai 20002122 bai 3.c	10.11	6
+Nguyen_Nhat_Tung_20002177_Cau2.c	15.60	nguyen dinh hai 2002122 bai 2.c	20.00	17
+Nguyen_Nhat_Tung_20002177_Cau2.c	12.77	Le_Sy_Van_20002178_Cau_2.c	19.57	10
+Nguyen_Nhat_Tung_20002177_Cau2.c	5.67	Truong_Tuan_Anh_20002107_Cau_1.c	33.33	10
+Nguyen_Nhat_Tung_20002177_Cau2.c	30.50	TRAN THIEN CUONG_20002109_BAI3.c	15.03	16
+Nguyen_Nhat_Tung_20002177_Cau2.c	17.02	Do Phuong Nam-20002145-Cau3.c	26.37	17
+Nguyen_Nhat_Tung_20002177_Cau2.c	5.67	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	10
+Nguyen_Nhat_Tung_20002177_Cau2.c	8.51	Tran_Thanh_Phong_20002152_Cau1.c	52.17	10
+Nguyen_Nhat_Tung_20002177_Cau2.c	29.79	TRAN_BINH_HUONG_20002137_CAU 2.c	36.84	24
+Nguyen_Nhat_Tung_20002177_Cau2.c	8.51	Le_Hong_Thach_20002162_Cau_1.c	24.00	12
+Nguyen_Nhat_Tung_20002177_Cau2.c	40.43	Dam_Van_Vu_20002180_Cau_2.c	48.31	29
+Nguyen_Nhat_Tung_20002177_Cau2.c	9.93	Dao_Anh_Duong_20002112_cau_1.c	25.45	9
+Nguyen_Nhat_Tung_20002177_Cau2.c	22.70	Le_Hong_Thach_20002162_Cau_3.c	23.36	24
+Nguyen_Nhat_Tung_20002177_Cau2.c	3.55	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	6.38	Le_Sy_Van_20002178_Cau_1.c	22.50	6
+Nguyen_Nhat_Tung_20002177_Cau2.c	7.09	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	23.40	Dinh_Kha_Vy_20002183_cau3.c	35.11	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	11.35	Le_Sy_Van_20002178_Cau_3.c	32.00	13
+Nguyen_Nhat_Tung_20002177_Cau2.c	20.57	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	27.10	18
+Nguyen_Nhat_Tung_20002177_Cau2.c	8.51	Truong_Tuan_Anh_20002107_Cau_3.c	25.53	9
+Nguyen_Nhat_Tung_20002177_Cau2.c	27.66	nguyenthuha20002121cau-2.c	52.70	22
+Nguyen_Nhat_Tung_20002177_Cau2.c	21.28	Dao_Anh_Duong_20002112_cau2.c	29.70	22
+Nguyen_Nhat_Tung_20002177_Cau2.c	12.77	Nguyen_Thanh_Long_20002142_Cau_1.c	19.15	13
+Nguyen_Nhat_Tung_20002177_Cau2.c	2.84	Do Phuong Nam-20002145-Cau1.c	16.67	5
+Nguyen_Nhat_Tung_20002177_Cau2.c	29.08	Nguyen_Trong_Son_20002160_Cau_2.c	51.25	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	14.18	Pham_Hoang_AN_20002102_Cau_3.c	36.36	13
+Nguyen_Nhat_Tung_20002177_Cau2.c	4.96	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	6.38	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	42.55	Le_Hong_Thach_20002162_Cau_2.c	58.25	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	23.40	Luu_The_Trung_20002170_cau_3.c	22.45	24
+Nguyen_Nhat_Tung_20002177_Cau2.c	13.48	Nguyen_Nhat_Tung_20002177_Cau1.c	27.54	14
+Nguyen_Nhat_Tung_20002177_Cau2.c	31.21	Dao_Anh_Duong_20002112_cau3.c	27.16	19
+Nguyen_Nhat_Tung_20002177_Cau2.c	8.51	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	7.80	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	7
+Nguyen_Nhat_Tung_20002177_Cau2.c	4.96	luyen_thi_quyen_20002158_cau_1.c	33.33	8
+Nguyen_Nhat_Tung_20002177_Cau2.c	23.40	Dinh_Kha_Vy_20002183_cau2.c	35.11	19
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	TRAN_BINH_HUONG_20002137_CAU1.c	29.55	10
+Truong_Tuan_Anh_20002107_Câu_2.c	6.76	Tran_Thanh_Phong_20002152_Cau3c.c	20.00	6
+Truong_Tuan_Anh_20002107_Câu_2.c	12.16	Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	5
+Truong_Tuan_Anh_20002107_Câu_2.c	12.16	luyen_thi_quyen_20002158_cau_2.c	9.57	8
+Truong_Tuan_Anh_20002107_Câu_2.c	18.92	luyen_thi_quyen_20002158_cau_3.c	9.03	12
+Truong_Tuan_Anh_20002107_Câu_2.c	13.51	Tran_Thanh_Phong_20002152_Cau2.c	27.03	4
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	nguyenthuha20002121cau1.c	18.06	11
+Truong_Tuan_Anh_20002107_Câu_2.c	9.46	Tran_kim_phuong_20002154_cau_1.c	24.14	8
+Truong_Tuan_Anh_20002107_Câu_2.c	22.97	Pham_Hoang_AN_20002102_Cau_1.c	25.37	14
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	TRAN THIEN CUON_20002109_BAI1.c	48.00	8
+Truong_Tuan_Anh_20002107_Câu_2.c	13.51	Tran_kim_phuong_20002154_cau_3.c	6.80	11
+Truong_Tuan_Anh_20002107_Câu_2.c	6.76	Tran_kim_phuong_20002154_cau_2.c	14.71	6
+Truong_Tuan_Anh_20002107_Câu_2.c	10.81	tran thien cuong_20002109_bai2.c	7.92	5
+Truong_Tuan_Anh_20002107_Câu_2.c	14.86	Dam_Van_Vu_20002180_Cau_3.c	10.38	7
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	Do Phuong Nam-20002145-Cau2.c	13.48	7
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	nguyen dinh hai 2002122 bai 1.c	15.00	10
+Truong_Tuan_Anh_20002107_Câu_2.c	14.86	Pham_Hoang_An_20002102_Cau_2.c	6.18	10
+Truong_Tuan_Anh_20002107_Câu_2.c	13.51	Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	7
+Truong_Tuan_Anh_20002107_Câu_2.c	21.62	Dam_Van_Vu_20002180_Cau_1.c	38.10	10
+Truong_Tuan_Anh_20002107_Câu_2.c	6.76	Dinh_Kha_Vy_20002183_cau1.c	23.81	7
+Truong_Tuan_Anh_20002107_Câu_2.c	24.32	Nguyen_Trong_Son_20002160_Cau_1.c	15.38	14
+Truong_Tuan_Anh_20002107_Câu_2.c	10.81	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Truong_Tuan_Anh_20002107_Câu_2.c	20.27	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	7.35	12
+Truong_Tuan_Anh_20002107_Câu_2.c	24.32	nguyen dinh hai 20002122 bai 3.c	20.22	15
+Truong_Tuan_Anh_20002107_Câu_2.c	18.92	nguyen dinh hai 2002122 bai 2.c	12.73	10
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	Le_Sy_Van_20002178_Cau_2.c	14.13	7
+Truong_Tuan_Anh_20002107_Câu_2.c	9.46	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	8
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	TRAN THIEN CUONG_20002109_BAI3.c	4.20	10
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	Do Phuong Nam-20002145-Cau3.c	13.19	11
+Truong_Tuan_Anh_20002107_Câu_2.c	6.76	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	6
+Truong_Tuan_Anh_20002107_Câu_2.c	14.86	Tran_Thanh_Phong_20002152_Cau1.c	47.83	7
+Truong_Tuan_Anh_20002107_Câu_2.c	13.51	TRAN_BINH_HUONG_20002137_CAU 2.c	8.77	6
+Truong_Tuan_Anh_20002107_Câu_2.c	18.92	Le_Hong_Thach_20002162_Cau_1.c	28.00	11
+Truong_Tuan_Anh_20002107_Câu_2.c	10.81	Dam_Van_Vu_20002180_Cau_2.c	6.78	7
+Truong_Tuan_Anh_20002107_Câu_2.c	21.62	Dao_Anh_Duong_20002112_cau_1.c	29.09	9
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	Le_Hong_Thach_20002162_Cau_3.c	9.49	11
+Truong_Tuan_Anh_20002107_Câu_2.c	9.46	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	9
+Truong_Tuan_Anh_20002107_Câu_2.c	14.86	Le_Sy_Van_20002178_Cau_1.c	27.50	8
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	41.38	10
+Truong_Tuan_Anh_20002107_Câu_2.c	12.16	Dinh_Kha_Vy_20002183_cau3.c	9.57	8
+Truong_Tuan_Anh_20002107_Câu_2.c	21.62	Le_Sy_Van_20002178_Cau_3.c	32.00	10
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	12.15	11
+Truong_Tuan_Anh_20002107_Câu_2.c	10.81	Truong_Tuan_Anh_20002107_Cau_3.c	17.02	9
+Truong_Tuan_Anh_20002107_Câu_2.c	12.16	nguyenthuha20002121cau-2.c	12.16	9
+Truong_Tuan_Anh_20002107_Câu_2.c	9.46	Dao_Anh_Duong_20002112_cau2.c	6.93	7
+Truong_Tuan_Anh_20002107_Câu_2.c	14.86	Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	12
+Truong_Tuan_Anh_20002107_Câu_2.c	6.76	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Truong_Tuan_Anh_20002107_Câu_2.c	16.22	Nguyen_Trong_Son_20002160_Cau_2.c	15.00	8
+Truong_Tuan_Anh_20002107_Câu_2.c	20.27	Pham_Hoang_AN_20002102_Cau_3.c	27.27	10
+Truong_Tuan_Anh_20002107_Câu_2.c	8.11	tran_minh_hoang_msv20002127_cau_3.c	35.29	6
+Truong_Tuan_Anh_20002107_Câu_2.c	9.46	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	6
+Truong_Tuan_Anh_20002107_Câu_2.c	10.81	Le_Hong_Thach_20002162_Cau_2.c	7.77	6
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	Luu_The_Trung_20002170_cau_3.c	8.84	13
+Truong_Tuan_Anh_20002107_Câu_2.c	17.57	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	8
+Truong_Tuan_Anh_20002107_Câu_2.c	12.16	Dao_Anh_Duong_20002112_cau3.c	5.56	9
+Truong_Tuan_Anh_20002107_Câu_2.c	20.27	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	34.09	9
+Truong_Tuan_Anh_20002107_Câu_2.c	18.92	Duong_Duc_Thinh_20002166_Cau_1.c	31.11	9
+Truong_Tuan_Anh_20002107_Câu_2.c	6.76	luyen_thi_quyen_20002158_cau_1.c	23.81	7
+Truong_Tuan_Anh_20002107_Câu_2.c	12.16	Dinh_Kha_Vy_20002183_cau2.c	9.57	8
+TRAN_BINH_HUONG_20002137_CAU1.c	18.18	Tran_Thanh_Phong_20002152_Cau3c.c	32.00	7
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	6
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	luyen_thi_quyen_20002158_cau_2.c	11.70	10
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	luyen_thi_quyen_20002158_cau_3.c	6.45	9
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	Tran_Thanh_Phong_20002152_Cau2.c	27.03	4
+TRAN_BINH_HUONG_20002137_CAU1.c	27.27	nguyenthuha20002121cau1.c	16.67	8
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Tran_kim_phuong_20002154_cau_1.c	37.93	9
+TRAN_BINH_HUONG_20002137_CAU1.c	31.82	Pham_Hoang_AN_20002102_Cau_1.c	20.90	10
+TRAN_BINH_HUONG_20002137_CAU1.c	31.82	TRAN THIEN CUON_20002109_BAI1.c	56.00	9
+TRAN_BINH_HUONG_20002137_CAU1.c	34.09	Tran_kim_phuong_20002154_cau_3.c	10.20	11
+TRAN_BINH_HUONG_20002137_CAU1.c	18.18	Tran_kim_phuong_20002154_cau_2.c	23.53	6
+TRAN_BINH_HUONG_20002137_CAU1.c	20.45	tran thien cuong_20002109_bai2.c	8.91	6
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Dam_Van_Vu_20002180_Cau_3.c	12.26	8
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Do Phuong Nam-20002145-Cau2.c	14.61	8
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	nguyen dinh hai 2002122 bai 1.c	16.25	9
+TRAN_BINH_HUONG_20002137_CAU1.c	27.27	Pham_Hoang_An_20002102_Cau_2.c	6.74	9
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Nguyen_Nhat_Tung_20002177_Cau3.c	11.40	8
+TRAN_BINH_HUONG_20002137_CAU1.c	31.82	Dam_Van_Vu_20002180_Cau_1.c	33.33	10
+TRAN_BINH_HUONG_20002137_CAU1.c	27.27	Dinh_Kha_Vy_20002183_cau1.c	57.14	11
+TRAN_BINH_HUONG_20002137_CAU1.c	31.82	Nguyen_Trong_Son_20002160_Cau_1.c	11.97	10
+TRAN_BINH_HUONG_20002137_CAU1.c	18.18	Luu_The_Trung_20002170_cau_2.c	11.59	5
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	5.39	10
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	nguyen dinh hai 20002122 bai 3.c	11.24	8
+TRAN_BINH_HUONG_20002137_CAU1.c	20.45	nguyen dinh hai 2002122 bai 2.c	8.18	8
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Le_Sy_Van_20002178_Cau_2.c	11.96	7
+TRAN_BINH_HUONG_20002137_CAU1.c	15.91	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	7
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	TRAN THIEN CUONG_20002109_BAI3.c	4.55	10
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Do Phuong Nam-20002145-Cau3.c	12.09	10
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	44.00	10
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Tran_Thanh_Phong_20002152_Cau1.c	56.52	9
+TRAN_BINH_HUONG_20002137_CAU1.c	45.45	TRAN_BINH_HUONG_20002137_CAU 2.c	17.54	12
+TRAN_BINH_HUONG_20002137_CAU1.c	27.27	Le_Hong_Thach_20002162_Cau_1.c	24.00	9
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Dam_Van_Vu_20002180_Cau_2.c	9.32	9
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Dao_Anh_Duong_20002112_cau_1.c	23.64	9
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Le_Hong_Thach_20002162_Cau_3.c	9.49	11
+TRAN_BINH_HUONG_20002137_CAU1.c	15.91	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	8
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	Le_Sy_Van_20002178_Cau_1.c	25.00	7
+TRAN_BINH_HUONG_20002137_CAU1.c	20.45	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Dinh_Kha_Vy_20002183_cau3.c	11.70	10
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	Le_Sy_Van_20002178_Cau_3.c	20.00	8
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	10.28	6
+TRAN_BINH_HUONG_20002137_CAU1.c	31.82	Truong_Tuan_Anh_20002107_Cau_3.c	29.79	11
+TRAN_BINH_HUONG_20002137_CAU1.c	34.09	nguyenthuha20002121cau-2.c	20.27	11
+TRAN_BINH_HUONG_20002137_CAU1.c	18.18	Dao_Anh_Duong_20002112_cau2.c	7.92	7
+TRAN_BINH_HUONG_20002137_CAU1.c	22.73	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+TRAN_BINH_HUONG_20002137_CAU1.c	15.91	Do Phuong Nam-20002145-Cau1.c	29.17	8
+TRAN_BINH_HUONG_20002137_CAU1.c	27.27	Nguyen_Trong_Son_20002160_Cau_2.c	15.00	9
+TRAN_BINH_HUONG_20002137_CAU1.c	45.45	Pham_Hoang_AN_20002102_Cau_3.c	36.36	13
+TRAN_BINH_HUONG_20002137_CAU1.c	15.91	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	TRAN_BINH_HUONG_20002137_CAU 3.c	39.29	7
+TRAN_BINH_HUONG_20002137_CAU1.c	20.45	Le_Hong_Thach_20002162_Cau_2.c	8.74	6
+TRAN_BINH_HUONG_20002137_CAU1.c	38.64	Luu_The_Trung_20002170_cau_3.c	11.56	11
+TRAN_BINH_HUONG_20002137_CAU1.c	34.09	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	9
+TRAN_BINH_HUONG_20002137_CAU1.c	18.18	Dao_Anh_Duong_20002112_cau3.c	4.94	9
+TRAN_BINH_HUONG_20002137_CAU1.c	29.55	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	29.55	7
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	8
+TRAN_BINH_HUONG_20002137_CAU1.c	27.27	luyen_thi_quyen_20002158_cau_1.c	57.14	11
+TRAN_BINH_HUONG_20002137_CAU1.c	25.00	Dinh_Kha_Vy_20002183_cau2.c	11.70	10
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Nguyen_Thanh_Long_20002142_Cau_3.c	17.78	5
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	luyen_thi_quyen_20002158_cau_2.c	7.45	7
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	luyen_thi_quyen_20002158_cau_3.c	4.52	6
+Tran_Thanh_Phong_20002152_Cau3c.c	64.00	Tran_Thanh_Phong_20002152_Cau2.c	43.24	4
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	nguyenthuha20002121cau1.c	11.11	6
+Tran_Thanh_Phong_20002152_Cau3c.c	44.00	Tran_kim_phuong_20002154_cau_1.c	37.93	7
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Pham_Hoang_AN_20002102_Cau_1.c	7.46	5
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	TRAN THIEN CUON_20002109_BAI1.c	28.00	6
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Tran_kim_phuong_20002154_cau_3.c	5.44	7
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Tran_kim_phuong_20002154_cau_2.c	14.71	6
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	tran thien cuong_20002109_bai2.c	4.95	5
+Tran_Thanh_Phong_20002152_Cau3c.c	24.00	Dam_Van_Vu_20002180_Cau_3.c	5.66	5
+Tran_Thanh_Phong_20002152_Cau3c.c	36.00	Do Phuong Nam-20002145-Cau2.c	10.11	7
+Tran_Thanh_Phong_20002152_Cau3c.c	52.00	nguyen dinh hai 2002122 bai 1.c	16.25	8
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Pham_Hoang_An_20002102_Cau_2.c	4.49	6
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Nguyen_Nhat_Tung_20002177_Cau3.c	6.14	7
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Dam_Van_Vu_20002180_Cau_1.c	11.90	5
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Dinh_Kha_Vy_20002183_cau1.c	33.33	8
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Nguyen_Trong_Son_20002160_Cau_1.c	4.27	5
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Luu_The_Trung_20002170_cau_2.c	10.14	5
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	3.92	7
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	nguyen dinh hai 20002122 bai 3.c	8.99	6
+Tran_Thanh_Phong_20002152_Cau3c.c	16.00	nguyen dinh hai 2002122 bai 2.c	3.64	6
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Le_Sy_Van_20002178_Cau_2.c	7.61	4
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	8
+Tran_Thanh_Phong_20002152_Cau3c.c	24.00	TRAN THIEN CUONG_20002109_BAI3.c	2.10	7
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Do Phuong Nam-20002145-Cau3.c	5.49	6
+Tran_Thanh_Phong_20002152_Cau3c.c	36.00	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	36.00	8
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Tran_Thanh_Phong_20002152_Cau1.c	30.43	6
+Tran_Thanh_Phong_20002152_Cau3c.c	52.00	TRAN_BINH_HUONG_20002137_CAU 2.c	11.40	6
+Tran_Thanh_Phong_20002152_Cau3c.c	24.00	Le_Hong_Thach_20002162_Cau_1.c	12.00	5
+Tran_Thanh_Phong_20002152_Cau3c.c	40.00	Dam_Van_Vu_20002180_Cau_2.c	8.47	7
+Tran_Thanh_Phong_20002152_Cau3c.c	52.00	Dao_Anh_Duong_20002112_cau_1.c	23.64	6
+Tran_Thanh_Phong_20002152_Cau3c.c	36.00	Le_Hong_Thach_20002162_Cau_3.c	6.57	8
+Tran_Thanh_Phong_20002152_Cau3c.c	24.00	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	6
+Tran_Thanh_Phong_20002152_Cau3c.c	16.00	Le_Sy_Van_20002178_Cau_1.c	10.00	5
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	6
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Dinh_Kha_Vy_20002183_cau3.c	7.45	7
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Le_Sy_Van_20002178_Cau_3.c	10.00	6
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	7.48	6
+Tran_Thanh_Phong_20002152_Cau3c.c	36.00	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	7
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	nguyenthuha20002121cau-2.c	10.81	8
+Tran_Thanh_Phong_20002152_Cau3c.c	44.00	Dao_Anh_Duong_20002112_cau2.c	10.89	7
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	6
+Tran_Thanh_Phong_20002152_Cau3c.c	16.00	Do Phuong Nam-20002145-Cau1.c	16.67	5
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Nguyen_Trong_Son_20002160_Cau_2.c	10.00	8
+Tran_Thanh_Phong_20002152_Cau3c.c	36.00	Pham_Hoang_AN_20002102_Cau_3.c	16.36	6
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	6
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Le_Hong_Thach_20002162_Cau_2.c	4.85	4
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Luu_The_Trung_20002170_cau_3.c	5.44	8
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Nguyen_Nhat_Tung_20002177_Cau1.c	10.14	6
+Tran_Thanh_Phong_20002152_Cau3c.c	32.00	Dao_Anh_Duong_20002112_cau3.c	4.94	6
+Tran_Thanh_Phong_20002152_Cau3c.c	20.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	11.36	5
+Tran_Thanh_Phong_20002152_Cau3c.c	24.00	Duong_Duc_Thinh_20002166_Cau_1.c	13.33	6
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	luyen_thi_quyen_20002158_cau_1.c	33.33	8
+Tran_Thanh_Phong_20002152_Cau3c.c	28.00	Dinh_Kha_Vy_20002183_cau2.c	7.45	7
+Nguyen_Thanh_Long_20002142_Cau_3.c	28.89	luyen_thi_quyen_20002158_cau_2.c	13.83	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	35.56	luyen_thi_quyen_20002158_cau_3.c	10.32	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	Tran_Thanh_Phong_20002152_Cau2.c	27.03	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	nguyenthuha20002121cau1.c	13.89	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	8.89	Tran_kim_phuong_20002154_cau_1.c	13.79	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Pham_Hoang_AN_20002102_Cau_1.c	13.43	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	TRAN THIEN CUON_20002109_BAI1.c	36.00	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	15.56	Tran_kim_phuong_20002154_cau_3.c	4.76	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	8.89	Tran_kim_phuong_20002154_cau_2.c	11.76	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	17.78	tran thien cuong_20002109_bai2.c	7.92	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	Dam_Van_Vu_20002180_Cau_3.c	9.43	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	24.44	Do Phuong Nam-20002145-Cau2.c	12.36	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	24.44	nguyen dinh hai 2002122 bai 1.c	13.75	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	53.33	Pham_Hoang_An_20002102_Cau_2.c	13.48	11
+Nguyen_Thanh_Long_20002142_Cau_3.c	28.89	Nguyen_Nhat_Tung_20002177_Cau3.c	11.40	9
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Dam_Van_Vu_20002180_Cau_1.c	21.43	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	11.11	Dinh_Kha_Vy_20002183_cau1.c	23.81	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Nguyen_Trong_Son_20002160_Cau_1.c	7.69	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	17.78	Luu_The_Trung_20002170_cau_2.c	11.59	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	26.67	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	5.88	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	nguyen dinh hai 20002122 bai 3.c	10.11	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	26.67	nguyen dinh hai 2002122 bai 2.c	10.91	9
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Le_Sy_Van_20002178_Cau_2.c	9.78	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	11.11	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	31.11	TRAN THIEN CUONG_20002109_BAI3.c	4.90	9
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Do Phuong Nam-20002145-Cau3.c	9.89	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	11.11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Tran_Thanh_Phong_20002152_Cau1.c	39.13	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	33.33	TRAN_BINH_HUONG_20002137_CAU 2.c	13.16	9
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Le_Hong_Thach_20002162_Cau_1.c	18.00	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	15.56	Dam_Van_Vu_20002180_Cau_2.c	5.93	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	Dao_Anh_Duong_20002112_cau_1.c	18.18	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	44.44	Le_Hong_Thach_20002162_Cau_3.c	14.60	9
+Nguyen_Thanh_Long_20002142_Cau_3.c	11.11	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	17.78	Le_Sy_Van_20002178_Cau_1.c	20.00	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	28.89	Dinh_Kha_Vy_20002183_cau3.c	13.83	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	17.78	Le_Sy_Van_20002178_Cau_3.c	16.00	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	28.89	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	12.15	7
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	15.56	nguyenthuha20002121cau-2.c	9.46	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Dao_Anh_Duong_20002112_cau2.c	8.91	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	6.67	Do Phuong Nam-20002145-Cau1.c	12.50	3
+Nguyen_Thanh_Long_20002142_Cau_3.c	24.44	Nguyen_Trong_Son_20002160_Cau_2.c	13.75	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	26.67	Pham_Hoang_AN_20002102_Cau_3.c	21.82	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	8.89	tran_minh_hoang_msv20002127_cau_3.c	23.53	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	11.11	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	15.56	Le_Hong_Thach_20002162_Cau_2.c	6.80	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	24.44	Luu_The_Trung_20002170_cau_3.c	7.48	8
+Nguyen_Thanh_Long_20002142_Cau_3.c	22.22	Nguyen_Nhat_Tung_20002177_Cau1.c	14.49	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	17.78	Dao_Anh_Duong_20002112_cau3.c	4.94	6
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	20.00	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	4
+Nguyen_Thanh_Long_20002142_Cau_3.c	11.11	luyen_thi_quyen_20002158_cau_1.c	23.81	5
+Nguyen_Thanh_Long_20002142_Cau_3.c	28.89	Dinh_Kha_Vy_20002183_cau2.c	13.83	8
+luyen_thi_quyen_20002158_cau_2.c	36.17	luyen_thi_quyen_20002158_cau_3.c	21.94	16
+luyen_thi_quyen_20002158_cau_2.c	10.64	Tran_Thanh_Phong_20002152_Cau2.c	27.03	4
+luyen_thi_quyen_20002158_cau_2.c	12.77	nguyenthuha20002121cau1.c	16.67	9
+luyen_thi_quyen_20002158_cau_2.c	4.26	Tran_kim_phuong_20002154_cau_1.c	13.79	6
+luyen_thi_quyen_20002158_cau_2.c	12.77	Pham_Hoang_AN_20002102_Cau_1.c	17.91	9
+luyen_thi_quyen_20002158_cau_2.c	8.51	TRAN THIEN CUON_20002109_BAI1.c	32.00	6
+luyen_thi_quyen_20002158_cau_2.c	24.47	Tran_kim_phuong_20002154_cau_3.c	15.65	15
+luyen_thi_quyen_20002158_cau_2.c	4.26	Tran_kim_phuong_20002154_cau_2.c	11.76	6
+luyen_thi_quyen_20002158_cau_2.c	8.51	tran thien cuong_20002109_bai2.c	7.92	5
+luyen_thi_quyen_20002158_cau_2.c	14.89	Dam_Van_Vu_20002180_Cau_3.c	13.21	10
+luyen_thi_quyen_20002158_cau_2.c	22.34	Do Phuong Nam-20002145-Cau2.c	23.60	15
+luyen_thi_quyen_20002158_cau_2.c	12.77	nguyen dinh hai 2002122 bai 1.c	15.00	10
+luyen_thi_quyen_20002158_cau_2.c	35.11	Pham_Hoang_An_20002102_Cau_2.c	18.54	19
+luyen_thi_quyen_20002158_cau_2.c	29.79	Nguyen_Nhat_Tung_20002177_Cau3.c	24.56	14
+luyen_thi_quyen_20002158_cau_2.c	11.70	Dam_Van_Vu_20002180_Cau_1.c	26.19	10
+luyen_thi_quyen_20002158_cau_2.c	7.45	Dinh_Kha_Vy_20002183_cau1.c	33.33	9
+luyen_thi_quyen_20002158_cau_2.c	9.57	Nguyen_Trong_Son_20002160_Cau_1.c	7.69	8
+luyen_thi_quyen_20002158_cau_2.c	9.57	Luu_The_Trung_20002170_cau_2.c	13.04	7
+luyen_thi_quyen_20002158_cau_2.c	28.72	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	13.24	14
+luyen_thi_quyen_20002158_cau_2.c	9.57	nguyen dinh hai 20002122 bai 3.c	10.11	7
+luyen_thi_quyen_20002158_cau_2.c	17.02	nguyen dinh hai 2002122 bai 2.c	14.55	9
+luyen_thi_quyen_20002158_cau_2.c	26.60	Le_Sy_Van_20002178_Cau_2.c	27.17	16
+luyen_thi_quyen_20002158_cau_2.c	5.32	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	7
+luyen_thi_quyen_20002158_cau_2.c	23.40	TRAN THIEN CUONG_20002109_BAI3.c	7.69	12
+luyen_thi_quyen_20002158_cau_2.c	15.96	Do Phuong Nam-20002145-Cau3.c	16.48	8
+luyen_thi_quyen_20002158_cau_2.c	6.38	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	8
+luyen_thi_quyen_20002158_cau_2.c	8.51	Tran_Thanh_Phong_20002152_Cau1.c	34.78	6
+luyen_thi_quyen_20002158_cau_2.c	26.60	TRAN_BINH_HUONG_20002137_CAU 2.c	21.93	17
+luyen_thi_quyen_20002158_cau_2.c	11.70	Le_Hong_Thach_20002162_Cau_1.c	22.00	9
+luyen_thi_quyen_20002158_cau_2.c	24.47	Dam_Van_Vu_20002180_Cau_2.c	19.49	15
+luyen_thi_quyen_20002158_cau_2.c	11.70	Dao_Anh_Duong_20002112_cau_1.c	20.00	8
+luyen_thi_quyen_20002158_cau_2.c	29.79	Le_Hong_Thach_20002162_Cau_3.c	20.44	14
+luyen_thi_quyen_20002158_cau_2.c	6.38	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	8
+luyen_thi_quyen_20002158_cau_2.c	8.51	Le_Sy_Van_20002178_Cau_1.c	20.00	6
+luyen_thi_quyen_20002158_cau_2.c	9.57	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+luyen_thi_quyen_20002158_cau_2.c	100.00	Dinh_Kha_Vy_20002183_cau3.c	100.00	43
+luyen_thi_quyen_20002158_cau_2.c	17.02	Le_Sy_Van_20002178_Cau_3.c	32.00	7
+luyen_thi_quyen_20002158_cau_2.c	26.60	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	23.36	16
+luyen_thi_quyen_20002158_cau_2.c	10.64	Truong_Tuan_Anh_20002107_Cau_3.c	21.28	11
+luyen_thi_quyen_20002158_cau_2.c	20.21	nguyenthuha20002121cau-2.c	25.68	15
+luyen_thi_quyen_20002158_cau_2.c	15.96	Dao_Anh_Duong_20002112_cau2.c	14.85	16
+luyen_thi_quyen_20002158_cau_2.c	10.64	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	8
+luyen_thi_quyen_20002158_cau_2.c	3.19	Do Phuong Nam-20002145-Cau1.c	12.50	5
+luyen_thi_quyen_20002158_cau_2.c	21.28	Nguyen_Trong_Son_20002160_Cau_2.c	25.00	11
+luyen_thi_quyen_20002158_cau_2.c	15.96	Pham_Hoang_AN_20002102_Cau_3.c	27.27	14
+luyen_thi_quyen_20002158_cau_2.c	6.38	tran_minh_hoang_msv20002127_cau_3.c	35.29	8
+luyen_thi_quyen_20002158_cau_2.c	6.38	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	8
+luyen_thi_quyen_20002158_cau_2.c	29.79	Le_Hong_Thach_20002162_Cau_2.c	27.18	17
+luyen_thi_quyen_20002158_cau_2.c	45.74	Luu_The_Trung_20002170_cau_3.c	29.25	13
+luyen_thi_quyen_20002158_cau_2.c	13.83	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	9
+luyen_thi_quyen_20002158_cau_2.c	18.09	Dao_Anh_Duong_20002112_cau3.c	10.49	12
+luyen_thi_quyen_20002158_cau_2.c	12.77	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	8
+luyen_thi_quyen_20002158_cau_2.c	10.64	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	8
+luyen_thi_quyen_20002158_cau_2.c	6.38	luyen_thi_quyen_20002158_cau_1.c	28.57	9
+luyen_thi_quyen_20002158_cau_2.c	100.00	Dinh_Kha_Vy_20002183_cau2.c	100.00	43
+luyen_thi_quyen_20002158_cau_3.c	6.45	Tran_Thanh_Phong_20002152_Cau2.c	27.03	4
+luyen_thi_quyen_20002158_cau_3.c	10.32	nguyenthuha20002121cau1.c	22.22	12
+luyen_thi_quyen_20002158_cau_3.c	3.23	Tran_kim_phuong_20002154_cau_1.c	17.24	8
+luyen_thi_quyen_20002158_cau_3.c	6.45	Pham_Hoang_AN_20002102_Cau_1.c	14.93	9
+luyen_thi_quyen_20002158_cau_3.c	5.16	TRAN THIEN CUON_20002109_BAI1.c	32.00	6
+luyen_thi_quyen_20002158_cau_3.c	26.45	Tran_kim_phuong_20002154_cau_3.c	27.89	11
+luyen_thi_quyen_20002158_cau_3.c	3.87	Tran_kim_phuong_20002154_cau_2.c	17.65	10
+luyen_thi_quyen_20002158_cau_3.c	6.45	tran thien cuong_20002109_bai2.c	9.90	8
+luyen_thi_quyen_20002158_cau_3.c	10.32	Dam_Van_Vu_20002180_Cau_3.c	15.09	12
+luyen_thi_quyen_20002158_cau_3.c	13.55	Do Phuong Nam-20002145-Cau2.c	23.60	10
+luyen_thi_quyen_20002158_cau_3.c	8.39	nguyen dinh hai 2002122 bai 1.c	16.25	12
+luyen_thi_quyen_20002158_cau_3.c	36.77	Pham_Hoang_An_20002102_Cau_2.c	32.02	25
+luyen_thi_quyen_20002158_cau_3.c	18.06	Nguyen_Nhat_Tung_20002177_Cau3.c	24.56	17
+luyen_thi_quyen_20002158_cau_3.c	6.45	Dam_Van_Vu_20002180_Cau_1.c	23.81	7
+luyen_thi_quyen_20002158_cau_3.c	3.23	Dinh_Kha_Vy_20002183_cau1.c	23.81	7
+luyen_thi_quyen_20002158_cau_3.c	10.32	Nguyen_Trong_Son_20002160_Cau_1.c	13.68	15
+luyen_thi_quyen_20002158_cau_3.c	5.16	Luu_The_Trung_20002170_cau_2.c	11.59	5
+luyen_thi_quyen_20002158_cau_3.c	37.42	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	28.43	18
+luyen_thi_quyen_20002158_cau_3.c	7.74	nguyen dinh hai 20002122 bai 3.c	13.48	14
+luyen_thi_quyen_20002158_cau_3.c	22.58	nguyen dinh hai 2002122 bai 2.c	31.82	24
+luyen_thi_quyen_20002158_cau_3.c	10.97	Le_Sy_Van_20002178_Cau_2.c	18.48	5
+luyen_thi_quyen_20002158_cau_3.c	3.23	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	9
+luyen_thi_quyen_20002158_cau_3.c	33.55	TRAN THIEN CUONG_20002109_BAI3.c	18.18	14
+luyen_thi_quyen_20002158_cau_3.c	10.97	Do Phuong Nam-20002145-Cau3.c	18.68	13
+luyen_thi_quyen_20002158_cau_3.c	4.52	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	11
+luyen_thi_quyen_20002158_cau_3.c	5.81	Tran_Thanh_Phong_20002152_Cau1.c	39.13	8
+luyen_thi_quyen_20002158_cau_3.c	20.00	TRAN_BINH_HUONG_20002137_CAU 2.c	27.19	11
+luyen_thi_quyen_20002158_cau_3.c	6.45	Le_Hong_Thach_20002162_Cau_1.c	20.00	8
+luyen_thi_quyen_20002158_cau_3.c	20.00	Dam_Van_Vu_20002180_Cau_2.c	26.27	20
+luyen_thi_quyen_20002158_cau_3.c	7.10	Dao_Anh_Duong_20002112_cau_1.c	20.00	8
+luyen_thi_quyen_20002158_cau_3.c	32.26	Le_Hong_Thach_20002162_Cau_3.c	36.50	27
+luyen_thi_quyen_20002158_cau_3.c	3.87	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	8
+luyen_thi_quyen_20002158_cau_3.c	5.81	Le_Sy_Van_20002178_Cau_1.c	22.50	7
+luyen_thi_quyen_20002158_cau_3.c	6.45	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	8
+luyen_thi_quyen_20002158_cau_3.c	21.94	Dinh_Kha_Vy_20002183_cau3.c	36.17	16
+luyen_thi_quyen_20002158_cau_3.c	10.32	Le_Sy_Van_20002178_Cau_3.c	32.00	8
+luyen_thi_quyen_20002158_cau_3.c	15.48	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	22.43	19
+luyen_thi_quyen_20002158_cau_3.c	5.16	Truong_Tuan_Anh_20002107_Cau_3.c	17.02	8
+luyen_thi_quyen_20002158_cau_3.c	12.26	nguyenthuha20002121cau-2.c	25.68	11
+luyen_thi_quyen_20002158_cau_3.c	15.48	Dao_Anh_Duong_20002112_cau2.c	23.76	20
+luyen_thi_quyen_20002158_cau_3.c	7.74	Nguyen_Thanh_Long_20002142_Cau_1.c	12.77	10
+luyen_thi_quyen_20002158_cau_3.c	1.94	Do Phuong Nam-20002145-Cau1.c	12.50	5
+luyen_thi_quyen_20002158_cau_3.c	12.26	Nguyen_Trong_Son_20002160_Cau_2.c	23.75	17
+luyen_thi_quyen_20002158_cau_3.c	12.26	Pham_Hoang_AN_20002102_Cau_3.c	34.55	12
+luyen_thi_quyen_20002158_cau_3.c	2.58	tran_minh_hoang_msv20002127_cau_3.c	23.53	5
+luyen_thi_quyen_20002158_cau_3.c	3.23	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	7
+luyen_thi_quyen_20002158_cau_3.c	20.65	Le_Hong_Thach_20002162_Cau_2.c	31.07	13
+luyen_thi_quyen_20002158_cau_3.c	20.65	Luu_The_Trung_20002170_cau_3.c	21.77	12
+luyen_thi_quyen_20002158_cau_3.c	8.39	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	9
+luyen_thi_quyen_20002158_cau_3.c	25.16	Dao_Anh_Duong_20002112_cau3.c	24.07	10
+luyen_thi_quyen_20002158_cau_3.c	5.81	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	6
+luyen_thi_quyen_20002158_cau_3.c	5.81	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	6
+luyen_thi_quyen_20002158_cau_3.c	3.23	luyen_thi_quyen_20002158_cau_1.c	23.81	7
+luyen_thi_quyen_20002158_cau_3.c	21.94	Dinh_Kha_Vy_20002183_cau2.c	36.17	16
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	nguyenthuha20002121cau1.c	13.89	4
+Tran_Thanh_Phong_20002152_Cau2.c	18.92	Tran_kim_phuong_20002154_cau_1.c	24.14	4
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Pham_Hoang_AN_20002102_Cau_1.c	14.93	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	TRAN THIEN CUON_20002109_BAI1.c	32.00	4
+Tran_Thanh_Phong_20002152_Cau2.c	18.92	Tran_kim_phuong_20002154_cau_3.c	4.76	4
+Tran_Thanh_Phong_20002152_Cau2.c	10.81	Tran_kim_phuong_20002154_cau_2.c	11.76	2
+Tran_Thanh_Phong_20002152_Cau2.c	32.43	tran thien cuong_20002109_bai2.c	11.88	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Dam_Van_Vu_20002180_Cau_3.c	7.55	3
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Do Phuong Nam-20002145-Cau2.c	11.24	4
+Tran_Thanh_Phong_20002152_Cau2.c	51.35	nguyen dinh hai 2002122 bai 1.c	23.75	5
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Pham_Hoang_An_20002102_Cau_2.c	5.62	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Nguyen_Nhat_Tung_20002177_Cau3.c	7.02	3
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Dam_Van_Vu_20002180_Cau_1.c	23.81	4
+Tran_Thanh_Phong_20002152_Cau2.c	10.81	Dinh_Kha_Vy_20002183_cau1.c	19.05	2
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Nguyen_Trong_Son_20002160_Cau_1.c	8.55	4
+Tran_Thanh_Phong_20002152_Cau2.c	37.84	Luu_The_Trung_20002170_cau_2.c	20.29	5
+Tran_Thanh_Phong_20002152_Cau2.c	37.84	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	6
+Tran_Thanh_Phong_20002152_Cau2.c	35.14	nguyen dinh hai 20002122 bai 3.c	14.61	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	nguyen dinh hai 2002122 bai 2.c	7.27	3
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Le_Sy_Van_20002178_Cau_2.c	10.87	4
+Tran_Thanh_Phong_20002152_Cau2.c	10.81	Truong_Tuan_Anh_20002107_Cau_1.c	16.67	2
+Tran_Thanh_Phong_20002152_Cau2.c	24.32	TRAN THIEN CUONG_20002109_BAI3.c	3.15	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Do Phuong Nam-20002145-Cau3.c	8.79	3
+Tran_Thanh_Phong_20002152_Cau2.c	8.11	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	12.00	3
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Tran_Thanh_Phong_20002152_Cau1.c	34.78	4
+Tran_Thanh_Phong_20002152_Cau2.c	48.65	TRAN_BINH_HUONG_20002137_CAU 2.c	15.79	7
+Tran_Thanh_Phong_20002152_Cau2.c	35.14	Le_Hong_Thach_20002162_Cau_1.c	26.00	6
+Tran_Thanh_Phong_20002152_Cau2.c	24.32	Dam_Van_Vu_20002180_Cau_2.c	7.63	4
+Tran_Thanh_Phong_20002152_Cau2.c	51.35	Dao_Anh_Duong_20002112_cau_1.c	34.55	5
+Tran_Thanh_Phong_20002152_Cau2.c	29.73	Le_Hong_Thach_20002162_Cau_3.c	8.03	6
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	38.46	7
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Le_Sy_Van_20002178_Cau_1.c	25.00	4
+Tran_Thanh_Phong_20002152_Cau2.c	37.84	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	48.28	7
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Dinh_Kha_Vy_20002183_cau3.c	10.64	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Le_Sy_Van_20002178_Cau_3.c	16.00	3
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	9.35	4
+Tran_Thanh_Phong_20002152_Cau2.c	24.32	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	5
+Tran_Thanh_Phong_20002152_Cau2.c	10.81	nguyenthuha20002121cau-2.c	5.41	2
+Tran_Thanh_Phong_20002152_Cau2.c	29.73	Dao_Anh_Duong_20002112_cau2.c	10.89	6
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Nguyen_Thanh_Long_20002142_Cau_1.c	8.51	3
+Tran_Thanh_Phong_20002152_Cau2.c	8.11	Do Phuong Nam-20002145-Cau1.c	12.50	3
+Tran_Thanh_Phong_20002152_Cau2.c	24.32	Nguyen_Trong_Son_20002160_Cau_2.c	11.25	6
+Tran_Thanh_Phong_20002152_Cau2.c	32.43	Pham_Hoang_AN_20002102_Cau_3.c	21.82	4
+Tran_Thanh_Phong_20002152_Cau2.c	8.11	tran_minh_hoang_msv20002127_cau_3.c	17.65	3
+Tran_Thanh_Phong_20002152_Cau2.c	13.51	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	4
+Tran_Thanh_Phong_20002152_Cau2.c	10.81	Le_Hong_Thach_20002162_Cau_2.c	3.88	2
+Tran_Thanh_Phong_20002152_Cau2.c	24.32	Luu_The_Trung_20002170_cau_3.c	6.12	4
+Tran_Thanh_Phong_20002152_Cau2.c	21.62	Nguyen_Nhat_Tung_20002177_Cau1.c	11.59	3
+Tran_Thanh_Phong_20002152_Cau2.c	18.92	Dao_Anh_Duong_20002112_cau3.c	4.32	4
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	4
+Tran_Thanh_Phong_20002152_Cau2.c	45.95	Duong_Duc_Thinh_20002166_Cau_1.c	37.78	5
+Tran_Thanh_Phong_20002152_Cau2.c	10.81	luyen_thi_quyen_20002158_cau_1.c	19.05	2
+Tran_Thanh_Phong_20002152_Cau2.c	27.03	Dinh_Kha_Vy_20002183_cau2.c	10.64	4
+nguyenthuha20002121cau1.c	8.33	Tran_kim_phuong_20002154_cau_1.c	20.69	6
+nguyenthuha20002121cau1.c	23.61	Pham_Hoang_AN_20002102_Cau_1.c	25.37	12
+nguyenthuha20002121cau1.c	13.89	TRAN THIEN CUON_20002109_BAI1.c	40.00	7
+nguyenthuha20002121cau1.c	31.94	Tran_kim_phuong_20002154_cau_3.c	15.65	18
+nguyenthuha20002121cau1.c	6.94	Tran_kim_phuong_20002154_cau_2.c	14.71	5
+nguyenthuha20002121cau1.c	12.50	tran thien cuong_20002109_bai2.c	8.91	6
+nguyenthuha20002121cau1.c	22.22	Dam_Van_Vu_20002180_Cau_3.c	15.09	10
+nguyenthuha20002121cau1.c	19.44	Do Phuong Nam-20002145-Cau2.c	15.73	10
+nguyenthuha20002121cau1.c	16.67	nguyen dinh hai 2002122 bai 1.c	15.00	8
+nguyenthuha20002121cau1.c	23.61	Pham_Hoang_An_20002102_Cau_2.c	9.55	11
+nguyenthuha20002121cau1.c	16.67	Nguyen_Nhat_Tung_20002177_Cau3.c	10.53	8
+nguyenthuha20002121cau1.c	27.78	Dam_Van_Vu_20002180_Cau_1.c	47.62	9
+nguyenthuha20002121cau1.c	8.33	Dinh_Kha_Vy_20002183_cau1.c	28.57	7
+nguyenthuha20002121cau1.c	25.00	Nguyen_Trong_Son_20002160_Cau_1.c	15.38	14
+nguyenthuha20002121cau1.c	12.50	Luu_The_Trung_20002170_cau_2.c	13.04	6
+nguyenthuha20002121cau1.c	30.56	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	10.78	18
+nguyenthuha20002121cau1.c	13.89	nguyen dinh hai 20002122 bai 3.c	11.24	8
+nguyenthuha20002121cau1.c	13.89	nguyen dinh hai 2002122 bai 2.c	9.09	11
+nguyenthuha20002121cau1.c	18.06	Le_Sy_Van_20002178_Cau_2.c	14.13	6
+nguyenthuha20002121cau1.c	9.72	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	7
+nguyenthuha20002121cau1.c	20.83	TRAN THIEN CUONG_20002109_BAI3.c	5.24	13
+nguyenthuha20002121cau1.c	20.83	Do Phuong Nam-20002145-Cau3.c	16.48	13
+nguyenthuha20002121cau1.c	8.33	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	7
+nguyenthuha20002121cau1.c	13.89	Tran_Thanh_Phong_20002152_Cau1.c	43.48	7
+nguyenthuha20002121cau1.c	20.83	TRAN_BINH_HUONG_20002137_CAU 2.c	13.16	7
+nguyenthuha20002121cau1.c	25.00	Le_Hong_Thach_20002162_Cau_1.c	36.00	14
+nguyenthuha20002121cau1.c	20.83	Dam_Van_Vu_20002180_Cau_2.c	12.71	12
+nguyenthuha20002121cau1.c	22.22	Dao_Anh_Duong_20002112_cau_1.c	29.09	10
+nguyenthuha20002121cau1.c	22.22	Le_Hong_Thach_20002162_Cau_3.c	11.68	10
+nguyenthuha20002121cau1.c	11.11	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	30.77	10
+nguyenthuha20002121cau1.c	13.89	Le_Sy_Van_20002178_Cau_1.c	25.00	7
+nguyenthuha20002121cau1.c	12.50	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+nguyenthuha20002121cau1.c	16.67	Dinh_Kha_Vy_20002183_cau3.c	12.77	9
+nguyenthuha20002121cau1.c	22.22	Le_Sy_Van_20002178_Cau_3.c	32.00	9
+nguyenthuha20002121cau1.c	23.61	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	15.89	11
+nguyenthuha20002121cau1.c	15.28	Truong_Tuan_Anh_20002107_Cau_3.c	23.40	8
+nguyenthuha20002121cau1.c	18.06	nguyenthuha20002121cau-2.c	17.57	13
+nguyenthuha20002121cau1.c	16.67	Dao_Anh_Duong_20002112_cau2.c	11.88	10
+nguyenthuha20002121cau1.c	19.44	Nguyen_Thanh_Long_20002142_Cau_1.c	14.89	12
+nguyenthuha20002121cau1.c	8.33	Do Phuong Nam-20002145-Cau1.c	25.00	7
+nguyenthuha20002121cau1.c	19.44	Nguyen_Trong_Son_20002160_Cau_2.c	17.50	11
+nguyenthuha20002121cau1.c	26.39	Pham_Hoang_AN_20002102_Cau_3.c	34.55	13
+nguyenthuha20002121cau1.c	6.94	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+nguyenthuha20002121cau1.c	9.72	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	7
+nguyenthuha20002121cau1.c	12.50	Le_Hong_Thach_20002162_Cau_2.c	8.74	6
+nguyenthuha20002121cau1.c	22.22	Luu_The_Trung_20002170_cau_3.c	10.88	13
+nguyenthuha20002121cau1.c	33.33	Nguyen_Nhat_Tung_20002177_Cau1.c	34.78	12
+nguyenthuha20002121cau1.c	20.83	Dao_Anh_Duong_20002112_cau3.c	9.26	15
+nguyenthuha20002121cau1.c	19.44	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	31.82	10
+nguyenthuha20002121cau1.c	16.67	Duong_Duc_Thinh_20002166_Cau_1.c	26.67	7
+nguyenthuha20002121cau1.c	8.33	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+nguyenthuha20002121cau1.c	16.67	Dinh_Kha_Vy_20002183_cau2.c	12.77	9
+Tran_kim_phuong_20002154_cau_1.c	24.14	Pham_Hoang_AN_20002102_Cau_1.c	10.45	8
+Tran_kim_phuong_20002154_cau_1.c	34.48	TRAN THIEN CUON_20002109_BAI1.c	40.00	9
+Tran_kim_phuong_20002154_cau_1.c	24.14	Tran_kim_phuong_20002154_cau_3.c	4.76	9
+Tran_kim_phuong_20002154_cau_1.c	20.69	Tran_kim_phuong_20002154_cau_2.c	17.65	6
+Tran_kim_phuong_20002154_cau_1.c	17.24	tran thien cuong_20002109_bai2.c	4.95	5
+Tran_kim_phuong_20002154_cau_1.c	17.24	Dam_Van_Vu_20002180_Cau_3.c	4.72	6
+Tran_kim_phuong_20002154_cau_1.c	17.24	Do Phuong Nam-20002145-Cau2.c	5.62	5
+Tran_kim_phuong_20002154_cau_1.c	37.93	nguyen dinh hai 2002122 bai 1.c	13.75	9
+Tran_kim_phuong_20002154_cau_1.c	24.14	Pham_Hoang_An_20002102_Cau_2.c	3.93	9
+Tran_kim_phuong_20002154_cau_1.c	20.69	Nguyen_Nhat_Tung_20002177_Cau3.c	5.26	7
+Tran_kim_phuong_20002154_cau_1.c	27.59	Dam_Van_Vu_20002180_Cau_1.c	19.05	8
+Tran_kim_phuong_20002154_cau_1.c	24.14	Dinh_Kha_Vy_20002183_cau1.c	33.33	8
+Tran_kim_phuong_20002154_cau_1.c	27.59	Nguyen_Trong_Son_20002160_Cau_1.c	6.84	8
+Tran_kim_phuong_20002154_cau_1.c	24.14	Luu_The_Trung_20002170_cau_2.c	10.14	5
+Tran_kim_phuong_20002154_cau_1.c	17.24	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	2.45	7
+Tran_kim_phuong_20002154_cau_1.c	27.59	nguyen dinh hai 20002122 bai 3.c	8.99	8
+Tran_kim_phuong_20002154_cau_1.c	17.24	nguyen dinh hai 2002122 bai 2.c	4.55	7
+Tran_kim_phuong_20002154_cau_1.c	10.34	Le_Sy_Van_20002178_Cau_2.c	3.26	3
+Tran_kim_phuong_20002154_cau_1.c	17.24	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	6
+Tran_kim_phuong_20002154_cau_1.c	17.24	TRAN THIEN CUONG_20002109_BAI3.c	1.75	7
+Tran_kim_phuong_20002154_cau_1.c	13.79	Do Phuong Nam-20002145-Cau3.c	4.40	6
+Tran_kim_phuong_20002154_cau_1.c	27.59	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	8
+Tran_kim_phuong_20002154_cau_1.c	34.48	Tran_Thanh_Phong_20002152_Cau1.c	43.48	8
+Tran_kim_phuong_20002154_cau_1.c	37.93	TRAN_BINH_HUONG_20002137_CAU 2.c	9.65	8
+Tran_kim_phuong_20002154_cau_1.c	24.14	Le_Hong_Thach_20002162_Cau_1.c	14.00	7
+Tran_kim_phuong_20002154_cau_1.c	31.03	Dam_Van_Vu_20002180_Cau_2.c	7.63	8
+Tran_kim_phuong_20002154_cau_1.c	37.93	Dao_Anh_Duong_20002112_cau_1.c	20.00	8
+Tran_kim_phuong_20002154_cau_1.c	20.69	Le_Hong_Thach_20002162_Cau_3.c	4.38	7
+Tran_kim_phuong_20002154_cau_1.c	20.69	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	7
+Tran_kim_phuong_20002154_cau_1.c	17.24	Le_Sy_Van_20002178_Cau_1.c	12.50	6
+Tran_kim_phuong_20002154_cau_1.c	24.14	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	24.14	6
+Tran_kim_phuong_20002154_cau_1.c	13.79	Dinh_Kha_Vy_20002183_cau3.c	4.26	6
+Tran_kim_phuong_20002154_cau_1.c	13.79	Le_Sy_Van_20002178_Cau_3.c	8.00	6
+Tran_kim_phuong_20002154_cau_1.c	17.24	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	4.67	5
+Tran_kim_phuong_20002154_cau_1.c	31.03	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	8
+Tran_kim_phuong_20002154_cau_1.c	27.59	nguyenthuha20002121cau-2.c	10.81	8
+Tran_kim_phuong_20002154_cau_1.c	27.59	Dao_Anh_Duong_20002112_cau2.c	7.92	7
+Tran_kim_phuong_20002154_cau_1.c	17.24	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	6
+Tran_kim_phuong_20002154_cau_1.c	27.59	Do Phuong Nam-20002145-Cau1.c	33.33	8
+Tran_kim_phuong_20002154_cau_1.c	20.69	Nguyen_Trong_Son_20002160_Cau_2.c	7.50	7
+Tran_kim_phuong_20002154_cau_1.c	34.48	Pham_Hoang_AN_20002102_Cau_3.c	18.18	9
+Tran_kim_phuong_20002154_cau_1.c	20.69	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Tran_kim_phuong_20002154_cau_1.c	31.03	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	7
+Tran_kim_phuong_20002154_cau_1.c	10.34	Le_Hong_Thach_20002162_Cau_2.c	2.91	3
+Tran_kim_phuong_20002154_cau_1.c	37.93	Luu_The_Trung_20002170_cau_3.c	7.48	12
+Tran_kim_phuong_20002154_cau_1.c	27.59	Nguyen_Nhat_Tung_20002177_Cau1.c	11.59	8
+Tran_kim_phuong_20002154_cau_1.c	17.24	Dao_Anh_Duong_20002112_cau3.c	3.09	6
+Tran_kim_phuong_20002154_cau_1.c	27.59	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	18.18	6
+Tran_kim_phuong_20002154_cau_1.c	24.14	Duong_Duc_Thinh_20002166_Cau_1.c	15.56	8
+Tran_kim_phuong_20002154_cau_1.c	24.14	luyen_thi_quyen_20002158_cau_1.c	33.33	8
+Tran_kim_phuong_20002154_cau_1.c	13.79	Dinh_Kha_Vy_20002183_cau2.c	4.26	6
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	TRAN THIEN CUON_20002109_BAI1.c	44.00	7
+Pham_Hoang_AN_20002102_Cau_1.c	11.94	Tran_kim_phuong_20002154_cau_3.c	5.44	10
+Pham_Hoang_AN_20002102_Cau_1.c	7.46	Tran_kim_phuong_20002154_cau_2.c	14.71	5
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	tran thien cuong_20002109_bai2.c	8.91	6
+Pham_Hoang_AN_20002102_Cau_1.c	14.93	Dam_Van_Vu_20002180_Cau_3.c	9.43	8
+Pham_Hoang_AN_20002102_Cau_1.c	17.91	Do Phuong Nam-20002145-Cau2.c	13.48	8
+Pham_Hoang_AN_20002102_Cau_1.c	31.34	nguyen dinh hai 2002122 bai 1.c	26.25	13
+Pham_Hoang_AN_20002102_Cau_1.c	19.40	Pham_Hoang_An_20002102_Cau_2.c	7.30	8
+Pham_Hoang_AN_20002102_Cau_1.c	19.40	Nguyen_Nhat_Tung_20002177_Cau3.c	11.40	9
+Pham_Hoang_AN_20002102_Cau_1.c	22.39	Dam_Van_Vu_20002180_Cau_1.c	35.71	11
+Pham_Hoang_AN_20002102_Cau_1.c	7.46	Dinh_Kha_Vy_20002183_cau1.c	23.81	5
+Pham_Hoang_AN_20002102_Cau_1.c	26.87	Nguyen_Trong_Son_20002160_Cau_1.c	15.38	14
+Pham_Hoang_AN_20002102_Cau_1.c	11.94	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Pham_Hoang_AN_20002102_Cau_1.c	19.40	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.37	10
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	nguyen dinh hai 20002122 bai 3.c	10.11	6
+Pham_Hoang_AN_20002102_Cau_1.c	11.94	nguyen dinh hai 2002122 bai 2.c	7.27	6
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	Le_Sy_Van_20002178_Cau_2.c	9.78	4
+Pham_Hoang_AN_20002102_Cau_1.c	10.45	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	6
+Pham_Hoang_AN_20002102_Cau_1.c	14.93	TRAN THIEN CUONG_20002109_BAI3.c	3.50	9
+Pham_Hoang_AN_20002102_Cau_1.c	11.94	Do Phuong Nam-20002145-Cau3.c	8.79	6
+Pham_Hoang_AN_20002102_Cau_1.c	7.46	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	5
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	Tran_Thanh_Phong_20002152_Cau1.c	47.83	7
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	TRAN_BINH_HUONG_20002137_CAU 2.c	9.65	8
+Pham_Hoang_AN_20002102_Cau_1.c	22.39	Le_Hong_Thach_20002162_Cau_1.c	30.00	12
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	Dam_Van_Vu_20002180_Cau_2.c	7.63	9
+Pham_Hoang_AN_20002102_Cau_1.c	29.85	Dao_Anh_Duong_20002112_cau_1.c	36.36	11
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	Le_Hong_Thach_20002162_Cau_3.c	8.03	9
+Pham_Hoang_AN_20002102_Cau_1.c	10.45	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	9
+Pham_Hoang_AN_20002102_Cau_1.c	19.40	Le_Sy_Van_20002178_Cau_1.c	32.50	8
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+Pham_Hoang_AN_20002102_Cau_1.c	17.91	Dinh_Kha_Vy_20002183_cau3.c	12.77	9
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	Le_Sy_Van_20002178_Cau_3.c	22.00	8
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	8.41	6
+Pham_Hoang_AN_20002102_Cau_1.c	11.94	Truong_Tuan_Anh_20002107_Cau_3.c	17.02	9
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	nguyenthuha20002121cau-2.c	12.16	9
+Pham_Hoang_AN_20002102_Cau_1.c	10.45	Dao_Anh_Duong_20002112_cau2.c	6.93	7
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	9
+Pham_Hoang_AN_20002102_Cau_1.c	7.46	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	Nguyen_Trong_Son_20002160_Cau_2.c	13.75	8
+Pham_Hoang_AN_20002102_Cau_1.c	17.91	Pham_Hoang_AN_20002102_Cau_3.c	21.82	10
+Pham_Hoang_AN_20002102_Cau_1.c	7.46	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Pham_Hoang_AN_20002102_Cau_1.c	8.96	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	6
+Pham_Hoang_AN_20002102_Cau_1.c	13.43	Le_Hong_Thach_20002162_Cau_2.c	8.74	7
+Pham_Hoang_AN_20002102_Cau_1.c	16.42	Luu_The_Trung_20002170_cau_3.c	7.48	9
+Pham_Hoang_AN_20002102_Cau_1.c	19.40	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	9
+Pham_Hoang_AN_20002102_Cau_1.c	8.96	Dao_Anh_Duong_20002112_cau3.c	3.70	7
+Pham_Hoang_AN_20002102_Cau_1.c	52.24	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	79.55	13
+Pham_Hoang_AN_20002102_Cau_1.c	19.40	Duong_Duc_Thinh_20002166_Cau_1.c	28.89	8
+Pham_Hoang_AN_20002102_Cau_1.c	7.46	luyen_thi_quyen_20002158_cau_1.c	23.81	5
+Pham_Hoang_AN_20002102_Cau_1.c	17.91	Dinh_Kha_Vy_20002183_cau2.c	12.77	9
+TRAN THIEN CUON_20002109_BAI1.c	28.00	Tran_kim_phuong_20002154_cau_3.c	4.76	7
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Tran_kim_phuong_20002154_cau_2.c	23.53	6
+TRAN THIEN CUON_20002109_BAI1.c	32.00	tran thien cuong_20002109_bai2.c	7.92	5
+TRAN THIEN CUON_20002109_BAI1.c	36.00	Dam_Van_Vu_20002180_Cau_3.c	8.49	5
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Do Phuong Nam-20002145-Cau2.c	11.24	6
+TRAN THIEN CUON_20002109_BAI1.c	52.00	nguyen dinh hai 2002122 bai 1.c	16.25	9
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Pham_Hoang_An_20002102_Cau_2.c	5.62	7
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	6
+TRAN THIEN CUON_20002109_BAI1.c	48.00	Dam_Van_Vu_20002180_Cau_1.c	28.57	8
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Dinh_Kha_Vy_20002183_cau1.c	38.10	7
+TRAN THIEN CUON_20002109_BAI1.c	44.00	Nguyen_Trong_Son_20002160_Cau_1.c	9.40	7
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Luu_The_Trung_20002170_cau_2.c	11.59	5
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.90	8
+TRAN THIEN CUON_20002109_BAI1.c	52.00	nguyen dinh hai 20002122 bai 3.c	14.61	10
+TRAN THIEN CUON_20002109_BAI1.c	40.00	nguyen dinh hai 2002122 bai 2.c	9.09	8
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Le_Sy_Van_20002178_Cau_2.c	8.70	4
+TRAN THIEN CUON_20002109_BAI1.c	28.00	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	6
+TRAN THIEN CUON_20002109_BAI1.c	32.00	TRAN THIEN CUONG_20002109_BAI3.c	2.80	5
+TRAN THIEN CUON_20002109_BAI1.c	36.00	Do Phuong Nam-20002145-Cau3.c	9.89	7
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	7
+TRAN THIEN CUON_20002109_BAI1.c	48.00	Tran_Thanh_Phong_20002152_Cau1.c	52.17	8
+TRAN THIEN CUON_20002109_BAI1.c	36.00	TRAN_BINH_HUONG_20002137_CAU 2.c	7.89	6
+TRAN THIEN CUON_20002109_BAI1.c	44.00	Le_Hong_Thach_20002162_Cau_1.c	22.00	8
+TRAN THIEN CUON_20002109_BAI1.c	28.00	Dam_Van_Vu_20002180_Cau_2.c	5.93	5
+TRAN THIEN CUON_20002109_BAI1.c	48.00	Dao_Anh_Duong_20002112_cau_1.c	21.82	8
+TRAN THIEN CUON_20002109_BAI1.c	44.00	Le_Hong_Thach_20002162_Cau_3.c	8.03	9
+TRAN THIEN CUON_20002109_BAI1.c	28.00	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	6
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Le_Sy_Van_20002178_Cau_1.c	25.00	7
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	27.59	6
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Dinh_Kha_Vy_20002183_cau3.c	8.51	6
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Le_Sy_Van_20002178_Cau_3.c	16.00	6
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	9.35	6
+TRAN THIEN CUON_20002109_BAI1.c	36.00	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	8
+TRAN THIEN CUON_20002109_BAI1.c	32.00	nguyenthuha20002121cau-2.c	10.81	7
+TRAN THIEN CUON_20002109_BAI1.c	24.00	Dao_Anh_Duong_20002112_cau2.c	5.94	6
+TRAN THIEN CUON_20002109_BAI1.c	40.00	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+TRAN THIEN CUON_20002109_BAI1.c	36.00	Do Phuong Nam-20002145-Cau1.c	37.50	8
+TRAN THIEN CUON_20002109_BAI1.c	44.00	Nguyen_Trong_Son_20002160_Cau_2.c	13.75	7
+TRAN THIEN CUON_20002109_BAI1.c	52.00	Pham_Hoang_AN_20002102_Cau_3.c	23.64	9
+TRAN THIEN CUON_20002109_BAI1.c	20.00	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+TRAN THIEN CUON_20002109_BAI1.c	36.00	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	6
+TRAN THIEN CUON_20002109_BAI1.c	20.00	Le_Hong_Thach_20002162_Cau_2.c	4.85	3
+TRAN THIEN CUON_20002109_BAI1.c	44.00	Luu_The_Trung_20002170_cau_3.c	7.48	7
+TRAN THIEN CUON_20002109_BAI1.c	44.00	Nguyen_Nhat_Tung_20002177_Cau1.c	15.94	7
+TRAN THIEN CUON_20002109_BAI1.c	24.00	Dao_Anh_Duong_20002112_cau3.c	3.70	6
+TRAN THIEN CUON_20002109_BAI1.c	48.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	7
+TRAN THIEN CUON_20002109_BAI1.c	52.00	Duong_Duc_Thinh_20002166_Cau_1.c	28.89	9
+TRAN THIEN CUON_20002109_BAI1.c	32.00	luyen_thi_quyen_20002158_cau_1.c	38.10	7
+TRAN THIEN CUON_20002109_BAI1.c	32.00	Dinh_Kha_Vy_20002183_cau2.c	8.51	6
+Tran_kim_phuong_20002154_cau_3.c	2.72	Tran_kim_phuong_20002154_cau_2.c	11.76	5
+Tran_kim_phuong_20002154_cau_3.c	5.44	tran thien cuong_20002109_bai2.c	7.92	8
+Tran_kim_phuong_20002154_cau_3.c	13.61	Dam_Van_Vu_20002180_Cau_3.c	18.87	18
+Tran_kim_phuong_20002154_cau_3.c	14.97	Do Phuong Nam-20002145-Cau2.c	24.72	12
+Tran_kim_phuong_20002154_cau_3.c	5.44	nguyen dinh hai 2002122 bai 1.c	10.00	9
+Tran_kim_phuong_20002154_cau_3.c	32.65	Pham_Hoang_An_20002102_Cau_2.c	26.97	16
+Tran_kim_phuong_20002154_cau_3.c	16.33	Nguyen_Nhat_Tung_20002177_Cau3.c	21.05	14
+Tran_kim_phuong_20002154_cau_3.c	6.80	Dam_Van_Vu_20002180_Cau_1.c	23.81	8
+Tran_kim_phuong_20002154_cau_3.c	4.76	Dinh_Kha_Vy_20002183_cau1.c	33.33	12
+Tran_kim_phuong_20002154_cau_3.c	10.88	Nguyen_Trong_Son_20002160_Cau_1.c	13.68	14
+Tran_kim_phuong_20002154_cau_3.c	5.44	Luu_The_Trung_20002170_cau_2.c	11.59	9
+Tran_kim_phuong_20002154_cau_3.c	49.66	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	35.78	29
+Tran_kim_phuong_20002154_cau_3.c	6.12	nguyen dinh hai 20002122 bai 3.c	10.11	11
+Tran_kim_phuong_20002154_cau_3.c	8.84	nguyen dinh hai 2002122 bai 2.c	11.82	12
+Tran_kim_phuong_20002154_cau_3.c	12.24	Le_Sy_Van_20002178_Cau_2.c	19.57	10
+Tran_kim_phuong_20002154_cau_3.c	3.40	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	7
+Tran_kim_phuong_20002154_cau_3.c	43.54	TRAN THIEN CUONG_20002109_BAI3.c	22.38	26
+Tran_kim_phuong_20002154_cau_3.c	10.88	Do Phuong Nam-20002145-Cau3.c	17.58	17
+Tran_kim_phuong_20002154_cau_3.c	4.76	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	9
+Tran_kim_phuong_20002154_cau_3.c	4.76	Tran_Thanh_Phong_20002152_Cau1.c	30.43	9
+Tran_kim_phuong_20002154_cau_3.c	17.69	TRAN_BINH_HUONG_20002137_CAU 2.c	22.81	14
+Tran_kim_phuong_20002154_cau_3.c	8.16	Le_Hong_Thach_20002162_Cau_1.c	24.00	14
+Tran_kim_phuong_20002154_cau_3.c	21.09	Dam_Van_Vu_20002180_Cau_2.c	26.27	26
+Tran_kim_phuong_20002154_cau_3.c	6.12	Dao_Anh_Duong_20002112_cau_1.c	16.36	9
+Tran_kim_phuong_20002154_cau_3.c	15.65	Le_Hong_Thach_20002162_Cau_3.c	16.79	15
+Tran_kim_phuong_20002154_cau_3.c	4.08	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	9
+Tran_kim_phuong_20002154_cau_3.c	3.40	Le_Sy_Van_20002178_Cau_1.c	12.50	5
+Tran_kim_phuong_20002154_cau_3.c	3.40	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	5
+Tran_kim_phuong_20002154_cau_3.c	15.65	Dinh_Kha_Vy_20002183_cau3.c	24.47	16
+Tran_kim_phuong_20002154_cau_3.c	6.12	Le_Sy_Van_20002178_Cau_3.c	18.00	7
+Tran_kim_phuong_20002154_cau_3.c	13.61	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	18.69	14
+Tran_kim_phuong_20002154_cau_3.c	10.88	Truong_Tuan_Anh_20002107_Cau_3.c	34.04	12
+Tran_kim_phuong_20002154_cau_3.c	19.05	nguyenthuha20002121cau-2.c	37.84	20
+Tran_kim_phuong_20002154_cau_3.c	17.69	Dao_Anh_Duong_20002112_cau2.c	25.74	20
+Tran_kim_phuong_20002154_cau_3.c	8.16	Nguyen_Thanh_Long_20002142_Cau_1.c	12.77	10
+Tran_kim_phuong_20002154_cau_3.c	3.40	Do Phuong Nam-20002145-Cau1.c	20.83	7
+Tran_kim_phuong_20002154_cau_3.c	12.24	Nguyen_Trong_Son_20002160_Cau_2.c	22.50	14
+Tran_kim_phuong_20002154_cau_3.c	14.29	Pham_Hoang_AN_20002102_Cau_3.c	38.18	17
+Tran_kim_phuong_20002154_cau_3.c	4.08	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Tran_kim_phuong_20002154_cau_3.c	6.12	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	7
+Tran_kim_phuong_20002154_cau_3.c	23.81	Le_Hong_Thach_20002162_Cau_2.c	33.98	12
+Tran_kim_phuong_20002154_cau_3.c	42.18	Luu_The_Trung_20002170_cau_3.c	42.18	27
+Tran_kim_phuong_20002154_cau_3.c	10.20	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	13
+Tran_kim_phuong_20002154_cau_3.c	48.30	Dao_Anh_Duong_20002112_cau3.c	43.83	34
+Tran_kim_phuong_20002154_cau_3.c	4.76	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	15.91	6
+Tran_kim_phuong_20002154_cau_3.c	4.76	Duong_Duc_Thinh_20002166_Cau_1.c	15.56	7
+Tran_kim_phuong_20002154_cau_3.c	4.76	luyen_thi_quyen_20002158_cau_1.c	33.33	12
+Tran_kim_phuong_20002154_cau_3.c	15.65	Dinh_Kha_Vy_20002183_cau2.c	24.47	15
+Tran_kim_phuong_20002154_cau_2.c	8.82	tran thien cuong_20002109_bai2.c	2.97	4
+Tran_kim_phuong_20002154_cau_2.c	11.76	Dam_Van_Vu_20002180_Cau_3.c	3.77	4
+Tran_kim_phuong_20002154_cau_2.c	17.65	Do Phuong Nam-20002145-Cau2.c	6.74	8
+Tran_kim_phuong_20002154_cau_2.c	20.59	nguyen dinh hai 2002122 bai 1.c	8.75	7
+Tran_kim_phuong_20002154_cau_2.c	17.65	Pham_Hoang_An_20002102_Cau_2.c	3.37	8
+Tran_kim_phuong_20002154_cau_2.c	17.65	Nguyen_Nhat_Tung_20002177_Cau3.c	5.26	9
+Tran_kim_phuong_20002154_cau_2.c	23.53	Dam_Van_Vu_20002180_Cau_1.c	19.05	6
+Tran_kim_phuong_20002154_cau_2.c	17.65	Dinh_Kha_Vy_20002183_cau1.c	28.57	6
+Tran_kim_phuong_20002154_cau_2.c	14.71	Nguyen_Trong_Son_20002160_Cau_1.c	4.27	5
+Tran_kim_phuong_20002154_cau_2.c	8.82	Luu_The_Trung_20002170_cau_2.c	4.35	4
+Tran_kim_phuong_20002154_cau_2.c	8.82	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	1.47	4
+Tran_kim_phuong_20002154_cau_2.c	17.65	nguyen dinh hai 20002122 bai 3.c	6.74	7
+Tran_kim_phuong_20002154_cau_2.c	14.71	nguyen dinh hai 2002122 bai 2.c	4.55	8
+Tran_kim_phuong_20002154_cau_2.c	11.76	Le_Sy_Van_20002178_Cau_2.c	4.35	6
+Tran_kim_phuong_20002154_cau_2.c	17.65	Truong_Tuan_Anh_20002107_Cau_1.c	25.00	9
+Tran_kim_phuong_20002154_cau_2.c	8.82	TRAN THIEN CUONG_20002109_BAI3.c	1.05	4
+Tran_kim_phuong_20002154_cau_2.c	14.71	Do Phuong Nam-20002145-Cau3.c	5.49	8
+Tran_kim_phuong_20002154_cau_2.c	23.53	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	11
+Tran_kim_phuong_20002154_cau_2.c	26.47	Tran_Thanh_Phong_20002152_Cau1.c	39.13	9
+Tran_kim_phuong_20002154_cau_2.c	17.65	TRAN_BINH_HUONG_20002137_CAU 2.c	5.26	11
+Tran_kim_phuong_20002154_cau_2.c	23.53	Le_Hong_Thach_20002162_Cau_1.c	16.00	5
+Tran_kim_phuong_20002154_cau_2.c	14.71	Dam_Van_Vu_20002180_Cau_2.c	4.24	6
+Tran_kim_phuong_20002154_cau_2.c	26.47	Dao_Anh_Duong_20002112_cau_1.c	16.36	6
+Tran_kim_phuong_20002154_cau_2.c	20.59	Le_Hong_Thach_20002162_Cau_3.c	5.11	10
+Tran_kim_phuong_20002154_cau_2.c	11.76	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	5
+Tran_kim_phuong_20002154_cau_2.c	20.59	Le_Sy_Van_20002178_Cau_1.c	17.50	7
+Tran_kim_phuong_20002154_cau_2.c	14.71	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	4
+Tran_kim_phuong_20002154_cau_2.c	11.76	Dinh_Kha_Vy_20002183_cau3.c	4.26	6
+Tran_kim_phuong_20002154_cau_2.c	8.82	Le_Sy_Van_20002178_Cau_3.c	6.00	5
+Tran_kim_phuong_20002154_cau_2.c	17.65	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	5.61	7
+Tran_kim_phuong_20002154_cau_2.c	17.65	Truong_Tuan_Anh_20002107_Cau_3.c	12.77	6
+Tran_kim_phuong_20002154_cau_2.c	23.53	nguyenthuha20002121cau-2.c	10.81	11
+Tran_kim_phuong_20002154_cau_2.c	11.76	Dao_Anh_Duong_20002112_cau2.c	3.96	5
+Tran_kim_phuong_20002154_cau_2.c	14.71	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	6
+Tran_kim_phuong_20002154_cau_2.c	14.71	Do Phuong Nam-20002145-Cau1.c	20.83	5
+Tran_kim_phuong_20002154_cau_2.c	20.59	Nguyen_Trong_Son_20002160_Cau_2.c	8.75	9
+Tran_kim_phuong_20002154_cau_2.c	20.59	Pham_Hoang_AN_20002102_Cau_3.c	12.73	8
+Tran_kim_phuong_20002154_cau_2.c	11.76	tran_minh_hoang_msv20002127_cau_3.c	23.53	5
+Tran_kim_phuong_20002154_cau_2.c	17.65	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	6
+Tran_kim_phuong_20002154_cau_2.c	17.65	Le_Hong_Thach_20002162_Cau_2.c	5.83	8
+Tran_kim_phuong_20002154_cau_2.c	20.59	Luu_The_Trung_20002170_cau_3.c	4.76	7
+Tran_kim_phuong_20002154_cau_2.c	17.65	Nguyen_Nhat_Tung_20002177_Cau1.c	8.70	6
+Tran_kim_phuong_20002154_cau_2.c	11.76	Dao_Anh_Duong_20002112_cau3.c	2.47	5
+Tran_kim_phuong_20002154_cau_2.c	23.53	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	18.18	6
+Tran_kim_phuong_20002154_cau_2.c	17.65	Duong_Duc_Thinh_20002166_Cau_1.c	13.33	5
+Tran_kim_phuong_20002154_cau_2.c	17.65	luyen_thi_quyen_20002158_cau_1.c	28.57	6
+Tran_kim_phuong_20002154_cau_2.c	11.76	Dinh_Kha_Vy_20002183_cau2.c	4.26	6
+tran thien cuong_20002109_bai2.c	7.92	Dam_Van_Vu_20002180_Cau_3.c	7.55	5
+tran thien cuong_20002109_bai2.c	8.91	Do Phuong Nam-20002145-Cau2.c	10.11	6
+tran thien cuong_20002109_bai2.c	10.89	nguyen dinh hai 2002122 bai 1.c	13.75	6
+tran thien cuong_20002109_bai2.c	10.89	Pham_Hoang_An_20002102_Cau_2.c	6.18	8
+tran thien cuong_20002109_bai2.c	8.91	Nguyen_Nhat_Tung_20002177_Cau3.c	7.89	6
+tran thien cuong_20002109_bai2.c	7.92	Dam_Van_Vu_20002180_Cau_1.c	19.05	5
+tran thien cuong_20002109_bai2.c	2.97	Dinh_Kha_Vy_20002183_cau1.c	14.29	4
+tran thien cuong_20002109_bai2.c	9.90	Nguyen_Trong_Son_20002160_Cau_1.c	8.55	7
+tran thien cuong_20002109_bai2.c	19.80	Luu_The_Trung_20002170_cau_2.c	28.99	9
+tran thien cuong_20002109_bai2.c	13.86	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	10
+tran thien cuong_20002109_bai2.c	25.74	nguyen dinh hai 20002122 bai 3.c	29.21	12
+tran thien cuong_20002109_bai2.c	10.89	nguyen dinh hai 2002122 bai 2.c	10.00	10
+tran thien cuong_20002109_bai2.c	7.92	Le_Sy_Van_20002178_Cau_2.c	8.70	4
+tran thien cuong_20002109_bai2.c	2.97	Truong_Tuan_Anh_20002107_Cau_1.c	12.50	4
+tran thien cuong_20002109_bai2.c	11.88	TRAN THIEN CUONG_20002109_BAI3.c	4.20	9
+tran thien cuong_20002109_bai2.c	6.93	Do Phuong Nam-20002145-Cau3.c	7.69	3
+tran thien cuong_20002109_bai2.c	4.95	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	6
+tran thien cuong_20002109_bai2.c	7.92	Tran_Thanh_Phong_20002152_Cau1.c	34.78	5
+tran thien cuong_20002109_bai2.c	15.84	TRAN_BINH_HUONG_20002137_CAU 2.c	14.04	6
+tran thien cuong_20002109_bai2.c	7.92	Le_Hong_Thach_20002162_Cau_1.c	16.00	5
+tran thien cuong_20002109_bai2.c	11.88	Dam_Van_Vu_20002180_Cau_2.c	10.17	6
+tran thien cuong_20002109_bai2.c	11.88	Dao_Anh_Duong_20002112_cau_1.c	21.82	7
+tran thien cuong_20002109_bai2.c	14.85	Le_Hong_Thach_20002162_Cau_3.c	10.95	11
+tran thien cuong_20002109_bai2.c	2.97	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	11.54	4
+tran thien cuong_20002109_bai2.c	7.92	Le_Sy_Van_20002178_Cau_1.c	20.00	5
+tran thien cuong_20002109_bai2.c	9.90	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	5
+tran thien cuong_20002109_bai2.c	7.92	Dinh_Kha_Vy_20002183_cau3.c	8.51	5
+tran thien cuong_20002109_bai2.c	11.88	Le_Sy_Van_20002178_Cau_3.c	24.00	3
+tran thien cuong_20002109_bai2.c	10.89	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	10.28	8
+tran thien cuong_20002109_bai2.c	2.97	Truong_Tuan_Anh_20002107_Cau_3.c	6.38	4
+tran thien cuong_20002109_bai2.c	4.95	nguyenthuha20002121cau-2.c	6.76	5
+tran thien cuong_20002109_bai2.c	9.90	Dao_Anh_Duong_20002112_cau2.c	9.90	9
+tran thien cuong_20002109_bai2.c	7.92	Nguyen_Thanh_Long_20002142_Cau_1.c	8.51	5
+tran thien cuong_20002109_bai2.c	2.97	Do Phuong Nam-20002145-Cau1.c	12.50	4
+tran thien cuong_20002109_bai2.c	8.91	Nguyen_Trong_Son_20002160_Cau_2.c	11.25	6
+tran thien cuong_20002109_bai2.c	11.88	Pham_Hoang_AN_20002102_Cau_3.c	21.82	9
+tran thien cuong_20002109_bai2.c	2.97	tran_minh_hoang_msv20002127_cau_3.c	17.65	4
+tran thien cuong_20002109_bai2.c	2.97	TRAN_BINH_HUONG_20002137_CAU 3.c	10.71	4
+tran thien cuong_20002109_bai2.c	4.95	Le_Hong_Thach_20002162_Cau_2.c	4.85	3
+tran thien cuong_20002109_bai2.c	8.91	Luu_The_Trung_20002170_cau_3.c	6.12	7
+tran thien cuong_20002109_bai2.c	8.91	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	7
+tran thien cuong_20002109_bai2.c	5.94	Dao_Anh_Duong_20002112_cau3.c	3.70	7
+tran thien cuong_20002109_bai2.c	8.91	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	6
+tran thien cuong_20002109_bai2.c	9.90	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	6
+tran thien cuong_20002109_bai2.c	2.97	luyen_thi_quyen_20002158_cau_1.c	14.29	4
+tran thien cuong_20002109_bai2.c	7.92	Dinh_Kha_Vy_20002183_cau2.c	8.51	5
+Dam_Van_Vu_20002180_Cau_3.c	14.15	Do Phuong Nam-20002145-Cau2.c	16.85	8
+Dam_Van_Vu_20002180_Cau_3.c	10.38	nguyen dinh hai 2002122 bai 1.c	13.75	6
+Dam_Van_Vu_20002180_Cau_3.c	12.26	Pham_Hoang_An_20002102_Cau_2.c	7.30	10
+Dam_Van_Vu_20002180_Cau_3.c	22.64	Nguyen_Nhat_Tung_20002177_Cau3.c	21.05	12
+Dam_Van_Vu_20002180_Cau_3.c	13.21	Dam_Van_Vu_20002180_Cau_1.c	33.33	10
+Dam_Van_Vu_20002180_Cau_3.c	8.49	Dinh_Kha_Vy_20002183_cau1.c	42.86	9
+Dam_Van_Vu_20002180_Cau_3.c	12.26	Nguyen_Trong_Son_20002160_Cau_1.c	11.11	12
+Dam_Van_Vu_20002180_Cau_3.c	8.49	Luu_The_Trung_20002170_cau_2.c	13.04	6
+Dam_Van_Vu_20002180_Cau_3.c	13.21	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	10
+Dam_Van_Vu_20002180_Cau_3.c	8.49	nguyen dinh hai 20002122 bai 3.c	10.11	6
+Dam_Van_Vu_20002180_Cau_3.c	10.38	nguyen dinh hai 2002122 bai 2.c	10.00	12
+Dam_Van_Vu_20002180_Cau_3.c	12.26	Le_Sy_Van_20002178_Cau_2.c	14.13	8
+Dam_Van_Vu_20002180_Cau_3.c	5.66	Truong_Tuan_Anh_20002107_Cau_1.c	25.00	6
+Dam_Van_Vu_20002180_Cau_3.c	14.15	TRAN THIEN CUONG_20002109_BAI3.c	5.24	11
+Dam_Van_Vu_20002180_Cau_3.c	39.62	Do Phuong Nam-20002145-Cau3.c	46.15	23
+Dam_Van_Vu_20002180_Cau_3.c	6.60	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	7
+Dam_Van_Vu_20002180_Cau_3.c	10.38	Tran_Thanh_Phong_20002152_Cau1.c	47.83	7
+Dam_Van_Vu_20002180_Cau_3.c	16.98	TRAN_BINH_HUONG_20002137_CAU 2.c	15.79	9
+Dam_Van_Vu_20002180_Cau_3.c	10.38	Le_Hong_Thach_20002162_Cau_1.c	22.00	8
+Dam_Van_Vu_20002180_Cau_3.c	11.32	Dam_Van_Vu_20002180_Cau_2.c	10.17	11
+Dam_Van_Vu_20002180_Cau_3.c	8.49	Dao_Anh_Duong_20002112_cau_1.c	16.36	5
+Dam_Van_Vu_20002180_Cau_3.c	12.26	Le_Hong_Thach_20002162_Cau_3.c	9.49	10
+Dam_Van_Vu_20002180_Cau_3.c	3.77	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	4
+Dam_Van_Vu_20002180_Cau_3.c	8.49	Le_Sy_Van_20002178_Cau_1.c	22.50	5
+Dam_Van_Vu_20002180_Cau_3.c	8.49	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	5
+Dam_Van_Vu_20002180_Cau_3.c	13.21	Dinh_Kha_Vy_20002183_cau3.c	14.89	10
+Dam_Van_Vu_20002180_Cau_3.c	20.75	Le_Sy_Van_20002178_Cau_3.c	44.00	12
+Dam_Van_Vu_20002180_Cau_3.c	16.98	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	16.82	10
+Dam_Van_Vu_20002180_Cau_3.c	9.43	Truong_Tuan_Anh_20002107_Cau_3.c	21.28	8
+Dam_Van_Vu_20002180_Cau_3.c	16.98	nguyenthuha20002121cau-2.c	24.32	11
+Dam_Van_Vu_20002180_Cau_3.c	14.15	Dao_Anh_Duong_20002112_cau2.c	14.85	10
+Dam_Van_Vu_20002180_Cau_3.c	13.21	Nguyen_Thanh_Long_20002142_Cau_1.c	14.89	6
+Dam_Van_Vu_20002180_Cau_3.c	3.77	Do Phuong Nam-20002145-Cau1.c	16.67	4
+Dam_Van_Vu_20002180_Cau_3.c	14.15	Nguyen_Trong_Son_20002160_Cau_2.c	18.75	10
+Dam_Van_Vu_20002180_Cau_3.c	16.04	Pham_Hoang_AN_20002102_Cau_3.c	30.91	10
+Dam_Van_Vu_20002180_Cau_3.c	6.60	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+Dam_Van_Vu_20002180_Cau_3.c	6.60	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	9
+Dam_Van_Vu_20002180_Cau_3.c	16.04	Le_Hong_Thach_20002162_Cau_2.c	16.50	8
+Dam_Van_Vu_20002180_Cau_3.c	13.21	Luu_The_Trung_20002170_cau_3.c	9.52	9
+Dam_Van_Vu_20002180_Cau_3.c	21.70	Nguyen_Nhat_Tung_20002177_Cau1.c	33.33	17
+Dam_Van_Vu_20002180_Cau_3.c	8.49	Dao_Anh_Duong_20002112_cau3.c	5.56	8
+Dam_Van_Vu_20002180_Cau_3.c	9.43	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	8
+Dam_Van_Vu_20002180_Cau_3.c	12.26	Duong_Duc_Thinh_20002166_Cau_1.c	28.89	10
+Dam_Van_Vu_20002180_Cau_3.c	8.49	luyen_thi_quyen_20002158_cau_1.c	42.86	9
+Dam_Van_Vu_20002180_Cau_3.c	13.21	Dinh_Kha_Vy_20002183_cau2.c	14.89	10
+Do Phuong Nam-20002145-Cau2.c	13.48	nguyen dinh hai 2002122 bai 1.c	15.00	8
+Do Phuong Nam-20002145-Cau2.c	28.09	Pham_Hoang_An_20002102_Cau_2.c	14.04	10
+Do Phuong Nam-20002145-Cau2.c	53.93	Nguyen_Nhat_Tung_20002177_Cau3.c	42.11	29
+Do Phuong Nam-20002145-Cau2.c	13.48	Dam_Van_Vu_20002180_Cau_1.c	28.57	8
+Do Phuong Nam-20002145-Cau2.c	7.87	Dinh_Kha_Vy_20002183_cau1.c	33.33	8
+Do Phuong Nam-20002145-Cau2.c	12.36	Nguyen_Trong_Son_20002160_Cau_1.c	9.40	7
+Do Phuong Nam-20002145-Cau2.c	8.99	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Do Phuong Nam-20002145-Cau2.c	28.09	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	12.25	12
+Do Phuong Nam-20002145-Cau2.c	11.24	nguyen dinh hai 20002122 bai 3.c	11.24	7
+Do Phuong Nam-20002145-Cau2.c	11.24	nguyen dinh hai 2002122 bai 2.c	9.09	9
+Do Phuong Nam-20002145-Cau2.c	31.46	Le_Sy_Van_20002178_Cau_2.c	30.43	15
+Do Phuong Nam-20002145-Cau2.c	8.99	Truong_Tuan_Anh_20002107_Cau_1.c	33.33	11
+Do Phuong Nam-20002145-Cau2.c	28.09	TRAN THIEN CUONG_20002109_BAI3.c	8.74	12
+Do Phuong Nam-20002145-Cau2.c	21.35	Do Phuong Nam-20002145-Cau3.c	20.88	12
+Do Phuong Nam-20002145-Cau2.c	8.99	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	10
+Do Phuong Nam-20002145-Cau2.c	12.36	Tran_Thanh_Phong_20002152_Cau1.c	47.83	8
+Do Phuong Nam-20002145-Cau2.c	47.19	TRAN_BINH_HUONG_20002137_CAU 2.c	36.84	20
+Do Phuong Nam-20002145-Cau2.c	11.24	Le_Hong_Thach_20002162_Cau_1.c	20.00	6
+Do Phuong Nam-20002145-Cau2.c	35.96	Dam_Van_Vu_20002180_Cau_2.c	27.12	11
+Do Phuong Nam-20002145-Cau2.c	14.61	Dao_Anh_Duong_20002112_cau_1.c	23.64	9
+Do Phuong Nam-20002145-Cau2.c	21.35	Le_Hong_Thach_20002162_Cau_3.c	13.87	20
+Do Phuong Nam-20002145-Cau2.c	7.87	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	7
+Do Phuong Nam-20002145-Cau2.c	10.11	Le_Sy_Van_20002178_Cau_1.c	22.50	6
+Do Phuong Nam-20002145-Cau2.c	10.11	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+Do Phuong Nam-20002145-Cau2.c	23.60	Dinh_Kha_Vy_20002183_cau3.c	22.34	16
+Do Phuong Nam-20002145-Cau2.c	16.85	Le_Sy_Van_20002178_Cau_3.c	30.00	8
+Do Phuong Nam-20002145-Cau2.c	39.33	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	32.71	21
+Do Phuong Nam-20002145-Cau2.c	11.24	Truong_Tuan_Anh_20002107_Cau_3.c	21.28	8
+Do Phuong Nam-20002145-Cau2.c	30.34	nguyenthuha20002121cau-2.c	36.49	17
+Do Phuong Nam-20002145-Cau2.c	32.58	Dao_Anh_Duong_20002112_cau2.c	28.71	11
+Do Phuong Nam-20002145-Cau2.c	11.24	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+Do Phuong Nam-20002145-Cau2.c	4.49	Do Phuong Nam-20002145-Cau1.c	16.67	5
+Do Phuong Nam-20002145-Cau2.c	44.94	Nguyen_Trong_Son_20002160_Cau_2.c	50.00	21
+Do Phuong Nam-20002145-Cau2.c	20.22	Pham_Hoang_AN_20002102_Cau_3.c	32.73	11
+Do Phuong Nam-20002145-Cau2.c	5.62	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Do Phuong Nam-20002145-Cau2.c	6.74	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	6
+Do Phuong Nam-20002145-Cau2.c	29.21	Le_Hong_Thach_20002162_Cau_2.c	25.24	14
+Do Phuong Nam-20002145-Cau2.c	16.85	Luu_The_Trung_20002170_cau_3.c	10.20	10
+Do Phuong Nam-20002145-Cau2.c	21.35	Nguyen_Nhat_Tung_20002177_Cau1.c	27.54	9
+Do Phuong Nam-20002145-Cau2.c	13.48	Dao_Anh_Duong_20002112_cau3.c	7.41	8
+Do Phuong Nam-20002145-Cau2.c	11.24	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	6
+Do Phuong Nam-20002145-Cau2.c	11.24	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	6
+Do Phuong Nam-20002145-Cau2.c	7.87	luyen_thi_quyen_20002158_cau_1.c	33.33	8
+Do Phuong Nam-20002145-Cau2.c	23.60	Dinh_Kha_Vy_20002183_cau2.c	22.34	15
+nguyen dinh hai 2002122 bai 1.c	15.00	Pham_Hoang_An_20002102_Cau_2.c	6.74	10
+nguyen dinh hai 2002122 bai 1.c	12.50	Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	7
+nguyen dinh hai 2002122 bai 1.c	18.75	Dam_Van_Vu_20002180_Cau_1.c	35.71	11
+nguyen dinh hai 2002122 bai 1.c	8.75	Dinh_Kha_Vy_20002183_cau1.c	33.33	9
+nguyen dinh hai 2002122 bai 1.c	22.50	Nguyen_Trong_Son_20002160_Cau_1.c	15.38	13
+nguyen dinh hai 2002122 bai 1.c	16.25	Luu_The_Trung_20002170_cau_2.c	18.84	8
+nguyen dinh hai 2002122 bai 1.c	16.25	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.37	11
+nguyen dinh hai 2002122 bai 1.c	20.00	nguyen dinh hai 20002122 bai 3.c	17.98	11
+nguyen dinh hai 2002122 bai 1.c	11.25	nguyen dinh hai 2002122 bai 2.c	8.18	8
+nguyen dinh hai 2002122 bai 1.c	11.25	Le_Sy_Van_20002178_Cau_2.c	9.78	5
+nguyen dinh hai 2002122 bai 1.c	7.50	Truong_Tuan_Anh_20002107_Cau_1.c	25.00	7
+nguyen dinh hai 2002122 bai 1.c	11.25	TRAN THIEN CUONG_20002109_BAI3.c	3.15	8
+nguyen dinh hai 2002122 bai 1.c	13.75	Do Phuong Nam-20002145-Cau3.c	12.09	9
+nguyen dinh hai 2002122 bai 1.c	11.25	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	36.00	7
+nguyen dinh hai 2002122 bai 1.c	15.00	Tran_Thanh_Phong_20002152_Cau1.c	52.17	9
+nguyen dinh hai 2002122 bai 1.c	28.75	TRAN_BINH_HUONG_20002137_CAU 2.c	20.18	11
+nguyen dinh hai 2002122 bai 1.c	21.25	Le_Hong_Thach_20002162_Cau_1.c	34.00	9
+nguyen dinh hai 2002122 bai 1.c	15.00	Dam_Van_Vu_20002180_Cau_2.c	10.17	6
+nguyen dinh hai 2002122 bai 1.c	40.00	Dao_Anh_Duong_20002112_cau_1.c	58.18	12
+nguyen dinh hai 2002122 bai 1.c	15.00	Le_Hong_Thach_20002162_Cau_3.c	8.76	10
+nguyen dinh hai 2002122 bai 1.c	11.25	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	34.62	8
+nguyen dinh hai 2002122 bai 1.c	13.75	Le_Sy_Van_20002178_Cau_1.c	27.50	8
+nguyen dinh hai 2002122 bai 1.c	12.50	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	7
+nguyen dinh hai 2002122 bai 1.c	15.00	Dinh_Kha_Vy_20002183_cau3.c	12.77	10
+nguyen dinh hai 2002122 bai 1.c	17.50	Le_Sy_Van_20002178_Cau_3.c	28.00	8
+nguyen dinh hai 2002122 bai 1.c	13.75	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	10.28	7
+nguyen dinh hai 2002122 bai 1.c	15.00	Truong_Tuan_Anh_20002107_Cau_3.c	25.53	9
+nguyen dinh hai 2002122 bai 1.c	11.25	nguyenthuha20002121cau-2.c	12.16	9
+nguyen dinh hai 2002122 bai 1.c	16.25	Dao_Anh_Duong_20002112_cau2.c	12.87	9
+nguyen dinh hai 2002122 bai 1.c	13.75	Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	8
+nguyen dinh hai 2002122 bai 1.c	8.75	Do Phuong Nam-20002145-Cau1.c	29.17	7
+nguyen dinh hai 2002122 bai 1.c	15.00	Nguyen_Trong_Son_20002160_Cau_2.c	15.00	10
+nguyen dinh hai 2002122 bai 1.c	20.00	Pham_Hoang_AN_20002102_Cau_3.c	29.09	10
+nguyen dinh hai 2002122 bai 1.c	6.25	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+nguyen dinh hai 2002122 bai 1.c	8.75	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	6
+nguyen dinh hai 2002122 bai 1.c	6.25	Le_Hong_Thach_20002162_Cau_2.c	4.85	3
+nguyen dinh hai 2002122 bai 1.c	15.00	Luu_The_Trung_20002170_cau_3.c	8.16	9
+nguyen dinh hai 2002122 bai 1.c	15.00	Nguyen_Nhat_Tung_20002177_Cau1.c	17.39	7
+nguyen dinh hai 2002122 bai 1.c	11.25	Dao_Anh_Duong_20002112_cau3.c	5.56	10
+nguyen dinh hai 2002122 bai 1.c	22.50	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	40.91	9
+nguyen dinh hai 2002122 bai 1.c	16.25	Duong_Duc_Thinh_20002166_Cau_1.c	28.89	9
+nguyen dinh hai 2002122 bai 1.c	7.50	luyen_thi_quyen_20002158_cau_1.c	28.57	8
+nguyen dinh hai 2002122 bai 1.c	15.00	Dinh_Kha_Vy_20002183_cau2.c	12.77	10
+Pham_Hoang_An_20002102_Cau_2.c	16.29	Nguyen_Nhat_Tung_20002177_Cau3.c	25.44	13
+Pham_Hoang_An_20002102_Cau_2.c	7.30	Dam_Van_Vu_20002180_Cau_1.c	30.95	9
+Pham_Hoang_An_20002102_Cau_2.c	3.37	Dinh_Kha_Vy_20002183_cau1.c	28.57	9
+Pham_Hoang_An_20002102_Cau_2.c	8.99	Nguyen_Trong_Son_20002160_Cau_1.c	13.68	13
+Pham_Hoang_An_20002102_Cau_2.c	5.62	Luu_The_Trung_20002170_cau_2.c	14.49	8
+Pham_Hoang_An_20002102_Cau_2.c	21.35	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	18.63	15
+Pham_Hoang_An_20002102_Cau_2.c	7.87	nguyen dinh hai 20002122 bai 3.c	15.73	13
+Pham_Hoang_An_20002102_Cau_2.c	16.85	nguyen dinh hai 2002122 bai 2.c	27.27	18
+Pham_Hoang_An_20002102_Cau_2.c	10.67	Le_Sy_Van_20002178_Cau_2.c	20.65	7
+Pham_Hoang_An_20002102_Cau_2.c	2.81	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	6
+Pham_Hoang_An_20002102_Cau_2.c	26.40	TRAN THIEN CUONG_20002109_BAI3.c	16.43	18
+Pham_Hoang_An_20002102_Cau_2.c	8.43	Do Phuong Nam-20002145-Cau3.c	16.48	10
+Pham_Hoang_An_20002102_Cau_2.c	3.93	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	10
+Pham_Hoang_An_20002102_Cau_2.c	5.62	Tran_Thanh_Phong_20002152_Cau1.c	43.48	8
+Pham_Hoang_An_20002102_Cau_2.c	20.22	TRAN_BINH_HUONG_20002137_CAU 2.c	31.58	19
+Pham_Hoang_An_20002102_Cau_2.c	7.30	Le_Hong_Thach_20002162_Cau_1.c	26.00	10
+Pham_Hoang_An_20002102_Cau_2.c	14.04	Dam_Van_Vu_20002180_Cau_2.c	21.19	8
+Pham_Hoang_An_20002102_Cau_2.c	7.30	Dao_Anh_Duong_20002112_cau_1.c	23.64	9
+Pham_Hoang_An_20002102_Cau_2.c	48.31	Le_Hong_Thach_20002162_Cau_3.c	62.77	41
+Pham_Hoang_An_20002102_Cau_2.c	3.37	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	5
+Pham_Hoang_An_20002102_Cau_2.c	4.49	Le_Sy_Van_20002178_Cau_1.c	20.00	5
+Pham_Hoang_An_20002102_Cau_2.c	5.62	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	6
+Pham_Hoang_An_20002102_Cau_2.c	18.54	Dinh_Kha_Vy_20002183_cau3.c	35.11	19
+Pham_Hoang_An_20002102_Cau_2.c	8.43	Le_Sy_Van_20002178_Cau_3.c	30.00	6
+Pham_Hoang_An_20002102_Cau_2.c	12.36	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	20.56	15
+Pham_Hoang_An_20002102_Cau_2.c	5.62	Truong_Tuan_Anh_20002107_Cau_3.c	21.28	9
+Pham_Hoang_An_20002102_Cau_2.c	12.36	nguyenthuha20002121cau-2.c	29.73	13
+Pham_Hoang_An_20002102_Cau_2.c	12.36	Dao_Anh_Duong_20002112_cau2.c	21.78	16
+Pham_Hoang_An_20002102_Cau_2.c	7.30	Nguyen_Thanh_Long_20002142_Cau_1.c	13.83	14
+Pham_Hoang_An_20002102_Cau_2.c	2.25	Do Phuong Nam-20002145-Cau1.c	16.67	6
+Pham_Hoang_An_20002102_Cau_2.c	12.36	Nguyen_Trong_Son_20002160_Cau_2.c	27.50	16
+Pham_Hoang_An_20002102_Cau_2.c	11.80	Pham_Hoang_AN_20002102_Cau_3.c	38.18	12
+Pham_Hoang_An_20002102_Cau_2.c	2.25	tran_minh_hoang_msv20002127_cau_3.c	23.53	5
+Pham_Hoang_An_20002102_Cau_2.c	4.49	TRAN_BINH_HUONG_20002137_CAU 3.c	28.57	9
+Pham_Hoang_An_20002102_Cau_2.c	18.54	Le_Hong_Thach_20002162_Cau_2.c	32.04	14
+Pham_Hoang_An_20002102_Cau_2.c	21.35	Luu_The_Trung_20002170_cau_3.c	25.85	18
+Pham_Hoang_An_20002102_Cau_2.c	8.99	Nguyen_Nhat_Tung_20002177_Cau1.c	23.19	12
+Pham_Hoang_An_20002102_Cau_2.c	26.40	Dao_Anh_Duong_20002112_cau3.c	29.01	18
+Pham_Hoang_An_20002102_Cau_2.c	6.18	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	25.00	7
+Pham_Hoang_An_20002102_Cau_2.c	5.06	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	5
+Pham_Hoang_An_20002102_Cau_2.c	3.37	luyen_thi_quyen_20002158_cau_1.c	28.57	9
+Pham_Hoang_An_20002102_Cau_2.c	18.54	Dinh_Kha_Vy_20002183_cau2.c	35.11	19
+Nguyen_Nhat_Tung_20002177_Cau3.c	9.65	Dam_Van_Vu_20002180_Cau_1.c	26.19	7
+Nguyen_Nhat_Tung_20002177_Cau3.c	7.02	Dinh_Kha_Vy_20002183_cau1.c	38.10	11
+Nguyen_Nhat_Tung_20002177_Cau3.c	14.04	Nguyen_Trong_Son_20002160_Cau_1.c	13.68	8
+Nguyen_Nhat_Tung_20002177_Cau3.c	7.02	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Nguyen_Nhat_Tung_20002177_Cau3.c	23.68	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	13.24	8
+Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	nguyen dinh hai 20002122 bai 3.c	11.24	7
+Nguyen_Nhat_Tung_20002177_Cau3.c	14.04	nguyen dinh hai 2002122 bai 2.c	14.55	10
+Nguyen_Nhat_Tung_20002177_Cau3.c	28.07	Le_Sy_Van_20002178_Cau_2.c	34.78	14
+Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	Truong_Tuan_Anh_20002107_Cau_1.c	41.67	11
+Nguyen_Nhat_Tung_20002177_Cau3.c	25.44	TRAN THIEN CUONG_20002109_BAI3.c	10.14	12
+Nguyen_Nhat_Tung_20002177_Cau3.c	22.81	Do Phuong Nam-20002145-Cau3.c	28.57	14
+Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	40.00	10
+Nguyen_Nhat_Tung_20002177_Cau3.c	10.53	Tran_Thanh_Phong_20002152_Cau1.c	52.17	8
+Nguyen_Nhat_Tung_20002177_Cau3.c	38.60	TRAN_BINH_HUONG_20002137_CAU 2.c	38.60	22
+Nguyen_Nhat_Tung_20002177_Cau3.c	7.89	Le_Hong_Thach_20002162_Cau_1.c	18.00	5
+Nguyen_Nhat_Tung_20002177_Cau3.c	23.68	Dam_Van_Vu_20002180_Cau_2.c	22.88	13
+Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	Dao_Anh_Duong_20002112_cau_1.c	18.18	5
+Nguyen_Nhat_Tung_20002177_Cau3.c	18.42	Le_Hong_Thach_20002162_Cau_3.c	15.33	18
+Nguyen_Nhat_Tung_20002177_Cau3.c	3.51	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	5
+Nguyen_Nhat_Tung_20002177_Cau3.c	7.89	Le_Sy_Van_20002178_Cau_1.c	22.50	6
+Nguyen_Nhat_Tung_20002177_Cau3.c	7.89	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+Nguyen_Nhat_Tung_20002177_Cau3.c	24.56	Dinh_Kha_Vy_20002183_cau3.c	29.79	15
+Nguyen_Nhat_Tung_20002177_Cau3.c	14.04	Le_Sy_Van_20002178_Cau_3.c	32.00	10
+Nguyen_Nhat_Tung_20002177_Cau3.c	40.35	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	42.99	15
+Nguyen_Nhat_Tung_20002177_Cau3.c	14.04	Truong_Tuan_Anh_20002107_Cau_3.c	34.04	10
+Nguyen_Nhat_Tung_20002177_Cau3.c	32.46	nguyenthuha20002121cau-2.c	50.00	28
+Nguyen_Nhat_Tung_20002177_Cau3.c	22.81	Dao_Anh_Duong_20002112_cau2.c	25.74	12
+Nguyen_Nhat_Tung_20002177_Cau3.c	13.16	Nguyen_Thanh_Long_20002142_Cau_1.c	15.96	7
+Nguyen_Nhat_Tung_20002177_Cau3.c	3.51	Do Phuong Nam-20002145-Cau1.c	16.67	5
+Nguyen_Nhat_Tung_20002177_Cau3.c	42.11	Nguyen_Trong_Son_20002160_Cau_2.c	60.00	23
+Nguyen_Nhat_Tung_20002177_Cau3.c	15.79	Pham_Hoang_AN_20002102_Cau_3.c	32.73	10
+Nguyen_Nhat_Tung_20002177_Cau3.c	5.26	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Nguyen_Nhat_Tung_20002177_Cau3.c	5.26	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	6
+Nguyen_Nhat_Tung_20002177_Cau3.c	33.33	Le_Hong_Thach_20002162_Cau_2.c	36.89	23
+Nguyen_Nhat_Tung_20002177_Cau3.c	18.42	Luu_The_Trung_20002170_cau_3.c	14.29	11
+Nguyen_Nhat_Tung_20002177_Cau3.c	13.16	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	11
+Nguyen_Nhat_Tung_20002177_Cau3.c	11.40	Dao_Anh_Duong_20002112_cau3.c	8.02	8
+Nguyen_Nhat_Tung_20002177_Cau3.c	8.77	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	6
+Nguyen_Nhat_Tung_20002177_Cau3.c	9.65	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	7
+Nguyen_Nhat_Tung_20002177_Cau3.c	7.02	luyen_thi_quyen_20002158_cau_1.c	38.10	11
+Nguyen_Nhat_Tung_20002177_Cau3.c	24.56	Dinh_Kha_Vy_20002183_cau2.c	29.79	14
+Dam_Van_Vu_20002180_Cau_1.c	14.29	Dinh_Kha_Vy_20002183_cau1.c	28.57	7
+Dam_Van_Vu_20002180_Cau_1.c	40.48	Nguyen_Trong_Son_20002160_Cau_1.c	14.53	12
+Dam_Van_Vu_20002180_Cau_1.c	19.05	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Dam_Van_Vu_20002180_Cau_1.c	33.33	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	10
+Dam_Van_Vu_20002180_Cau_1.c	23.81	nguyen dinh hai 20002122 bai 3.c	11.24	8
+Dam_Van_Vu_20002180_Cau_1.c	23.81	nguyen dinh hai 2002122 bai 2.c	9.09	8
+Dam_Van_Vu_20002180_Cau_1.c	19.05	Le_Sy_Van_20002178_Cau_2.c	8.70	4
+Dam_Van_Vu_20002180_Cau_1.c	11.90	Truong_Tuan_Anh_20002107_Cau_1.c	20.83	5
+Dam_Van_Vu_20002180_Cau_1.c	26.19	TRAN THIEN CUONG_20002109_BAI3.c	3.85	8
+Dam_Van_Vu_20002180_Cau_1.c	26.19	Do Phuong Nam-20002145-Cau3.c	12.09	8
+Dam_Van_Vu_20002180_Cau_1.c	14.29	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	7
+Dam_Van_Vu_20002180_Cau_1.c	28.57	Tran_Thanh_Phong_20002152_Cau1.c	52.17	9
+Dam_Van_Vu_20002180_Cau_1.c	26.19	TRAN_BINH_HUONG_20002137_CAU 2.c	9.65	6
+Dam_Van_Vu_20002180_Cau_1.c	38.10	Le_Hong_Thach_20002162_Cau_1.c	32.00	11
+Dam_Van_Vu_20002180_Cau_1.c	16.67	Dam_Van_Vu_20002180_Cau_2.c	5.93	6
+Dam_Van_Vu_20002180_Cau_1.c	35.71	Dao_Anh_Duong_20002112_cau_1.c	27.27	9
+Dam_Van_Vu_20002180_Cau_1.c	30.95	Le_Hong_Thach_20002162_Cau_3.c	9.49	9
+Dam_Van_Vu_20002180_Cau_1.c	16.67	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	7
+Dam_Van_Vu_20002180_Cau_1.c	23.81	Le_Sy_Van_20002178_Cau_1.c	25.00	6
+Dam_Van_Vu_20002180_Cau_1.c	21.43	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	5
+Dam_Van_Vu_20002180_Cau_1.c	26.19	Dinh_Kha_Vy_20002183_cau3.c	11.70	10
+Dam_Van_Vu_20002180_Cau_1.c	21.43	Le_Sy_Van_20002178_Cau_3.c	18.00	7
+Dam_Van_Vu_20002180_Cau_1.c	26.19	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	10.28	7
+Dam_Van_Vu_20002180_Cau_1.c	26.19	Truong_Tuan_Anh_20002107_Cau_3.c	23.40	8
+Dam_Van_Vu_20002180_Cau_1.c	26.19	nguyenthuha20002121cau-2.c	14.86	9
+Dam_Van_Vu_20002180_Cau_1.c	21.43	Dao_Anh_Duong_20002112_cau2.c	8.91	9
+Dam_Van_Vu_20002180_Cau_1.c	28.57	Nguyen_Thanh_Long_20002142_Cau_1.c	12.77	11
+Dam_Van_Vu_20002180_Cau_1.c	14.29	Do Phuong Nam-20002145-Cau1.c	25.00	7
+Dam_Van_Vu_20002180_Cau_1.c	28.57	Nguyen_Trong_Son_20002160_Cau_2.c	15.00	9
+Dam_Van_Vu_20002180_Cau_1.c	35.71	Pham_Hoang_AN_20002102_Cau_3.c	27.27	10
+Dam_Van_Vu_20002180_Cau_1.c	14.29	tran_minh_hoang_msv20002127_cau_3.c	35.29	5
+Dam_Van_Vu_20002180_Cau_1.c	16.67	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	6
+Dam_Van_Vu_20002180_Cau_1.c	16.67	Le_Hong_Thach_20002162_Cau_2.c	6.80	6
+Dam_Van_Vu_20002180_Cau_1.c	30.95	Luu_The_Trung_20002170_cau_3.c	8.84	8
+Dam_Van_Vu_20002180_Cau_1.c	47.62	Nguyen_Nhat_Tung_20002177_Cau1.c	28.99	10
+Dam_Van_Vu_20002180_Cau_1.c	19.05	Dao_Anh_Duong_20002112_cau3.c	4.94	7
+Dam_Van_Vu_20002180_Cau_1.c	33.33	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	31.82	7
+Dam_Van_Vu_20002180_Cau_1.c	26.19	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	6
+Dam_Van_Vu_20002180_Cau_1.c	14.29	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+Dam_Van_Vu_20002180_Cau_1.c	26.19	Dinh_Kha_Vy_20002183_cau2.c	11.70	10
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Nguyen_Trong_Son_20002160_Cau_1.c	5.13	7
+Dinh_Kha_Vy_20002183_cau1.c	14.29	Luu_The_Trung_20002170_cau_2.c	4.35	4
+Dinh_Kha_Vy_20002183_cau1.c	19.05	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	1.96	5
+Dinh_Kha_Vy_20002183_cau1.c	23.81	nguyen dinh hai 20002122 bai 3.c	5.62	8
+Dinh_Kha_Vy_20002183_cau1.c	19.05	nguyen dinh hai 2002122 bai 2.c	3.64	9
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Le_Sy_Van_20002178_Cau_2.c	6.52	8
+Dinh_Kha_Vy_20002183_cau1.c	42.86	Truong_Tuan_Anh_20002107_Cau_1.c	37.50	9
+Dinh_Kha_Vy_20002183_cau1.c	23.81	TRAN THIEN CUONG_20002109_BAI3.c	1.75	6
+Dinh_Kha_Vy_20002183_cau1.c	38.10	Do Phuong Nam-20002145-Cau3.c	8.79	10
+Dinh_Kha_Vy_20002183_cau1.c	52.38	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	44.00	10
+Dinh_Kha_Vy_20002183_cau1.c	57.14	Tran_Thanh_Phong_20002152_Cau1.c	52.17	10
+Dinh_Kha_Vy_20002183_cau1.c	33.33	TRAN_BINH_HUONG_20002137_CAU 2.c	6.14	8
+Dinh_Kha_Vy_20002183_cau1.c	23.81	Le_Hong_Thach_20002162_Cau_1.c	10.00	6
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Dam_Van_Vu_20002180_Cau_2.c	5.08	7
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Dao_Anh_Duong_20002112_cau_1.c	10.91	6
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Le_Hong_Thach_20002162_Cau_3.c	4.38	8
+Dinh_Kha_Vy_20002183_cau1.c	19.05	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	5
+Dinh_Kha_Vy_20002183_cau1.c	19.05	Le_Sy_Van_20002178_Cau_1.c	10.00	6
+Dinh_Kha_Vy_20002183_cau1.c	23.81	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	5
+Dinh_Kha_Vy_20002183_cau1.c	33.33	Dinh_Kha_Vy_20002183_cau3.c	7.45	9
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Le_Sy_Van_20002178_Cau_3.c	12.00	8
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	5.61	5
+Dinh_Kha_Vy_20002183_cau1.c	42.86	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	10
+Dinh_Kha_Vy_20002183_cau1.c	57.14	nguyenthuha20002121cau-2.c	16.22	13
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Dao_Anh_Duong_20002112_cau2.c	5.94	7
+Dinh_Kha_Vy_20002183_cau1.c	23.81	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	6
+Dinh_Kha_Vy_20002183_cau1.c	23.81	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Dinh_Kha_Vy_20002183_cau1.c	38.10	Nguyen_Trong_Son_20002160_Cau_2.c	10.00	11
+Dinh_Kha_Vy_20002183_cau1.c	47.62	Pham_Hoang_AN_20002102_Cau_3.c	18.18	9
+Dinh_Kha_Vy_20002183_cau1.c	28.57	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Dinh_Kha_Vy_20002183_cau1.c	42.86	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	8
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Le_Hong_Thach_20002162_Cau_2.c	5.83	7
+Dinh_Kha_Vy_20002183_cau1.c	38.10	Luu_The_Trung_20002170_cau_3.c	5.44	9
+Dinh_Kha_Vy_20002183_cau1.c	38.10	Nguyen_Nhat_Tung_20002177_Cau1.c	11.59	8
+Dinh_Kha_Vy_20002183_cau1.c	23.81	Dao_Anh_Duong_20002112_cau3.c	3.09	7
+Dinh_Kha_Vy_20002183_cau1.c	28.57	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	13.64	6
+Dinh_Kha_Vy_20002183_cau1.c	23.81	Duong_Duc_Thinh_20002166_Cau_1.c	11.11	6
+Dinh_Kha_Vy_20002183_cau1.c	85.71	luyen_thi_quyen_20002158_cau_1.c	85.71	18
+Dinh_Kha_Vy_20002183_cau1.c	33.33	Dinh_Kha_Vy_20002183_cau2.c	7.45	9
+Nguyen_Trong_Son_20002160_Cau_1.c	6.84	Luu_The_Trung_20002170_cau_2.c	11.59	5
+Nguyen_Trong_Son_20002160_Cau_1.c	22.22	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	12.75	14
+Nguyen_Trong_Son_20002160_Cau_1.c	8.55	nguyen dinh hai 20002122 bai 3.c	11.24	7
+Nguyen_Trong_Son_20002160_Cau_1.c	13.68	nguyen dinh hai 2002122 bai 2.c	14.55	8
+Nguyen_Trong_Son_20002160_Cau_1.c	9.40	Le_Sy_Van_20002178_Cau_2.c	11.96	6
+Nguyen_Trong_Son_20002160_Cau_1.c	5.98	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	6
+Nguyen_Trong_Son_20002160_Cau_1.c	16.24	TRAN THIEN CUONG_20002109_BAI3.c	6.64	12
+Nguyen_Trong_Son_20002160_Cau_1.c	8.55	Do Phuong Nam-20002145-Cau3.c	10.99	10
+Nguyen_Trong_Son_20002160_Cau_1.c	5.13	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	7
+Nguyen_Trong_Son_20002160_Cau_1.c	10.26	Tran_Thanh_Phong_20002152_Cau1.c	52.17	8
+Nguyen_Trong_Son_20002160_Cau_1.c	10.26	TRAN_BINH_HUONG_20002137_CAU 2.c	10.53	7
+Nguyen_Trong_Son_20002160_Cau_1.c	12.82	Le_Hong_Thach_20002162_Cau_1.c	30.00	11
+Nguyen_Trong_Son_20002160_Cau_1.c	10.26	Dam_Van_Vu_20002180_Cau_2.c	10.17	10
+Nguyen_Trong_Son_20002160_Cau_1.c	14.53	Dao_Anh_Duong_20002112_cau_1.c	30.91	10
+Nguyen_Trong_Son_20002160_Cau_1.c	19.66	Le_Hong_Thach_20002162_Cau_3.c	16.79	13
+Nguyen_Trong_Son_20002160_Cau_1.c	6.84	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	30.77	9
+Nguyen_Trong_Son_20002160_Cau_1.c	10.26	Le_Sy_Van_20002178_Cau_1.c	30.00	9
+Nguyen_Trong_Son_20002160_Cau_1.c	7.69	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+Nguyen_Trong_Son_20002160_Cau_1.c	7.69	Dinh_Kha_Vy_20002183_cau3.c	9.57	8
+Nguyen_Trong_Son_20002160_Cau_1.c	11.97	Le_Sy_Van_20002178_Cau_3.c	28.00	8
+Nguyen_Trong_Son_20002160_Cau_1.c	10.26	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	11.21	9
+Nguyen_Trong_Son_20002160_Cau_1.c	7.69	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	9
+Nguyen_Trong_Son_20002160_Cau_1.c	6.84	nguyenthuha20002121cau-2.c	10.81	11
+Nguyen_Trong_Son_20002160_Cau_1.c	8.55	Dao_Anh_Duong_20002112_cau2.c	9.90	10
+Nguyen_Trong_Son_20002160_Cau_1.c	16.24	Nguyen_Thanh_Long_20002142_Cau_1.c	20.21	12
+Nguyen_Trong_Son_20002160_Cau_1.c	4.27	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Nguyen_Trong_Son_20002160_Cau_1.c	8.55	Nguyen_Trong_Son_20002160_Cau_2.c	12.50	6
+Nguyen_Trong_Son_20002160_Cau_1.c	13.68	Pham_Hoang_AN_20002102_Cau_3.c	29.09	12
+Nguyen_Trong_Son_20002160_Cau_1.c	5.98	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+Nguyen_Trong_Son_20002160_Cau_1.c	5.98	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	7
+Nguyen_Trong_Son_20002160_Cau_1.c	3.42	Le_Hong_Thach_20002162_Cau_2.c	3.88	5
+Nguyen_Trong_Son_20002160_Cau_1.c	18.80	Luu_The_Trung_20002170_cau_3.c	14.97	18
+Nguyen_Trong_Son_20002160_Cau_1.c	23.93	Nguyen_Nhat_Tung_20002177_Cau1.c	40.58	12
+Nguyen_Trong_Son_20002160_Cau_1.c	27.35	Dao_Anh_Duong_20002112_cau3.c	19.75	11
+Nguyen_Trong_Son_20002160_Cau_1.c	12.82	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	34.09	10
+Nguyen_Trong_Son_20002160_Cau_1.c	11.97	Duong_Duc_Thinh_20002166_Cau_1.c	31.11	9
+Nguyen_Trong_Son_20002160_Cau_1.c	5.13	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+Nguyen_Trong_Son_20002160_Cau_1.c	7.69	Dinh_Kha_Vy_20002183_cau2.c	9.57	8
+Luu_The_Trung_20002170_cau_2.c	14.49	Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.90	7
+Luu_The_Trung_20002170_cau_2.c	27.54	nguyen dinh hai 20002122 bai 3.c	21.35	9
+Luu_The_Trung_20002170_cau_2.c	11.59	nguyen dinh hai 2002122 bai 2.c	7.27	5
+Luu_The_Trung_20002170_cau_2.c	10.14	Le_Sy_Van_20002178_Cau_2.c	7.61	3
+Luu_The_Trung_20002170_cau_2.c	4.35	Truong_Tuan_Anh_20002107_Cau_1.c	12.50	4
+Luu_The_Trung_20002170_cau_2.c	13.04	TRAN THIEN CUONG_20002109_BAI3.c	3.15	6
+Luu_The_Trung_20002170_cau_2.c	10.14	Do Phuong Nam-20002145-Cau3.c	7.69	3
+Luu_The_Trung_20002170_cau_2.c	5.80	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	16.00	5
+Luu_The_Trung_20002170_cau_2.c	11.59	Tran_Thanh_Phong_20002152_Cau1.c	34.78	5
+Luu_The_Trung_20002170_cau_2.c	18.84	TRAN_BINH_HUONG_20002137_CAU 2.c	11.40	5
+Luu_The_Trung_20002170_cau_2.c	11.59	Le_Hong_Thach_20002162_Cau_1.c	16.00	5
+Luu_The_Trung_20002170_cau_2.c	15.94	Dam_Van_Vu_20002180_Cau_2.c	9.32	6
+Luu_The_Trung_20002170_cau_2.c	17.39	Dao_Anh_Duong_20002112_cau_1.c	21.82	6
+Luu_The_Trung_20002170_cau_2.c	15.94	Le_Hong_Thach_20002162_Cau_3.c	8.03	8
+Luu_The_Trung_20002170_cau_2.c	4.35	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	11.54	4
+Luu_The_Trung_20002170_cau_2.c	11.59	Le_Sy_Van_20002178_Cau_1.c	20.00	5
+Luu_The_Trung_20002170_cau_2.c	14.49	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	6
+Luu_The_Trung_20002170_cau_2.c	13.04	Dinh_Kha_Vy_20002183_cau3.c	9.57	7
+Luu_The_Trung_20002170_cau_2.c	10.14	Le_Sy_Van_20002178_Cau_3.c	14.00	3
+Luu_The_Trung_20002170_cau_2.c	11.59	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	7.48	5
+Luu_The_Trung_20002170_cau_2.c	4.35	Truong_Tuan_Anh_20002107_Cau_3.c	6.38	4
+Luu_The_Trung_20002170_cau_2.c	7.25	nguyenthuha20002121cau-2.c	6.76	5
+Luu_The_Trung_20002170_cau_2.c	14.49	Dao_Anh_Duong_20002112_cau2.c	9.90	8
+Luu_The_Trung_20002170_cau_2.c	11.59	Nguyen_Thanh_Long_20002142_Cau_1.c	8.51	5
+Luu_The_Trung_20002170_cau_2.c	4.35	Do Phuong Nam-20002145-Cau1.c	12.50	4
+Luu_The_Trung_20002170_cau_2.c	11.59	Nguyen_Trong_Son_20002160_Cau_2.c	10.00	5
+Luu_The_Trung_20002170_cau_2.c	13.04	Pham_Hoang_AN_20002102_Cau_3.c	16.36	6
+Luu_The_Trung_20002170_cau_2.c	4.35	tran_minh_hoang_msv20002127_cau_3.c	17.65	4
+Luu_The_Trung_20002170_cau_2.c	4.35	TRAN_BINH_HUONG_20002137_CAU 3.c	10.71	4
+Luu_The_Trung_20002170_cau_2.c	5.80	Le_Hong_Thach_20002162_Cau_2.c	3.88	2
+Luu_The_Trung_20002170_cau_2.c	11.59	Luu_The_Trung_20002170_cau_3.c	5.44	5
+Luu_The_Trung_20002170_cau_2.c	11.59	Nguyen_Nhat_Tung_20002177_Cau1.c	11.59	5
+Luu_The_Trung_20002170_cau_2.c	8.70	Dao_Anh_Duong_20002112_cau3.c	3.70	5
+Luu_The_Trung_20002170_cau_2.c	11.59	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	18.18	5
+Luu_The_Trung_20002170_cau_2.c	13.04	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	5
+Luu_The_Trung_20002170_cau_2.c	4.35	luyen_thi_quyen_20002158_cau_1.c	14.29	4
+Luu_The_Trung_20002170_cau_2.c	13.04	Dinh_Kha_Vy_20002183_cau2.c	9.57	7
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	5.39	nguyen dinh hai 20002122 bai 3.c	12.36	8
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	9.31	nguyen dinh hai 2002122 bai 2.c	17.27	11
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	10.78	Le_Sy_Van_20002178_Cau_2.c	23.91	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	2.94	Truong_Tuan_Anh_20002107_Cau_1.c	25.00	6
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	41.67	TRAN THIEN CUONG_20002109_BAI3.c	29.72	33
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.37	Do Phuong Nam-20002145-Cau3.c	14.29	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	1.96	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	16.00	5
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.41	Tran_Thanh_Phong_20002152_Cau1.c	39.13	6
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	13.73	TRAN_BINH_HUONG_20002137_CAU 2.c	24.56	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	10.29	Le_Hong_Thach_20002162_Cau_1.c	42.00	16
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	14.71	Dam_Van_Vu_20002180_Cau_2.c	25.42	23
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	Dao_Anh_Duong_20002112_cau_1.c	25.45	9
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	16.18	Le_Hong_Thach_20002162_Cau_3.c	24.09	17
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.41	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	34.62	9
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.90	Le_Sy_Van_20002178_Cau_1.c	25.00	7
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.90	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	7
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	13.24	Dinh_Kha_Vy_20002183_cau3.c	28.72	14
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	7.35	Le_Sy_Van_20002178_Cau_3.c	30.00	8
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	12.25	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	23.36	17
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	Truong_Tuan_Anh_20002107_Cau_3.c	29.79	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	10.78	nguyenthuha20002121cau-2.c	29.73	11
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	13.73	Dao_Anh_Duong_20002112_cau2.c	27.72	19
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	Nguyen_Thanh_Long_20002142_Cau_1.c	14.89	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	2.45	Do Phuong Nam-20002145-Cau1.c	20.83	7
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	9.31	Nguyen_Trong_Son_20002160_Cau_2.c	23.75	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	9.80	Pham_Hoang_AN_20002102_Cau_3.c	36.36	11
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	2.45	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	2.45	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	7
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	15.20	Le_Hong_Thach_20002162_Cau_2.c	30.10	8
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	22.55	Luu_The_Trung_20002170_cau_3.c	31.29	23
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.37	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	9
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	38.24	Dao_Anh_Duong_20002112_cau3.c	48.15	34
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	4.90	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	6
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	6.86	Duong_Duc_Thinh_20002166_Cau_1.c	31.11	10
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	1.96	luyen_thi_quyen_20002158_cau_1.c	19.05	5
+Chu_Pham_Dinh_Tu_20002173_Cau_3.c	13.24	Dinh_Kha_Vy_20002183_cau2.c	28.72	14
+nguyen dinh hai 20002122 bai 3.c	11.24	nguyen dinh hai 2002122 bai 2.c	9.09	10
+nguyen dinh hai 20002122 bai 3.c	7.87	Le_Sy_Van_20002178_Cau_2.c	7.61	3
+nguyen dinh hai 20002122 bai 3.c	4.49	Truong_Tuan_Anh_20002107_Cau_1.c	16.67	5
+nguyen dinh hai 20002122 bai 3.c	11.24	TRAN THIEN CUONG_20002109_BAI3.c	3.50	7
+nguyen dinh hai 20002122 bai 3.c	8.99	Do Phuong Nam-20002145-Cau3.c	8.79	6
+nguyen dinh hai 20002122 bai 3.c	6.74	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	7
+nguyen dinh hai 20002122 bai 3.c	11.24	Tran_Thanh_Phong_20002152_Cau1.c	43.48	8
+nguyen dinh hai 20002122 bai 3.c	14.61	TRAN_BINH_HUONG_20002137_CAU 2.c	11.40	9
+nguyen dinh hai 20002122 bai 3.c	11.24	Le_Hong_Thach_20002162_Cau_1.c	20.00	9
+nguyen dinh hai 20002122 bai 3.c	10.11	Dam_Van_Vu_20002180_Cau_2.c	7.63	8
+nguyen dinh hai 20002122 bai 3.c	16.85	Dao_Anh_Duong_20002112_cau_1.c	27.27	9
+nguyen dinh hai 20002122 bai 3.c	14.61	Le_Hong_Thach_20002162_Cau_3.c	9.49	13
+nguyen dinh hai 20002122 bai 3.c	3.37	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	11.54	5
+nguyen dinh hai 20002122 bai 3.c	8.99	Le_Sy_Van_20002178_Cau_1.c	20.00	6
+nguyen dinh hai 20002122 bai 3.c	13.48	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	41.38	10
+nguyen dinh hai 20002122 bai 3.c	10.11	Dinh_Kha_Vy_20002183_cau3.c	9.57	7
+nguyen dinh hai 20002122 bai 3.c	13.48	Le_Sy_Van_20002178_Cau_3.c	24.00	3
+nguyen dinh hai 20002122 bai 3.c	10.11	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	8.41	6
+nguyen dinh hai 20002122 bai 3.c	6.74	Truong_Tuan_Anh_20002107_Cau_3.c	12.77	9
+nguyen dinh hai 20002122 bai 3.c	8.99	nguyenthuha20002121cau-2.c	10.81	9
+nguyen dinh hai 20002122 bai 3.c	10.11	Dao_Anh_Duong_20002112_cau2.c	8.91	11
+nguyen dinh hai 20002122 bai 3.c	10.11	Nguyen_Thanh_Long_20002142_Cau_1.c	9.57	6
+nguyen dinh hai 20002122 bai 3.c	4.49	Do Phuong Nam-20002145-Cau1.c	16.67	6
+nguyen dinh hai 20002122 bai 3.c	11.24	Nguyen_Trong_Son_20002160_Cau_2.c	12.50	8
+nguyen dinh hai 20002122 bai 3.c	17.98	Pham_Hoang_AN_20002102_Cau_3.c	29.09	13
+nguyen dinh hai 20002122 bai 3.c	3.37	tran_minh_hoang_msv20002127_cau_3.c	17.65	4
+nguyen dinh hai 20002122 bai 3.c	5.62	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	6
+nguyen dinh hai 20002122 bai 3.c	6.74	Le_Hong_Thach_20002162_Cau_2.c	5.83	4
+nguyen dinh hai 20002122 bai 3.c	11.24	Luu_The_Trung_20002170_cau_3.c	6.80	8
+nguyen dinh hai 20002122 bai 3.c	11.24	Nguyen_Nhat_Tung_20002177_Cau1.c	14.49	7
+nguyen dinh hai 20002122 bai 3.c	7.87	Dao_Anh_Duong_20002112_cau3.c	4.32	7
+nguyen dinh hai 20002122 bai 3.c	11.24	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	7
+nguyen dinh hai 20002122 bai 3.c	13.48	Duong_Duc_Thinh_20002166_Cau_1.c	26.67	11
+nguyen dinh hai 20002122 bai 3.c	5.62	luyen_thi_quyen_20002158_cau_1.c	23.81	8
+nguyen dinh hai 20002122 bai 3.c	10.11	Dinh_Kha_Vy_20002183_cau2.c	9.57	7
+nguyen dinh hai 2002122 bai 2.c	8.18	Le_Sy_Van_20002178_Cau_2.c	9.78	10
+nguyen dinh hai 2002122 bai 2.c	2.73	Truong_Tuan_Anh_20002107_Cau_1.c	12.50	5
+nguyen dinh hai 2002122 bai 2.c	20.91	TRAN THIEN CUONG_20002109_BAI3.c	8.04	11
+nguyen dinh hai 2002122 bai 2.c	10.91	Do Phuong Nam-20002145-Cau3.c	13.19	12
+nguyen dinh hai 2002122 bai 2.c	3.64	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	16.00	7
+nguyen dinh hai 2002122 bai 2.c	9.09	Tran_Thanh_Phong_20002152_Cau1.c	43.48	8
+nguyen dinh hai 2002122 bai 2.c	9.09	TRAN_BINH_HUONG_20002137_CAU 2.c	8.77	7
+nguyen dinh hai 2002122 bai 2.c	9.09	Le_Hong_Thach_20002162_Cau_1.c	20.00	9
+nguyen dinh hai 2002122 bai 2.c	12.73	Dam_Van_Vu_20002180_Cau_2.c	11.86	9
+nguyen dinh hai 2002122 bai 2.c	9.09	Dao_Anh_Duong_20002112_cau_1.c	18.18	8
+nguyen dinh hai 2002122 bai 2.c	27.27	Le_Hong_Thach_20002162_Cau_3.c	21.90	18
+nguyen dinh hai 2002122 bai 2.c	2.73	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	11.54	5
+nguyen dinh hai 2002122 bai 2.c	8.18	Le_Sy_Van_20002178_Cau_1.c	22.50	7
+nguyen dinh hai 2002122 bai 2.c	10.00	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	37.93	11
+nguyen dinh hai 2002122 bai 2.c	14.55	Dinh_Kha_Vy_20002183_cau3.c	17.02	9
+nguyen dinh hai 2002122 bai 2.c	10.91	Le_Sy_Van_20002178_Cau_3.c	24.00	3
+nguyen dinh hai 2002122 bai 2.c	12.73	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	13.08	13
+nguyen dinh hai 2002122 bai 2.c	3.64	Truong_Tuan_Anh_20002107_Cau_3.c	8.51	7
+nguyen dinh hai 2002122 bai 2.c	5.45	nguyenthuha20002121cau-2.c	8.11	10
+nguyen dinh hai 2002122 bai 2.c	12.73	Dao_Anh_Duong_20002112_cau2.c	13.86	18
+nguyen dinh hai 2002122 bai 2.c	10.00	Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	10
+nguyen dinh hai 2002122 bai 2.c	3.64	Do Phuong Nam-20002145-Cau1.c	16.67	6
+nguyen dinh hai 2002122 bai 2.c	14.55	Nguyen_Trong_Son_20002160_Cau_2.c	20.00	8
+nguyen dinh hai 2002122 bai 2.c	9.09	Pham_Hoang_AN_20002102_Cau_3.c	18.18	10
+nguyen dinh hai 2002122 bai 2.c	2.73	tran_minh_hoang_msv20002127_cau_3.c	17.65	4
+nguyen dinh hai 2002122 bai 2.c	4.55	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	9
+nguyen dinh hai 2002122 bai 2.c	5.45	Le_Hong_Thach_20002162_Cau_2.c	5.83	8
+nguyen dinh hai 2002122 bai 2.c	18.18	Luu_The_Trung_20002170_cau_3.c	13.61	12
+nguyen dinh hai 2002122 bai 2.c	8.18	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	7
+nguyen dinh hai 2002122 bai 2.c	10.91	Dao_Anh_Duong_20002112_cau3.c	7.41	9
+nguyen dinh hai 2002122 bai 2.c	8.18	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	6
+nguyen dinh hai 2002122 bai 2.c	8.18	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	6
+nguyen dinh hai 2002122 bai 2.c	3.64	luyen_thi_quyen_20002158_cau_1.c	19.05	9
+nguyen dinh hai 2002122 bai 2.c	14.55	Dinh_Kha_Vy_20002183_cau2.c	17.02	9
+Le_Sy_Van_20002178_Cau_2.c	7.61	Truong_Tuan_Anh_20002107_Cau_1.c	29.17	5
+Le_Sy_Van_20002178_Cau_2.c	17.39	TRAN THIEN CUONG_20002109_BAI3.c	5.59	7
+Le_Sy_Van_20002178_Cau_2.c	14.13	Do Phuong Nam-20002145-Cau3.c	14.29	9
+Le_Sy_Van_20002178_Cau_2.c	6.52	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	5
+Le_Sy_Van_20002178_Cau_2.c	8.70	Tran_Thanh_Phong_20002152_Cau1.c	34.78	4
+Le_Sy_Van_20002178_Cau_2.c	28.26	TRAN_BINH_HUONG_20002137_CAU 2.c	22.81	16
+Le_Sy_Van_20002178_Cau_2.c	9.78	Le_Hong_Thach_20002162_Cau_1.c	18.00	5
+Le_Sy_Van_20002178_Cau_2.c	18.48	Dam_Van_Vu_20002180_Cau_2.c	14.41	11
+Le_Sy_Van_20002178_Cau_2.c	10.87	Dao_Anh_Duong_20002112_cau_1.c	18.18	5
+Le_Sy_Van_20002178_Cau_2.c	16.30	Le_Hong_Thach_20002162_Cau_3.c	10.95	14
+Le_Sy_Van_20002178_Cau_2.c	5.43	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	4
+Le_Sy_Van_20002178_Cau_2.c	13.04	Le_Sy_Van_20002178_Cau_1.c	30.00	5
+Le_Sy_Van_20002178_Cau_2.c	8.70	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	27.59	3
+Le_Sy_Van_20002178_Cau_2.c	27.17	Dinh_Kha_Vy_20002183_cau3.c	26.60	17
+Le_Sy_Van_20002178_Cau_2.c	19.57	Le_Sy_Van_20002178_Cau_3.c	36.00	10
+Le_Sy_Van_20002178_Cau_2.c	42.39	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	36.45	18
+Le_Sy_Van_20002178_Cau_2.c	11.96	Truong_Tuan_Anh_20002107_Cau_3.c	23.40	5
+Le_Sy_Van_20002178_Cau_2.c	25.00	nguyenthuha20002121cau-2.c	31.08	11
+Le_Sy_Van_20002178_Cau_2.c	22.83	Dao_Anh_Duong_20002112_cau2.c	20.79	9
+Le_Sy_Van_20002178_Cau_2.c	10.87	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+Le_Sy_Van_20002178_Cau_2.c	3.26	Do Phuong Nam-20002145-Cau1.c	12.50	3
+Le_Sy_Van_20002178_Cau_2.c	33.70	Nguyen_Trong_Son_20002160_Cau_2.c	38.75	14
+Le_Sy_Van_20002178_Cau_2.c	18.48	Pham_Hoang_AN_20002102_Cau_3.c	30.91	7
+Le_Sy_Van_20002178_Cau_2.c	4.35	tran_minh_hoang_msv20002127_cau_3.c	23.53	4
+Le_Sy_Van_20002178_Cau_2.c	4.35	TRAN_BINH_HUONG_20002137_CAU 3.c	14.29	4
+Le_Sy_Van_20002178_Cau_2.c	16.30	Le_Hong_Thach_20002162_Cau_2.c	14.56	12
+Le_Sy_Van_20002178_Cau_2.c	14.13	Luu_The_Trung_20002170_cau_3.c	8.84	10
+Le_Sy_Van_20002178_Cau_2.c	13.04	Nguyen_Nhat_Tung_20002177_Cau1.c	17.39	5
+Le_Sy_Van_20002178_Cau_2.c	11.96	Dao_Anh_Duong_20002112_cau3.c	6.79	6
+Le_Sy_Van_20002178_Cau_2.c	8.70	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	18.18	4
+Le_Sy_Van_20002178_Cau_2.c	13.04	Duong_Duc_Thinh_20002166_Cau_1.c	26.67	6
+Le_Sy_Van_20002178_Cau_2.c	6.52	luyen_thi_quyen_20002158_cau_1.c	28.57	8
+Le_Sy_Van_20002178_Cau_2.c	27.17	Dinh_Kha_Vy_20002183_cau2.c	26.60	16
+Truong_Tuan_Anh_20002107_Cau_1.c	16.67	TRAN THIEN CUONG_20002109_BAI3.c	1.40	6
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	Do Phuong Nam-20002145-Cau3.c	6.59	10
+Truong_Tuan_Anh_20002107_Cau_1.c	45.83	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	44.00	10
+Truong_Tuan_Anh_20002107_Cau_1.c	41.67	Tran_Thanh_Phong_20002152_Cau1.c	43.48	8
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	TRAN_BINH_HUONG_20002137_CAU 2.c	5.26	8
+Truong_Tuan_Anh_20002107_Cau_1.c	16.67	Le_Hong_Thach_20002162_Cau_1.c	8.00	4
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	Dam_Van_Vu_20002180_Cau_2.c	5.08	7
+Truong_Tuan_Anh_20002107_Cau_1.c	33.33	Dao_Anh_Duong_20002112_cau_1.c	14.55	6
+Truong_Tuan_Anh_20002107_Cau_1.c	29.17	Le_Hong_Thach_20002162_Cau_3.c	5.11	10
+Truong_Tuan_Anh_20002107_Cau_1.c	16.67	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	5
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Le_Sy_Van_20002178_Cau_1.c	12.50	6
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	5
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Dinh_Kha_Vy_20002183_cau3.c	5.32	7
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Le_Sy_Van_20002178_Cau_3.c	10.00	7
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	5.61	7
+Truong_Tuan_Anh_20002107_Cau_1.c	29.17	Truong_Tuan_Anh_20002107_Cau_3.c	14.89	7
+Truong_Tuan_Anh_20002107_Cau_1.c	37.50	nguyenthuha20002121cau-2.c	12.16	11
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Dao_Anh_Duong_20002112_cau2.c	4.95	6
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	6
+Truong_Tuan_Anh_20002107_Cau_1.c	16.67	Do Phuong Nam-20002145-Cau1.c	16.67	5
+Truong_Tuan_Anh_20002107_Cau_1.c	33.33	Nguyen_Trong_Son_20002160_Cau_2.c	10.00	11
+Truong_Tuan_Anh_20002107_Cau_1.c	37.50	Pham_Hoang_AN_20002102_Cau_3.c	16.36	8
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	6
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	Le_Hong_Thach_20002162_Cau_2.c	5.83	8
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	Luu_The_Trung_20002170_cau_3.c	4.08	7
+Truong_Tuan_Anh_20002107_Cau_1.c	25.00	Nguyen_Nhat_Tung_20002177_Cau1.c	8.70	6
+Truong_Tuan_Anh_20002107_Cau_1.c	16.67	Dao_Anh_Duong_20002112_cau3.c	2.47	5
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	11.36	5
+Truong_Tuan_Anh_20002107_Cau_1.c	29.17	Duong_Duc_Thinh_20002166_Cau_1.c	15.56	7
+Truong_Tuan_Anh_20002107_Cau_1.c	37.50	luyen_thi_quyen_20002158_cau_1.c	42.86	9
+Truong_Tuan_Anh_20002107_Cau_1.c	20.83	Dinh_Kha_Vy_20002183_cau2.c	5.32	7
+TRAN THIEN CUONG_20002109_BAI3.c	5.24	Do Phuong Nam-20002145-Cau3.c	16.48	10
+TRAN THIEN CUONG_20002109_BAI3.c	1.75	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	6
+TRAN THIEN CUONG_20002109_BAI3.c	3.15	Tran_Thanh_Phong_20002152_Cau1.c	39.13	6
+TRAN THIEN CUONG_20002109_BAI3.c	9.79	TRAN_BINH_HUONG_20002137_CAU 2.c	24.56	11
+TRAN THIEN CUONG_20002109_BAI3.c	3.50	Le_Hong_Thach_20002162_Cau_1.c	20.00	11
+TRAN THIEN CUONG_20002109_BAI3.c	9.44	Dam_Van_Vu_20002180_Cau_2.c	22.88	19
+TRAN THIEN CUONG_20002109_BAI3.c	3.15	Dao_Anh_Duong_20002112_cau_1.c	16.36	6
+TRAN THIEN CUONG_20002109_BAI3.c	12.24	Le_Hong_Thach_20002162_Cau_3.c	25.55	21
+TRAN THIEN CUONG_20002109_BAI3.c	1.40	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	7
+TRAN THIEN CUONG_20002109_BAI3.c	2.80	Le_Sy_Van_20002178_Cau_1.c	20.00	5
+TRAN THIEN CUONG_20002109_BAI3.c	3.15	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	5
+TRAN THIEN CUONG_20002109_BAI3.c	7.69	Dinh_Kha_Vy_20002183_cau3.c	23.40	12
+TRAN THIEN CUONG_20002109_BAI3.c	5.24	Le_Sy_Van_20002178_Cau_3.c	30.00	8
+TRAN THIEN CUONG_20002109_BAI3.c	6.99	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	18.69	13
+TRAN THIEN CUONG_20002109_BAI3.c	2.10	Truong_Tuan_Anh_20002107_Cau_3.c	12.77	9
+TRAN THIEN CUONG_20002109_BAI3.c	7.69	nguyenthuha20002121cau-2.c	29.73	13
+TRAN THIEN CUONG_20002109_BAI3.c	7.69	Dao_Anh_Duong_20002112_cau2.c	21.78	17
+TRAN THIEN CUONG_20002109_BAI3.c	4.20	Nguyen_Thanh_Long_20002142_Cau_1.c	12.77	9
+TRAN THIEN CUONG_20002109_BAI3.c	1.05	Do Phuong Nam-20002145-Cau1.c	12.50	5
+TRAN THIEN CUONG_20002109_BAI3.c	6.99	Nguyen_Trong_Son_20002160_Cau_2.c	25.00	12
+TRAN THIEN CUONG_20002109_BAI3.c	5.94	Pham_Hoang_AN_20002102_Cau_3.c	30.91	10
+TRAN THIEN CUONG_20002109_BAI3.c	2.10	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+TRAN THIEN CUONG_20002109_BAI3.c	2.10	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	7
+TRAN THIEN CUONG_20002109_BAI3.c	11.54	Le_Hong_Thach_20002162_Cau_2.c	32.04	10
+TRAN THIEN CUONG_20002109_BAI3.c	21.68	Luu_The_Trung_20002170_cau_3.c	42.18	22
+TRAN THIEN CUONG_20002109_BAI3.c	5.94	Nguyen_Nhat_Tung_20002177_Cau1.c	24.64	9
+TRAN THIEN CUONG_20002109_BAI3.c	36.36	Dao_Anh_Duong_20002112_cau3.c	64.20	27
+TRAN THIEN CUONG_20002109_BAI3.c	3.15	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	6
+TRAN THIEN CUONG_20002109_BAI3.c	3.15	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	5
+TRAN THIEN CUONG_20002109_BAI3.c	1.75	luyen_thi_quyen_20002158_cau_1.c	23.81	6
+TRAN THIEN CUONG_20002109_BAI3.c	7.69	Dinh_Kha_Vy_20002183_cau2.c	23.40	12
+Do Phuong Nam-20002145-Cau3.c	7.69	Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	11
+Do Phuong Nam-20002145-Cau3.c	10.99	Tran_Thanh_Phong_20002152_Cau1.c	43.48	10
+Do Phuong Nam-20002145-Cau3.c	23.08	TRAN_BINH_HUONG_20002137_CAU 2.c	18.42	16
+Do Phuong Nam-20002145-Cau3.c	12.09	Le_Hong_Thach_20002162_Cau_1.c	22.00	10
+Do Phuong Nam-20002145-Cau3.c	17.58	Dam_Van_Vu_20002180_Cau_2.c	13.56	12
+Do Phuong Nam-20002145-Cau3.c	10.99	Dao_Anh_Duong_20002112_cau_1.c	18.18	8
+Do Phuong Nam-20002145-Cau3.c	17.58	Le_Hong_Thach_20002162_Cau_3.c	11.68	10
+Do Phuong Nam-20002145-Cau3.c	3.30	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	11.54	5
+Do Phuong Nam-20002145-Cau3.c	8.79	Le_Sy_Van_20002178_Cau_1.c	20.00	6
+Do Phuong Nam-20002145-Cau3.c	8.79	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	27.59	3
+Do Phuong Nam-20002145-Cau3.c	16.48	Dinh_Kha_Vy_20002183_cau3.c	15.96	9
+Do Phuong Nam-20002145-Cau3.c	23.08	Le_Sy_Van_20002178_Cau_3.c	42.00	14
+Do Phuong Nam-20002145-Cau3.c	20.88	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	17.76	14
+Do Phuong Nam-20002145-Cau3.c	9.89	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	10
+Do Phuong Nam-20002145-Cau3.c	20.88	nguyenthuha20002121cau-2.c	25.68	17
+Do Phuong Nam-20002145-Cau3.c	15.38	Dao_Anh_Duong_20002112_cau2.c	13.86	11
+Do Phuong Nam-20002145-Cau3.c	10.99	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	10
+Do Phuong Nam-20002145-Cau3.c	4.40	Do Phuong Nam-20002145-Cau1.c	16.67	6
+Do Phuong Nam-20002145-Cau3.c	18.68	Nguyen_Trong_Son_20002160_Cau_2.c	21.25	15
+Do Phuong Nam-20002145-Cau3.c	18.68	Pham_Hoang_AN_20002102_Cau_3.c	30.91	15
+Do Phuong Nam-20002145-Cau3.c	5.49	tran_minh_hoang_msv20002127_cau_3.c	29.41	7
+Do Phuong Nam-20002145-Cau3.c	6.59	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	10
+Do Phuong Nam-20002145-Cau3.c	27.47	Le_Hong_Thach_20002162_Cau_2.c	24.27	12
+Do Phuong Nam-20002145-Cau3.c	18.68	Luu_The_Trung_20002170_cau_3.c	11.56	18
+Do Phuong Nam-20002145-Cau3.c	16.48	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	13
+Do Phuong Nam-20002145-Cau3.c	12.09	Dao_Anh_Duong_20002112_cau3.c	6.79	9
+Do Phuong Nam-20002145-Cau3.c	9.89	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	6
+Do Phuong Nam-20002145-Cau3.c	10.99	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	8
+Do Phuong Nam-20002145-Cau3.c	6.59	luyen_thi_quyen_20002158_cau_1.c	28.57	10
+Do Phuong Nam-20002145-Cau3.c	16.48	Dinh_Kha_Vy_20002183_cau2.c	15.96	8
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	56.00	Tran_Thanh_Phong_20002152_Cau1.c	60.87	11
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	56.00	TRAN_BINH_HUONG_20002137_CAU 2.c	12.28	11
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	Le_Hong_Thach_20002162_Cau_1.c	10.00	6
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	Dam_Van_Vu_20002180_Cau_2.c	6.78	10
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	Dao_Anh_Duong_20002112_cau_1.c	12.73	6
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	36.00	Le_Hong_Thach_20002162_Cau_3.c	6.57	12
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	16.00	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	5
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	16.00	Le_Sy_Van_20002178_Cau_1.c	10.00	6
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	12.00	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	10.34	5
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	Dinh_Kha_Vy_20002183_cau3.c	6.38	8
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	Le_Sy_Van_20002178_Cau_3.c	10.00	7
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	6.54	7
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	36.00	Truong_Tuan_Anh_20002107_Cau_3.c	19.15	9
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	44.00	nguyenthuha20002121cau-2.c	14.86	11
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	Dao_Anh_Duong_20002112_cau2.c	5.94	8
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	6
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	Do Phuong Nam-20002145-Cau1.c	25.00	6
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	36.00	Nguyen_Trong_Son_20002160_Cau_2.c	11.25	10
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	52.00	Pham_Hoang_AN_20002102_Cau_3.c	23.64	11
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	TRAN_BINH_HUONG_20002137_CAU 3.c	28.57	7
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	28.00	Le_Hong_Thach_20002162_Cau_2.c	6.80	8
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	36.00	Luu_The_Trung_20002170_cau_3.c	6.12	10
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	32.00	Nguyen_Nhat_Tung_20002177_Cau1.c	11.59	8
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	20.00	Dao_Anh_Duong_20002112_cau3.c	3.09	7
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	13.64	6
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	16.00	Duong_Duc_Thinh_20002166_Cau_1.c	8.89	5
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	44.00	luyen_thi_quyen_20002158_cau_1.c	52.38	10
+Nguyen_Thi_Tien_Trang_20000691_cau_1.c	24.00	Dinh_Kha_Vy_20002183_cau2.c	6.38	8
+Tran_Thanh_Phong_20002152_Cau1.c	47.83	TRAN_BINH_HUONG_20002137_CAU 2.c	9.65	10
+Tran_Thanh_Phong_20002152_Cau1.c	47.83	Le_Hong_Thach_20002162_Cau_1.c	22.00	8
+Tran_Thanh_Phong_20002152_Cau1.c	34.78	Dam_Van_Vu_20002180_Cau_2.c	6.78	8
+Tran_Thanh_Phong_20002152_Cau1.c	52.17	Dao_Anh_Duong_20002112_cau_1.c	21.82	8
+Tran_Thanh_Phong_20002152_Cau1.c	47.83	Le_Hong_Thach_20002162_Cau_3.c	8.03	10
+Tran_Thanh_Phong_20002152_Cau1.c	30.43	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	6
+Tran_Thanh_Phong_20002152_Cau1.c	43.48	Le_Sy_Van_20002178_Cau_1.c	25.00	7
+Tran_Thanh_Phong_20002152_Cau1.c	34.78	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	27.59	6
+Tran_Thanh_Phong_20002152_Cau1.c	34.78	Dinh_Kha_Vy_20002183_cau3.c	8.51	6
+Tran_Thanh_Phong_20002152_Cau1.c	39.13	Le_Sy_Van_20002178_Cau_3.c	18.00	7
+Tran_Thanh_Phong_20002152_Cau1.c	47.83	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	10.28	8
+Tran_Thanh_Phong_20002152_Cau1.c	43.48	Truong_Tuan_Anh_20002107_Cau_3.c	21.28	9
+Tran_Thanh_Phong_20002152_Cau1.c	52.17	nguyenthuha20002121cau-2.c	16.22	11
+Tran_Thanh_Phong_20002152_Cau1.c	26.09	Dao_Anh_Duong_20002112_cau2.c	5.94	6
+Tran_Thanh_Phong_20002152_Cau1.c	43.48	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+Tran_Thanh_Phong_20002152_Cau1.c	34.78	Do Phuong Nam-20002145-Cau1.c	33.33	7
+Tran_Thanh_Phong_20002152_Cau1.c	56.52	Nguyen_Trong_Son_20002160_Cau_2.c	16.25	10
+Tran_Thanh_Phong_20002152_Cau1.c	65.22	Pham_Hoang_AN_20002102_Cau_3.c	27.27	11
+Tran_Thanh_Phong_20002152_Cau1.c	26.09	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Tran_Thanh_Phong_20002152_Cau1.c	39.13	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	7
+Tran_Thanh_Phong_20002152_Cau1.c	26.09	Le_Hong_Thach_20002162_Cau_2.c	5.83	5
+Tran_Thanh_Phong_20002152_Cau1.c	56.52	Luu_The_Trung_20002170_cau_3.c	8.84	11
+Tran_Thanh_Phong_20002152_Cau1.c	52.17	Nguyen_Nhat_Tung_20002177_Cau1.c	17.39	9
+Tran_Thanh_Phong_20002152_Cau1.c	26.09	Dao_Anh_Duong_20002112_cau3.c	3.70	6
+Tran_Thanh_Phong_20002152_Cau1.c	52.17	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	7
+Tran_Thanh_Phong_20002152_Cau1.c	47.83	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	8
+Tran_Thanh_Phong_20002152_Cau1.c	52.17	luyen_thi_quyen_20002158_cau_1.c	57.14	10
+Tran_Thanh_Phong_20002152_Cau1.c	34.78	Dinh_Kha_Vy_20002183_cau2.c	8.51	6
+TRAN_BINH_HUONG_20002137_CAU 2.c	9.65	Le_Hong_Thach_20002162_Cau_1.c	22.00	6
+TRAN_BINH_HUONG_20002137_CAU 2.c	34.21	Dam_Van_Vu_20002180_Cau_2.c	33.05	11
+TRAN_BINH_HUONG_20002137_CAU 2.c	16.67	Dao_Anh_Duong_20002112_cau_1.c	34.55	10
+TRAN_BINH_HUONG_20002137_CAU 2.c	21.05	Le_Hong_Thach_20002162_Cau_3.c	17.52	22
+TRAN_BINH_HUONG_20002137_CAU 2.c	4.39	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	5
+TRAN_BINH_HUONG_20002137_CAU 2.c	6.14	Le_Sy_Van_20002178_Cau_1.c	17.50	3
+TRAN_BINH_HUONG_20002137_CAU 2.c	7.89	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	4
+TRAN_BINH_HUONG_20002137_CAU 2.c	21.93	Dinh_Kha_Vy_20002183_cau3.c	26.60	18
+TRAN_BINH_HUONG_20002137_CAU 2.c	14.04	Le_Sy_Van_20002178_Cau_3.c	32.00	10
+TRAN_BINH_HUONG_20002137_CAU 2.c	32.46	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	34.58	16
+TRAN_BINH_HUONG_20002137_CAU 2.c	9.65	Truong_Tuan_Anh_20002107_Cau_3.c	23.40	8
+TRAN_BINH_HUONG_20002137_CAU 2.c	28.07	nguyenthuha20002121cau-2.c	43.24	23
+TRAN_BINH_HUONG_20002137_CAU 2.c	32.46	Dao_Anh_Duong_20002112_cau2.c	36.63	14
+TRAN_BINH_HUONG_20002137_CAU 2.c	8.77	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	6
+TRAN_BINH_HUONG_20002137_CAU 2.c	3.51	Do Phuong Nam-20002145-Cau1.c	16.67	4
+TRAN_BINH_HUONG_20002137_CAU 2.c	25.44	Nguyen_Trong_Son_20002160_Cau_2.c	36.25	16
+TRAN_BINH_HUONG_20002137_CAU 2.c	21.93	Pham_Hoang_AN_20002102_Cau_3.c	45.45	15
+TRAN_BINH_HUONG_20002137_CAU 2.c	3.51	tran_minh_hoang_msv20002127_cau_3.c	23.53	4
+TRAN_BINH_HUONG_20002137_CAU 2.c	7.02	TRAN_BINH_HUONG_20002137_CAU 3.c	28.57	6
+TRAN_BINH_HUONG_20002137_CAU 2.c	24.56	Le_Hong_Thach_20002162_Cau_2.c	27.18	13
+TRAN_BINH_HUONG_20002137_CAU 2.c	15.79	Luu_The_Trung_20002170_cau_3.c	12.24	13
+TRAN_BINH_HUONG_20002137_CAU 2.c	15.79	Nguyen_Nhat_Tung_20002177_Cau1.c	26.09	8
+TRAN_BINH_HUONG_20002137_CAU 2.c	12.28	Dao_Anh_Duong_20002112_cau3.c	8.64	10
+TRAN_BINH_HUONG_20002137_CAU 2.c	8.77	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	6
+TRAN_BINH_HUONG_20002137_CAU 2.c	7.89	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	4
+TRAN_BINH_HUONG_20002137_CAU 2.c	6.14	luyen_thi_quyen_20002158_cau_1.c	33.33	8
+TRAN_BINH_HUONG_20002137_CAU 2.c	21.93	Dinh_Kha_Vy_20002183_cau2.c	26.60	17
+Le_Hong_Thach_20002162_Cau_1.c	22.00	Dam_Van_Vu_20002180_Cau_2.c	9.32	11
+Le_Hong_Thach_20002162_Cau_1.c	32.00	Dao_Anh_Duong_20002112_cau_1.c	29.09	10
+Le_Hong_Thach_20002162_Cau_1.c	24.00	Le_Hong_Thach_20002162_Cau_3.c	8.76	9
+Le_Hong_Thach_20002162_Cau_1.c	22.00	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	42.31	9
+Le_Hong_Thach_20002162_Cau_1.c	20.00	Le_Sy_Van_20002178_Cau_1.c	25.00	6
+Le_Hong_Thach_20002162_Cau_1.c	18.00	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	5
+Le_Hong_Thach_20002162_Cau_1.c	22.00	Dinh_Kha_Vy_20002183_cau3.c	11.70	9
+Le_Hong_Thach_20002162_Cau_1.c	18.00	Le_Sy_Van_20002178_Cau_3.c	18.00	7
+Le_Hong_Thach_20002162_Cau_1.c	24.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	11.21	7
+Le_Hong_Thach_20002162_Cau_1.c	36.00	Truong_Tuan_Anh_20002107_Cau_3.c	38.30	11
+Le_Hong_Thach_20002162_Cau_1.c	18.00	nguyenthuha20002121cau-2.c	12.16	9
+Le_Hong_Thach_20002162_Cau_1.c	18.00	Dao_Anh_Duong_20002112_cau2.c	8.91	9
+Le_Hong_Thach_20002162_Cau_1.c	38.00	Nguyen_Thanh_Long_20002142_Cau_1.c	20.21	8
+Le_Hong_Thach_20002162_Cau_1.c	14.00	Do Phuong Nam-20002145-Cau1.c	29.17	8
+Le_Hong_Thach_20002162_Cau_1.c	24.00	Nguyen_Trong_Son_20002160_Cau_2.c	15.00	9
+Le_Hong_Thach_20002162_Cau_1.c	34.00	Pham_Hoang_AN_20002102_Cau_3.c	30.91	12
+Le_Hong_Thach_20002162_Cau_1.c	10.00	tran_minh_hoang_msv20002127_cau_3.c	29.41	5
+Le_Hong_Thach_20002162_Cau_1.c	12.00	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	6
+Le_Hong_Thach_20002162_Cau_1.c	8.00	Le_Hong_Thach_20002162_Cau_2.c	3.88	2
+Le_Hong_Thach_20002162_Cau_1.c	24.00	Luu_The_Trung_20002170_cau_3.c	8.16	9
+Le_Hong_Thach_20002162_Cau_1.c	28.00	Nguyen_Nhat_Tung_20002177_Cau1.c	20.29	9
+Le_Hong_Thach_20002162_Cau_1.c	24.00	Dao_Anh_Duong_20002112_cau3.c	7.41	14
+Le_Hong_Thach_20002162_Cau_1.c	30.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	34.09	9
+Le_Hong_Thach_20002162_Cau_1.c	22.00	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	6
+Le_Hong_Thach_20002162_Cau_1.c	10.00	luyen_thi_quyen_20002158_cau_1.c	23.81	6
+Le_Hong_Thach_20002162_Cau_1.c	22.00	Dinh_Kha_Vy_20002183_cau2.c	11.70	9
+Dam_Van_Vu_20002180_Cau_2.c	9.32	Dao_Anh_Duong_20002112_cau_1.c	20.00	6
+Dam_Van_Vu_20002180_Cau_2.c	12.71	Le_Hong_Thach_20002162_Cau_3.c	10.95	10
+Dam_Van_Vu_20002180_Cau_2.c	4.24	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	6
+Dam_Van_Vu_20002180_Cau_2.c	5.08	Le_Sy_Van_20002178_Cau_1.c	15.00	4
+Dam_Van_Vu_20002180_Cau_2.c	4.24	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	4
+Dam_Van_Vu_20002180_Cau_2.c	19.49	Dinh_Kha_Vy_20002183_cau3.c	24.47	15
+Dam_Van_Vu_20002180_Cau_2.c	8.47	Le_Sy_Van_20002178_Cau_3.c	20.00	8
+Dam_Van_Vu_20002180_Cau_2.c	16.95	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	18.69	11
+Dam_Van_Vu_20002180_Cau_2.c	5.93	Truong_Tuan_Anh_20002107_Cau_3.c	14.89	9
+Dam_Van_Vu_20002180_Cau_2.c	25.42	nguyenthuha20002121cau-2.c	40.54	15
+Dam_Van_Vu_20002180_Cau_2.c	25.42	Dao_Anh_Duong_20002112_cau2.c	29.70	19
+Dam_Van_Vu_20002180_Cau_2.c	9.32	Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	7
+Dam_Van_Vu_20002180_Cau_2.c	4.24	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Dam_Van_Vu_20002180_Cau_2.c	13.56	Nguyen_Trong_Son_20002160_Cau_2.c	20.00	8
+Dam_Van_Vu_20002180_Cau_2.c	11.86	Pham_Hoang_AN_20002102_Cau_3.c	25.45	11
+Dam_Van_Vu_20002180_Cau_2.c	5.93	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+Dam_Van_Vu_20002180_Cau_2.c	6.78	TRAN_BINH_HUONG_20002137_CAU 3.c	28.57	7
+Dam_Van_Vu_20002180_Cau_2.c	46.61	Le_Hong_Thach_20002162_Cau_2.c	53.40	18
+Dam_Van_Vu_20002180_Cau_2.c	11.02	Luu_The_Trung_20002170_cau_3.c	8.84	12
+Dam_Van_Vu_20002180_Cau_2.c	17.80	Nguyen_Nhat_Tung_20002177_Cau1.c	30.43	9
+Dam_Van_Vu_20002180_Cau_2.c	14.41	Dao_Anh_Duong_20002112_cau3.c	10.49	18
+Dam_Van_Vu_20002180_Cau_2.c	7.63	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	8
+Dam_Van_Vu_20002180_Cau_2.c	5.93	Duong_Duc_Thinh_20002166_Cau_1.c	15.56	7
+Dam_Van_Vu_20002180_Cau_2.c	5.08	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+Dam_Van_Vu_20002180_Cau_2.c	19.49	Dinh_Kha_Vy_20002183_cau2.c	24.47	15
+Dao_Anh_Duong_20002112_cau_1.c	23.64	Le_Hong_Thach_20002162_Cau_3.c	9.49	9
+Dao_Anh_Duong_20002112_cau_1.c	16.36	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	34.62	6
+Dao_Anh_Duong_20002112_cau_1.c	20.00	Le_Sy_Van_20002178_Cau_1.c	27.50	7
+Dao_Anh_Duong_20002112_cau_1.c	18.18	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	6
+Dao_Anh_Duong_20002112_cau_1.c	20.00	Dinh_Kha_Vy_20002183_cau3.c	11.70	8
+Dao_Anh_Duong_20002112_cau_1.c	16.36	Le_Sy_Van_20002178_Cau_3.c	18.00	6
+Dao_Anh_Duong_20002112_cau_1.c	21.82	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	11.21	7
+Dao_Anh_Duong_20002112_cau_1.c	23.64	Truong_Tuan_Anh_20002107_Cau_3.c	27.66	9
+Dao_Anh_Duong_20002112_cau_1.c	18.18	nguyenthuha20002121cau-2.c	13.51	8
+Dao_Anh_Duong_20002112_cau_1.c	27.27	Dao_Anh_Duong_20002112_cau2.c	14.85	10
+Dao_Anh_Duong_20002112_cau_1.c	18.18	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	5
+Dao_Anh_Duong_20002112_cau_1.c	10.91	Do Phuong Nam-20002145-Cau1.c	25.00	7
+Dao_Anh_Duong_20002112_cau_1.c	27.27	Nguyen_Trong_Son_20002160_Cau_2.c	18.75	10
+Dao_Anh_Duong_20002112_cau_1.c	29.09	Pham_Hoang_AN_20002102_Cau_3.c	29.09	10
+Dao_Anh_Duong_20002112_cau_1.c	9.09	tran_minh_hoang_msv20002127_cau_3.c	29.41	5
+Dao_Anh_Duong_20002112_cau_1.c	12.73	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	6
+Dao_Anh_Duong_20002112_cau_1.c	9.09	Le_Hong_Thach_20002162_Cau_2.c	4.85	3
+Dao_Anh_Duong_20002112_cau_1.c	23.64	Luu_The_Trung_20002170_cau_3.c	8.84	8
+Dao_Anh_Duong_20002112_cau_1.c	23.64	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	7
+Dao_Anh_Duong_20002112_cau_1.c	16.36	Dao_Anh_Duong_20002112_cau3.c	5.56	9
+Dao_Anh_Duong_20002112_cau_1.c	34.55	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	43.18	9
+Dao_Anh_Duong_20002112_cau_1.c	27.27	Duong_Duc_Thinh_20002166_Cau_1.c	33.33	8
+Dao_Anh_Duong_20002112_cau_1.c	10.91	luyen_thi_quyen_20002158_cau_1.c	28.57	6
+Dao_Anh_Duong_20002112_cau_1.c	20.00	Dinh_Kha_Vy_20002183_cau2.c	11.70	8
+Le_Hong_Thach_20002162_Cau_3.c	4.38	Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	8
+Le_Hong_Thach_20002162_Cau_3.c	6.57	Le_Sy_Van_20002178_Cau_1.c	22.50	6
+Le_Hong_Thach_20002162_Cau_3.c	6.57	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	5
+Le_Hong_Thach_20002162_Cau_3.c	20.44	Dinh_Kha_Vy_20002183_cau3.c	29.79	14
+Le_Hong_Thach_20002162_Cau_3.c	10.95	Le_Sy_Van_20002178_Cau_3.c	30.00	8
+Le_Hong_Thach_20002162_Cau_3.c	12.41	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	15.89	15
+Le_Hong_Thach_20002162_Cau_3.c	8.03	Truong_Tuan_Anh_20002107_Cau_3.c	23.40	11
+Le_Hong_Thach_20002162_Cau_3.c	11.68	nguyenthuha20002121cau-2.c	21.62	21
+Le_Hong_Thach_20002162_Cau_3.c	13.87	Dao_Anh_Duong_20002112_cau2.c	18.81	22
+Le_Hong_Thach_20002162_Cau_3.c	8.03	Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	9
+Le_Hong_Thach_20002162_Cau_3.c	2.92	Do Phuong Nam-20002145-Cau1.c	16.67	6
+Le_Hong_Thach_20002162_Cau_3.c	18.25	Nguyen_Trong_Son_20002160_Cau_2.c	31.25	21
+Le_Hong_Thach_20002162_Cau_3.c	14.60	Pham_Hoang_AN_20002102_Cau_3.c	36.36	14
+Le_Hong_Thach_20002162_Cau_3.c	3.65	tran_minh_hoang_msv20002127_cau_3.c	29.41	7
+Le_Hong_Thach_20002162_Cau_3.c	5.11	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	7
+Le_Hong_Thach_20002162_Cau_3.c	15.33	Le_Hong_Thach_20002162_Cau_2.c	20.39	25
+Le_Hong_Thach_20002162_Cau_3.c	21.17	Luu_The_Trung_20002170_cau_3.c	19.73	21
+Le_Hong_Thach_20002162_Cau_3.c	10.95	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	10
+Le_Hong_Thach_20002162_Cau_3.c	17.52	Dao_Anh_Duong_20002112_cau3.c	14.81	19
+Le_Hong_Thach_20002162_Cau_3.c	8.03	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	25.00	7
+Le_Hong_Thach_20002162_Cau_3.c	6.57	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	5
+Le_Hong_Thach_20002162_Cau_3.c	4.38	luyen_thi_quyen_20002158_cau_1.c	28.57	8
+Le_Hong_Thach_20002162_Cau_3.c	20.44	Dinh_Kha_Vy_20002183_cau2.c	29.79	14
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	Le_Sy_Van_20002178_Cau_1.c	15.00	7
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	5
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	Dinh_Kha_Vy_20002183_cau3.c	6.38	8
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	Le_Sy_Van_20002178_Cau_3.c	8.00	6
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	5.61	6
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	46.15	Truong_Tuan_Anh_20002107_Cau_3.c	25.53	11
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	nguyenthuha20002121cau-2.c	6.76	7
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	Dao_Anh_Duong_20002112_cau2.c	3.96	5
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	Nguyen_Thanh_Long_20002142_Cau_1.c	4.26	5
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	Nguyen_Trong_Son_20002160_Cau_2.c	5.00	5
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	34.62	Pham_Hoang_AN_20002102_Cau_3.c	16.36	9
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	tran_minh_hoang_msv20002127_cau_3.c	35.29	7
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	6
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	7.69	Le_Hong_Thach_20002162_Cau_2.c	1.94	2
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	Luu_The_Trung_20002170_cau_3.c	3.40	7
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	19.23	Nguyen_Nhat_Tung_20002177_Cau1.c	7.25	6
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	Dao_Anh_Duong_20002112_cau3.c	3.70	8
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	26.92	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	15.91	5
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	Duong_Duc_Thinh_20002166_Cau_1.c	13.33	6
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	15.38	luyen_thi_quyen_20002158_cau_1.c	19.05	5
+Nguyen_Thi_Tien_Trang_20000691_cau_3.c	23.08	Dinh_Kha_Vy_20002183_cau2.c	6.38	8
+Le_Sy_Van_20002178_Cau_1.c	22.50	Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	6
+Le_Sy_Van_20002178_Cau_1.c	20.00	Dinh_Kha_Vy_20002183_cau3.c	8.51	6
+Le_Sy_Van_20002178_Cau_1.c	27.50	Le_Sy_Van_20002178_Cau_3.c	22.00	8
+Le_Sy_Van_20002178_Cau_1.c	22.50	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	8.41	6
+Le_Sy_Van_20002178_Cau_1.c	17.50	Truong_Tuan_Anh_20002107_Cau_3.c	14.89	6
+Le_Sy_Van_20002178_Cau_1.c	15.00	nguyenthuha20002121cau-2.c	8.11	5
+Le_Sy_Van_20002178_Cau_1.c	22.50	Dao_Anh_Duong_20002112_cau2.c	8.91	7
+Le_Sy_Van_20002178_Cau_1.c	22.50	Nguyen_Thanh_Long_20002142_Cau_1.c	9.57	6
+Le_Sy_Van_20002178_Cau_1.c	12.50	Do Phuong Nam-20002145-Cau1.c	20.83	6
+Le_Sy_Van_20002178_Cau_1.c	22.50	Nguyen_Trong_Son_20002160_Cau_2.c	11.25	7
+Le_Sy_Van_20002178_Cau_1.c	25.00	Pham_Hoang_AN_20002102_Cau_3.c	18.18	6
+Le_Sy_Van_20002178_Cau_1.c	12.50	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Le_Sy_Van_20002178_Cau_1.c	10.00	TRAN_BINH_HUONG_20002137_CAU 3.c	14.29	5
+Le_Sy_Van_20002178_Cau_1.c	10.00	Le_Hong_Thach_20002162_Cau_2.c	3.88	2
+Le_Sy_Van_20002178_Cau_1.c	22.50	Luu_The_Trung_20002170_cau_3.c	6.12	6
+Le_Sy_Van_20002178_Cau_1.c	22.50	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	6
+Le_Sy_Van_20002178_Cau_1.c	12.50	Dao_Anh_Duong_20002112_cau3.c	3.09	4
+Le_Sy_Van_20002178_Cau_1.c	25.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	6
+Le_Sy_Van_20002178_Cau_1.c	37.50	Duong_Duc_Thinh_20002166_Cau_1.c	33.33	10
+Le_Sy_Van_20002178_Cau_1.c	10.00	luyen_thi_quyen_20002158_cau_1.c	19.05	6
+Le_Sy_Van_20002178_Cau_1.c	20.00	Dinh_Kha_Vy_20002183_cau2.c	8.51	6
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Dinh_Kha_Vy_20002183_cau3.c	9.57	6
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	27.59	Le_Sy_Van_20002178_Cau_3.c	16.00	3
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	9.35	7
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	Truong_Tuan_Anh_20002107_Cau_3.c	10.64	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	nguyenthuha20002121cau-2.c	6.76	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	24.14	Dao_Anh_Duong_20002112_cau2.c	6.93	6
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	34.48	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	7
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	Do Phuong Nam-20002145-Cau1.c	20.83	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Nguyen_Trong_Son_20002160_Cau_2.c	11.25	6
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Pham_Hoang_AN_20002102_Cau_3.c	16.36	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	10.34	tran_minh_hoang_msv20002127_cau_3.c	17.65	4
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	20.69	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	7
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	13.79	Le_Hong_Thach_20002162_Cau_2.c	3.88	2
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Luu_The_Trung_20002170_cau_3.c	6.12	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	6
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	Dao_Anh_Duong_20002112_cau3.c	3.09	4
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	51.72	Duong_Duc_Thinh_20002166_Cau_1.c	33.33	9
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	17.24	luyen_thi_quyen_20002158_cau_1.c	23.81	5
+Nguyen_Thi_Tien_Trang_20000691_cau_2.c	31.03	Dinh_Kha_Vy_20002183_cau2.c	9.57	6
+Dinh_Kha_Vy_20002183_cau3.c	17.02	Le_Sy_Van_20002178_Cau_3.c	32.00	7
+Dinh_Kha_Vy_20002183_cau3.c	26.60	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	23.36	16
+Dinh_Kha_Vy_20002183_cau3.c	10.64	Truong_Tuan_Anh_20002107_Cau_3.c	21.28	11
+Dinh_Kha_Vy_20002183_cau3.c	20.21	nguyenthuha20002121cau-2.c	25.68	16
+Dinh_Kha_Vy_20002183_cau3.c	15.96	Dao_Anh_Duong_20002112_cau2.c	14.85	16
+Dinh_Kha_Vy_20002183_cau3.c	10.64	Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	8
+Dinh_Kha_Vy_20002183_cau3.c	3.19	Do Phuong Nam-20002145-Cau1.c	12.50	5
+Dinh_Kha_Vy_20002183_cau3.c	21.28	Nguyen_Trong_Son_20002160_Cau_2.c	25.00	11
+Dinh_Kha_Vy_20002183_cau3.c	15.96	Pham_Hoang_AN_20002102_Cau_3.c	27.27	15
+Dinh_Kha_Vy_20002183_cau3.c	6.38	tran_minh_hoang_msv20002127_cau_3.c	35.29	8
+Dinh_Kha_Vy_20002183_cau3.c	6.38	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	8
+Dinh_Kha_Vy_20002183_cau3.c	29.79	Le_Hong_Thach_20002162_Cau_2.c	27.18	18
+Dinh_Kha_Vy_20002183_cau3.c	18.09	Luu_The_Trung_20002170_cau_3.c	11.56	11
+Dinh_Kha_Vy_20002183_cau3.c	13.83	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	9
+Dinh_Kha_Vy_20002183_cau3.c	18.09	Dao_Anh_Duong_20002112_cau3.c	10.49	12
+Dinh_Kha_Vy_20002183_cau3.c	12.77	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	8
+Dinh_Kha_Vy_20002183_cau3.c	10.64	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	8
+Dinh_Kha_Vy_20002183_cau3.c	6.38	luyen_thi_quyen_20002158_cau_1.c	28.57	9
+Dinh_Kha_Vy_20002183_cau3.c	100.00	Dinh_Kha_Vy_20002183_cau2.c	100.00	43
+Le_Sy_Van_20002178_Cau_3.c	32.00	Chu_Pham_Dinh_Tu_20002173_Cau_2.c	14.95	7
+Le_Sy_Van_20002178_Cau_3.c	10.00	Truong_Tuan_Anh_20002107_Cau_3.c	10.64	7
+Le_Sy_Van_20002178_Cau_3.c	24.00	nguyenthuha20002121cau-2.c	16.22	11
+Le_Sy_Van_20002178_Cau_3.c	28.00	Dao_Anh_Duong_20002112_cau2.c	13.86	9
+Le_Sy_Van_20002178_Cau_3.c	26.00	Nguyen_Thanh_Long_20002142_Cau_1.c	13.83	6
+Le_Sy_Van_20002178_Cau_3.c	6.00	Do Phuong Nam-20002145-Cau1.c	12.50	5
+Le_Sy_Van_20002178_Cau_3.c	32.00	Nguyen_Trong_Son_20002160_Cau_2.c	20.00	11
+Le_Sy_Van_20002178_Cau_3.c	22.00	Pham_Hoang_AN_20002102_Cau_3.c	20.00	11
+Le_Sy_Van_20002178_Cau_3.c	8.00	tran_minh_hoang_msv20002127_cau_3.c	23.53	6
+Le_Sy_Van_20002178_Cau_3.c	12.00	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	8
+Le_Sy_Van_20002178_Cau_3.c	18.00	Le_Hong_Thach_20002162_Cau_2.c	8.74	5
+Le_Sy_Van_20002178_Cau_3.c	30.00	Luu_The_Trung_20002170_cau_3.c	10.20	9
+Le_Sy_Van_20002178_Cau_3.c	26.00	Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	8
+Le_Sy_Van_20002178_Cau_3.c	16.00	Dao_Anh_Duong_20002112_cau3.c	4.94	6
+Le_Sy_Van_20002178_Cau_3.c	18.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	6
+Le_Sy_Van_20002178_Cau_3.c	20.00	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	8
+Le_Sy_Van_20002178_Cau_3.c	12.00	luyen_thi_quyen_20002158_cau_1.c	28.57	8
+Le_Sy_Van_20002178_Cau_3.c	32.00	Dinh_Kha_Vy_20002183_cau2.c	17.02	7
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	11.21	Truong_Tuan_Anh_20002107_Cau_3.c	25.53	6
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	24.30	nguyenthuha20002121cau-2.c	35.14	11
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	30.84	Dao_Anh_Duong_20002112_cau2.c	32.67	17
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	11.21	Nguyen_Thanh_Long_20002142_Cau_1.c	12.77	9
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	4.67	Do Phuong Nam-20002145-Cau1.c	20.83	5
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	39.25	Nguyen_Trong_Son_20002160_Cau_2.c	52.50	20
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	20.56	Pham_Hoang_AN_20002102_Cau_3.c	40.00	12
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	4.67	tran_minh_hoang_msv20002127_cau_3.c	29.41	5
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	5.61	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	5
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	31.78	Le_Hong_Thach_20002162_Cau_2.c	33.01	10
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	16.82	Luu_The_Trung_20002170_cau_3.c	12.24	13
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	13.08	Nguyen_Nhat_Tung_20002177_Cau1.c	20.29	6
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	15.89	Dao_Anh_Duong_20002112_cau3.c	10.49	15
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	9.35	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	6
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	10.28	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	6
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	5.61	luyen_thi_quyen_20002158_cau_1.c	28.57	5
+Chu_Pham_Dinh_Tu_20002173_Cau_2.c	23.36	Dinh_Kha_Vy_20002183_cau2.c	26.60	16
+Truong_Tuan_Anh_20002107_Cau_3.c	34.04	nguyenthuha20002121cau-2.c	21.62	12
+Truong_Tuan_Anh_20002107_Cau_3.c	27.66	Dao_Anh_Duong_20002112_cau2.c	12.87	7
+Truong_Tuan_Anh_20002107_Cau_3.c	10.64	Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	5
+Truong_Tuan_Anh_20002107_Cau_3.c	12.77	Do Phuong Nam-20002145-Cau1.c	25.00	7
+Truong_Tuan_Anh_20002107_Cau_3.c	21.28	Nguyen_Trong_Son_20002160_Cau_2.c	12.50	10
+Truong_Tuan_Anh_20002107_Cau_3.c	40.43	Pham_Hoang_AN_20002102_Cau_3.c	34.55	14
+Truong_Tuan_Anh_20002107_Cau_3.c	14.89	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+Truong_Tuan_Anh_20002107_Cau_3.c	19.15	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	7
+Truong_Tuan_Anh_20002107_Cau_3.c	10.64	Le_Hong_Thach_20002162_Cau_2.c	4.85	5
+Truong_Tuan_Anh_20002107_Cau_3.c	25.53	Luu_The_Trung_20002170_cau_3.c	8.16	10
+Truong_Tuan_Anh_20002107_Cau_3.c	19.15	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	8
+Truong_Tuan_Anh_20002107_Cau_3.c	25.53	Dao_Anh_Duong_20002112_cau3.c	7.41	10
+Truong_Tuan_Anh_20002107_Cau_3.c	21.28	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	22.73	7
+Truong_Tuan_Anh_20002107_Cau_3.c	17.02	Duong_Duc_Thinh_20002166_Cau_1.c	17.78	7
+Truong_Tuan_Anh_20002107_Cau_3.c	19.15	luyen_thi_quyen_20002158_cau_1.c	42.86	10
+Truong_Tuan_Anh_20002107_Cau_3.c	21.28	Dinh_Kha_Vy_20002183_cau2.c	10.64	11
+nguyenthuha20002121cau-2.c	36.49	Dao_Anh_Duong_20002112_cau2.c	26.73	11
+nguyenthuha20002121cau-2.c	8.11	Nguyen_Thanh_Long_20002142_Cau_1.c	6.38	6
+nguyenthuha20002121cau-2.c	6.76	Do Phuong Nam-20002145-Cau1.c	20.83	6
+nguyenthuha20002121cau-2.c	33.78	Nguyen_Trong_Son_20002160_Cau_2.c	31.25	18
+nguyenthuha20002121cau-2.c	29.73	Pham_Hoang_AN_20002102_Cau_3.c	40.00	15
+nguyenthuha20002121cau-2.c	10.81	tran_minh_hoang_msv20002127_cau_3.c	47.06	8
+nguyenthuha20002121cau-2.c	13.51	TRAN_BINH_HUONG_20002137_CAU 3.c	35.71	8
+nguyenthuha20002121cau-2.c	44.59	Le_Hong_Thach_20002162_Cau_2.c	32.04	21
+nguyenthuha20002121cau-2.c	24.32	Luu_The_Trung_20002170_cau_3.c	12.24	19
+nguyenthuha20002121cau-2.c	22.97	Nguyen_Nhat_Tung_20002177_Cau1.c	24.64	13
+nguyenthuha20002121cau-2.c	20.27	Dao_Anh_Duong_20002112_cau3.c	9.26	14
+nguyenthuha20002121cau-2.c	12.16	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	20.45	7
+nguyenthuha20002121cau-2.c	12.16	Duong_Duc_Thinh_20002166_Cau_1.c	20.00	8
+nguyenthuha20002121cau-2.c	16.22	luyen_thi_quyen_20002158_cau_1.c	57.14	13
+nguyenthuha20002121cau-2.c	25.68	Dinh_Kha_Vy_20002183_cau2.c	20.21	15
+Dao_Anh_Duong_20002112_cau2.c	8.91	Nguyen_Thanh_Long_20002142_Cau_1.c	9.57	13
+Dao_Anh_Duong_20002112_cau2.c	3.96	Do Phuong Nam-20002145-Cau1.c	16.67	6
+Dao_Anh_Duong_20002112_cau2.c	17.82	Nguyen_Trong_Son_20002160_Cau_2.c	22.50	13
+Dao_Anh_Duong_20002112_cau2.c	12.87	Pham_Hoang_AN_20002102_Cau_3.c	23.64	8
+Dao_Anh_Duong_20002112_cau2.c	3.96	tran_minh_hoang_msv20002127_cau_3.c	23.53	5
+Dao_Anh_Duong_20002112_cau2.c	7.92	TRAN_BINH_HUONG_20002137_CAU 3.c	28.57	8
+Dao_Anh_Duong_20002112_cau2.c	16.83	Le_Hong_Thach_20002162_Cau_2.c	16.50	12
+Dao_Anh_Duong_20002112_cau2.c	15.84	Luu_The_Trung_20002170_cau_3.c	10.88	13
+Dao_Anh_Duong_20002112_cau2.c	14.85	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	8
+Dao_Anh_Duong_20002112_cau2.c	18.81	Dao_Anh_Duong_20002112_cau3.c	11.73	22
+Dao_Anh_Duong_20002112_cau2.c	6.93	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	15.91	6
+Dao_Anh_Duong_20002112_cau2.c	7.92	Duong_Duc_Thinh_20002166_Cau_1.c	17.78	7
+Dao_Anh_Duong_20002112_cau2.c	5.94	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+Dao_Anh_Duong_20002112_cau2.c	14.85	Dinh_Kha_Vy_20002183_cau2.c	15.96	16
+Nguyen_Thanh_Long_20002142_Cau_1.c	4.26	Do Phuong Nam-20002145-Cau1.c	16.67	5
+Nguyen_Thanh_Long_20002142_Cau_1.c	12.77	Nguyen_Trong_Son_20002160_Cau_2.c	15.00	7
+Nguyen_Thanh_Long_20002142_Cau_1.c	13.83	Pham_Hoang_AN_20002102_Cau_3.c	23.64	9
+Nguyen_Thanh_Long_20002142_Cau_1.c	4.26	tran_minh_hoang_msv20002127_cau_3.c	23.53	5
+Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	5
+Nguyen_Thanh_Long_20002142_Cau_1.c	4.26	Le_Hong_Thach_20002162_Cau_2.c	3.88	5
+Nguyen_Thanh_Long_20002142_Cau_1.c	18.09	Luu_The_Trung_20002170_cau_3.c	11.56	15
+Nguyen_Thanh_Long_20002142_Cau_1.c	15.96	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	9
+Nguyen_Thanh_Long_20002142_Cau_1.c	9.57	Dao_Anh_Duong_20002112_cau3.c	5.56	8
+Nguyen_Thanh_Long_20002142_Cau_1.c	11.70	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	25.00	9
+Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	6
+Nguyen_Thanh_Long_20002142_Cau_1.c	5.32	luyen_thi_quyen_20002158_cau_1.c	23.81	6
+Nguyen_Thanh_Long_20002142_Cau_1.c	10.64	Dinh_Kha_Vy_20002183_cau2.c	10.64	8
+Do Phuong Nam-20002145-Cau1.c	20.83	Nguyen_Trong_Son_20002160_Cau_2.c	6.25	6
+Do Phuong Nam-20002145-Cau1.c	29.17	Pham_Hoang_AN_20002102_Cau_3.c	12.73	8
+Do Phuong Nam-20002145-Cau1.c	20.83	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Do Phuong Nam-20002145-Cau1.c	20.83	TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	6
+Do Phuong Nam-20002145-Cau1.c	8.33	Le_Hong_Thach_20002162_Cau_2.c	1.94	2
+Do Phuong Nam-20002145-Cau1.c	20.83	Luu_The_Trung_20002170_cau_3.c	3.40	6
+Do Phuong Nam-20002145-Cau1.c	20.83	Nguyen_Nhat_Tung_20002177_Cau1.c	7.25	6
+Do Phuong Nam-20002145-Cau1.c	25.00	Dao_Anh_Duong_20002112_cau3.c	3.70	8
+Do Phuong Nam-20002145-Cau1.c	25.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	13.64	5
+Do Phuong Nam-20002145-Cau1.c	29.17	Duong_Duc_Thinh_20002166_Cau_1.c	15.56	8
+Do Phuong Nam-20002145-Cau1.c	20.83	luyen_thi_quyen_20002158_cau_1.c	23.81	6
+Do Phuong Nam-20002145-Cau1.c	12.50	Dinh_Kha_Vy_20002183_cau2.c	3.19	5
+Nguyen_Trong_Son_20002160_Cau_2.c	22.50	Pham_Hoang_AN_20002102_Cau_3.c	32.73	13
+Nguyen_Trong_Son_20002160_Cau_2.c	6.25	tran_minh_hoang_msv20002127_cau_3.c	29.41	6
+Nguyen_Trong_Son_20002160_Cau_2.c	8.75	TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	7
+Nguyen_Trong_Son_20002160_Cau_2.c	47.50	Le_Hong_Thach_20002162_Cau_2.c	36.89	14
+Nguyen_Trong_Son_20002160_Cau_2.c	25.00	Luu_The_Trung_20002170_cau_3.c	13.61	15
+Nguyen_Trong_Son_20002160_Cau_2.c	20.00	Nguyen_Nhat_Tung_20002177_Cau1.c	23.19	11
+Nguyen_Trong_Son_20002160_Cau_2.c	18.75	Dao_Anh_Duong_20002112_cau3.c	9.26	14
+Nguyen_Trong_Son_20002160_Cau_2.c	15.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	7
+Nguyen_Trong_Son_20002160_Cau_2.c	13.75	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	8
+Nguyen_Trong_Son_20002160_Cau_2.c	10.00	luyen_thi_quyen_20002158_cau_1.c	38.10	11
+Nguyen_Trong_Son_20002160_Cau_2.c	25.00	Dinh_Kha_Vy_20002183_cau2.c	21.28	11
+Pham_Hoang_AN_20002102_Cau_3.c	12.73	tran_minh_hoang_msv20002127_cau_3.c	41.18	7
+Pham_Hoang_AN_20002102_Cau_3.c	16.36	TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	7
+Pham_Hoang_AN_20002102_Cau_3.c	25.45	Le_Hong_Thach_20002162_Cau_2.c	13.59	10
+Pham_Hoang_AN_20002102_Cau_3.c	36.36	Luu_The_Trung_20002170_cau_3.c	13.61	13
+Pham_Hoang_AN_20002102_Cau_3.c	27.27	Nguyen_Nhat_Tung_20002177_Cau1.c	21.74	9
+Pham_Hoang_AN_20002102_Cau_3.c	27.27	Dao_Anh_Duong_20002112_cau3.c	9.26	10
+Pham_Hoang_AN_20002102_Cau_3.c	23.64	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	29.55	7
+Pham_Hoang_AN_20002102_Cau_3.c	27.27	Duong_Duc_Thinh_20002166_Cau_1.c	33.33	11
+Pham_Hoang_AN_20002102_Cau_3.c	18.18	luyen_thi_quyen_20002158_cau_1.c	47.62	9
+Pham_Hoang_AN_20002102_Cau_3.c	27.27	Dinh_Kha_Vy_20002183_cau2.c	15.96	14
+tran_minh_hoang_msv20002127_cau_3.c	35.29	TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	7
+tran_minh_hoang_msv20002127_cau_3.c	29.41	Le_Hong_Thach_20002162_Cau_2.c	4.85	6
+tran_minh_hoang_msv20002127_cau_3.c	41.18	Luu_The_Trung_20002170_cau_3.c	4.76	8
+tran_minh_hoang_msv20002127_cau_3.c	41.18	Nguyen_Nhat_Tung_20002177_Cau1.c	10.14	7
+tran_minh_hoang_msv20002127_cau_3.c	23.53	Dao_Anh_Duong_20002112_cau3.c	2.47	5
+tran_minh_hoang_msv20002127_cau_3.c	35.29	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	13.64	5
+tran_minh_hoang_msv20002127_cau_3.c	29.41	Duong_Duc_Thinh_20002166_Cau_1.c	11.11	6
+tran_minh_hoang_msv20002127_cau_3.c	35.29	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+tran_minh_hoang_msv20002127_cau_3.c	35.29	Dinh_Kha_Vy_20002183_cau2.c	6.38	8
+TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	Le_Hong_Thach_20002162_Cau_2.c	4.85	5
+TRAN_BINH_HUONG_20002137_CAU 3.c	35.71	Luu_The_Trung_20002170_cau_3.c	6.80	7
+TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	7
+TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	Dao_Anh_Duong_20002112_cau3.c	3.70	7
+TRAN_BINH_HUONG_20002137_CAU 3.c	25.00	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	15.91	6
+TRAN_BINH_HUONG_20002137_CAU 3.c	17.86	Duong_Duc_Thinh_20002166_Cau_1.c	11.11	6
+TRAN_BINH_HUONG_20002137_CAU 3.c	32.14	luyen_thi_quyen_20002158_cau_1.c	42.86	8
+TRAN_BINH_HUONG_20002137_CAU 3.c	21.43	Dinh_Kha_Vy_20002183_cau2.c	6.38	8
+Le_Hong_Thach_20002162_Cau_2.c	13.59	Luu_The_Trung_20002170_cau_3.c	9.52	15
+Le_Hong_Thach_20002162_Cau_2.c	8.74	Nguyen_Nhat_Tung_20002177_Cau1.c	13.04	4
+Le_Hong_Thach_20002162_Cau_2.c	11.65	Dao_Anh_Duong_20002112_cau3.c	7.41	13
+Le_Hong_Thach_20002162_Cau_2.c	7.77	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	18.18	7
+Le_Hong_Thach_20002162_Cau_2.c	4.85	Duong_Duc_Thinh_20002166_Cau_1.c	11.11	6
+Le_Hong_Thach_20002162_Cau_2.c	5.83	luyen_thi_quyen_20002158_cau_1.c	28.57	7
+Le_Hong_Thach_20002162_Cau_2.c	27.18	Dinh_Kha_Vy_20002183_cau2.c	29.79	17
+Luu_The_Trung_20002170_cau_3.c	13.61	Nguyen_Nhat_Tung_20002177_Cau1.c	28.99	12
+Luu_The_Trung_20002170_cau_3.c	42.86	Dao_Anh_Duong_20002112_cau3.c	38.89	23
+Luu_The_Trung_20002170_cau_3.c	8.16	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	7
+Luu_The_Trung_20002170_cau_3.c	7.48	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	7
+Luu_The_Trung_20002170_cau_3.c	5.44	luyen_thi_quyen_20002158_cau_1.c	38.10	9
+Luu_The_Trung_20002170_cau_3.c	29.25	Dinh_Kha_Vy_20002183_cau2.c	45.74	13
+Nguyen_Nhat_Tung_20002177_Cau1.c	15.94	Dao_Anh_Duong_20002112_cau3.c	6.79	10
+Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	29.55	9
+Nguyen_Nhat_Tung_20002177_Cau1.c	14.49	Duong_Duc_Thinh_20002166_Cau_1.c	22.22	6
+Nguyen_Nhat_Tung_20002177_Cau1.c	11.59	luyen_thi_quyen_20002158_cau_1.c	38.10	8
+Nguyen_Nhat_Tung_20002177_Cau1.c	18.84	Dinh_Kha_Vy_20002183_cau2.c	13.83	9
+Dao_Anh_Duong_20002112_cau3.c	4.32	Chu_Pham_Dinh_Tu_20002173_Cau_1.c	15.91	6
+Dao_Anh_Duong_20002112_cau3.c	3.70	Duong_Duc_Thinh_20002166_Cau_1.c	13.33	5
+Dao_Anh_Duong_20002112_cau3.c	3.09	luyen_thi_quyen_20002158_cau_1.c	23.81	7
+Dao_Anh_Duong_20002112_cau3.c	10.49	Dinh_Kha_Vy_20002183_cau2.c	18.09	12
+Chu_Pham_Dinh_Tu_20002173_Cau_1.c	25.00	Duong_Duc_Thinh_20002166_Cau_1.c	24.44	6
+Chu_Pham_Dinh_Tu_20002173_Cau_1.c	13.64	luyen_thi_quyen_20002158_cau_1.c	28.57	6
+Chu_Pham_Dinh_Tu_20002173_Cau_1.c	27.27	Dinh_Kha_Vy_20002183_cau2.c	12.77	8
+Duong_Duc_Thinh_20002166_Cau_1.c	11.11	luyen_thi_quyen_20002158_cau_1.c	23.81	6
+Duong_Duc_Thinh_20002166_Cau_1.c	22.22	Dinh_Kha_Vy_20002183_cau2.c	10.64	8
+luyen_thi_quyen_20002158_cau_1.c	28.57	Dinh_Kha_Vy_20002183_cau2.c	6.38	9

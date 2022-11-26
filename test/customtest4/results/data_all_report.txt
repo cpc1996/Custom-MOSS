@@ -1,0 +1,78 @@
+Desiree		Pham_Hoang_AN_20002102_Cau_3.c
+Dustin		Tran_Thanh_Phong_20002152_Cau3c.c
+Grace		Pham_Hoang_AN_20002102_Cau_1.c
+Gregory		Tran_Thanh_Phong_20002152_Cau2.c
+Jonathan		luyen_thi_quyen_20002158_cau_2.c
+Julie		Nguyen_Thi_Tien_Trang_20000691_cau_1.c
+Kristen		Pham_Hoang_An_20002102_Cau_2.c
+Kristopher		luyen_thi_quyen_20002158_cau_1.c
+Michael		Chu_Pham_Dinh_Tu_20002173_Cau_1.c
+Miranda		Dinh_Kha_Vy_20002183_cau2.c
+Patrick		TRAN THIEN CUONG_20002109_BAI3.c
+Richard		Le_Hong_Thach_20002162_Cau_3.c
+Sheri		Dinh_Kha_Vy_20002183_cau1.c
+Steven		Dinh_Kha_Vy_20002183_cau3.c
+Theresa		Tran_Thanh_Phong_20002152_Cau1.c
+Timothy		Dao_Anh_Duong_20002112_cau3.c
+
+
+Pair: Dustin and Gregory
+data: url not found
+similarity score: 64.0
+number of common lines: 4
+
+
+Pair: Jonathan and Steven
+data: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Jonathan and Miranda
+data: url not found
+similarity score: 100.0
+number of common lines: 43
+
+
+Pair: Grace and Michael
+data: url not found
+similarity score: 79.55
+number of common lines: 13
+
+
+Pair: Kristen and Richard
+data: url not found
+similarity score: 62.77
+number of common lines: 41
+
+
+Pair: Sheri and Kristopher
+data: url not found
+similarity score: 85.71
+number of common lines: 18
+
+
+Pair: Patrick and Timothy
+data: url not found
+similarity score: 64.2
+number of common lines: 27
+
+
+Pair: Julie and Theresa
+data: url not found
+similarity score: 60.87
+number of common lines: 11
+
+
+Pair: Theresa and Desiree
+data: url not found
+similarity score: 65.22
+number of common lines: 11
+
+
+Pair: Steven and Miranda
+data: url not found
+similarity score: 100.0
+number of common lines: 43
+
+

@@ -1,0 +1,23 @@
+Anna		Hồ Hải Phong 20002149
+Anthony		Khuất Đăng Sơn - 20002159
+Michele		trần quốc đức 20002117
+
+
+Pair: Anna and Michele
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 27.63
+number of common lines: 19
+
+
+Pair: Anna and Anthony
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 27.18
+number of common lines: 14
+
+
+Pair: Michele and Anthony
+the data of customtest 6 created 26 Dec 2021: url not found
+similarity score: 29.76
+number of common lines: 10
+
+
